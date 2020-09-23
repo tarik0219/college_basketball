@@ -11,6 +11,18 @@ from selenium.webdriver.support import expected_conditions as EC # available sin
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import csv
+from datetime import datetime
+from datetime import timedelta
+
+
+def get_today():
+    today = datetime.today()
+    year = today.year
+    month = today.month
+    day = today.day
+    return year,month,day
+
+year,month,day = get_today()
 
 options = webdriver.ChromeOptions() 
 #options.add_argument(r'''user-data-dir=C:\Users\Tarik's PC\AppData\Local\Google\Chrome\User Data''')
@@ -24,7 +36,10 @@ options.add_argument('--headless')
 options.add_argument('--disable-gpu')  # Last I checked this was necessa
 driver = webdriver.Chrome(chrome_options= options)
 
-with open('kenpom.csv', 'w', newline='') as file:
+
+name = str(year)+"_"+str(month)+"_"+str(day)+".csv"
+
+with open(name, 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["team","off","def","tempo","luck"])
     #writer.writerow(["SN", "Name", "Contribution"])
