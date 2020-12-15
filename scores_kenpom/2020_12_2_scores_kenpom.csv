@@ -1,0 +1,46 @@
+home,away,home_score,away_score,home_off,home_def,home_tempo,home_luck,away_off,away_def,away_tempo,away_luck
+Gonzaga,West Virginia,87,82,117.2,87.9,75.2,0.022,110.1,87.1,71.8,0
+Baylor,Illinois,82,69,115,86.9,70.8,0,109.6,89.6,72.6,0.112
+North Carolina,Texas,67,69,108.5,87.5,73.4,0.076,109.4,85.4,70.1,0.108
+Missouri,Oregon,83,75,106.2,91.2,71.1,0,109.6,89.6,69.9,0
+Florida St.,North Florida,86,58,108.5,88.5,73.6,0,96.7,107.5,71.8,-0.063
+Ohio St.,Morehead St.,77,44,109.3,88.2,70.5,0.045,93.3,105,70.2,0.08
+Northwestern,Arkansas Pine Bluff,92,49,104.3,92.5,70.2,0,83.5,105.3,71.1,-0.004
+Memphis,Arkansas St.,83,54,104.2,88.5,74.4,-0.163,96.3,104.5,70.5,0
+Florida,Army,76,69,108.8,89.3,69.9,0,93.2,99.2,73.2,0.161
+Michigan,Ball St.,84,65,110.3,91,72.4,0.001,100.4,97.3,71.1,0
+Santa Clara,Cal St. Bakersfield,53,47,98.8,93.1,72.3,0.062,96.1,99.1,69.7,0
+UNLV,Davidson,73,77,101.4,100.3,71.5,-0.023,108.4,98.1,67.5,-0.288
+USC Upstate,Eastern Kentucky,78,95,96.1,105.3,73.7,0,96.1,99.1,77.4,-0.132
+Tennessee Martin,Evansville,93,87,94.7,110.5,72.4,0,90.4,103.2,67.3,-0.202
+South Florida,Florida Gulf Coast,76,57,100,94,69.4,0,93.9,101.2,70.4,0
+Fairfield,Hartford,61,66,90.6,99.6,69.6,0,93.5,104.7,69.7,-0.074
+SMU,Houston Baptist,102,75,108.8,93.4,71.6,0,92.3,111.9,75.5,0
+Wyoming,Incarnate Word,94,83,97.1,99.7,70.3,-0.234,88.6,109,70.6,0
+Stanford,Indiana,63,79,105,86.1,72.7,-0.161,107,88,70.9,0.037
+UAB,Kennesaw St.,73,48,102.8,96.4,73.8,0.015,85.5,107.5,72,0
+Cincinnati,Lipscomb,67,55,104.9,90.6,71.8,0,100.1,102.1,71,-0.037
+New Orleans,Louisiana,63,66,93.2,106,73.3,0,100.7,101.6,76.4,0
+Pacific,Montana St.,74,70,99.5,96.4,68.6,0.09,98,101.2,72.1,0
+Middle Tennessee,Murray St.,78,61,92.4,96.4,74.1,-0.207,103.3,95.3,72.1,0
+Duquesne,UNC Greensboro,81,68,103.7,95.3,71.6,0,102.8,94.8,72.1,0.002
+Dixie St.,North Dakota,74,73,93,105.8,72.3,0,96.3,104.3,72,0
+Norfolk St.,Old Dominion,66,80,93.2,98.4,70.6,0.088,101.9,96.2,70.4,0.108
+Wichita St.,Oral Roberts,85,80,101.8,94.2,72.7,0,100.8,105.1,73.3,0
+Washington St.,Oregon St.,59,55,97.8,95.9,72.4,0,103.4,97.4,70.3,0
+Jacksonville,Presbyterian,78,65,91.1,101.3,70.5,0,90.5,109,71.1,0
+Alabama,Providence,88,71,106.6,91.9,77.6,0.044,105.6,91.8,70.3,0.087
+Drexel,Quinnipiac,66,48,101.6,102.4,71.6,0,95.8,103.3,72.1,0
+Nevada,San Francisco,60,85,101.3,94.7,72.4,0.053,103.5,95.3,71.4,0.063
+Rhode Island,Seton Hall,76,63,104.3,94.8,74.5,-0.155,107.2,91.4,72.6,-0.241
+Clemson,South Carolina St.,75,38,106.3,87.7,70.8,0,86.1,112,75.1,0
+Iowa St.,South Dakota St.,68,71,107.8,95.8,72.5,0,107.5,98.3,71.7,-0.188
+Cal Baptist,Southeastern Louisiana,80,81,97.3,106.6,71.7,0,90.1,105,74.3,-0.141
+Southeast Missouri St.,Southern Illinois,79,87,91.2,107,72.8,0,96.9,99.7,69.2,0
+Northern Illinois,SIU Edwardsville,53,73,94.9,100.7,68.9,0,90.4,107.3,72.6,-0.058
+BYU,St. John's,74,68,103.7,95.9,73.3,0.08,104.6,93.6,77.6,0.194
+Texas A&M,Tarleton St.,73,66,102.9,90,70.1,0,91.3,107.4,71.2,0
+Xavier,Tennessee Tech,79,48,105.5,93.2,71.6,0.276,89.5,101.8,72.9,-0.11
+UT Rio Grande Valley,Texas A&M Corpus Chris,62,59,94.7,99.7,73.8,0.087,92.6,105.3,72.3,-0.062
+Arkansas,UT Arlington,72,60,106.8,91.1,74.3,0.129,98.7,98.3,74.1,-0.112
+Penn St.,VCU,72,69,106.3,92.5,73.8,0,101.8,90.3,73,0.028

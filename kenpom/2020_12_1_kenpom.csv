@@ -1,0 +1,358 @@
+team,off,def,tempo,luck
+Gonzaga,117.4,88.0,75.2,0.022
+Baylor,115.2,87.0,70.8,0.0
+Duke,112.2,87.6,74.1,0.0
+Villanova,113.7,89.4,68.1,0.028
+Kansas,110.9,87.1,74.4,-0.082
+West Virginia,110.3,87.2,71.8,0.0
+Texas Tech,108.7,85.8,70.9,-0.095
+Wisconsin,109.6,86.9,69.2,0.095
+Texas,109.6,87.6,70.2,0.209
+Houston,110.7,88.8,69.6,0.122
+Iowa,115.8,94.2,73.6,0.0
+Michigan St.,111.4,89.9,73.0,0.003
+Ohio St.,109.5,88.4,70.5,0.045
+Indiana,109.2,88.2,70.9,0.0
+North Carolina,108.9,88.1,74.0,0.0
+Virginia,106.2,85.5,64.3,-0.248
+Creighton,111.9,91.4,71.9,0.0
+Florida St.,108.7,88.7,73.6,0.0
+Tennessee,108.9,88.9,70.3,0.0
+Oregon,109.8,89.9,69.9,0.0
+Kentucky,108.4,88.5,72.2,-0.15
+Illinois,109.7,89.9,72.5,0.112
+Virginia Tech,109.7,90.0,69.2,0.007
+Florida,109.0,89.5,69.9,0.0
+Michigan,110.5,91.2,72.2,0.001
+Stanford,105.6,86.5,73.4,0.0
+Louisville,109.6,90.7,69.5,0.129
+Marquette,108.3,89.6,73.8,0.001
+Clemson,106.5,88.0,70.6,0.0
+Arizona St.,111.7,93.3,76.1,0.017
+Rutgers,106.2,87.8,72.8,0.0
+Purdue,109.8,91.6,71.5,-0.036
+Oklahoma,108.3,90.3,73.5,0.0
+San Diego St.,107.8,90.0,69.3,0.0
+Oklahoma St.,107.6,90.1,72.0,0.082
+Minnesota,107.4,90.0,74.3,0.098
+Maryland,109.7,92.6,69.6,0.001
+LSU,114.2,97.2,71.2,-0.094
+UCLA,109.4,92.6,68.0,0.123
+Arizona,105.9,89.4,72.6,0.0
+N.C. State,108.5,92.0,72.5,0.0
+Mississippi,105.9,89.4,71.5,0.0
+Saint Louis,107.2,90.8,70.4,0.183
+Miami FL,107.4,91.1,72.7,0.0
+Syracuse,107.5,91.5,73.8,0.0
+Colorado,107.2,91.4,71.4,0.0
+Memphis,104.4,88.7,74.2,-0.163
+Seton Hall,107.3,91.6,72.7,-0.241
+Arkansas,107.0,91.3,74.3,0.129
+Richmond,107.6,92.0,73.9,0.001
+Connecticut,108.4,92.8,71.0,0.013
+Loyola Chicago,105.7,90.2,69.5,0.0
+SMU,109.0,93.7,71.6,0.0
+Dayton,109.4,94.2,70.9,0.0
+Missouri,106.4,91.4,71.1,0.0
+Utah,107.6,92.6,70.7,0.0
+TCU,103.1,88.5,67.8,0.164
+Alabama,106.3,91.7,78.0,-0.05
+USC,106.7,92.4,71.6,0.015
+Cincinnati,105.1,90.8,71.8,0.0
+Providence,105.8,91.7,71.5,-0.08
+Penn St.,106.5,92.8,74.0,0.0
+Butler,105.9,92.6,68.4,0.0
+Texas A&M,103.1,90.2,70.1,0.0
+Xavier,105.7,93.3,71.5,0.276
+Iowa St.,108.1,96.0,72.6,0.0
+South Carolina,104.4,92.4,74.6,0.074
+Western Kentucky,108.2,96.4,71.3,0.075
+Northwestern,104.6,92.7,70.2,0.0
+VCU,102.0,90.5,73.0,0.028
+Saint Mary's,103.2,92.1,68.8,0.178
+Furman,105.4,94.2,73.3,0.0
+St. Bonaventure,106.8,95.7,70.5,0.0
+St. John's,104.8,93.8,77.8,0.194
+Auburn,104.4,93.7,73.4,0.074
+Notre Dame,105.9,95.7,72.2,0.0
+Davidson,108.4,98.3,68.6,-0.168
+Boston College,104.4,94.7,72.9,-0.018
+BYU,105.3,95.6,73.6,0.0
+Washington,102.6,93.0,71.7,0.0
+DePaul,104.1,94.6,73.4,0.0
+Rhode Island,104.5,95.0,74.5,-0.155
+Mississippi St.,105.0,95.8,68.6,-0.127
+South Dakota St.,107.7,98.5,71.5,-0.188
+Northern Iowa,106.0,96.9,72.1,-0.075
+UNC Greensboro,104.4,95.4,71.2,0.0
+Utah St.,103.6,94.6,72.3,0.04
+Belmont,104.2,95.3,74.4,0.0
+Georgetown,102.6,94.0,75.2,0.0
+Georgia Tech,103.8,95.3,72.5,-0.148
+Vermont,103.3,94.9,70.2,0.0
+Duquesne,103.9,95.5,71.6,0.0
+San Francisco,103.7,95.6,71.4,0.063
+Murray St.,103.6,95.5,72.1,0.0
+Boise St.,103.8,96.2,72.3,-0.137
+Wichita St.,102.1,94.5,72.7,0.0
+Pittsburgh,102.4,94.9,71.1,0.003
+Marshall,103.2,95.9,77.7,0.0
+Georgia,104.2,96.8,73.7,0.0
+Tulsa,99.9,92.7,70.7,-0.008
+Pepperdine,105.5,98.3,73.6,-0.102
+Yale,105.1,98.2,71.7,0.0
+Nevada,101.5,94.8,72.5,0.053
+Nebraska,102.0,95.4,75.1,-0.148
+New Mexico St.,102.8,96.3,69.2,0.0
+UAB,103.1,96.7,73.8,0.015
+UCF,99.2,92.9,71.9,0.0
+North Texas,101.9,95.8,69.5,-0.14
+South Florida,100.3,94.2,69.4,-0.0
+Oregon St.,103.6,97.6,70.3,0.0
+Louisiana Tech,104.2,98.4,70.9,0.08
+Santa Clara,99.0,93.2,72.3,0.062
+Old Dominion,102.1,96.4,70.5,0.108
+Wright St.,101.6,96.3,74.0,0.0
+Toledo,103.5,98.2,70.5,-0.334
+George Mason,102.7,97.7,69.7,-0.05
+Georgia St.,103.5,98.6,75.4,0.209
+Bradley,99.3,94.4,68.7,-0.068
+East Carolina,100.7,96.1,72.2,0.0
+Colorado St.,105.8,101.2,72.2,0.0
+Ohio,102.1,97.4,72.7,-0.134
+California,99.4,95.2,69.4,-0.046
+Wake Forest,102.1,98.0,71.6,0.138
+Massachusetts,102.9,99.0,71.7,0.0
+Liberty,101.7,97.9,66.2,-0.082
+Vanderbilt,100.3,96.5,73.6,0.0
+Abilene Christian,98.5,95.0,72.3,0.042
+Buffalo,101.7,98.5,75.2,-0.115
+UC Santa Barbara,100.7,97.5,69.5,0.0
+Little Rock,102.0,98.9,72.4,0.047
+Ball St.,100.6,97.5,71.1,0.0
+Pacific,99.5,96.6,68.5,0.09
+Winthrop,102.3,99.7,75.1,0.0
+Drake,102.0,99.4,69.9,0.001
+Indiana St.,102.1,99.8,71.5,0.0
+Siena,100.7,98.6,70.9,0.0
+Loyola Marymount,102.3,100.2,71.0,0.067
+Washington St.,98.0,96.1,72.3,0.0
+Princeton,102.0,100.1,70.4,0.0
+Wofford,101.5,99.7,70.4,0.0
+Kansas St.,98.4,96.5,68.1,0.092
+Eastern Washington,101.4,99.7,74.3,0.0
+Akron,101.0,99.3,72.4,0.0
+Colgate,102.9,101.4,71.5,0.0
+Texas St.,98.7,97.2,69.8,0.063
+Austin Peay,102.9,101.5,72.8,0.186
+Hofstra,100.2,98.9,71.8,-0.021
+UNLV,101.3,100.0,71.9,-0.025
+Temple,98.0,96.7,73.4,0.0
+UC Irvine,98.6,97.4,70.9,-0.0
+Stephen F. Austin,98.3,97.2,74.1,0.0
+Mercer,100.8,99.8,73.1,0.001
+Valparaiso,99.0,97.9,73.1,0.0
+Fresno St.,99.5,98.8,69.8,0.0
+San Diego,97.9,97.3,72.9,0.0
+Harvard,99.9,99.3,71.8,0.0
+Eastern Michigan,98.2,97.9,70.7,0.0
+UT Arlington,98.9,98.5,74.2,-0.112
+Montana,97.9,98.1,71.1,0.0
+Saint Peter's,96.6,96.9,68.2,-0.227
+UTSA,102.7,103.0,73.2,0.0
+Saint Joseph's,102.1,102.5,75.6,-0.135
+Bowling Green,101.9,102.3,74.0,0.104
+Grand Canyon,98.0,98.6,70.7,0.0
+Drexel,101.8,102.6,71.6,0.0
+La Salle,97.3,98.1,72.0,-0.0
+Miami OH,99.2,100.0,70.6,0.0
+Louisiana,101.0,101.8,76.5,0.0
+Eastern Illinois,99.8,100.7,71.9,-0.046
+Missouri St.,99.6,100.8,71.6,0.0
+Coastal Carolina,100.6,101.8,74.5,0.0
+Northeastern,99.1,100.4,70.2,0.0
+East Tennessee St.,94.8,96.2,71.4,-0.085
+Kent St.,99.5,101.2,72.3,0.0
+Charleston,97.9,99.7,70.0,0.0
+Boston University,99.1,100.9,71.0,0.0
+Lipscomb,100.3,102.3,71.0,-0.037
+Fordham,91.8,93.9,69.4,0.0
+Western Carolina,99.4,101.7,75.4,-0.048
+Charlotte,97.4,99.7,68.8,0.0
+Youngstown St.,100.3,102.7,71.3,0.0
+Southern Utah,98.4,100.8,73.8,0.0
+Northern Colorado,99.1,101.5,71.2,0.0
+Monmouth,97.5,100.0,75.1,0.0
+Wyoming,97.3,99.9,70.1,-0.234
+Southern Illinois,97.2,99.9,69.2,0.0
+UC San Diego,98.0,100.8,72.3,0.0
+Appalachian St.,97.5,100.3,71.0,-0.218
+Eastern Kentucky,96.3,99.3,77.3,-0.132
+UC Davis,97.7,100.7,73.8,-0.161
+Northern Kentucky,98.5,101.5,70.2,0.0
+North Dakota St.,96.3,99.3,69.1,-0.001
+Cal St. Bakersfield,96.3,99.4,69.7,0.0
+FIU,98.9,102.0,76.1,0.0
+Montana St.,98.3,101.4,72.0,0.0
+UTEP,95.0,98.1,71.6,0.0
+Penn,98.2,101.5,72.9,0.0
+Cornell,99.4,102.7,70.6,0.0
+Navy,98.2,101.6,68.1,0.276
+NJIT,95.8,99.2,71.1,0.0
+Nebraska Omaha,95.9,99.3,74.3,0.139
+New Hampshire,95.1,98.5,71.6,0.0
+Chattanooga,97.0,100.6,71.3,0.0
+Middle Tennessee,92.7,96.6,74.1,-0.207
+Florida Atlantic,94.6,98.8,69.8,-0.143
+UMBC,96.5,100.8,72.0,-0.1
+George Washington,97.6,101.9,70.9,0.0
+Oral Roberts,101.0,105.3,73.3,0.0
+Georgia Southern,97.6,102.0,73.4,0.0
+Elon,97.9,102.3,70.9,0.0
+Purdue Fort Wayne,95.3,100.0,72.1,0.0
+UMass Lowell,98.5,103.3,73.0,-0.015
+UC Riverside,94.4,99.3,70.1,0.0
+South Alabama,99.1,104.1,69.2,0.089
+Cleveland St.,95.5,100.5,71.2,0.0
+UT Rio Grande Valley,94.8,100.0,73.8,0.087
+Long Beach St.,96.9,102.0,74.1,0.0
+New Mexico,98.0,103.2,74.6,0.0
+Tulane,94.1,99.2,70.3,0.119
+Detroit,99.5,104.7,72.9,0.0
+Norfolk St.,93.4,98.6,70.6,0.088
+Delaware,98.3,103.7,71.1,0.0
+Texas Southern,96.0,101.4,74.0,0.072
+Nicholls St.,96.0,101.4,73.9,0.011
+Towson,99.0,104.5,68.8,-0.123
+Central Michigan,97.8,103.4,75.9,0.0
+UNC Asheville,98.5,104.1,71.8,-0.131
+UNC Wilmington,97.1,102.7,71.5,0.083
+Canisius,97.5,103.1,73.0,0.0
+South Dakota,97.6,103.4,71.3,-0.0
+Brown,93.2,99.0,73.4,0.0
+Lafayette,99.0,104.8,71.5,0.0
+Illinois St.,96.1,101.9,73.0,0.126
+Robert Morris,94.7,100.6,70.8,0.0
+Northern Illinois,95.0,100.9,68.6,0.0
+Sacramento St.,94.7,100.7,69.3,0.0
+Army,93.4,99.4,73.1,0.161
+St. Francis PA,98.3,104.3,72.8,0.065
+Hawaii,95.3,101.5,72.1,0.0
+Stetson,97.4,103.6,69.4,0.0
+Western Michigan,94.4,100.6,71.5,0.0
+Bucknell,95.0,102.0,73.4,0.0
+Marist,92.4,99.5,69.0,0.0
+North Alabama,95.6,102.7,73.1,0.0
+Rice,95.1,102.2,73.5,0.0
+Stony Brook,91.8,99.0,72.8,0.0
+Florida Gulf Coast,94.2,101.4,70.4,0.0
+Gardner Webb,95.8,103.2,71.1,0.0
+Illinois Chicago,93.4,100.8,71.9,0.041
+Loyola MD,96.8,104.2,73.7,0.0
+Quinnipiac,96.1,103.6,72.1,0.0
+Niagara,96.4,103.9,70.4,0.0
+Campbell,96.6,104.2,70.2,0.0
+Central Arkansas,97.2,105.0,73.8,0.0
+American,94.8,102.7,71.3,0.0
+North Dakota,96.5,104.5,72.0,0.0
+Mount St. Mary's,94.7,102.8,67.4,0.017
+Air Force,96.5,104.6,64.6,0.166
+Fairleigh Dickinson,98.5,106.7,73.0,-0.0
+IUPUI,98.5,106.7,73.9,0.0
+Arkansas St.,96.5,104.7,70.5,-0.0
+San Jose St.,96.3,104.6,74.8,0.0
+Lamar,93.5,101.8,73.6,-0.2
+Louisiana Monroe,94.2,102.6,69.6,0.0
+Iona,95.8,104.3,71.6,0.0
+Southern,95.1,103.7,71.8,-0.118
+Green Bay,97.6,106.3,76.8,0.0
+Jacksonville St.,93.4,102.2,69.9,0.219
+Dartmouth,92.8,101.7,70.3,0.0
+Wagner,94.3,103.3,70.7,0.0
+Fairfield,90.8,99.9,69.3,0.0
+Charleston Southern,93.2,102.4,72.0,-0.087
+USC Upstate,96.4,105.5,73.7,0.0
+James Madison,97.0,106.2,73.0,0.028
+Bryant,94.9,104.1,75.7,0.0
+Northwestern St.,95.6,104.9,75.8,-0.106
+VMI,96.5,105.8,72.2,0.0
+Columbia,92.7,102.1,72.7,0.0
+LIU,93.6,103.0,75.3,0.0
+William & Mary,98.4,107.8,71.6,0.0
+Cal Baptist,97.4,106.9,71.6,0.0
+Seattle,93.9,103.6,71.2,-0.007
+North Carolina A&T,92.6,102.4,75.7,-0.067
+UMKC,93.6,103.3,69.0,0.0
+Milwaukee,93.3,103.2,72.2,0.0
+Rider,93.1,103.0,74.4,0.0
+High Point,94.6,104.6,70.9,-0.191
+Manhattan,90.7,100.7,70.2,0.0
+Bellarmine,94.3,104.4,72.3,0.0
+St. Francis NY,93.6,103.7,73.0,0.0
+North Carolina Central,93.5,103.6,69.8,0.18
+Weber St.,93.1,103.3,71.7,0.0
+Utah Valley,92.6,102.8,73.5,0.0
+Troy,92.8,103.0,71.4,0.231
+Jacksonville,91.3,101.6,70.5,0.0
+Portland,92.8,103.1,73.2,0.0
+Denver,94.6,104.9,73.1,0.0
+Oakland,94.7,105.0,73.0,-0.084
+Tennessee St.,92.8,103.2,72.9,0.0
+Portland St.,97.1,107.6,74.9,0.0
+Lehigh,95.4,105.9,72.6,0.0
+Hartford,93.7,104.2,70.2,0.0
+Southern Miss,93.0,103.6,70.0,0.0
+Albany,92.4,103.1,71.5,0.0
+Howard,97.1,107.9,73.1,0.0
+North Florida,96.9,107.8,71.9,-0.063
+Merrimack,90.7,101.7,68.5,0.0
+Radford,92.9,103.9,68.5,-0.075
+Cal St. Northridge,96.3,107.4,73.0,-0.092
+Northern Arizona,94.6,105.8,70.9,0.0
+Jackson St.,90.1,101.3,71.4,0.0
+Prairie View A&M,91.3,102.9,70.8,0.064
+Morehead St.,93.4,105.2,70.1,0.08
+Sam Houston St.,94.3,106.3,73.4,0.0
+Samford,95.0,107.2,75.0,0.0
+Tennessee Tech,89.7,102.0,72.8,-0.11
+Idaho St.,93.7,106.1,69.5,-0.001
+Florida A&M,90.2,102.7,71.5,0.0
+New Orleans,93.5,106.1,73.2,-0.0
+Texas A&M Corpus Chris,92.8,105.5,72.3,-0.062
+Dixie St.,93.2,106.1,72.3,0.0
+Evansville,90.6,103.5,67.4,-0.202
+Sacred Heart,94.4,107.6,72.6,0.0
+Cal Poly,91.5,104.8,72.1,0.0
+Longwood,89.2,102.8,71.0,0.0
+Cal St. Fullerton,89.8,103.5,72.9,0.0
+Coppin St.,89.2,103.2,74.8,0.0
+McNeese St.,95.6,110.0,72.5,0.0
+The Citadel,95.1,109.6,77.6,0.0
+Grambling St.,87.8,102.5,72.7,-0.0
+Southeastern Louisiana,90.3,105.2,74.3,-0.141
+Morgan St.,88.9,104.4,72.4,0.0
+Southeast Missouri St.,91.4,107.2,72.8,0.0
+Tennessee Martin,94.9,110.8,72.4,0.0
+Tarleton St.,91.6,107.7,71.2,0.0
+SIU Edwardsville,90.6,107.5,72.6,-0.058
+Hampton,92.2,109.1,74.1,0.0
+Idaho,90.0,107.2,72.5,0.0
+Central Connecticut,90.7,108.4,72.3,-0.0
+Alabama A&M,87.3,105.0,72.6,0.0
+Alcorn St.,88.6,106.5,73.3,0.0
+Binghamton,90.1,108.5,71.5,0.0
+Presbyterian,90.7,109.3,71.1,0.0
+Houston Baptist,92.5,112.1,75.5,-0.0
+Western Illinois,90.2,109.9,71.6,0.0
+Holy Cross,89.5,109.2,72.1,0.0
+Maine,85.8,106.1,70.0,0.0
+Incarnate Word,88.8,109.3,70.6,0.0
+Bethune Cookman,88.1,108.8,76.1,0.0
+Alabama St.,84.3,106.0,72.7,0.0
+Arkansas Pine Bluff,83.7,105.5,71.1,-0.004
+Kennesaw St.,85.7,107.7,72.0,0.0
+Delaware St.,87.5,109.8,76.7,0.0
+Maryland Eastern Shore,81.9,107.7,71.5,0.0
+South Carolina St.,86.3,112.2,75.1,0.0
+Chicago St.,87.1,113.0,70.5,-0.016
+Mississippi Valley St.,83.7,115.3,79.9,-0.002
