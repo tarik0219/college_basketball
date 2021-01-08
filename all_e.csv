@@ -57,11 +57,471 @@ Dayton,Mississippi St.,4,4,0,3,12/12/2020
 Tennessee,Cincinnati,7,7,0,9,12/12/2020
 Denver,Dixie St.,3,3,0,-3,12/12/2020
 Utah Valley,Wyoming,-7,-7,0,-5,12/12/2020
-Colorado St.,Northern Arizona,19.0,15.5,3.5,39,2020/12/14
-LSU,Sam Houston St.,29.0,26.0,3.0,22,2020/12/14
-George Washington,William & Mary,4.0,6.5,2.5,-1,2020/12/14
-San Diego,Nevada,-2.0,-3.5,1.5,-7,2020/12/14
-Morehead St.,Eastern Kentucky,-5.0,-6.0,1.0,13,2020/12/14
-Colorado,Northern Colorado,15.0,14.5,0.5,36,2020/12/14
-Creighton,Marquette,7.0,7.0,0.0,-5,2020/12/14
-Radford,Longwood,4.0,4.0,0.0,1,2020/12/14
+Colorado St.,Northern Arizona,19.0,15.5,3.5,39,12/14/2020
+LSU,Sam Houston St.,29.0,26.0,3.0,22,12/14/2020
+George Washington,William & Mary,4.0,6.5,2.5,-1,12/14/2020
+San Diego,Nevada,-2.0,-3.5,1.5,-7,12/14/2020
+Morehead St.,Eastern Kentucky,-5.0,-6.0,1.0,13,12/14/2020
+Colorado,Northern Colorado,15.0,14.5,0.5,36,12/14/2020
+Creighton,Marquette,7.0,7.0,0.0,-5,12/14/2020
+Radford,Longwood,4.0,4.0,0.0,1,12/14/2020
+Liberty,South Carolina St.,30.0,24.5,5.5,30,12/15/2020
+Davidson,Charlotte,17.0,11.5,5.5,-11,12/15/2020
+Stetson,Florida Atlantic,1.0,-3.0,4.0,9,12/15/2020
+Iowa St.,Kansas St.,12.0,8.0,4.0,-9,12/15/2020
+Utah,Utah Valley,22.0,18.0,4.0,8,12/15/2020
+UNC Greensboro,USC Upstate,15.0,18.5,3.5,8,12/15/2020
+Illinois,Minnesota,5.0,8.0,3.0,27,12/15/2020
+Illinois St.,Chicago St.,19.0,22.0,3.0,29,12/15/2020
+VCU,Western Carolina,13.0,15.5,2.5,25,12/15/2020
+Saint Mary's,Eastern Washington,11.0,8.5,2.5,5,12/15/2020
+Rice,Houston Baptist,13.0,14.5,1.5,11,12/15/2020
+Evansville,Southeast Missouri St.,4.0,2.5,1.5,3,12/15/2020
+Alabama,Furman,4.0,5.5,1.5,3,12/15/2020
+Austin Peay,Florida A&M,14.0,13.0,1.0,-6,12/15/2020
+Miami OH,Buffalo,-2.0,-3.0,1.0,-28,12/15/2020
+Auburn,Texas Southern,15.0,14.0,1.0,17,12/15/2020
+Cal St. Northridge,Stanford,-17.0,-16.0,1.0,-11,12/15/2020
+Virginia Tech,Clemson,-0.0,1.0,1.0,6,12/15/2020
+Florida St.,Georgia Tech,9.0,8.0,1.0,13,12/15/2020
+Louisiana Tech,Jackson St.,16.0,15.0,1.0,27,12/15/2020
+Akron,St. Bonaventure,-6.0,-5.5,0.5,-7,12/15/2020
+Tulsa,Wichita St.,1.0,1.5,0.5,-4,12/15/2020
+Texas A&M,Southeastern Louisiana,21.0,21.5,0.5,17,12/15/2020
+Louisiana,New Orleans,12.0,12.5,0.5,10,12/15/2020
+Radford,Longwood,4.0,4.5,0.5,9,12/15/2020
+Saint Louis,Indiana St.,13.0,13.0,0.0,19,12/15/2020
+Wofford,Coastal Carolina,5.0,5.0,0.0,11,12/15/2020
+Tennessee,Appalachian St.,19.0,19.0,0.0,41,12/15/2020
+Bryant,Wagner,6.0,11.5,5.5,12,12/16/2020
+Purdue,Ohio St.,-1.0,4.0,5.0,7,12/16/2020
+Arizona St.,UTEP,18.0,13.5,4.5,-13,12/16/2020
+Tulane,Memphis,-14.0,-10.5,3.5,-6,12/16/2020
+Cal Poly,San Diego,-8.0,-6.0,2.0,-9,12/16/2020
+Oklahoma,Oral Roberts,18.0,16.0,2.0,14,12/16/2020
+Denver,Northern Colorado,-5.0,-7.0,2.0,-8,12/16/2020
+Oregon St.,UTSA,6.0,8.0,2.0,12,12/16/2020
+Notre Dame,Duke,-6.0,-4.0,2.0,-10,12/16/2020
+Belmont,Kennesaw St.,26.0,24.5,1.5,11,12/16/2020
+Georgia St.,Mercer,6.0,4.5,1.5,7,12/16/2020
+Mississippi St.,Central Arkansas,15.0,16.5,1.5,16,12/16/2020
+Marshall,Toledo,5.0,6.5,1.5,-9,12/16/2020
+Oklahoma St.,TCU,4.0,5.0,1.0,-1,12/16/2020
+Jacksonville St.,Tennessee Tech,6.0,7.0,1.0,24,12/16/2020
+Cincinnati,South Florida,7.0,8.0,1.0,-3,12/16/2020
+Hampton,William & Mary,-5.0,-4.0,1.0,-17,12/16/2020
+Texas,Sam Houston St.,29.0,28.0,1.0,16,12/16/2020
+Washington,Montana,8.0,7.5,0.5,-8,12/16/2020
+Elon,Campbell,4.0,4.5,0.5,10,12/16/2020
+Villanova,Butler,13.0,12.5,0.5,19,12/16/2020
+Troy,Samford,-1.0,-1.0,0.0,8,12/16/2020
+Vanderbilt,Richmond,-7.0,-7.0,0.0,-11,12/16/2020
+Syracuse,Northeastern,18.0,18.0,0.0,6,12/16/2020
+SMU,East Carolina,12.0,12.0,0.0,15,12/16/2020
+Southern Utah,Dixie St.,11.0,8.0,3.0,7,12/17/2020
+Texas Tech,Kansas,1.0,3.0,2.0,-1,12/17/2020
+St. John's,Creighton,-9.0,-7.5,1.5,-18,12/17/2020
+Southern Illinois,North Dakota,6.0,7.5,1.5,21,12/17/2020
+Coastal Carolina,Delaware St.,20.0,21.0,1.0,26,12/17/2020
+Oregon,San Francisco,8.0,7.0,1.0,10,12/17/2020
+Bryant,Wagner,7.0,8.0,1.0,6,12/17/2020
+North Texas,Houston Baptist,23.0,23.5,0.5,30,12/17/2020
+Bradley,Jackson St.,17.0,17.5,0.5,23,12/17/2020
+Howard,Hampton,8.0,1.5,6.5,5,12/18/2020
+Tennessee St.,Belmont,-12.0,-7.0,5.0,-25,12/18/2020
+Utah,Idaho,26.0,22.5,3.5,38,12/18/2020
+Loyola Chicago,Richmond,1.0,-2.5,3.5,-2,12/18/2020
+Washington St.,Montana St.,3.0,6.5,3.5,28,12/18/2020
+West Virginia,Iowa St.,12.0,15.5,3.5,5,12/18/2020
+Gardner Webb,VMI,2.0,4.5,2.5,11,12/18/2020
+Rhode Island,Davidson,2.0,4.5,2.5,-9,12/18/2020
+Northern Illinois,Chicago St.,16.0,17.5,1.5,10,12/18/2020
+Tennessee,Tennessee Tech,30.0,28.5,1.5,54,12/18/2020
+Tulsa,Northwestern St.,14.0,15.5,1.5,27,12/18/2020
+Nevada,Air Force,11.0,12.5,1.5,17,12/18/2020
+Norfolk St.,UNC Wilmington,0.0,1.5,1.5,-8,12/18/2020
+Niagara,Fairfield,6.0,4.5,1.5,17,12/18/2020
+Presbyterian,South Carolina St.,10.0,9.0,1.0,6,12/18/2020
+South Dakota,Drake,-5.0,-6.0,1.0,-18,12/18/2020
+Western Michigan,Central Michigan,-0.0,-0.5,0.5,15,12/18/2020
+Georgia Tech,Florida A&M,20.0,19.5,0.5,10,12/18/2020
+Southern Illinois,North Dakota,8.0,8.5,0.5,12,12/18/2020
+San Diego St.,BYU,8.0,7.5,0.5,-10,12/18/2020
+Charleston,Western Carolina,2.0,2.5,0.5,-6,12/18/2020
+Portland St.,Weber St.,2.0,2.0,0.0,-28,12/18/2020
+Kansas St.,Baylor,-21.0,-17.0,4.0,-31,12/19/2020
+Ohio St.,UCLA,1.0,-2.0,3.0,7,12/19/2020
+Wisconsin,Louisville,4.0,6.5,2.5,37,12/19/2020
+Gonzaga,Iowa,3.0,4.5,1.5,11,12/19/2020
+Florida St.,UCF,15.0,14.5,0.5,-12,12/19/2020
+Arkansas,Oral Roberts,16.0,19.0,3.0,11,12/20/2020
+Drake,Chicago St.,29.0,31.5,2.5,44,12/20/2020
+Purdue Fort Wayne,Cleveland St.,2.0,-0.5,2.5,-9,12/20/2020
+Georgia Tech,Delaware St.,29.0,31.5,2.5,28,12/20/2020
+Manhattan,Marist,-3.0,-1.0,2.0,-5,12/20/2020
+Detroit,Wright St.,-8.0,-6.0,2.0,-13,12/20/2020
+Tennessee Martin,Western Illinois,6.0,4.0,2.0,-18,12/20/2020
+St. John's,Georgetown,2.0,4.0,2.0,11,12/20/2020
+Hartford,Maine,11.0,9.0,2.0,15,12/20/2020
+Xavier,Marquette,1.0,2.5,1.5,3,12/20/2020
+Portland St.,Weber St.,-3.0,-4.5,1.5,2,12/20/2020
+Northern Kentucky,Youngstown St.,2.0,3.5,1.5,-10,12/20/2020
+Iowa St.,Jackson St.,21.0,19.5,1.5,15,12/20/2020
+Texas,Oklahoma St.,8.0,6.5,1.5,3,12/20/2020
+Albany,UMBC,-5.0,-4.0,1.0,-5,12/20/2020
+Binghamton,Stony Brook,-6.0,-5.0,1.0,-10,12/20/2020
+Nevada,Air Force,12.0,11.0,1.0,-2,12/20/2020
+Northwestern,Michigan St.,-6.0,-7.0,1.0,14,12/20/2020
+Houston,Alcorn St.,34.0,34.5,0.5,33,12/20/2020
+Minnesota,Saint Louis,-2.0,-2.5,0.5,8,12/20/2020
+Connecticut,Creighton,-3.0,-3.5,0.5,-2,12/20/2020
+Green Bay,Milwaukee,1.0,1.0,0.0,-12,12/20/2020
+Marshall,Robert Morris,15.0,15.0,0.0,14,12/20/2020
+Gonzaga,Northwestern St.,34.0,40.5,6.5,38,12/21/2020
+Evansville,Belmont,-13.0,-9.5,3.5,-9,12/21/2020
+Butler,Southern Illinois,12.0,8.5,3.5,-3,12/21/2020
+Charleston Southern,Hampton,8.0,5.0,3.0,-12,12/21/2020
+Virginia Tech,Longwood,27.0,24.0,3.0,26,12/21/2020
+BYU,Texas Southern,15.0,17.5,2.5,16,12/21/2020
+Austin Peay,Murray St.,-6.0,-3.5,2.5,4,12/21/2020
+Clemson,Morehead St.,26.0,24.0,2.0,15,12/21/2020
+Memphis,Tulsa,7.0,9.0,2.0,-7,12/21/2020
+Wagner,Sacred Heart,4.0,5.5,1.5,28,12/21/2020
+Campbell,UNC Wilmington,-1.0,-2.0,1.0,-19,12/21/2020
+Rice,New Orleans,6.0,7.0,1.0,11,12/21/2020
+Boise St.,New Mexico,11.0,10.5,0.5,24,12/21/2020
+Mississippi St.,Mississippi Valley St.,37.0,36.5,0.5,39,12/21/2020
+Kansas St.,Jacksonville,11.0,11.5,0.5,24,12/21/2020
+Northern Arizona,Texas St.,-10.0,-9.5,0.5,-5,12/21/2020
+UMass Lowell,Vermont,-10.0,-9.5,0.5,8,12/21/2020
+George Mason,VMI,11.0,10.5,0.5,2,12/21/2020
+Texas A&M,Wofford,6.0,6.5,0.5,18,12/21/2020
+UT Rio Grande Valley,Sam Houston St.,5.0,5.0,0.0,-3,12/21/2020
+Furman,South Carolina St.,33.0,33.0,0.0,66,12/21/2020
+Gonzaga,Northwestern St.,35.0,39.0,4.0,17,12/22/2020
+Albany,Niagara,-3.0,1.0,4.0,-5,12/22/2020
+Eastern Kentucky,High Point,3.0,6.5,3.5,19,12/22/2020
+Virginia,William & Mary,26.0,22.5,3.5,36,12/22/2020
+Liberty,Alcorn St.,22.0,25.0,3.0,43,12/22/2020
+Tennessee St.,Chattanooga,-8.0,-5.0,3.0,-3,12/22/2020
+Kennesaw St.,Mercer,-17.0,-14.5,2.5,-10,12/22/2020
+Toledo,Northern Illinois,18.0,15.5,2.5,23,12/22/2020
+Wagner,Sacred Heart,8.0,5.5,2.5,-1,12/22/2020
+East Carolina,Tulane,8.0,5.5,2.5,10,12/22/2020
+Houston,Temple,19.0,16.5,2.5,26,12/22/2020
+Pittsburgh,Louisville,-5.0,-3.0,2.0,-10,12/22/2020
+The Citadel,Presbyterian,6.0,4.0,2.0,12,12/22/2020
+TCU,North Dakota St.,14.0,12.0,2.0,7,12/22/2020
+Wisconsin,Nebraska,19.0,17.0,2.0,14,12/22/2020
+UMass Lowell,Vermont,-7.0,-9.0,2.0,-9,12/22/2020
+Maryland,La Salle,17.0,15.0,2.0,13,12/22/2020
+UTSA,Lamar,10.0,8.0,2.0,22,12/22/2020
+California,Seattle,14.0,12.5,1.5,5,12/22/2020
+Indiana St.,Southeast Missouri St.,15.0,13.5,1.5,6,12/22/2020
+San Diego St.,Saint Mary's,4.0,2.5,1.5,25,12/22/2020
+Oregon St.,Portland St.,16.0,14.5,1.5,5,12/22/2020
+Davidson,Vanderbilt,9.0,7.5,1.5,20,12/22/2020
+Georgia,Northeastern,8.0,9.5,1.5,18,12/22/2020
+Arizona,Montana,15.0,13.5,1.5,6,12/22/2020
+Louisiana Monroe,Louisiana Tech,-10.0,-11.5,1.5,-11,12/22/2020
+South Florida,Wichita St.,1.0,2.5,1.5,-5,12/22/2020
+George Washington,Charlotte,-3.0,-1.5,1.5,-1,12/22/2020
+Missouri,Bradley,12.0,10.5,1.5,1,12/22/2020
+UCF,Cincinnati,-1.0,-2.5,1.5,5,12/22/2020
+Iowa,Purdue,6.0,7.0,1.0,15,12/22/2020
+Northern Colorado,Idaho St.,9.0,10.0,1.0,5,12/22/2020
+Richmond,Hofstra,13.0,14.0,1.0,-5,12/22/2020
+Drake,North Dakota,14.0,15.0,1.0,33,12/22/2020
+Charleston Southern,Hampton,5.0,6.0,1.0,-2,12/22/2020
+Western Kentucky,Tennessee Tech,23.0,22.0,1.0,20,12/22/2020
+Boston College,Maine,24.0,23.0,1.0,16,12/22/2020
+Oklahoma,Texas Tech,-2.0,-2.5,0.5,-2,12/22/2020
+Arkansas,Abilene Christian,13.0,13.5,0.5,13,12/22/2020
+Auburn,Appalachian St.,14.0,14.5,0.5,14,12/22/2020
+Kansas,West Virginia,1.0,1.5,0.5,14,12/22/2020
+Grand Canyon,Colorado,-12.0,-12.5,0.5,-10,12/22/2020
+Denver,Northern Arizona,3.0,3.5,0.5,-3,12/22/2020
+Florida Gulf Coast,Georgia Southern,-0.0,-0.5,0.5,13,12/22/2020
+VCU,James Madison,20.0,20.5,0.5,1,12/22/2020
+Western Michigan,Ball St.,-5.0,-5.0,0.0,-8,12/22/2020
+North Carolina A&T,UNC Greensboro,-12.0,-12.0,0.0,-21,12/22/2020
+Portland,Montana St.,-3.0,-3.0,0.0,3,12/22/2020
+Akron,Ohio,-2.0,-2.0,0.0,20,12/22/2020
+Washington St.,Northwestern St.,13.0,18.5,5.5,10,12/23/2020
+DePaul,Western Illinois,22.0,16.5,5.5,19,12/23/2020
+Tennessee,USC Upstate,29.0,34.0,5.0,20,12/23/2020
+BYU,Weber St.,18.0,13.0,5.0,8,12/23/2020
+Boise St.,New Mexico,14.0,11.5,2.5,37,12/23/2020
+Iona,Coppin St.,11.0,12.5,1.5,20,12/23/2020
+Indiana,Northwestern,7.0,8.5,1.5,-7,12/23/2020
+Penn St.,Illinois,-3.0,-4.0,1.0,-17,12/23/2020
+Butler,Providence,-0.0,-1.0,1.0,6,12/23/2020
+Marquette,Villanova,-6.0,-5.5,0.5,-17,12/23/2020
+Creighton,Xavier,6.0,6.5,0.5,5,12/23/2020
+Michigan St.,Wisconsin,-4.0,2.0,6.0,-9,12/25/2020
+Nebraska,Michigan,-13.0,-8.0,5.0,-11,12/25/2020
+Purdue,Maryland,2.0,5.5,3.5,3,12/25/2020
+Minnesota,Iowa,-8.0,-6.5,1.5,7,12/25/2020
+Virginia,Gonzaga,-4.0,-7.5,3.5,-23,12/26/2020
+UCF,Houston,-11.0,-7.5,3.5,-9,12/26/2020
+Detroit,Oakland,6.0,3.0,3.0,-2,12/26/2020
+Illinois,Indiana,5.0,7.0,2.0,9,12/26/2020
+Towson,Coppin St.,13.0,11.5,1.5,5,12/26/2020
+Louisville,Kentucky,5.0,4.0,1.0,3,12/26/2020
+Northwestern,Ohio St.,-4.0,-3.5,0.5,1,12/26/2020
+LSU,Nicholls St.,23.0,22.5,0.5,6,12/26/2020
+Wright St.,Green Bay,15.0,15.0,0.0,14,12/26/2020
+George Mason,Norfolk St.,10.0,10.0,0.0,-3,12/26/2020
+Purdue Fort Wayne,Robert Morris,3.0,3.0,0.0,-14,12/26/2020
+Cleveland St.,Youngstown St.,-2.0,-2.0,0.0,18,12/26/2020
+Southern Illinois,Evansville,12.0,8.0,4.0,6,12/27/2020
+Vanderbilt,Alcorn St.,19.0,22.0,3.0,28,12/27/2020
+Loyola Chicago,Illinois St.,18.0,15.0,3.0,30,12/27/2020
+Northern Iowa,Missouri St.,8.0,6.0,2.0,-20,12/27/2020
+Detroit,Oakland,5.0,3.0,2.0,-3,12/27/2020
+Providence,DePaul,5.0,6.5,1.5,5,12/27/2020
+Indiana St.,Drake,-4.0,-2.5,1.5,-18,12/27/2020
+Purdue Fort Wayne,Robert Morris,0.0,-1.5,1.5,5,12/27/2020
+Wright St.,Green Bay,16.0,17.0,1.0,13,12/27/2020
+UMBC,Binghamton,15.0,14.5,0.5,7,12/27/2020
+New Hampshire,Hartford,4.0,3.5,0.5,8,12/27/2020
+Cleveland St.,Youngstown St.,1.0,1.0,0.0,7,12/27/2020
+Gonzaga,Northern Arizona,37.0,40.5,3.5,30,12/28/2020
+Arizona,Colorado,-1.0,2.5,3.5,14,12/28/2020
+Cal St. Northridge,New Mexico St.,-12.0,-8.5,3.5,3,12/28/2020
+Southern Illinois,Evansville,12.0,9.0,3.0,-12,12/28/2020
+Loyola Chicago,Illinois St.,20.0,17.0,3.0,31,12/28/2020
+Minnesota,Michigan St.,-0.0,-2.5,2.5,25,12/28/2020
+Colorado St.,Fresno St.,6.0,8.5,2.5,22,12/28/2020
+Indiana St.,Drake,-6.0,-4.0,2.0,-7,12/28/2020
+UMBC,Binghamton,14.0,12.5,1.5,-6,12/28/2020
+Wisconsin,Maryland,9.0,9.5,0.5,-6,12/28/2020
+Northern Iowa,Missouri St.,4.0,3.5,0.5,10,12/28/2020
+New Hampshire,Hartford,4.0,4.0,0.0,2,12/28/2020
+Tulsa,Houston,-11.0,-7.5,3.5,1,12/29/2020
+USC,Santa Clara,13.0,10.0,3.0,23,12/29/2020
+Memphis,South Florida,6.0,9.0,3.0,1,12/29/2020
+Lamar,Southeastern Louisiana,2.0,5.0,3.0,10,12/29/2020
+Baylor,Central Arkansas,32.0,34.0,2.0,37,12/29/2020
+Mercer,Wofford,0.0,2.0,2.0,-13,12/29/2020
+Gonzaga,Dixie St.,36.0,37.5,1.5,45,12/29/2020
+Eastern Michigan,Central Michigan,6.0,4.5,1.5,-27,12/29/2020
+LSU,Texas A&M,8.0,6.5,1.5,23,12/29/2020
+West Virginia,Northeastern,19.0,18.0,1.0,22,12/29/2020
+Iowa,Northwestern,10.0,10.5,0.5,15,12/29/2020
+Texas Tech,Incarnate Word,34.0,34.5,0.5,28,12/29/2020
+Clemson,Florida St.,2.0,1.5,0.5,10,12/29/2020
+Vanderbilt,Florida,-11.0,-6.5,4.5,-19,12/30/2020
+Temple,SMU,-11.0,-7.0,4.0,-8,12/30/2020
+Eastern Kentucky,Eastern Illinois,-0.0,3.5,3.5,8,12/30/2020
+Seattle,Portland,1.0,4.5,3.5,16,12/30/2020
+Winthrop,Campbell,14.0,17.0,3.0,1,12/30/2020
+Samford,VMI,-1.0,1.5,2.5,13,12/30/2020
+Ohio St.,Nebraska,15.0,12.5,2.5,36,12/30/2020
+Presbyterian,Radford,-6.0,-4.0,2.0,-6,12/30/2020
+Georgia,Mississippi St.,-0.0,2.0,2.0,-10,12/30/2020
+Dayton,La Salle,14.0,12.0,2.0,-2,12/30/2020
+Providence,Butler,3.0,5.0,2.0,16,12/30/2020
+Tennessee St.,Austin Peay,-8.0,-6.0,2.0,-9,12/30/2020
+Indiana,Penn St.,4.0,5.5,1.5,2,12/30/2020
+Colorado St.,Fresno St.,8.0,9.5,1.5,22,12/30/2020
+Auburn,Arkansas,-2.0,-3.5,1.5,-12,12/30/2020
+Davidson,Richmond,1.0,-0.5,1.5,-6,12/30/2020
+High Point,USC Upstate,4.0,5.0,1.0,11,12/30/2020
+Rhode Island,St. Bonaventure,1.0,2.0,1.0,6,12/30/2020
+Notre Dame,Virginia,-7.0,-6.0,1.0,-9,12/30/2020
+Belmont,Murray St.,2.0,3.0,1.0,13,12/30/2020
+N.C. State,Boston College,10.0,9.0,1.0,3,12/30/2020
+Tennessee Tech,Southeast Missouri St.,-0.0,-0.5,0.5,9,12/30/2020
+Baylor,Alcorn St.,42.0,42.5,0.5,29,12/30/2020
+Saint Mary's,Sacramento St.,14.0,14.5,0.5,18,12/30/2020
+Connecticut,DePaul,8.0,8.5,0.5,21,12/30/2020
+Missouri,Tennessee,-3.0,-3.5,0.5,-20,12/30/2020
+Fordham,George Washington,4.0,3.5,0.5,-24,12/30/2020
+Chattanooga,Furman,-8.0,-7.5,0.5,-4,12/30/2020
+San Jose St.,Boise St.,-16.0,-21.5,5.5,-52,12/31/2020
+Idaho,Northern Arizona,-2.0,-4.0,2.0,-13,12/31/2020
+Wisconsin,Minnesota,7.0,8.5,1.5,12,12/31/2020
+UCLA,Utah,6.0,7.5,1.5,2,12/31/2020
+Air Force,Utah St.,-11.0,-12.5,1.5,-35,12/31/2020
+Maryland,Michigan,-1.0,-2.0,1.0,-11,12/31/2020
+Oregon,California,15.0,14.0,1.0,13,12/31/2020
+Winthrop,Campbell,13.0,14.0,1.0,18,12/31/2020
+Presbyterian,Radford,-6.0,-5.0,1.0,2,12/31/2020
+Washington,Arizona,-9.0,-8.5,0.5,-27,12/31/2020
+USC,Colorado,1.0,1.5,0.5,-10,12/31/2020
+New Mexico,Nevada,-5.0,-5.5,0.5,-14,12/31/2020
+San Francisco,San Diego,13.0,12.5,0.5,8,12/31/2020
+Oakland,Wright St.,-11.0,-6.5,4.5,-39,1/1/2021
+Kennesaw St.,Jacksonville,-6.0,-1.5,4.5,-5,1/1/2021
+Georgia Southern,South Alabama,-1.0,3.5,4.5,-29,1/1/2021
+Louisiana Monroe,Arkansas St.,-1.0,2.5,3.5,12,1/1/2021
+Louisiana Tech,Marshall,-2.0,1.0,3.0,7,1/1/2021
+Lipscomb,Liberty,-9.0,-7.0,2.0,7,1/1/2021
+Southern Miss,UTEP,-7.0,-5.0,2.0,8,1/1/2021
+FIU,Old Dominion,-3.0,-1.5,1.5,15,1/1/2021
+Coastal Carolina,Georgia St.,-5.0,-3.5,1.5,12,1/1/2021
+Rice,UTSA,-4.0,-2.5,1.5,9,1/1/2021
+Louisiana,Texas St.,1.0,2.5,1.5,6,1/1/2021
+Charlotte,Western Kentucky,-8.0,-6.5,1.5,-4,1/1/2021
+Youngstown St.,Green Bay,7.0,7.5,0.5,7,1/1/2021
+Akron,Kent St.,3.0,3.5,0.5,4,1/1/2021
+Marist,Niagara,-1.0,-1.5,0.5,2,1/1/2021
+Appalachian St.,Troy,8.0,7.5,0.5,-13,1/1/2021
+Robert Morris,Milwaukee,2.0,2.5,0.5,3,1/1/2021
+IUPUI,Cleveland St.,-3.0,-3.0,0.0,-3,1/1/2021
+San Jose St.,Boise St.,-18.0,-26.5,8.5,-1,1/2/2021
+Georgia Southern,South Alabama,-5.0,2.0,7.0,13,1/2/2021
+Evansville,Northern Iowa,-12.0,-6.0,6.0,4,1/2/2021
+Eastern Illinois,Tennessee Tech,12.0,7.0,5.0,6,1/2/2021
+Washington St.,Arizona,-12.0,-7.5,4.5,-4,1/2/2021
+Tulane,East Carolina,-5.0,-0.5,4.5,4,1/2/2021
+Western Michigan,Toledo,-12.0,-8.0,4.0,-11,1/2/2021
+Oklahoma,West Virginia,-2.0,2.0,4.0,4,1/2/2021
+Western Illinois,North Dakota St.,-10.0,-6.5,3.5,-18,1/2/2021
+Oakland,Wright St.,-13.0,-9.5,3.5,10,1/2/2021
+Cincinnati,Tulsa,2.0,5.5,3.5,-4,1/2/2021
+Boston College,Louisville,-8.0,-5.0,3.0,-12,1/2/2021
+North Carolina,Notre Dame,7.0,10.0,3.0,1,1/2/2021
+Arkansas,Missouri,4.0,7.0,3.0,-13,1/2/2021
+Texas A&M,Auburn,-1.0,1.5,2.5,2,1/2/2021
+Loyola Chicago,North Texas,9.0,6.5,2.5,8,1/2/2021
+Lehigh,Lafayette,-3.0,-0.5,2.5,1,1/2/2021
+Georgetown,Marquette,-7.0,-4.5,2.5,-4,1/2/2021
+Kansas St.,TCU,-7.0,-4.5,2.5,-7,1/2/2021
+San Diego St.,Colorado St.,10.0,8.0,2.0,-3,1/2/2021
+Dayton,George Mason,9.0,7.0,2.0,9,1/2/2021
+Texas Tech,Oklahoma St.,6.0,8.0,2.0,-5,1/2/2021
+Louisiana,Texas St.,1.0,3.0,2.0,-12,1/2/2021
+Northeastern,Elon,3.0,5.0,2.0,23,1/2/2021
+Illinois,Purdue,6.0,8.0,2.0,8,1/2/2021
+Abilene Christian,Lamar,15.0,13.0,2.0,18,1/2/2021
+UCLA,Colorado,0.0,2.0,2.0,3,1/2/2021
+Maine,New Hampshire,-9.0,-7.0,2.0,3,1/2/2021
+Stephen F. Austin,New Orleans,11.0,9.0,2.0,11,1/2/2021
+South Carolina St.,North Carolina A&T,-11.0,-9.0,2.0,-11,1/2/2021
+Charlotte,Western Kentucky,-8.0,-6.0,2.0,4,1/2/2021
+Florida,LSU,0.0,1.5,1.5,4,1/2/2021
+Lipscomb,Liberty,-7.0,-5.5,1.5,-16,1/2/2021
+Iowa St.,Baylor,-17.0,-15.5,1.5,-11,1/2/2021
+Providence,Creighton,-5.0,-3.5,1.5,-2,1/2/2021
+Arkansas Pine Bluff,Mississippi Valley St.,10.0,11.5,1.5,40,1/2/2021
+Tennessee,Alabama,8.0,9.5,1.5,-8,1/2/2021
+Louisiana Monroe,Arkansas St.,1.0,2.5,1.5,7,1/2/2021
+Oregon St.,California,1.0,2.5,1.5,9,1/2/2021
+Appalachian St.,Troy,5.0,6.5,1.5,31,1/2/2021
+Miami FL,Clemson,-5.0,-3.5,1.5,-1,1/2/2021
+Weber St.,Utah Valley,4.0,5.5,1.5,8,1/2/2021
+South Florida,UCF,0.0,1.5,1.5,7,1/2/2021
+Navy,Bucknell,6.0,4.5,1.5,9,1/2/2021
+Rice,UTSA,-3.0,-1.5,1.5,15,1/2/2021
+Coastal Carolina,Georgia St.,-3.0,-2.0,1.0,-8,1/2/2021
+Houston Baptist,Northwestern St.,-5.0,-4.0,1.0,6,1/2/2021
+Kansas,Texas,3.0,4.0,1.0,-25,1/2/2021
+Idaho,Northern Arizona,-4.0,-3.0,1.0,-5,1/2/2021
+Tennessee Martin,Belmont,-17.0,-16.0,1.0,-21,1/2/2021
+Marist,Niagara,-0.0,1.0,1.0,-14,1/2/2021
+Nebraska Omaha,Oral Roberts,-3.0,-2.0,1.0,-12,1/2/2021
+Wofford,Samford,11.0,10.0,1.0,10,1/2/2021
+USC,Utah,4.0,5.0,1.0,18,1/2/2021
+Southeast Missouri St.,Tennessee St.,1.0,2.0,1.0,4,1/2/2021
+Hofstra,William & Mary,11.0,10.0,1.0,5,1/2/2021
+George Washington,Duquesne,-9.0,-8.0,1.0,-12,1/2/2021
+Air Force,Utah St.,-14.0,-14.5,0.5,-19,1/2/2021
+Nicholls St.,Sam Houston St.,5.0,4.5,0.5,-3,1/2/2021
+FIU,Old Dominion,-1.0,-1.5,0.5,-5,1/2/2021
+Ball St.,Ohio,-1.0,-0.5,0.5,-10,1/2/2021
+Southern Miss,UTEP,-5.0,-5.5,0.5,-15,1/2/2021
+Gonzaga,San Francisco,19.0,19.5,0.5,23,1/2/2021
+Montana,Northern Colorado,7.0,7.5,0.5,-2,1/2/2021
+La Salle,Fordham,7.0,6.5,0.5,37,1/2/2021
+Nebraska,Michigan St.,-8.0,-8.5,0.5,-7,1/2/2021
+Oregon,Stanford,5.0,5.5,0.5,17,1/2/2021
+Colgate,Army,8.0,7.5,0.5,44,1/2/2021
+Hartford,Binghamton,7.0,7.5,0.5,20,1/2/2021
+VMI,Chattanooga,-4.0,-3.5,0.5,5,1/2/2021
+IUPUI,Cleveland St.,-3.0,-2.5,0.5,-10,1/2/2021
+South Dakota,Denver,9.0,9.5,0.5,39,1/2/2021
+Fresno St.,Wyoming,0.0,-0.5,0.5,-4,1/2/2021
+Mississippi St.,Kentucky,-1.0,-1.5,0.5,-5,1/2/2021
+Louisiana Tech,Marshall,-1.0,-0.5,0.5,-7,1/2/2021
+Furman,Mercer,11.0,10.5,0.5,3,1/2/2021
+Murray St.,Morehead St.,13.0,13.5,0.5,-5,1/2/2021
+Youngstown St.,Green Bay,7.0,7.0,0.0,-10,1/2/2021
+New Mexico,Nevada,-6.0,-6.0,0.0,-10,1/2/2021
+Austin Peay,Eastern Kentucky,5.0,5.0,0.0,-5,1/2/2021
+Missouri St.,Indiana St.,4.0,4.0,0.0,10,1/2/2021
+McNeese St.,Central Arkansas,-3.0,-3.0,0.0,-14,1/2/2021
+Richmond,St. Bonaventure,5.0,5.0,0.0,-3,1/2/2021
+South Carolina,Florida A&M,19.0,19.0,0.0,7,1/2/2021
+Evansville,Northern Iowa,-10.0,-6.0,4.0,6,1/3/2021
+Minnesota,Ohio St.,-3.0,1.0,4.0,17,1/3/2021
+Colgate,Army,11.0,7.5,3.5,-2,1/3/2021
+Western Illinois,North Dakota St.,-11.0,-7.5,3.5,-11,1/3/2021
+Georgia Tech,Wake Forest,7.0,9.5,2.5,16,1/3/2021
+Bucknell,Navy,-4.0,-1.5,2.5,-3,1/3/2021
+Maine,New Hampshire,-7.0,-5.5,1.5,-4,1/3/2021
+Lafayette,Lehigh,6.0,4.5,1.5,12,1/3/2021
+SMU,Houston,-4.0,-2.5,1.5,-14,1/3/2021
+Northeastern,Elon,5.0,6.5,1.5,8,1/3/2021
+Nebraska Omaha,Oral Roberts,-5.0,-3.5,1.5,-11,1/3/2021
+George Washington,Duquesne,-9.0,-7.5,1.5,2,1/3/2021
+Hartford,Binghamton,9.0,8.0,1.0,3,1/3/2021
+South Dakota,Denver,12.0,12.5,0.5,22,1/3/2021
+Drake,Southern Illinois,11.0,10.5,0.5,18,1/3/2021
+Missouri St.,Indiana St.,5.0,5.0,0.0,4,1/3/2021
+South Carolina St.,North Carolina A&T,-10.0,-10.0,0.0,-7,1/3/2021
+Michigan,Northwestern,8.0,8.0,0.0,19,1/3/2021
+Hofstra,William & Mary,11.0,11.0,0.0,9,1/3/2021
+Indiana,Maryland,1.0,4.5,3.5,8,1/4/2021
+Holy Cross,Boston University,-12.0,-9.5,2.5,-7,1/4/2021
+Fresno St.,Wyoming,0.0,2.5,2.5,20,1/4/2021
+Gardner Webb,Campbell,4.0,5.5,1.5,-9,1/4/2021
+Coppin St.,Delaware St.,8.0,9.5,1.5,8,1/4/2021
+Radford,Hampton,5.0,6.0,1.0,13,1/4/2021
+Montana,Northern Colorado,6.0,5.0,1.0,2,1/4/2021
+Drake,Southern Illinois,12.0,11.0,1.0,31,1/4/2021
+Charleston Southern,Winthrop,-13.0,-14.0,1.0,-16,1/4/2021
+San Diego St.,Colorado St.,8.0,7.5,0.5,13,1/4/2021
+Alabama St.,Jackson St.,-5.0,-5.5,0.5,-16,1/4/2021
+Oregon St.,Stanford,-7.0,-6.5,0.5,-10,1/4/2021
+Oklahoma St.,West Virginia,-2.0,-2.0,0.0,-3,1/4/2021
+USC Upstate,Longwood,3.0,3.0,0.0,2,1/4/2021
+Kent St.,Toledo,-5.0,2.0,7.0,-2,1/5/2021
+Gardner Webb,Campbell,2.0,5.5,3.5,15,1/5/2021
+Fordham,Dayton,-16.0,-12.5,3.5,1,1/5/2021
+Alabama,Florida,-0.0,3.0,3.0,15,1/5/2021
+Duquesne,Davidson,-2.0,1.0,3.0,13,1/5/2021
+Texas,Iowa St.,14.0,12.0,2.0,6,1/5/2021
+Ohio,Northern Illinois,17.0,15.0,2.0,3,1/5/2021
+Radford,Hampton,6.0,4.5,1.5,11,1/5/2021
+Coppin St.,Delaware St.,8.0,9.5,1.5,4,1/5/2021
+Charleston Southern,Winthrop,-14.0,-13.0,1.0,-2,1/5/2021
+USC Upstate,Longwood,3.0,2.5,0.5,6,1/5/2021
+Texas Tech,Kansas St.,16.0,15.5,0.5,11,1/5/2021
+Kentucky,Vanderbilt,11.0,11.5,0.5,3,1/5/2021
+TCU,Kansas,-6.0,-6.0,0.0,-29,1/5/2021
+Bowling Green,Central Michigan,9.0,9.0,0.0,21,1/5/2021
+Mississippi St.,Missouri,-2.0,-2.0,0.0,15,1/5/2021
+Wofford,UNC Greensboro,3.0,-0.5,3.5,-9,1/6/2021
+Southeastern Louisiana,Sam Houston St.,-2.0,-5.0,3.0,-18,1/6/2021
+LSU,Georgia,12.0,9.0,3.0,2,1/6/2021
+Tennessee,Arkansas,6.0,8.5,2.5,5,1/6/2021
+Houston Baptist,Abilene Christian,-14.0,-16.0,2.0,-3,1/6/2021
+Chattanooga,Samford,8.0,6.0,2.0,5,1/6/2021
+Michigan,Minnesota,6.0,7.5,1.5,25,1/6/2021
+Louisville,Virginia Tech,3.0,4.5,1.5,2,1/6/2021
+Duke,Boston College,14.0,12.5,1.5,1,1/6/2021
+Boise St.,Air Force,17.0,18.5,1.5,19,1/6/2021
+Richmond,Rhode Island,5.0,4.0,1.0,7,1/6/2021
+Baylor,Oklahoma,13.0,12.0,1.0,15,1/6/2021
+Virginia,Wake Forest,15.0,14.0,1.0,9,1/6/2021
+New Mexico,Utah St.,-12.0,-13.0,1.0,-32,1/6/2021
+South Carolina,Texas A&M,4.0,3.5,0.5,24,1/6/2021
+South Florida,Tulsa,-1.0,-0.5,0.5,-10,1/6/2021
+Nicholls St.,Lamar,8.0,7.5,0.5,7,1/6/2021
+Central Arkansas,New Orleans,8.0,7.5,0.5,4,1/6/2021
+Northwestern St.,Incarnate Word,8.0,7.5,0.5,-8,1/6/2021
+Butler,Georgetown,5.0,4.5,0.5,8,1/6/2021
+Houston,Wichita St.,12.0,11.5,0.5,7,1/6/2021
+George Mason,VCU,-6.0,-6.5,0.5,-5,1/6/2021

@@ -235,10 +235,13 @@ def score_kenmpom(year,month,day):
                         away_team = map_names_not_same[away_team]
                     else:
                         name_list = away_team.split()
-                        if name_list[-1] == "State":
-                            name_list[-1] = "St."
-                            new_name = " ".join(str(x) for x in name_list)
-                            away_team = new_name
+                        try:
+                            if name_list[-1] == "State":
+                                name_list[-1] = "St."
+                                new_name = " ".join(str(x) for x in name_list)
+                                away_team = new_name
+                        except:
+                            pass
                     
                     print(home_team, away_team)
 
