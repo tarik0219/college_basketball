@@ -1,0 +1,20 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Michigan,Wisconsin,1,2021-01-12,-7.0,-8.0,-16.0,3.5
+Oklahoma St.,Kansas,-1,2021-01-12,-3.0,-2.0,-4.0,-3.5
+Virginia Tech,Duke,1,2021-01-12,-6.0,-2.0,-6.0,-1.0
+Kentucky,Alabama,1,2021-01-12,1.0,2.0,-4.0,3.0
+North Carolina,Syracuse,3,2021-01-12,6.0,4.0,-4.0,4.5
+Florida,Mississippi,4,2021-01-12,5.0,0.0,-4.0,3.0
+Marquette,Providence,3,2021-01-12,-6.0,1.0,-4.0,4.0
+Boston College,Miami FL,-2,2021-01-12,-1.0,-1.0,-5.0,-2.0
+St. John's,Butler,2,2021-01-12,-2.0,1.0,-6.0,2.0
+Oklahoma,TCU,7,2021-01-12,2.0,0.0,-3.0,6.5
+Bowling Green,Ball St.,7,2021-01-12,1.0,2.0,2.0,8.0
+Central Michigan,Kent St.,-5,2021-01-12,-12.0,-12.0,-2.0,-8.0
+Ohio,Miami OH,7,2021-01-12,-1.0,-2.0,-3.0,9.5
+Toledo,Eastern Michigan,11,2021-01-12,5.0,9.0,1.0,9.0
+Davidson,Saint Joseph's,11,2021-01-12,2.0,10.0,-6.0,14.0
+Mississippi Valley St.,Alabama St.,-5,2021-01-12,4.0,-0.0,2.0,-9.0
+Northern Illinois,Akron,-8,2021-01-12,-7.0,-7.0,0.0,-8.0
+Grambling St.,Alcorn St.,7,2021-01-12,15.0,23.0,2.0,7.5
+USC,UC Riverside,17,2021-01-12,21.0,0.0,-10.0,14.0
