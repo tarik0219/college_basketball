@@ -1,0 +1,22 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Massachusetts,Davidson,-1,2021-01-24,-3.0,-3.0,2.0,-2.5
+Miami FL,Notre Dame,2,2021-01-24,2.0,2.0,2.0,3.5
+Bradley,Loyola Chicago,-7,2021-01-24,-8.0,-9.0,-0.0,-7.5
+Washington,Utah,-4,2021-01-24,-6.0,-9.0,5.0,-5.0
+East Carolina,Memphis,-5,2021-01-24,-7.0,-8.0,-2.0,-6.0
+Wyoming,Nevada,-4,2021-01-24,-7.0,-9.0,2.0,-4.0
+Navy,Army,4,2021-01-24,5.0,5.0,12.0,2.5
+Illinois St.,Valparaiso,1,2021-01-24,-1.0,-6.0,-9.0,1.0
+UNC Asheville,Radford,1,2021-01-24,2.0,3.0,-1.0,3.0
+Loyola MD,American,2,2021-01-24,4.0,6.0,14.0,4.5
+New Hampshire,Albany,3,2021-01-24,6.0,8.0,2.0,2.0
+Holy Cross,Lehigh,-1,2021-01-24,-1.0,-2.0,-2.0,1.0
+UNC Wilmington,Delaware,5,2021-01-24,4.0,1.0,8.0,4.5
+Lafayette,Boston University,6,2021-01-24,5.0,0.0,4.0,5.5
+Oral Roberts,UMKC,6,2021-01-24,5.0,3.0,10.0,6.0
+Northeastern,James Madison,8,2021-01-24,11.0,10.0,8.0,5.5
+Middle Tennessee,Western Kentucky,-11,2021-01-24,-12.0,-11.0,-11.0,-10.0
+High Point,Presbyterian,7,2021-01-24,8.0,9.0,15.0,5.0
+Air Force,San Diego St.,-15,2021-01-24,-22.0,-24.0,-10.0,-16.0
+Morgan St.,Delaware St.,12,2021-01-24,14.0,13.0,16.0,13.5
+Rhode Island,Fordham,17,2021-01-24,19.0,22.0,21.0,17.0

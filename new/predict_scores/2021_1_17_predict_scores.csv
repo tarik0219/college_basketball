@@ -1,0 +1,29 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Purdue,Penn St.,4,2021-01-17,8.0,6.0,4.0,5.0
+Northwestern,Iowa,-8,2021-01-17,-5.0,-6.0,-6.0,-10.0
+Tulsa,Memphis,1,2021-01-17,-2.0,-4.0,4.0,-1.5
+Marshall,Western Kentucky,4,2021-01-17,0.0,1.0,-1.0,3.0
+Wake Forest,Virginia Tech,-8,2021-01-17,-9.0,-6.0,-3.0,-7.0
+San Diego,Santa Clara,-2,2021-01-17,-3.0,-8.0,-6.0,-3.5
+Houston,UCF,13,2021-01-17,20.0,25.0,4.0,14.0
+Loyola MD,Lafayette,-1,2021-01-17,0.0,8.0,-0.0,1.0
+George Washington,Dayton,-8,2021-01-17,-9.0,-9.0,-9.0,-7.5
+Loyola Chicago,Northern Iowa,11,2021-01-17,11.0,8.0,10.0,10.5
+Delaware,Hofstra,-1,2021-01-17,-2.0,-1.0,11.0,-3.5
+Nevada,Fresno St.,8,2021-01-17,4.0,5.0,12.0,6.5
+Illinois St.,Indiana St.,-5,2021-01-17,-5.0,-6.0,-3.0,-5.5
+Boston University,Army,-1,2021-01-17,-2.0,-3.0,-13.0,-4.0
+Fordham,Massachusetts,-7,2021-01-17,-9.0,-5.0,2.0,-8.5
+Stony Brook,New Hampshire,1,2021-01-17,-3.0,-3.0,-5.0,1.5
+UMBC,Hartford,4,2021-01-17,5.0,3.0,-2.0,6.0
+Idaho St.,Sacramento St.,-1,2021-01-17,3.0,9.0,4.0,2.0
+Cal St. Fullerton,Cal St. Northridge,-1,2021-01-17,-2.0,-2.0,-1.0,2.0
+Lehigh,Bucknell,1,2021-01-17,3.0,4.0,-4.0,-1.0
+Navy,American,6,2021-01-17,13.0,5.0,-14.0,5.5
+Binghamton,UMass Lowell,-7,2021-01-17,-10.0,-11.0,-7.0,-6.0
+Morgan St.,Coppin St.,9,2021-01-17,15.0,19.0,22.0,8.5
+Bradley,Evansville,11,2021-01-17,13.0,16.0,9.0,8.5
+Weber St.,Tarleton St.,8,2021-01-17,9.0,8.0,5.0,12.0
+Delaware St.,Norfolk St.,-10,2021-01-17,-9.0,-9.0,-7.0,-10.0
+Vermont,Maine,17,2021-01-17,20.0,19.0,12.0,18.0
+Colgate,Holy Cross,20,2021-01-17,26.0,23.0,28.0,20.0

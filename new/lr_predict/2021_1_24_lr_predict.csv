@@ -1,0 +1,22 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings,home_cover,percent_chance,bet
+Middle Tennessee,Western Kentucky,-11,2021-01-24,-12.0,-11.0,-11.0,-10.0,0.0,0.8648,Western Kentucky
+Illinois St.,Valparaiso,1,2021-01-24,-1.0,-6.0,-9.0,1.0,0.0,0.8486,Valparaiso
+Holy Cross,Lehigh,-1,2021-01-24,-1.0,-2.0,-2.0,1.0,0.0,0.743,Lehigh
+Navy,Army,4,2021-01-24,5.0,5.0,12.0,2.5,1.0,0.739,Navy
+Miami FL,Notre Dame,2,2021-01-24,2.0,2.0,2.0,3.5,1.0,0.6919,Miami FL
+UNC Wilmington,Delaware,5,2021-01-24,4.0,1.0,8.0,4.5,1.0,0.676,UNC Wilmington
+Northeastern,James Madison,8,2021-01-24,11.0,10.0,8.0,5.5,1.0,0.6755,Northeastern
+Washington,Utah,-4,2021-01-24,-6.0,-9.0,5.0,-5.0,1.0,0.6675,Washington
+New Hampshire,Albany,3,2021-01-24,6.0,8.0,2.0,2.0,0.0,0.6361,Albany
+High Point,Presbyterian,7,2021-01-24,8.0,9.0,15.0,5.0,0.0,0.6074,Presbyterian
+East Carolina,Memphis,-5,2021-01-24,-7.0,-8.0,-2.0,-6.0,1.0,0.5791,East Carolina
+Oral Roberts,UMKC,6,2021-01-24,5.0,3.0,10.0,6.0,0.0,0.5782,UMKC
+Loyola MD,American,2,2021-01-24,4.0,6.0,14.0,4.5,0.0,0.5707,American
+Lafayette,Boston University,6,2021-01-24,5.0,0.0,4.0,5.5,0.0,0.5631,Boston University
+UNC Asheville,Radford,1,2021-01-24,2.0,3.0,-1.0,3.0,0.0,0.5624,Radford
+Bradley,Loyola Chicago,-7,2021-01-24,-8.0,-9.0,-0.0,-7.5,1.0,0.5603,Bradley
+Rhode Island,Fordham,17,2021-01-24,19.0,22.0,21.0,17.0,1.0,0.5507,Rhode Island
+Wyoming,Nevada,-4,2021-01-24,-7.0,-9.0,2.0,-4.0,0.0,0.538,Nevada
+Morgan St.,Delaware St.,12,2021-01-24,14.0,13.0,16.0,13.5,1.0,0.5197,Morgan St.
+Massachusetts,Davidson,-1,2021-01-24,-3.0,-3.0,2.0,-2.5,1.0,0.5153,Massachusetts
+Air Force,San Diego St.,-15,2021-01-24,-22.0,-24.0,-10.0,-16.0,0.0,0.5151,San Diego St.

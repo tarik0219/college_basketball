@@ -1,0 +1,39 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Purdue,Michigan,-3,2021-01-22,-4.0,-7.0,1.0,-4.5
+Ohio,Ball St.,3,2021-01-22,5.0,3.0,-4.0,5.0
+UTEP,Louisiana Tech,-3,2021-01-22,-2.0,-3.0,0.0,-2.0
+UC Riverside,Cal St. Bakersfield,3,2021-01-22,2.0,4.0,-2.0,4.5
+Wyoming,Nevada,-4,2021-01-22,-7.0,-9.0,-7.0,-3.5
+UT Arlington,Little Rock,-1,2021-01-22,0.0,-3.0,2.0,1.0
+Appalachian St.,Georgia St.,-4,2021-01-22,-1.0,-1.0,7.0,-4.5
+Florida Atlantic,Charlotte,1,2021-01-22,0.0,-1.0,-7.0,1.5
+UC San Diego,UC Davis,-1,2021-01-22,2.0,0.0,-0.0,-3.0
+FIU,Marshall,-8,2021-01-22,-6.0,-6.0,1.0,-8.0
+Oakland,Detroit,1,2021-01-22,3.0,4.0,13.0,1.0
+Green Bay,Purdue Fort Wayne,-2,2021-01-22,-6.0,-8.0,-7.0,-1.0
+Youngstown St.,Illinois Chicago,1,2021-01-22,1.0,1.0,6.0,-1.5
+Bellarmine,Stetson,2,2021-01-22,3.0,4.0,9.0,3.5
+Robert Morris,Northern Kentucky,2,2021-01-22,5.0,3.0,11.0,1.5
+Cal St. Fullerton,Hawaii,-3,2021-01-22,0.0,-1.0,2.0,-4.0
+Quinnipiac,Niagara,1,2021-01-22,2.0,-2.0,10.0,-1.0
+Cleveland St.,Milwaukee,5,2021-01-22,6.0,2.0,2.0,4.0
+UTSA,Southern Miss,5,2021-01-22,4.0,5.0,1.0,5.0
+Sacred Heart,St. Francis PA,-3,2021-01-22,-3.0,-5.0,-14.0,1.5
+South Alabama,Georgia Southern,5,2021-01-22,6.0,10.0,4.0,2.5
+Cal St. Northridge,UC Santa Barbara,-9,2021-01-22,-8.0,-8.0,-15.0,-8.5
+Lipscomb,Florida Gulf Coast,5,2021-01-22,6.0,3.0,-4.0,6.0
+North Alabama,Jacksonville,5,2021-01-22,8.0,9.0,-2.0,4.0
+UAB,Rice,10,2021-01-22,12.0,13.0,12.0,8.0
+Louisiana Monroe,Texas St.,-7,2021-01-22,-7.0,-4.0,-11.0,-5.5
+Central Connecticut,Mount St. Mary's,-5,2021-01-22,-8.0,-9.0,-11.0,-5.5
+IUPUI,Wright St.,-11,2021-01-22,-12.0,-12.0,-12.0,-12.5
+Western Illinois,South Dakota,-8,2021-01-22,-8.0,-4.0,-3.0,-7.0
+Boise St.,Fresno St.,14,2021-01-22,14.0,12.0,18.0,15.5
+Louisiana,Arkansas St.,10,2021-01-22,9.0,11.0,-1.0,9.0
+Dixie St.,Grand Canyon,-9,2021-01-22,-15.0,-18.0,-18.0,-11.0
+Coastal Carolina,Troy,10,2021-01-22,12.0,11.0,12.0,11.5
+Air Force,San Diego St.,-14,2021-01-22,-18.0,-21.0,-2.0,-14.5
+North Florida,Kennesaw St.,9,2021-01-22,9.0,2.0,4.0,8.0
+South Dakota St.,North Dakota,15,2021-01-22,17.0,17.0,4.0,14.5
+North Dakota St.,Denver,14,2021-01-22,13.0,8.0,16.0,13.5
+UC Irvine,Cal Poly,18,2021-01-22,22.0,19.0,14.0,16.5

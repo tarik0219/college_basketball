@@ -1,0 +1,22 @@
+home,away_x,predict_kp,date,lasso,linear,rf,draft_kings,home_cover,percent_chance,bet,away_y,score
+Middle Tennessee,Western Kentucky,-11,2021-01-24,-12.0,-11.0,-11.0,-10.0,0.0,0.8648,Western Kentucky,Western Kentucky,-16
+Illinois St.,Valparaiso,1,2021-01-24,-1.0,-6.0,-9.0,1.0,0.0,0.8486,Valparaiso,Valparaiso,-4
+Holy Cross,Lehigh,-1,2021-01-24,-1.0,-2.0,-2.0,1.0,0.0,0.743,Lehigh,Lehigh,-8
+Navy,Army,4,2021-01-24,5.0,5.0,12.0,2.5,1.0,0.7390000000000001,Navy,Army,-9
+Miami FL,Notre Dame,2,2021-01-24,2.0,2.0,2.0,3.5,1.0,0.6919,Miami FL,Notre Dame,-14
+UNC Wilmington,Delaware,5,2021-01-24,4.0,1.0,8.0,4.5,1.0,0.6759999999999999,UNC Wilmington,Delaware,-5
+Northeastern,James Madison,8,2021-01-24,11.0,10.0,8.0,5.5,1.0,0.6755,Northeastern,James Madison,-7
+Washington,Utah,-4,2021-01-24,-6.0,-9.0,5.0,-5.0,1.0,0.6675,Washington,Utah,4
+New Hampshire,Albany,3,2021-01-24,6.0,8.0,2.0,2.0,0.0,0.6361,Albany,Albany,-19
+High Point,Presbyterian,7,2021-01-24,8.0,9.0,15.0,5.0,0.0,0.6074,Presbyterian,Presbyterian,24
+East Carolina,Memphis,-5,2021-01-24,-7.0,-8.0,-2.0,-6.0,1.0,0.5791,East Carolina,Memphis,-27
+Oral Roberts,UMKC,6,2021-01-24,5.0,3.0,10.0,6.0,0.0,0.5782,UMKC,UMKC,-5
+Loyola MD,American,2,2021-01-24,4.0,6.0,14.0,4.5,0.0,0.5707,American,American,-2
+Lafayette,Boston University,6,2021-01-24,5.0,0.0,4.0,5.5,0.0,0.5631,Boston University,Boston University,-3
+UNC Asheville,Radford,1,2021-01-24,2.0,3.0,-1.0,3.0,0.0,0.5624,Radford,Radford,8
+Bradley,Loyola Chicago,-7,2021-01-24,-8.0,-9.0,-0.0,-7.5,1.0,0.5603,Bradley,Loyola Chicago,-13
+Rhode Island,Fordham,17,2021-01-24,19.0,22.0,21.0,17.0,1.0,0.5507,Rhode Island,Fordham,10
+Wyoming,Nevada,-4,2021-01-24,-7.0,-9.0,2.0,-4.0,0.0,0.5379999999999999,Nevada,Nevada,5
+Morgan St.,Delaware St.,12,2021-01-24,14.0,13.0,16.0,13.5,1.0,0.5197,Morgan St.,Delaware St.,16
+Massachusetts,Davidson,-1,2021-01-24,-3.0,-3.0,2.0,-2.5,1.0,0.5153,Massachusetts,Davidson,-9
+Air Force,San Diego St.,-15,2021-01-24,-22.0,-24.0,-10.0,-16.0,0.0,0.5151,San Diego St.,San Diego St.,-32

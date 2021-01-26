@@ -1,0 +1,15 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+West Virginia,Texas Tech,2,2021-01-25,3.0,3.0,12.0,2.0
+Virginia,Syracuse,7,2021-01-25,9.0,7.0,3.0,7.5
+Iowa St.,Oklahoma St.,-4,2021-01-25,-6.0,-6.0,0.0,-2.5
+Arizona,Arizona St.,7,2021-01-25,8.0,8.0,5.0,5.0
+UNLV,Utah St.,-6,2021-01-25,-8.0,-8.0,-5.0,-6.0
+Bradley,Loyola Chicago,-7,2021-01-25,-9.0,-9.0,-1.0,-7.0
+Furman,UNC Greensboro,5,2021-01-25,7.0,9.0,-8.0,4.5
+Indiana St.,Southern Illinois,5,2021-01-25,7.0,8.0,6.0,7.0
+UNC Asheville,Radford,2,2021-01-25,2.0,1.0,5.0,3.0
+Alabama A&M,Alcorn St.,4,2021-01-25,6.0,8.0,12.0,4.5
+Portland,Loyola Marymount,-9,2021-01-25,-14.0,-17.0,-8.0,-10.0
+Arkansas Pine Bluff,Prairie View A&M,-8,2021-01-25,-7.0,-7.0,-16.0,-9.0
+Alabama St.,Southern,-8,2021-01-25,-10.0,-7.0,-14.0,-8.5
+High Point,Presbyterian,9,2021-01-25,10.0,10.0,10.0,8.0

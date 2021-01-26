@@ -1,0 +1,29 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Stanford,USC,-2,2021-01-21,1.0,-1.0,2.0,-5.0
+Arizona St.,Arizona,-3,2021-01-21,-4.0,-3.0,0.0,-2.5
+Iowa,Indiana,10,2021-01-21,12.0,12.0,13.0,9.5
+Memphis,Wichita St.,2,2021-01-21,8.0,10.0,-4.0,2.5
+Utah St.,Colorado St.,7,2021-01-21,9.0,9.0,7.0,7.5
+Washington St.,Utah,-3,2021-01-21,-0.0,-4.0,5.0,-2.0
+Loyola Marymount,Saint Mary's,-1,2021-01-21,-1.0,-3.0,1.0,-2.5
+Santa Clara,San Francisco,-2,2021-01-21,-2.0,-3.0,-1.0,-4.0
+Pepperdine,Pacific,1,2021-01-21,-1.0,1.0,-13.0,3.0
+California,UCLA,-8,2021-01-21,-11.0,-8.0,-3.0,-9.0
+Miami OH,Bowling Green,-3,2021-01-21,-1.0,1.0,-3.0,-4.5
+Northern Colorado,Eastern Washington,-4,2021-01-21,-3.0,-3.0,-1.0,-3.5
+Weber St.,Southern Utah,-1,2021-01-21,-3.0,-3.0,2.0,2.5
+Sacramento St.,Montana,-1,2021-01-21,2.0,3.0,7.0,-1.5
+Portland St.,Idaho St.,1,2021-01-21,-2.0,2.0,16.0,3.0
+Sacred Heart,St. Francis PA,-1,2021-01-21,-0.0,-3.0,18.0,-0.5
+Northern Arizona,Montana St.,-5,2021-01-21,-2.0,-0.0,-1.0,-6.5
+New Mexico,San Jose St.,4,2021-01-21,11.0,11.0,4.0,6.5
+Murray St.,Jacksonville St.,8,2021-01-21,8.0,9.0,6.0,6.0
+Tennessee St.,SIU Edwardsville,3,2021-01-21,5.0,8.0,12.0,3.0
+Central Connecticut,Mount St. Mary's,-4,2021-01-21,-7.0,-7.0,-7.0,-4.5
+Buffalo,Eastern Michigan,10,2021-01-21,13.0,14.0,6.0,11.0
+Akron,Central Michigan,10,2021-01-21,12.0,13.0,15.0,11.0
+Belmont,Eastern Illinois,12,2021-01-21,12.0,10.0,10.0,12.0
+Morehead St.,Southeast Missouri St.,8,2021-01-21,6.0,3.0,9.0,5.5
+Austin Peay,Tennessee Tech,11,2021-01-21,12.0,14.0,2.0,11.5
+Eastern Kentucky,Tennessee Martin,16,2021-01-21,15.0,13.0,8.0,14.5
+BYU,Portland,21,2021-01-21,24.0,24.0,20.0,22.5

@@ -1,0 +1,29 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Georgia Tech,Clemson,-1,2021-01-20,0.0,2.0,10.0,-1.5
+St. Bonaventure,VCU,3,2021-01-20,5.0,7.0,7.0,2.0
+Georgia,Kentucky,-3,2021-01-20,-1.0,3.0,3.0,-3.5
+Arkansas,Auburn,6,2021-01-20,6.0,10.0,9.0,6.5
+Creighton,Providence,9,2021-01-20,12.0,13.0,6.0,9.0
+Duquesne,Rhode Island,-3,2021-01-20,-4.0,-1.0,3.0,-4.5
+Wisconsin,Northwestern,10,2021-01-20,14.0,12.0,4.0,11.0
+Houston,Tulsa,12,2021-01-20,18.0,22.0,15.0,12.5
+Washington,Colorado,-12,2021-01-20,-13.0,-14.0,-6.0,-13.0
+Western Carolina,East Tennessee St.,-1,2021-01-20,-2.0,1.0,-4.0,-1.5
+Sam Houston St.,Abilene Christian,-4,2021-01-20,-5.0,-4.0,-10.0,-2.5
+Gardner Webb,UNC Asheville,2,2021-01-20,1.0,2.0,-9.0,1.0
+Samford,Chattanooga,-2,2021-01-20,-1.0,3.0,4.0,1.0
+North Carolina,Wake Forest,12,2021-01-20,14.0,14.0,6.0,11.5
+George Mason,Saint Joseph's,6,2021-01-20,10.0,14.0,8.0,8.0
+Campbell,Radford,1,2021-01-20,-5.0,-6.0,-1.0,-2.0
+The Citadel,Mercer,-6,2021-01-20,-9.0,-10.0,-0.0,-7.5
+VMI,Furman,-10,2021-01-20,-10.0,-9.0,-3.0,-11.5
+Valparaiso,Loyola Chicago,-11,2021-01-20,-15.0,-15.0,-13.0,-11.5
+McNeese St.,Southeastern Louisiana,1,2021-01-20,1.0,3.0,0.0,2.5
+Longwood,High Point,3,2021-01-20,2.0,0.0,9.0,-2.0
+Illinois St.,Bradley,-8,2021-01-20,-10.0,-16.0,-5.0,-9.0
+New Orleans,Texas A&M Corpus Chris,3,2021-01-20,3.0,5.0,12.0,4.0
+Boise St.,Fresno St.,13,2021-01-20,12.0,11.0,21.0,14.0
+Houston Baptist,Nicholls St.,-8,2021-01-20,-9.0,-9.0,-1.0,-8.0
+Stephen F. Austin,Northwestern St.,12,2021-01-20,18.0,22.0,23.0,15.5
+Davidson,Fordham,15,2021-01-20,21.0,20.0,15.0,18.0
+Presbyterian,Winthrop,-16,2021-01-20,-19.0,-23.0,-6.0,-16.0
