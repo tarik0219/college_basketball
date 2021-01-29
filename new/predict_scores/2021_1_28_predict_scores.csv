@@ -1,0 +1,25 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Arizona,Stanford,4,2021-01-28,5.0,6.0,8.0,8.5
+SMU,Memphis,2,2021-01-28,3.0,6.0,8.0,4.0
+Kansas,TCU,12,2021-01-28,14.0,13.0,5.0,14.5
+Rice,North Texas,-5,2021-01-28,-7.0,-8.0,-4.0,-7.0
+UTSA,UTEP,1,2021-01-28,-0.0,0.0,2.0,1.0
+Arizona St.,California,9,2021-01-28,9.0,11.0,4.0,7.5
+Valparaiso,Bradley,-4,2021-01-28,-7.0,-10.0,-8.0,-5.5
+Austin Peay,Belmont,-6,2021-01-28,-4.0,0.0,-10.0,-5.5
+Jacksonville St.,Morehead St.,2,2021-01-28,3.0,2.0,-0.0,4.5
+USC,Oregon St.,13,2021-01-28,17.0,17.0,16.0,12.5
+San Jose St.,Air Force,-1,2021-01-28,0.0,-5.0,8.0,-4.5
+Southeast Missouri St.,SIU Edwardsville,1,2021-01-28,2.0,6.0,2.0,2.5
+Southern Miss,Louisiana Tech,-8,2021-01-28,-10.0,-9.0,-11.0,-7.5
+Northern Arizona,Northern Colorado,-3,2021-01-28,-5.0,-7.0,-9.0,-4.0
+Eastern Washington,Sacramento St.,8,2021-01-28,10.0,10.0,8.0,10.0
+Middle Tennessee,UAB,-9,2021-01-28,-10.0,-11.0,-11.0,-10.5
+Tennessee Martin,Eastern Illinois,-6,2021-01-28,-7.0,-11.0,12.0,-8.0
+Fresno St.,New Mexico,7,2021-01-28,9.0,11.0,-4.0,7.0
+Tulane,Houston,-17,2021-01-28,-21.0,-18.0,-12.0,-17.5
+San Diego,Gonzaga,-25,2021-01-28,-27.0,-28.0,-12.0,-27.5
+Winthrop,UNC Asheville,12,2021-01-28,16.0,18.0,11.0,12.0
+San Diego St.,Wyoming,16,2021-01-28,22.0,25.0,14.0,16.0
+Murray St.,Tennessee St.,11,2021-01-28,11.0,10.0,2.0,12.0
+Idaho,Weber St.,-10,2021-01-28,-11.0,-9.0,-12.0,-12.5

@@ -1,0 +1,21 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Auburn,Missouri,-1,2021-01-26,2.5,1.0,0.8205,Auburn
+Pittsburgh,North Carolina,-1,2021-01-26,-2.5,1.0,0.7399,Pittsburgh
+Tennessee Martin,Southeast Missouri St.,-3,2021-01-26,-5.0,0.0,0.7268,Southeast Missouri St.
+Missouri St.,Drake,-4,2021-01-26,-4.0,1.0,0.7166,Missouri St.
+Buffalo,Central Michigan,13,2021-01-26,13.0,1.0,0.703,Buffalo
+Akron,Eastern Michigan,11,2021-01-26,11.0,1.0,0.6977,Akron
+Miami OH,Toledo,-5,2021-01-26,-4.5,1.0,0.6928,Miami OH
+Saint Louis,Dayton,8,2021-01-26,9.0,1.0,0.6509,Saint Louis
+Saint Joseph's,Richmond,-10,2021-01-26,-12.0,0.0,0.6139,Richmond
+Duke,Georgia Tech,5,2021-01-26,6.0,1.0,0.5943,Duke
+Temple,Tulsa,-3,2021-01-26,1.0,1.0,0.5848,Temple
+Connecticut,Butler,8,2021-01-26,6.0,1.0,0.5708,Connecticut
+Alabama,Kentucky,9,2021-01-26,7.5,1.0,0.5604,Alabama
+Texas,Oklahoma,6,2021-01-26,4.5,1.0,0.5364,Texas
+Texas A&M,LSU,-6,2021-01-26,-5.0,0.0,0.5241,LSU
+Ohio,Western Michigan,11,2021-01-26,14.0,0.0,0.5237,Western Michigan
+Tennessee,Mississippi St.,9,2021-01-26,9.5,0.0,0.5229,Mississippi St.
+Memphis,SMU,2,2021-01-26,2.5,1.0,0.5134,Memphis
+Indiana St.,Southern Illinois,5,2021-01-26,5.5,0.0,0.5118,Southern Illinois
+Eastern Illinois,SIU Edwardsville,7,2021-01-26,6.0,1.0,0.5036,Eastern Illinois

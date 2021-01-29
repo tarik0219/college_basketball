@@ -1,0 +1,33 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Arkansas,Mississippi,3,2021-01-27,4.5,1.0,0.8156,Arkansas
+Kent St.,Bowling Green,5,2021-01-27,5.0,0.0,0.797,Bowling Green
+Texas A&M Corpus Chris,Sam Houston St.,-7,2021-01-27,-9.0,0.0,0.7424,Sam Houston St.
+Northwestern St.,New Orleans,1,2021-01-27,0.5,0.0,0.7377,New Orleans
+UCF,East Carolina,6,2021-01-27,5.5,1.0,0.7324,UCF
+South Carolina,Georgia,3,2021-01-27,4.0,0.0,0.7307,Georgia
+Providence,Marquette,3,2021-01-27,1.0,1.0,0.7183,Providence
+Nicholls St.,McNeese St.,14,2021-01-27,14.0,1.0,0.7133,Nicholls St.
+Maryland,Wisconsin,-2,2021-01-27,-3.0,1.0,0.6882,Maryland
+LIU,Merrimack,6,2021-01-27,6.0,1.0,0.652,LIU
+UNLV,Utah St.,-5,2021-01-27,-6.5,1.0,0.6365,UNLV
+Clemson,Louisville,1,2021-01-27,1.5,1.0,0.6324,Clemson
+Pepperdine,BYU,-7,2021-01-27,-6.0,1.0,0.6292,Pepperdine
+Florida St.,Miami FL,13,2021-01-27,11.0,1.0,0.6088,Florida St.
+DePaul,St. John's,1,2021-01-27,-0.5,0.0,0.6067,St. John's
+N.C. State,Wake Forest,7,2021-01-27,7.5,0.0,0.598,Wake Forest
+James Madison,Towson,3,2021-01-27,3.0,1.0,0.5948,James Madison
+Fordham,Duquesne,-7,2021-01-27,-7.0,0.0,0.587,Duquesne
+Baylor,Kansas St.,25,2021-01-27,23.5,0.0,0.5831,Kansas St.
+Notre Dame,Virginia Tech,-1,2021-01-27,-0.5,1.0,0.5818,Notre Dame
+Colorado St.,Boise St.,-1,2021-01-27,-2.5,1.0,0.5816,Colorado St.
+The Citadel,Wofford,-10,2021-01-27,-9.0,0.0,0.5777,Wofford
+Colorado,Washington St.,15,2021-01-27,14.5,1.0,0.5657,Colorado
+Ohio St.,Penn St.,7,2021-01-27,7.5,1.0,0.5536,Ohio St.
+Missouri St.,Drake,-5,2021-01-27,-4.0,1.0,0.5524,Missouri St.
+UNC Greensboro,Mercer,5,2021-01-27,5.0,1.0,0.5465,UNC Greensboro
+La Salle,Rhode Island,-8,2021-01-27,-7.0,0.0,0.5392,Rhode Island
+Florida,Vanderbilt,15,2021-01-27,13.0,0.0,0.5373,Vanderbilt
+Abilene Christian,Stephen F. Austin,5,2021-01-27,2.5,0.0,0.5328,Stephen F. Austin
+Southeastern Louisiana,Central Arkansas,-3,2021-01-27,-1.5,1.0,0.5242,Southeastern Louisiana
+Incarnate Word,Houston Baptist,4,2021-01-27,2.5,0.0,0.5214,Houston Baptist
+VMI,Western Carolina,2,2021-01-27,2.0,0.0,0.5022,Western Carolina

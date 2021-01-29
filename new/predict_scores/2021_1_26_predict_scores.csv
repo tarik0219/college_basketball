@@ -1,0 +1,21 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Auburn,Missouri,-1,2021-01-26,0.0,-2.0,11.0,2.5
+Texas,Oklahoma,6,2021-01-26,7.0,7.0,-0.0,4.5
+Pittsburgh,North Carolina,-1,2021-01-26,-1.0,-1.0,14.0,-2.5
+Memphis,SMU,2,2021-01-26,4.0,2.0,5.0,2.5
+Duke,Georgia Tech,5,2021-01-26,8.0,12.0,4.0,6.0
+Alabama,Kentucky,9,2021-01-26,9.0,6.0,17.0,7.5
+Missouri St.,Drake,-4,2021-01-26,-5.0,-5.0,-12.0,-4.0
+Texas A&M,LSU,-6,2021-01-26,-4.0,-4.0,6.0,-5.0
+Saint Louis,Dayton,8,2021-01-26,11.0,13.0,8.0,9.0
+Connecticut,Butler,8,2021-01-26,10.0,10.0,3.0,6.0
+Temple,Tulsa,-3,2021-01-26,-2.0,-3.0,-3.0,1.0
+Tennessee,Mississippi St.,9,2021-01-26,12.0,12.0,-7.0,9.5
+Miami OH,Toledo,-5,2021-01-26,-5.0,-4.0,1.0,-4.5
+Saint Joseph's,Richmond,-10,2021-01-26,-10.0,-12.0,2.0,-12.0
+Indiana St.,Southern Illinois,5,2021-01-26,6.0,4.0,2.0,5.5
+Tennessee Martin,Southeast Missouri St.,-3,2021-01-26,-6.0,-8.0,2.0,-5.0
+Eastern Illinois,SIU Edwardsville,7,2021-01-26,9.0,12.0,13.0,6.0
+Akron,Eastern Michigan,11,2021-01-26,11.0,11.0,9.0,11.0
+Buffalo,Central Michigan,13,2021-01-26,15.0,15.0,14.0,13.0
+Ohio,Western Michigan,11,2021-01-26,11.0,8.0,14.0,14.0

@@ -1,0 +1,36 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Illinois,Iowa,1,2021-01-29,3.0,6.0,-3.0,2.0
+Richmond,Saint Louis,1,2021-01-29,1.0,1.0,-4.0,1.0
+Colorado St.,Boise St.,2,2021-01-29,2.0,3.0,8.0,-1.5
+Buffalo,Ohio,3,2021-01-29,5.0,4.0,11.0,2.5
+Grand Canyon,New Mexico St.,1,2021-01-29,0.0,3.0,-2.0,4.0
+Rice,North Texas,-5,2021-01-29,-7.0,-8.0,-2.0,-7.5
+UC Davis,UC Santa Barbara,-6,2021-01-29,-5.0,-2.0,-16.0,-8.5
+Texas St.,Louisiana,4,2021-01-29,5.0,5.0,0.0,4.0
+Hawaii,UC Irvine,-5,2021-01-29,-6.0,-5.0,-5.0,-2.5
+Youngstown St.,Detroit,-1,2021-01-29,2.0,4.0,2.0,1.5
+UMKC,North Dakota St.,-2,2021-01-29,-4.0,-4.0,-5.0,-3.0
+Long Beach St.,UC San Diego,-2,2021-01-29,-2.0,-4.0,-6.0,2.0
+Purdue Fort Wayne,Oakland,3,2021-01-29,6.0,7.0,18.0,1.5
+Georgia Southern,Coastal Carolina,-4,2021-01-29,-3.0,-0.0,0.0,-1.5
+Arkansas St.,UT Arlington,-3,2021-01-29,-2.0,3.0,6.0,-3.5
+North Florida,North Alabama,-1,2021-01-29,-0.0,4.0,-4.0,2.0
+IUPUI,Milwaukee,-2,2021-01-29,-2.0,-2.0,-1.0,-4.0
+Northern Kentucky,Illinois Chicago,2,2021-01-29,3.0,4.0,-0.0,2.5
+Florida Gulf Coast,Stetson,1,2021-01-29,0.0,-2.0,5.0,1.5
+Charlotte,FIU,5,2021-01-29,6.0,4.0,6.0,7.0
+Troy,Appalachian St.,-4,2021-01-29,-3.0,-1.0,5.0,-4.5
+Cal Poly,Cal St. Northridge,-2,2021-01-29,-3.0,-2.0,7.0,-5.5
+Cleveland St.,Green Bay,6,2021-01-29,10.0,10.0,0.0,3.5
+Presbyterian,Longwood,-4,2021-01-29,-4.0,-6.0,12.0,-1.5
+South Dakota,Nebraska Omaha,8,2021-01-29,6.0,6.0,11.0,8.0
+North Dakota,Western Illinois,5,2021-01-29,5.0,5.0,10.0,4.0
+Cal Baptist,Dixie St.,7,2021-01-29,9.0,7.0,6.0,9.5
+Winthrop,UNC Asheville,11,2021-01-29,15.0,15.0,10.0,12.5
+Utah Valley,Tarleton St.,8,2021-01-29,9.0,11.0,6.0,7.0
+Gardner Webb,High Point,9,2021-01-29,9.0,9.0,6.0,7.0
+Jacksonville,Liberty,-10,2021-01-29,-12.0,-12.0,-10.0,-10.5
+Kennesaw St.,Bellarmine,-8,2021-01-29,-10.0,-10.0,2.0,-7.0
+Little Rock,Louisiana Monroe,10,2021-01-29,13.0,14.0,10.0,10.5
+Cal St. Bakersfield,Cal St. Fullerton,12,2021-01-29,16.0,17.0,12.0,9.0
+Wright St.,Robert Morris,17,2021-01-29,19.0,19.0,12.0,14.0
