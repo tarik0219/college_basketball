@@ -1,0 +1,21 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Ohio St.,Iowa,2,2021-02-28,3.0,4.0,2.0,3.0
+Maryland,Michigan St.,5,2021-02-28,5.0,6.0,6.0,2.5
+Cincinnati,Memphis,-4,2021-02-28,-1.0,-0.0,1.0,-4.5
+N.C. State,Pittsburgh,4,2021-02-28,4.0,3.0,4.0,7.0
+Utah St.,Nevada,7,2021-02-28,7.0,8.0,4.0,7.5
+South Dakota,North Dakota St.,2,2021-02-28,2.0,2.0,5.0,-1.0
+New Hampshire,UMass Lowell,1,2021-02-28,1.0,1.0,4.0,2.5
+Hartford,Albany,3,2021-02-28,2.0,2.0,2.0,1.0
+American,Bucknell,2,2021-02-28,2.0,1.0,1.0,4.0
+Marist,Quinnipiac,2,2021-02-28,1.0,2.0,-0.0,2.5
+Lehigh,Lafayette,-4,2021-02-28,-3.0,-3.0,1.0,-3.0
+Navy,Loyola MD,7,2021-02-28,8.0,9.0,2.0,3.5
+Army,Boston University,6,2021-02-28,4.0,2.0,-4.0,3.5
+UTEP,Charlotte,7,2021-02-28,7.0,7.0,18.0,6.0
+Houston,South Florida,18,2021-02-28,20.0,23.0,17.0,18.5
+Delaware St.,Coppin St.,-8,2021-02-28,-5.0,-6.0,-5.0,-7.5
+Oral Roberts,Western Illinois,10,2021-02-28,9.0,10.0,7.0,9.0
+South Carolina St.,Florida A&M,-8,2021-02-28,-6.0,-6.0,-0.0,-7.5
+Idaho,Montana St.,-11,2021-02-28,-11.0,-13.0,-1.0,-10.5
+Western Kentucky,FIU,17,2021-02-28,16.0,16.0,13.0,16.5

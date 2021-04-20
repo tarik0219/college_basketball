@@ -1,0 +1,29 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+West Virginia,Baylor,-5,2021-03-02,-2.0,-2.0,1.0,-4.5
+Purdue,Wisconsin,2,2021-03-02,3.0,3.0,5.0,2.0
+Michigan,Illinois,7,2021-03-02,7.0,7.0,7.0,6.5
+Georgia Tech,Duke,3,2021-03-02,3.0,3.0,5.0,1.5
+Michigan St.,Indiana,-1,2021-03-02,1.0,-2.0,2.0,3.0
+Mississippi,Kentucky,2,2021-03-02,3.0,4.0,1.0,3.0
+Georgetown,Xavier,-2,2021-03-02,-1.0,-4.0,-4.0,-2.5
+South Carolina,Arkansas,-8,2021-03-02,-6.0,-5.0,-7.0,-6.5
+Kent St.,Ohio,4,2021-03-02,4.0,3.0,2.0,2.0
+DePaul,Marquette,-3,2021-03-02,-3.0,-4.0,-2.0,-5.5
+Alabama,Auburn,11,2021-03-02,10.0,9.0,17.0,11.0
+Buffalo,Akron,6,2021-03-02,6.0,5.0,5.0,6.0
+UCF,Tulsa,4,2021-03-02,4.0,3.0,4.0,3.0
+LSU,Vanderbilt,10,2021-03-02,10.0,12.0,6.0,14.0
+South Florida,Memphis,-8,2021-03-02,-5.0,-5.0,-9.0,-9.0
+Northern Kentucky,Detroit,-1,2021-03-02,-0.0,-0.0,0.0,-1.5
+Bowling Green,Miami OH,5,2021-03-02,6.0,7.0,1.0,5.5
+Iowa St.,Texas,-12,2021-03-02,-11.0,-14.0,-8.0,-11.5
+Texas Tech,TCU,12,2021-03-02,13.0,16.0,6.0,12.5
+Pittsburgh,Wake Forest,9,2021-03-02,9.0,9.0,9.0,5.0
+Oakland,Youngstown St.,4,2021-03-02,4.0,2.0,6.0,3.5
+Northern Illinois,Western Michigan,-2,2021-03-02,-2.0,-3.0,-1.0,1.5
+Wagner,Merrimack,6,2021-03-02,7.0,6.0,3.0,5.0
+Ball St.,Eastern Michigan,9,2021-03-02,8.0,8.0,11.0,7.5
+Cleveland St.,Purdue Fort Wayne,10,2021-03-02,10.0,8.0,8.0,8.0
+Boise St.,Fresno St.,15,2021-03-02,15.0,15.0,15.0,13.5
+Central Michigan,Toledo,-15,2021-03-02,-14.0,-14.0,-5.0,-16.0
+Wright St.,Milwaukee,16,2021-03-02,15.0,13.0,13.0,13.5

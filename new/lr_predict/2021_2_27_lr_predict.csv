@@ -1,0 +1,95 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Loyola Chicago,Southern Illinois,20,2021-02-27,19.0,0.0,0.8319,Southern Illinois
+Oklahoma,Oklahoma St.,3,2021-02-27,5.0,1.0,0.7935,Oklahoma
+Sacramento St.,Weber St.,-7,2021-02-27,-6.5,0.0,0.7888,Weber St.
+Eastern Michigan,Northern Illinois,4,2021-02-27,3.5,0.0,0.7858,Northern Illinois
+Stanford,Oregon St.,7,2021-02-27,7.0,0.0,0.7475,Oregon St.
+San Diego,Pepperdine,-4,2021-02-27,-4.5,0.0,0.7412,Pepperdine
+Wofford,Furman,-1,2021-02-27,-1.5,0.0,0.7401,Furman
+East Tennessee St.,UNC Greensboro,1,2021-02-27,1.0,1.0,0.7397,East Tennessee St.
+Loyola MD,Navy,-3,2021-02-27,0.5,0.0,0.7379,Navy
+George Mason,La Salle,5,2021-02-27,7.0,0.0,0.7294,La Salle
+Central Arkansas,Abilene Christian,-17,2021-02-27,-17.0,0.0,0.714,Abilene Christian
+Georgia Southern,Appalachian St.,-1,2021-02-27,2.5,0.0,0.7093,Appalachian St.
+South Carolina St.,Florida A&M,-10,2021-02-27,-9.0,1.0,0.7034,South Carolina St.
+North Carolina A&T,North Carolina Central,4,2021-02-27,3.5,0.0,0.7033,North Carolina Central
+Wisconsin,Illinois,-1,2021-02-27,4.5,0.0,0.6892,Illinois
+Idaho St.,Montana,-3,2021-02-27,-2.5,0.0,0.6867,Montana
+Texas St.,Louisiana Monroe,9,2021-02-27,10.0,0.0,0.6816,Louisiana Monroe
+Hawaii,Long Beach St.,7,2021-02-27,6.5,0.0,0.6746,Long Beach St.
+BYU,Saint Mary's,8,2021-02-27,7.5,1.0,0.6726,BYU
+Western Carolina,Mercer,-7,2021-02-27,-5.0,0.0,0.6608,Mercer
+Kansas,Baylor,-6,2021-02-27,-4.0,0.0,0.6587,Baylor
+Arkansas,LSU,4,2021-02-27,6.0,1.0,0.6569,Arkansas
+Jacksonville St.,Austin Peay,5,2021-02-27,3.5,0.0,0.6549,Austin Peay
+High Point,USC Upstate,5,2021-02-27,5.0,0.0,0.6513,USC Upstate
+Texas Tech,Texas,2,2021-02-27,3.5,1.0,0.6511,Texas Tech
+West Virginia,Kansas St.,18,2021-02-27,15.0,1.0,0.648,West Virginia
+Nebraska,Minnesota,-4,2021-02-27,-2.5,1.0,0.647,Nebraska
+Southern Miss,Florida Atlantic,-1,2021-02-27,-1.5,0.0,0.6441,Florida Atlantic
+South Dakota,North Dakota St.,2,2021-02-27,1.5,0.0,0.639,North Dakota St.
+New Orleans,Nicholls St.,-4,2021-02-27,-4.0,0.0,0.6346,Nicholls St.
+Vanderbilt,Mississippi,-3,2021-02-27,-8.0,0.0,0.6345,Mississippi
+Lamar,Stephen F. Austin,-10,2021-02-27,-10.0,1.0,0.631,Lamar
+Kentucky,Florida,-1,2021-02-27,2.0,1.0,0.6306,Kentucky
+Miami OH,Kent St.,-2,2021-02-27,-2.0,0.0,0.6237,Kent St.
+Virginia Tech,Wake Forest,10,2021-02-27,10.5,1.0,0.6192,Virginia Tech
+California,Oregon,-8,2021-02-27,-9.0,1.0,0.6177,California
+Mississippi Valley St.,Jackson St.,-21,2021-02-27,-22.0,0.0,0.6139,Jackson St.
+Arizona St.,Washington St.,3,2021-02-27,3.5,1.0,0.6138,Arizona St.
+Illinois St.,Northern Iowa,1,2021-02-27,-4.5,0.0,0.6112,Northern Iowa
+Mississippi St.,Alabama,-6,2021-02-27,-6.0,1.0,0.6058,Mississippi St.
+Stetson,North Florida,4,2021-02-27,5.5,0.0,0.6019,North Florida
+Georgia,South Carolina,5,2021-02-27,5.5,0.0,0.6017,South Carolina
+UNC Wilmington,Elon,4,2021-02-27,2.0,1.0,0.6017,UNC Wilmington
+Louisiana Tech,Rice,12,2021-02-27,12.0,1.0,0.5969,Louisiana Tech
+Eastern Kentucky,Tennessee St.,13,2021-02-27,13.5,1.0,0.5947,Eastern Kentucky
+Connecticut,Marquette,7,2021-02-27,6.5,1.0,0.5944,Connecticut
+UT Arlington,Arkansas St.,2,2021-02-27,4.0,0.0,0.5936,Arkansas St.
+UTSA,UAB,-4,2021-02-27,-3.5,1.0,0.5926,UTSA
+Alabama St.,Texas Southern,-11,2021-02-27,-11.0,1.0,0.5875,Alabama St.
+North Carolina,Florida St.,-2,2021-02-27,-2.0,1.0,0.5855,North Carolina
+Troy,Coastal Carolina,-7,2021-02-27,-6.0,0.0,0.5827,Coastal Carolina
+Iowa St.,TCU,-1,2021-02-27,1.0,1.0,0.5753,Iowa St.
+North Alabama,Lipscomb,-3,2021-02-27,-5.0,1.0,0.5743,North Alabama
+Hartford,Binghamton,8,2021-02-27,6.5,0.0,0.5661,Binghamton
+Duquesne,Rhode Island,-1,2021-02-27,1.0,1.0,0.5649,Duquesne
+Duke,Louisville,4,2021-02-27,5.0,1.0,0.5639,Duke
+Clemson,Miami FL,13,2021-02-27,13.0,1.0,0.5635,Clemson
+Pacific,San Francisco,1,2021-02-27,-1.5,0.0,0.5619,San Francisco
+Bradley,Drake,-7,2021-02-27,-8.5,1.0,0.5597,Bradley
+Delaware St.,Coppin St.,-7,2021-02-27,-7.0,0.0,0.5583,Coppin St.
+Tennessee Tech,Murray St.,-8,2021-02-27,-10.5,0.0,0.5563,Murray St.
+Boston College,Notre Dame,-4,2021-02-27,-7.5,0.0,0.554,Notre Dame
+Morehead St.,Belmont,-3,2021-02-27,-5.0,0.0,0.5539,Belmont
+Colorado St.,Air Force,20,2021-02-27,18.0,1.0,0.5534,Colorado St.
+Toledo,Western Michigan,18,2021-02-27,16.0,1.0,0.5477,Toledo
+UTEP,Charlotte,6,2021-02-27,5.0,1.0,0.5475,UTEP
+Ohio,Buffalo,1,2021-02-27,1.5,1.0,0.5467,Ohio
+Oral Roberts,Western Illinois,11,2021-02-27,9.5,0.0,0.5427,Western Illinois
+Xavier,Creighton,-4,2021-02-27,-5.0,0.0,0.5413,Creighton
+Bellarmine,Liberty,-3,2021-02-27,-3.5,0.0,0.5396,Liberty
+UCF,Temple,5,2021-02-27,5.5,0.0,0.5338,Temple
+Colorado,UCLA,5,2021-02-27,6.5,1.0,0.532,Colorado
+Gonzaga,Loyola Marymount,24,2021-02-27,24.5,1.0,0.5298,Gonzaga
+Bucknell,American,4,2021-02-27,3.5,0.0,0.5297,American
+Northwestern St.,Southeastern Louisiana,3,2021-02-27,3.5,0.0,0.5293,Southeastern Louisiana
+Lafayette,Lehigh,8,2021-02-27,8.5,1.0,0.5253,Lafayette
+Eastern Illinois,Tennessee Martin,9,2021-02-27,12.5,1.0,0.5229,Eastern Illinois
+Northern Colorado,Portland St.,2,2021-02-27,1.5,1.0,0.5205,Northern Colorado
+Davidson,VCU,-1,2021-02-27,3.0,0.0,0.5202,VCU
+Alabama A&M,Prairie View A&M,-7,2021-02-27,-9.5,0.0,0.5175,Prairie View A&M
+Southern,Alcorn St.,7,2021-02-27,8.0,1.0,0.5158,Southern
+Ball St.,Central Michigan,11,2021-02-27,11.5,1.0,0.5156,Ball St.
+Marshall,North Texas,1,2021-02-27,2.5,0.0,0.5132,North Texas
+Hampton,Presbyterian,2,2021-02-27,2.5,0.0,0.5132,Presbyterian
+Utah,USC,-7,2021-02-27,-4.5,1.0,0.5107,Utah
+McNeese St.,Houston Baptist,1,2021-02-27,4.0,0.0,0.5101,Houston Baptist
+DePaul,Georgetown,-1,2021-02-27,-2.5,1.0,0.5087,DePaul
+Army,Boston University,7,2021-02-27,4.0,1.0,0.5087,Army
+Georgia Tech,Syracuse,5,2021-02-27,4.5,0.0,0.5079,Syracuse
+Little Rock,Louisiana,-1,2021-02-27,1.0,1.0,0.5077,Little Rock
+SIU Edwardsville,Southeast Missouri St.,-1,2021-02-27,-2.5,1.0,0.5066,SIU Edwardsville
+Arizona,Washington,15,2021-02-27,14.0,0.0,0.5046,Washington
+Auburn,Tennessee,-4,2021-02-27,-7.5,1.0,0.5031,Auburn
+San Diego St.,Boise St.,6,2021-02-27,6.0,0.0,0.5021,Boise St.

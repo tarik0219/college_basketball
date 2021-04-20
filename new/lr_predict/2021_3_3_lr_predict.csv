@@ -1,0 +1,29 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Oregon,UCLA,2,2021-03-03,4.5,1.0,0.666,Oregon
+Northwestern,Maryland,-3,2021-03-03,-4.5,1.0,0.6507,Northwestern
+Utah,Oregon St.,4,2021-03-03,4.0,0.0,0.6493,Oregon St.
+North Carolina Central,Florida A&M,1,2021-03-03,4.0,1.0,0.6448,North Carolina Central
+Wagner,Merrimack,6,2021-03-03,4.5,1.0,0.6328,Wagner
+New Orleans,Northwestern St.,4,2021-03-03,5.5,0.0,0.6208,Northwestern St.
+Notre Dame,N.C. State,3,2021-03-03,2.0,1.0,0.617,Notre Dame
+USC,Stanford,9,2021-03-03,7.5,1.0,0.6011,USC
+Villanova,Creighton,3,2021-03-03,5.0,1.0,0.5946,Villanova
+Tulane,Wichita St.,-4,2021-03-03,-4.5,0.0,0.5835,Wichita St.
+St. John's,Providence,2,2021-03-03,1.5,1.0,0.5774,St. John's
+Florida,Missouri,5,2021-03-03,4.0,1.0,0.5742,Florida
+Central Arkansas,Southeastern Louisiana,2,2021-03-03,1.5,1.0,0.5709,Central Arkansas
+Stephen F. Austin,Abilene Christian,-3,2021-03-03,1.0,1.0,0.5693,Stephen F. Austin
+Morehead St.,Southeast Missouri St.,9,2021-03-03,7.5,0.0,0.5579,Southeast Missouri St.
+Houston Baptist,Incarnate Word,2,2021-03-03,3.0,0.0,0.5566,Incarnate Word
+Sam Houston St.,Texas A&M Corpus Chris,16,2021-03-03,15.0,1.0,0.5553,Sam Houston St.
+Florida St.,Boston College,16,2021-03-03,18.5,0.0,0.5443,Boston College
+North Carolina A&T,South Carolina St.,12,2021-03-03,13.0,0.0,0.5405,South Carolina St.
+Colorado St.,New Mexico,20,2021-03-03,18.0,1.0,0.5388,Colorado St.
+Texas A&M,Mississippi St.,-3,2021-03-03,-5.0,1.0,0.5332,Texas A&M
+Syracuse,Clemson,1,2021-03-03,2.0,1.0,0.5301,Syracuse
+Boston University,Lehigh,7,2021-03-03,6.5,1.0,0.529,Boston University
+Belmont,SIU Edwardsville,17,2021-03-03,20.0,1.0,0.5255,Belmont
+Penn St.,Minnesota,3,2021-03-03,4.5,1.0,0.5082,Penn St.
+Eastern Washington,Idaho St.,14,2021-03-03,13.5,1.0,0.5082,Eastern Washington
+UNLV,San Diego St.,-11,2021-03-03,-9.5,0.0,0.5041,San Diego St.
+George Washington,Fordham,5,2021-03-03,7.0,1.0,0.5024,George Washington

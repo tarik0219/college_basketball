@@ -1,0 +1,26 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Texas,Baylor,-5,2021-02-02,-5.0,-5.0,-3.0,-5.5
+Indiana,Illinois,-2,2021-02-02,-3.0,-4.0,1.0,-2.5
+Stanford,USC,-1,2021-02-02,0.0,0.0,4.0,-2.0
+Maryland,Purdue,-1,2021-02-02,-1.0,-2.0,-6.0,2.5
+Clemson,North Carolina,-1,2021-02-02,0.0,0.0,-3.0,-2.5
+Wisconsin,Penn St.,6,2021-02-02,6.0,7.0,-2.0,8.5
+Mississippi,Tennessee,-5,2021-02-02,-3.0,-2.0,4.0,-3.5
+Arkansas,Mississippi St.,6,2021-02-02,8.0,5.0,4.0,7.5
+Duquesne,Dayton,-1,2021-02-02,-1.0,-0.0,-4.0,-1.5
+Iowa,Michigan St.,11,2021-02-02,13.0,13.0,16.0,9.5
+Auburn,Georgia,8,2021-02-02,9.0,10.0,7.0,8.5
+Marquette,Butler,5,2021-02-02,5.0,5.0,12.0,3.5
+Toledo,Akron,7,2021-02-02,8.0,9.0,5.0,5.5
+Notre Dame,Wake Forest,7,2021-02-02,5.0,4.0,7.0,5.5
+Iowa St.,West Virginia,-10,2021-02-02,-10.0,-11.0,-5.0,-11.5
+Ball St.,Buffalo,-2,2021-02-02,-2.0,-4.0,-2.0,-4.5
+Nevada,UNLV,5,2021-02-02,5.0,7.0,13.0,4.5
+Jacksonville St.,Eastern Kentucky,-1,2021-02-02,-1.0,2.0,0.0,2.0
+Kent St.,Miami OH,7,2021-02-02,9.0,9.0,15.0,8.5
+San Diego,BYU,-10,2021-02-02,-12.0,-12.0,-15.0,-11.0
+Central Michigan,Ohio,-7,2021-02-02,-7.0,-8.0,-4.0,-9.0
+Coppin St.,Morgan St.,-2,2021-02-02,-2.0,-2.0,4.0,-2.0
+SIU Edwardsville,Eastern Illinois,3,2021-02-02,4.0,3.0,9.0,3.0
+Kansas,Kansas St.,18,2021-02-02,20.0,18.0,20.0,18.0
+North Carolina Central,South Carolina St.,15,2021-02-02,16.0,14.0,1.0,17.0

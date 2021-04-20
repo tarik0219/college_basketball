@@ -1,0 +1,25 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Army,Colgate,-4,2021-02-14,-6.0,0.0,0.7749,Colgate
+Arizona St.,Oregon St.,6,2021-02-14,5.0,0.0,0.7538,Oregon St.
+Morgan St.,Norfolk St.,2,2021-02-14,3.0,0.0,0.7325,Norfolk St.
+Cal Baptist,Sacramento St.,2,2021-02-14,3.5,1.0,0.6873,Cal Baptist
+Charleston,Elon,6,2021-02-14,7.5,1.0,0.6773,Charleston
+Drake,Loyola Chicago,-6,2021-02-14,-5.5,0.0,0.6621,Loyola Chicago
+Cincinnati,UCF,3,2021-02-14,5.5,1.0,0.6534,Cincinnati
+Towson,Northeastern,-6,2021-02-14,-3.0,0.0,0.6511,Northeastern
+Wisconsin,Michigan,-1,2021-02-14,1.0,0.0,0.638,Michigan
+Notre Dame,Miami FL,9,2021-02-14,7.0,1.0,0.6363,Notre Dame
+Northern Iowa,Valparaiso,4,2021-02-14,5.5,0.0,0.6314,Valparaiso
+James Madison,Hofstra,1,2021-02-14,2.0,1.0,0.6242,James Madison
+Oral Roberts,South Dakota St.,-1,2021-02-14,-3.0,1.0,0.6226,Oral Roberts
+Boston University,Holy Cross,6,2021-02-14,7.5,0.0,0.6088,Holy Cross
+Loyola MD,Lafayette,2,2021-02-14,2.5,1.0,0.6041,Loyola MD
+Maryland,Minnesota,1,2021-02-14,2.5,1.0,0.6026,Maryland
+South Florida,Tulane,5,2021-02-14,4.5,0.0,0.5716,Tulane
+Southern Illinois,Illinois St.,1,2021-02-14,4.0,1.0,0.5709,Southern Illinois
+Georgia Tech,Pittsburgh,5,2021-02-14,5.0,0.0,0.5632,Pittsburgh
+North Dakota,South Dakota,-6,2021-02-14,-5.5,1.0,0.5631,North Dakota
+Missouri St.,Bradley,4,2021-02-14,10.0,1.0,0.5529,Missouri St.
+Vermont,Stony Brook,12,2021-02-14,11.5,0.0,0.5409,Stony Brook
+Penn St.,Nebraska,12,2021-02-14,11.5,0.0,0.5171,Nebraska
+Evansville,Indiana St.,-4,2021-02-14,-3.5,1.0,0.5087,Evansville

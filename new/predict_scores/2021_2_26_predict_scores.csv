@@ -1,0 +1,41 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Penn St.,Purdue,-1,2021-02-26,1.0,0.0,3.0,-0.5
+Saint Louis,Richmond,3,2021-02-26,4.0,6.0,3.0,4.5
+Marshall,North Texas,3,2021-02-26,4.0,4.0,5.0,4.5
+UC Riverside,UC Santa Barbara,-2,2021-02-26,-2.0,-3.0,-5.0,-3.0
+Utah St.,Nevada,8,2021-02-26,7.0,8.0,2.0,7.5
+Akron,Bowling Green,5,2021-02-26,5.0,4.0,4.0,4.0
+Bradley,Drake,-7,2021-02-26,-7.0,-6.0,-2.0,-9.0
+UTSA,UAB,-4,2021-02-26,-2.0,-3.0,2.0,-4.0
+Cincinnati,Tulane,5,2021-02-26,6.0,6.0,5.0,5.5
+Valparaiso,Indiana St.,-3,2021-02-26,-4.0,-2.0,-3.0,-3.5
+James Madison,Drexel,2,2021-02-26,2.0,2.0,3.0,2.0
+South Alabama,Georgia St.,-1,2021-02-26,-1.0,-0.0,4.0,-2.0
+Illinois St.,Northern Iowa,2,2021-02-26,1.0,-1.0,3.0,-4.0
+Evansville,Missouri St.,-6,2021-02-26,-6.0,-5.0,-10.0,-5.0
+Little Rock,Louisiana,1,2021-02-26,0.0,1.0,-0.0,1.5
+Southern Miss,Florida Atlantic,1,2021-02-26,-1.0,-4.0,0.0,-1.0
+UNLV,Fresno St.,5,2021-02-26,6.0,6.0,5.0,6.0
+UT Arlington,Arkansas St.,2,2021-02-26,1.0,2.0,1.0,4.0
+Georgia Southern,Appalachian St.,-1,2021-02-26,-1.0,-2.0,0.0,1.5
+Louisiana Tech,Rice,10,2021-02-26,8.0,6.0,7.0,9.5
+Seattle,Grand Canyon,-6,2021-02-26,-6.0,-7.0,-6.0,-6.0
+Merrimack,St. Francis NY,2,2021-02-26,0.0,2.0,-0.0,2.5
+Denver,Nebraska Omaha,-1,2021-02-26,-2.0,-1.0,-0.0,2.0
+Troy,Coastal Carolina,-6,2021-02-26,-6.0,-7.0,-3.0,-5.5
+Stetson,North Florida,5,2021-02-26,5.0,5.0,4.0,4.0
+South Dakota St.,UMKC,9,2021-02-26,9.0,10.0,9.0,8.5
+Tarleton St.,New Mexico St.,-5,2021-02-26,-7.0,-4.0,1.0,-8.5
+Hawaii,Long Beach St.,8,2021-02-26,7.0,6.0,6.0,6.5
+UC Irvine,UC San Diego,10,2021-02-26,10.0,12.0,7.0,11.5
+Bryant,LIU,9,2021-02-26,8.0,7.0,7.0,6.0
+Northern Arizona,Southern Utah,-7,2021-02-26,-8.0,-6.0,-2.0,-8.0
+Old Dominion,Middle Tennessee,10,2021-02-26,10.0,12.0,9.0,10.0
+Cal Poly,UC Davis,-8,2021-02-26,-9.0,-9.0,-4.0,-6.5
+St. Bonaventure,George Washington,16,2021-02-26,16.0,16.0,11.0,14.0
+Central Connecticut,Wagner,-8,2021-02-26,-9.0,-9.0,-10.0,-9.5
+Cal St. Bakersfield,Cal St. Northridge,10,2021-02-26,11.0,12.0,10.0,8.5
+Texas St.,Louisiana Monroe,10,2021-02-26,11.0,12.0,8.0,9.5
+Siena,Manhattan,11,2021-02-26,12.0,11.0,9.0,10.0
+Loyola Chicago,Southern Illinois,21,2021-02-26,22.0,22.0,15.0,19.0
+Idaho,Montana St.,-12,2021-02-26,-14.0,-15.0,-11.0,-12.0

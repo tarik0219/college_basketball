@@ -1,0 +1,27 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Ohio St.,Michigan,1,2021-02-21,3.0,3.0,1.0,0.5
+Northwestern,Wisconsin,-4,2021-02-21,-5.0,-5.0,-4.0,-6.0
+St. Bonaventure,Davidson,4,2021-02-21,4.0,3.0,0.0,4.5
+Iowa,Penn St.,11,2021-02-21,13.0,15.0,7.0,11.5
+Temple,South Florida,2,2021-02-21,1.0,1.0,2.0,-1.0
+Xavier,Butler,8,2021-02-21,9.0,10.0,10.0,8.5
+South Dakota,Oral Roberts,2,2021-02-21,2.0,2.0,0.0,2.0
+Houston,Cincinnati,14,2021-02-21,16.0,18.0,11.0,13.0
+Niagara,Siena,-3,2021-02-21,-3.0,-2.0,-0.0,-5.0
+Southern Illinois,Valparaiso,1,2021-02-21,0.0,-0.0,-1.0,1.5
+American,Navy,-3,2021-02-21,-5.0,-5.0,-5.0,-5.5
+Merrimack,Bryant,-2,2021-02-21,-3.0,-2.0,3.0,-1.0
+Albany,Stony Brook,1,2021-02-21,1.0,-0.0,-7.0,6.0
+Texas Southern,Prairie View A&M,2,2021-02-21,4.0,6.0,3.0,-2.0
+St. Francis NY,Sacred Heart,3,2021-02-21,4.0,4.0,5.0,4.5
+Louisiana Monroe,Little Rock,-3,2021-02-21,-5.0,-8.0,-1.0,-3.5
+Florida A&M,North Carolina A&T,6,2021-02-21,4.0,5.0,7.0,3.0
+Coastal Carolina,Georgia Southern,8,2021-02-21,9.0,9.0,9.0,6.5
+Ball St.,Western Michigan,8,2021-02-21,8.0,7.0,4.0,7.5
+Holy Cross,Army,-7,2021-02-21,-7.0,-9.0,-6.0,-6.0
+Wagner,St. Francis PA,7,2021-02-21,8.0,7.0,9.0,6.5
+San Jose St.,UNLV,-10,2021-02-21,-11.0,-13.0,-12.0,-13.5
+Drake,Evansville,15,2021-02-21,16.0,18.0,14.0,12.5
+LIU,Central Connecticut,10,2021-02-21,9.0,8.0,8.0,10.5
+Loyola MD,Lehigh,11,2021-02-21,10.0,10.0,7.0,11.0
+Colgate,Boston University,14,2021-02-21,14.0,13.0,12.0,11.0

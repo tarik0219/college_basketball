@@ -1,0 +1,32 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Stony Brook,Hartford,1,2021-01-31,3.0,0.0,0.8113,Hartford
+Drake,Illinois St.,18,2021-01-31,18.5,1.0,0.7674,Drake
+North Texas,Rice,9,2021-01-31,11.5,1.0,0.7392,North Texas
+Temple,Tulane,7,2021-01-31,7.5,0.0,0.7027,Tulane
+Ohio St.,Michigan St.,9,2021-01-31,6.5,0.0,0.695,Michigan St.
+Marist,Siena,-5,2021-01-31,-6.0,1.0,0.6658,Marist
+Nevada,UNLV,2,2021-01-31,2.5,1.0,0.6643,Nevada
+Holy Cross,Colgate,-15,2021-01-31,-14.5,1.0,0.637,Holy Cross
+Marquette,St. John's,4,2021-01-31,4.5,1.0,0.6277,Marquette
+Coppin St.,Morgan St.,-2,2021-01-31,-2.5,0.0,0.6245,Morgan St.
+Canisius,Quinnipiac,4,2021-01-31,3.0,0.0,0.6181,Quinnipiac
+Indiana St.,Bradley,1,2021-01-31,-1.0,1.0,0.6167,Indiana St.
+Southern Illinois,Northern Iowa,-2,2021-01-31,-2.5,1.0,0.6163,Southern Illinois
+North Carolina A&T,Florida A&M,2,2021-01-31,2.5,1.0,0.6048,North Carolina A&T
+Eastern Washington,Sacramento St.,8,2021-01-31,9.5,1.0,0.6012,Eastern Washington
+UAB,Middle Tennessee,15,2021-01-31,14.5,1.0,0.6002,UAB
+Delaware,Elon,5,2021-01-31,6.5,1.0,0.5883,Delaware
+St. Francis PA,Central Connecticut,7,2021-01-31,7.5,0.0,0.5721,Central Connecticut
+Washington,Washington St.,3,2021-01-31,2.5,1.0,0.5662,Washington
+Syracuse,N.C. State,5,2021-01-31,5.0,1.0,0.5624,Syracuse
+Binghamton,New Hampshire,-3,2021-01-31,-4.0,1.0,0.5522,Binghamton
+Stephen F. Austin,Sam Houston St.,4,2021-01-31,6.0,0.0,0.5519,Sam Houston St.
+Loyola MD,Navy,-4,2021-01-31,-3.0,1.0,0.5483,Loyola MD
+Missouri St.,Loyola Chicago,-8,2021-01-31,-6.5,0.0,0.5468,Loyola Chicago
+Evansville,Valparaiso,-2,2021-01-31,-1.5,0.0,0.5447,Valparaiso
+Bucknell,Lehigh,6,2021-01-31,5.5,1.0,0.5404,Bucknell
+Mount St. Mary's,Sacred Heart,5,2021-01-31,5.0,0.0,0.5223,Sacred Heart
+Towson,William & Mary,2,2021-01-31,3.5,0.0,0.5167,William & Mary
+Houston,SMU,10,2021-01-31,10.0,1.0,0.5111,Houston
+James Madison,Drexel,-1,2021-01-31,2.5,0.0,0.5067,Drexel
+UNC Wilmington,Hofstra,-1,2021-01-31,-2.0,0.0,0.5006,Hofstra

@@ -1,0 +1,36 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Arkansas,Alabama,-1,2021-02-24,0.0,2.0,0.0,2.0
+Davidson,St. Bonaventure,-1,2021-02-24,1.0,3.0,7.0,2.5
+Providence,Xavier,-1,2021-02-24,0.0,-2.0,0.0,-1.5
+Vanderbilt,Tennessee,-7,2021-02-24,-5.0,-6.0,4.0,-8.0
+Mississippi St.,South Carolina,5,2021-02-24,5.0,5.0,-1.0,5.5
+Wake Forest,Clemson,-6,2021-02-24,-6.0,-6.0,-1.0,-2.5
+Tulsa,Cincinnati,2,2021-02-24,1.0,3.0,1.0,2.0
+North Carolina,Marquette,8,2021-02-24,9.0,10.0,10.0,9.5
+Virginia,N.C. State,11,2021-02-24,11.0,12.0,9.0,11.0
+South Florida,Temple,4,2021-02-24,4.0,4.0,6.0,4.5
+Mercer,Chattanooga,4,2021-02-24,4.0,5.0,5.0,3.5
+La Salle,Duquesne,-4,2021-02-24,-3.0,-1.0,1.0,-4.0
+Miami FL,Florida St.,-12,2021-02-24,-13.0,-12.0,-9.0,-11.5
+Saint Joseph's,Dayton,-9,2021-02-24,-9.0,-9.0,-12.0,-8.0
+Creighton,DePaul,14,2021-02-24,15.0,16.0,9.0,15.0
+Abilene Christian,Sam Houston St.,8,2021-02-24,9.0,12.0,11.0,8.5
+George Mason,George Washington,7,2021-02-24,7.0,6.0,4.0,7.5
+Memphis,Tulane,12,2021-02-24,12.0,11.0,7.0,10.0
+UNLV,Fresno St.,6,2021-02-24,7.0,7.0,6.0,7.0
+Loyola MD,American,4,2021-02-24,5.0,7.0,1.0,9.5
+Texas A&M Corpus Chris,New Orleans,-2,2021-02-24,-2.0,-2.0,-0.0,-1.5
+North Carolina Central,North Carolina A&T,2,2021-02-24,2.0,3.0,6.0,4.0
+Air Force,New Mexico,-1,2021-02-24,-2.0,-2.0,-7.0,-1.5
+Northwestern St.,Stephen F. Austin,-7,2021-02-24,-7.0,-10.0,1.0,-10.5
+Boston University,Holy Cross,6,2021-02-24,6.0,6.0,5.0,8.5
+Southeastern Louisiana,McNeese St.,5,2021-02-24,4.0,5.0,7.0,3.5
+Incarnate Word,Lamar,4,2021-02-24,4.0,0.0,5.0,1.5
+Alcorn St.,Alabama St.,7,2021-02-24,7.0,5.0,8.0,5.5
+Southern,Alabama A&M,7,2021-02-24,7.0,5.0,7.0,7.5
+Longwood,Hampton,8,2021-02-24,9.0,9.0,6.0,7.0
+Furman,The Citadel,15,2021-02-24,14.0,16.0,18.0,17.0
+Nicholls St.,Houston Baptist,11,2021-02-24,10.0,11.0,13.0,11.5
+UNC Greensboro,Western Carolina,13,2021-02-24,13.0,13.0,12.0,14.0
+Southern Utah,Northern Arizona,12,2021-02-24,13.0,13.0,17.0,12.5
+Norfolk St.,Delaware St.,13,2021-02-24,13.0,15.0,17.0,14.0

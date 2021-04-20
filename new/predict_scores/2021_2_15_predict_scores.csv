@@ -1,0 +1,10 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Florida St.,Virginia,-1,2021-02-15,0.0,0.0,5.0,1.5
+Chattanooga,East Tennessee St.,-1,2021-02-15,-0.0,-0.0,-3.0,1.0
+Washington St.,Washington,7,2021-02-15,7.0,7.0,18.0,7.0
+Jackson St.,Texas Southern,-1,2021-02-15,-1.0,1.0,4.0,0.0
+Presbyterian,USC Upstate,1,2021-02-15,2.0,3.0,6.0,1.0
+SIU Edwardsville,Murray St.,-7,2021-02-15,-7.0,-9.0,-12.0,-11.5
+New Orleans,Stephen F. Austin,-8,2021-02-15,-7.0,-9.0,-16.0,-9.5
+Tennessee Tech,Eastern Kentucky,-8,2021-02-15,-7.0,-8.0,-3.0,-8.0
+Longwood,Hampton,7,2021-02-15,8.0,10.0,1.0,5.0

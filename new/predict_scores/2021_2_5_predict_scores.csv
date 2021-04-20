@@ -1,0 +1,34 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Penn St.,Maryland,3,2021-02-05,4.0,3.0,3.0,3.5
+Nevada,Boise St.,-3,2021-02-05,-3.0,-2.0,-12.0,-4.5
+Kent St.,Akron,2,2021-02-05,3.0,1.0,4.0,2.0
+North Texas,Louisiana Tech,5,2021-02-05,5.0,7.0,13.0,4.5
+Old Dominion,Marshall,-4,2021-02-05,-3.0,-4.0,1.0,-5.5
+UC Irvine,Cal St. Bakersfield,5,2021-02-05,6.0,8.0,7.0,6.0
+South Alabama,Coastal Carolina,-2,2021-02-05,-2.0,-1.0,-3.0,-1.0
+Texas St.,Little Rock,3,2021-02-05,4.0,4.0,4.0,3.0
+South Dakota St.,South Dakota,7,2021-02-05,7.0,9.0,7.0,7.0
+Oakland,Cleveland St.,-1,2021-02-05,-1.0,-0.0,0.0,1.5
+North Dakota St.,Oral Roberts,4,2021-02-05,5.0,6.0,6.0,4.5
+Dayton,George Mason,8,2021-02-05,9.0,8.0,10.0,6.0
+FIU,UTSA,1,2021-02-05,2.0,5.0,-2.0,2.5
+Stetson,Lipscomb,2,2021-02-05,2.0,3.0,3.0,-1.5
+UAB,UTEP,8,2021-02-05,11.0,13.0,13.0,7.0
+Arkansas St.,Louisiana,-4,2021-02-05,-4.0,-1.0,-3.0,-3.5
+Cal St. Northridge,UC Davis,-3,2021-02-05,-3.0,-1.0,4.0,-2.5
+Robert Morris,Youngstown St.,1,2021-02-05,2.0,-0.0,3.0,-1.0
+New Hampshire,UMass Lowell,-1,2021-02-05,-0.0,-0.0,-0.0,1.0
+Milwaukee,Northern Kentucky,3,2021-02-05,3.0,4.0,-0.0,1.5
+Florida Gulf Coast,North Alabama,1,2021-02-05,0.0,1.0,-2.0,2.0
+Middle Tennessee,Charlotte,-4,2021-02-05,-4.0,-6.0,-6.0,-4.0
+Dixie St.,Seattle,-2,2021-02-05,-2.0,-2.0,3.0,-3.0
+Rice,Southern Miss,5,2021-02-05,5.0,3.0,-2.0,4.0
+Denver,North Dakota,-1,2021-02-05,-1.0,-0.0,-3.0,-2.5
+Troy,Georgia Southern,3,2021-02-05,2.0,4.0,2.0,1.0
+Green Bay,IUPUI,5,2021-02-05,5.0,7.0,3.0,6.0
+Detroit,Purdue Fort Wayne,7,2021-02-05,7.0,3.0,11.0,7.0
+Nebraska Omaha,Western Illinois,5,2021-02-05,4.0,5.0,-1.0,5.0
+Illinois Chicago,Wright St.,-11,2021-02-05,-13.0,-18.0,-13.0,-10.5
+Bellarmine,Jacksonville,7,2021-02-05,9.0,8.0,10.0,7.0
+UT Arlington,Louisiana Monroe,9,2021-02-05,8.0,7.0,5.0,9.0
+New Mexico St.,Cal Baptist,11,2021-02-05,11.0,12.0,9.0,10.5

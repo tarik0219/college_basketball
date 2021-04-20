@@ -1,0 +1,24 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Iowa,Ohio St.,4,2021-02-04,5.0,8.0,1.0,5.5
+Utah,Arizona,-3,2021-02-04,-2.0,-1.0,4.0,-1.5
+California,Stanford,-7,2021-02-04,-8.0,-9.0,5.0,-6.0
+Oregon St.,Washington,4,2021-02-04,5.0,5.0,3.0,6.0
+Morehead St.,Murray St.,1,2021-02-04,2.0,-2.0,3.0,-2.5
+Weber St.,Montana St.,3,2021-02-04,4.0,5.0,-0.0,7.5
+Wyoming,Colorado St.,-9,2021-02-04,-9.0,-12.0,-12.0,-8.0
+Oregon,Washington St.,12,2021-02-04,13.0,12.0,18.0,11.5
+Fresno St.,Utah St.,-9,2021-02-04,-10.0,-12.0,-7.0,-11.0
+Pacific,Gonzaga,-20,2021-02-04,-19.0,-22.0,-16.0,-23.5
+Eastern Kentucky,Austin Peay,6,2021-02-04,7.0,7.0,16.0,2.5
+Portland St.,Montana,-4,2021-02-04,-3.0,-1.0,-4.0,-1.0
+St. Francis NY,Wagner,1,2021-02-04,2.0,3.0,1.0,3.0
+Bryant,Mount St. Mary's,5,2021-02-04,4.0,3.0,8.0,6.5
+Merrimack,St. Francis PA,1,2021-02-04,2.0,2.0,-11.0,3.0
+SIU Edwardsville,Tennessee St.,2,2021-02-04,2.0,1.0,-5.0,1.0
+Southeast Missouri St.,Tennessee Tech,4,2021-02-04,6.0,5.0,9.0,4.0
+Radford,USC Upstate,8,2021-02-04,10.0,15.0,9.0,9.0
+Tennessee Martin,Jacksonville St.,-9,2021-02-04,-9.0,-13.0,-1.0,-10.0
+Eastern Illinois,Belmont,-12,2021-02-04,-12.0,-12.0,-7.0,-14.5
+Gardner Webb,Presbyterian,10,2021-02-04,11.0,13.0,0.0,9.5
+Portland,BYU,-18,2021-02-04,-19.0,-22.0,-17.0,-19.0
+Idaho,Eastern Washington,-16,2021-02-04,-17.0,-18.0,-6.0,-15.0

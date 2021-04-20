@@ -1,0 +1,29 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Villanova,Creighton,3,2021-03-03,4.0,5.0,-2.0,5.0
+Oregon,UCLA,2,2021-03-03,3.0,3.0,6.0,4.5
+Syracuse,Clemson,1,2021-03-03,1.0,4.0,6.0,2.0
+Northwestern,Maryland,-3,2021-03-03,-3.0,-3.0,-3.0,-4.5
+Penn St.,Minnesota,3,2021-03-03,4.0,3.0,4.0,4.5
+Florida,Missouri,5,2021-03-03,6.0,5.0,4.0,4.0
+St. John's,Providence,2,2021-03-03,3.0,5.0,4.0,1.5
+Notre Dame,N.C. State,3,2021-03-03,4.0,4.0,3.0,2.0
+USC,Stanford,9,2021-03-03,9.0,9.0,9.0,7.5
+Utah,Oregon St.,4,2021-03-03,5.0,8.0,4.0,4.0
+Texas A&M,Mississippi St.,-3,2021-03-03,-3.0,-3.0,-8.0,-5.0
+Tulane,Wichita St.,-4,2021-03-03,-4.0,0.0,-4.0,-4.5
+Stephen F. Austin,Abilene Christian,-3,2021-03-03,-0.0,1.0,0.0,1.0
+UNLV,San Diego St.,-11,2021-03-03,-11.0,-9.0,-5.0,-9.5
+Florida St.,Boston College,16,2021-03-03,15.0,17.0,12.0,18.5
+Central Arkansas,Southeastern Louisiana,2,2021-03-03,2.0,1.0,-1.0,1.5
+North Carolina Central,Florida A&M,1,2021-03-03,1.0,1.0,2.0,4.0
+New Orleans,Northwestern St.,4,2021-03-03,5.0,5.0,4.0,5.5
+George Washington,Fordham,5,2021-03-03,8.0,10.0,8.0,7.0
+Houston Baptist,Incarnate Word,2,2021-03-03,3.0,3.0,-2.0,3.0
+Wagner,Merrimack,6,2021-03-03,8.0,7.0,7.0,4.5
+Morehead St.,Southeast Missouri St.,9,2021-03-03,10.0,7.0,5.0,7.5
+Boston University,Lehigh,7,2021-03-03,7.0,5.0,3.0,6.5
+Eastern Washington,Idaho St.,14,2021-03-03,14.0,14.0,11.0,13.5
+North Carolina A&T,South Carolina St.,12,2021-03-03,11.0,12.0,10.0,13.0
+Belmont,SIU Edwardsville,17,2021-03-03,18.0,20.0,15.0,20.0
+Colorado St.,New Mexico,20,2021-03-03,19.0,18.0,13.0,18.0
+Sam Houston St.,Texas A&M Corpus Chris,16,2021-03-03,15.0,16.0,21.0,15.0

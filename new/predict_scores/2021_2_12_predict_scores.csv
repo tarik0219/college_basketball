@@ -1,0 +1,41 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+VCU,St. Bonaventure,2,2021-02-12,3.0,4.0,0.0,3.0
+Clemson,Georgia Tech,3,2021-02-12,4.0,6.0,-0.0,3.5
+Louisiana Tech,UAB,1,2021-02-12,1.0,1.0,-1.0,1.0
+UC Riverside,UC Irvine,1,2021-02-12,1.0,-1.0,3.0,-2.0
+Miami OH,Akron,-4,2021-02-12,-4.0,-4.0,0.0,-4.5
+Radford,Winthrop,-4,2021-02-12,-3.0,-2.0,-12.0,-6.0
+Nebraska,Illinois,-14,2021-02-12,-14.0,-16.0,-7.0,-14.5
+Cleveland St.,Detroit,3,2021-02-12,3.0,3.0,4.0,2.5
+Cincinnati,Temple,7,2021-02-12,8.0,7.0,1.0,6.0
+Hawaii,UC Santa Barbara,-6,2021-02-12,-6.0,-6.0,-4.0,-5.0
+UCF,Tulane,6,2021-02-12,7.0,6.0,7.0,5.0
+UTSA,Florida Atlantic,3,2021-02-12,4.0,3.0,6.0,4.0
+Arkansas St.,Little Rock,-2,2021-02-12,-2.0,-2.0,0.0,-3.0
+Green Bay,Northern Kentucky,-1,2021-02-12,-0.0,0.0,-5.0,-1.5
+Robert Morris,Oakland,-1,2021-02-12,-2.0,-2.0,-6.0,1.5
+Albany,UMass Lowell,3,2021-02-12,2.0,2.0,5.0,3.0
+Quinnipiac,Canisius,1,2021-02-12,-1.0,-2.0,-1.0,4.5
+IUPUI,Illinois Chicago,-1,2021-02-12,-0.0,-1.0,-6.0,-3.0
+North Alabama,Bellarmine,-4,2021-02-12,-4.0,-3.0,-7.0,-5.5
+Western Kentucky,Rice,10,2021-02-12,11.0,11.0,10.0,10.0
+St. Francis PA,St. Francis NY,3,2021-02-12,2.0,3.0,-1.0,1.5
+Mount St. Mary's,LIU,4,2021-02-12,5.0,5.0,1.0,1.5
+Seattle,New Mexico St.,-6,2021-02-12,-6.0,-5.0,-3.0,-8.0
+Youngstown St.,Purdue Fort Wayne,5,2021-02-12,5.0,4.0,10.0,5.5
+Cal St. Bakersfield,UC San Diego,7,2021-02-12,9.0,10.0,14.0,9.0
+Jacksonville,Lipscomb,-4,2021-02-12,-5.0,-4.0,-7.0,-5.5
+Southern Miss,North Texas,-9,2021-02-12,-10.0,-10.0,-4.0,-9.0
+Central Connecticut,Merrimack,-2,2021-02-12,-3.0,-3.0,-10.0,-4.5
+UC Davis,Long Beach St.,7,2021-02-12,6.0,8.0,8.0,7.5
+Hampton,Presbyterian,3,2021-02-12,1.0,0.0,-6.0,2.5
+UTEP,FIU,8,2021-02-12,8.0,9.0,8.0,7.5
+Western Illinois,Denver,7,2021-02-12,6.0,4.0,2.0,6.0
+UMKC,Nebraska Omaha,7,2021-02-12,7.0,8.0,8.0,6.5
+Iona,Manhattan,7,2021-02-12,9.0,9.0,3.0,5.0
+Kennesaw St.,Stetson,-8,2021-02-12,-9.0,-9.0,-3.0,-6.0
+Utah Valley,Dixie St.,10,2021-02-12,9.0,9.0,10.0,9.5
+Murray St.,Southeast Missouri St.,11,2021-02-12,12.0,12.0,16.0,13.0
+Liberty,North Florida,13,2021-02-12,15.0,16.0,6.0,12.0
+Marshall,Middle Tennessee,16,2021-02-12,16.0,18.0,4.0,17.5
+Wright St.,Milwaukee,19,2021-02-12,19.0,17.0,9.0,17.0

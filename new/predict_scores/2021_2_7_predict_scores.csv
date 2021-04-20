@@ -1,0 +1,19 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Indiana,Iowa,-3,2021-02-07,-3.0,-4.0,0.0,-4.0
+Nevada,Boise St.,-3,2021-02-07,-3.0,-2.0,2.0,-5.0
+Northern Iowa,Indiana St.,1,2021-02-07,0.0,4.0,-0.0,2.0
+Tulane,Cincinnati,-5,2021-02-07,-5.0,-4.0,-10.0,-5.0
+Hofstra,Drexel,2,2021-02-07,2.0,1.0,3.0,3.5
+Villanova,Georgetown,14,2021-02-07,16.0,16.0,7.0,13.5
+Wichita St.,Temple,8,2021-02-07,8.0,8.0,9.0,8.5
+Illinois St.,Missouri St.,-5,2021-02-07,-6.0,-9.0,-8.0,-6.0
+Stony Brook,UMBC,-1,2021-02-07,-1.0,-2.0,1.0,-1.5
+Loyola MD,Lafayette,-1,2021-02-07,-0.0,2.0,-1.0,2.0
+Hampton,High Point,1,2021-02-07,-0.0,-2.0,4.0,1.0
+Stanford,California,12,2021-02-07,13.0,13.0,5.0,10.5
+Bradley,Southern Illinois,7,2021-02-07,9.0,9.0,13.0,8.0
+Charleston,Towson,4,2021-02-07,5.0,4.0,5.0,4.0
+Fairfield,Quinnipiac,-2,2021-02-07,-2.0,-5.0,11.0,-3.5
+Valparaiso,Drake,-12,2021-02-07,-13.0,-14.0,-13.0,-12.5
+Norfolk St.,Coppin St.,8,2021-02-07,8.0,10.0,10.0,6.5
+Loyola Chicago,Evansville,20,2021-02-07,24.0,27.0,18.0,18.5

@@ -1,0 +1,2717 @@
+home,away,home_score,away_score,date,line,score,cover
+Virginia,Towson,73.0,42.0,2018-11-06,25.0,31.0,1
+Boston College,Milwaukee,73.0,53.0,2018-11-06,17.0,20.0,1
+Pittsburgh,Youngstown St.,69.0,53.0,2018-11-06,14.0,16.0,1
+Notre Dame,Illinois Chicago,84.0,67.0,2018-11-06,16.0,17.0,1
+Western Michigan,Detroit,89.0,76.0,2018-11-06,12.5,13.0,1
+Davidson,Cleveland St.,83.0,63.0,2018-11-06,18.5,20.0,1
+George Mason,Penn,71.0,72.0,2018-11-06,3.5,-1.0,0
+Ball St.,Indiana St.,86.0,69.0,2018-11-06,6.5,17.0,1
+Auburn,South Alabama,101.0,58.0,2018-11-06,21.0,43.0,1
+Temple,La Salle,75.0,67.0,2018-11-06,10.0,8.0,0
+Maryland,Delaware,73.0,67.0,2018-11-06,18.5,6.0,0
+Wichita St.,Louisiana Tech,58.0,71.0,2018-11-06,10.5,-13.0,0
+Xavier,IUPUI,82.0,69.0,2018-11-06,20.5,13.0,0
+Arizona St.,Cal St. Fullerton,102.0,94.0,2018-11-06,11.5,8.0,0
+Florida St.,Florida,81.0,60.0,2018-11-06,4.0,21.0,1
+Cal St. Northridge,New Mexico,84.0,87.0,2018-11-06,-13.5,-3.0,1
+Oregon St.,UC Riverside,72.0,59.0,2018-11-06,18.5,13.0,0
+UC Davis,San Francisco,42.0,76.0,2018-11-06,2.0,-34.0,0
+Wyoming,UC Santa Barbara,66.0,76.0,2018-11-06,7.5,-10.0,0
+Washington,Western Kentucky,73.0,55.0,2018-11-06,5.0,18.0,1
+Nevada,BYU,86.0,70.0,2018-11-06,12.5,16.0,1
+Providence,Siena,77.0,67.0,2018-11-06,18.5,10.0,0
+UCF,Rider,84.0,70.0,2018-11-06,6.0,14.0,1
+Charlotte,Chattanooga,69.0,80.0,2018-11-06,5.5,-11.0,0
+Clemson,The Citadel,100.0,80.0,2018-11-06,25.0,20.0,0
+Purdue,Fairfield,90.0,57.0,2018-11-06,21.0,33.0,1
+Syracuse,Eastern Washington,66.0,34.0,2018-11-06,18.0,32.0,1
+Georgia St.,East Tennessee St.,74.0,68.0,2018-11-06,7.0,6.0,0
+Wofford,North Carolina,67.0,78.0,2018-11-06,-10.0,-11.0,0
+UAB,Mercer,75.0,67.0,2018-11-06,7.5,8.0,1
+Memphis,Tennessee Tech,76.0,61.0,2018-11-06,14.0,15.0,1
+Minnesota,Nebraska Omaha,104.0,76.0,2018-11-06,15.0,28.0,1
+Missouri St.,Oral Roberts,84.0,50.0,2018-11-06,6.0,34.0,1
+Saint Louis,Southeast Missouri St.,75.0,65.0,2018-11-06,19.0,10.0,0
+SIU Edwardsville,Pacific,65.0,74.0,2018-11-06,-7.0,-9.0,0
+Texas,Eastern Illinois,71.0,59.0,2018-11-06,25.0,12.0,0
+Creighton,Western Illinois,78.0,67.0,2018-11-06,20.0,11.0,0
+Manhattan,Elon,56.0,62.0,2018-11-06,-1.0,-6.0,0
+UCLA,Purdue Fort Wayne,96.0,71.0,2018-11-06,13.5,25.0,1
+Montana St.,Utah St.,71.0,101.0,2018-11-06,-2.5,-30.0,0
+UC Irvine,Idaho,86.0,68.0,2018-11-06,10.5,18.0,1
+San Diego,Weber St.,83.0,66.0,2018-11-06,4.0,17.0,1
+Oregon,Portland St.,84.0,57.0,2018-11-06,20.0,27.0,1
+Gonzaga,Idaho St.,120.0,79.0,2018-11-06,27.5,41.0,1
+USC,Robert Morris,83.0,62.0,2018-11-06,19.0,21.0,1
+DePaul,Bethune Cookman,80.0,58.0,2018-11-07,18.5,22.0,1
+Northwestern,New Orleans,82.0,52.0,2018-11-08,18.0,30.0,1
+Utah,Maine,75.0,61.0,2018-11-08,22.5,14.0,0
+Green Bay,Indiana St.,74.0,78.0,2018-11-09,0.0,-4.0,0
+Elon,North Carolina,67.0,116.0,2018-11-09,-17.5,-49.0,0
+Kentucky,Southern Illinois,71.0,59.0,2018-11-09,14.5,12.0,0
+UNC Wilmington,Stanford,59.0,72.0,2018-11-09,-3.0,-13.0,0
+East Carolina,James Madison,72.0,73.0,2018-11-09,-2.5,-1.0,1
+Auburn,Washington,88.0,66.0,2018-11-09,8.5,22.0,1
+Northern Illinois,Northern Kentucky,85.0,88.0,2018-11-09,-4.0,-3.0,1
+Penn,Rice,92.0,76.0,2018-11-09,15.0,16.0,1
+Texas St.,Air Force,67.0,57.0,2018-11-09,5.0,10.0,1
+Nevada,Pacific,83.0,61.0,2018-11-09,20.0,22.0,1
+UC Davis,San Diego,57.0,76.0,2018-11-09,-3.5,-19.0,0
+California,Yale,59.0,76.0,2018-11-09,-3.0,-17.0,0
+UCLA,Long Beach St.,91.0,80.0,2018-11-09,15.5,11.0,0
+Hawaii,Portland,82.0,64.0,2018-11-09,6.0,18.0,1
+Navy,Maryland,57.0,78.0,2018-11-09,-13.5,-21.0,0
+Pittsburgh,VMI,94.0,55.0,2018-11-09,13.0,39.0,1
+LSU,UNC Greensboro,97.0,91.0,2018-11-09,8.5,6.0,0
+Loyola Chicago,Furman,58.0,60.0,2018-11-09,9.5,-2.0,0
+Mississippi St.,Austin Peay,95.0,67.0,2018-11-09,18.5,28.0,1
+Indiana,Montana St.,80.0,35.0,2018-11-09,25.5,45.0,1
+Samford,Jacksonville St.,92.0,72.0,2018-11-09,-9.0,20.0,1
+Montana,Georgia St.,81.0,74.0,2018-11-09,5.5,7.0,1
+Oregon,Eastern Washington,81.0,47.0,2018-11-09,19.0,34.0,1
+Florida,Charleston Southern,76.0,46.0,2018-11-09,20.0,30.0,1
+Georgia,None,110.0,76.0,2018-11-09,24.5,34.0,1
+Duquesne,William & Mary,84.0,70.0,2018-11-10,4.0,14.0,1
+Mississippi,Western Michigan,90.0,64.0,2018-11-10,12.5,26.0,1
+Purdue,Ball St.,84.0,75.0,2018-11-10,13.5,9.0,0
+Saint Louis,Troy,62.0,58.0,2018-11-10,10.0,4.0,0
+Xavier,Evansville,91.0,85.0,2018-11-10,18.0,6.0,0
+Butler,Miami OH,90.0,68.0,2018-11-10,16.0,22.0,1
+Charlotte,Oklahoma St.,66.0,64.0,2018-11-10,-12.0,2.0,1
+UT Arlington,Northern Iowa,74.0,65.0,2018-11-10,-4.0,9.0,1
+Oregon St.,Wyoming,83.0,64.0,2018-11-10,9.5,19.0,1
+Portland,North Texas,73.0,78.0,2018-11-10,-7.5,-5.0,1
+UNLV,Loyola Marymount,50.0,61.0,2018-11-10,4.0,-11.0,0
+Cleveland St.,Kent St.,79.0,83.0,2018-11-10,-3.0,-4.0,0
+Syracuse,Morehead St.,84.0,70.0,2018-11-10,23.0,14.0,0
+Western Carolina,Charleston,74.0,77.0,2018-11-10,-11.0,-3.0,1
+IUPUI,Eastern Illinois,71.0,65.0,2018-11-10,6.0,6.0,2
+Bradley,Southeast Missouri St.,68.0,57.0,2018-11-10,15.0,11.0,0
+Western Kentucky,Tennessee Martin,86.0,71.0,2018-11-10,15.0,15.0,2
+Saint Peter's,Delaware,75.0,78.0,2018-11-10,4.5,-3.0,0
+Marist,Columbia,82.0,76.0,2018-11-10,3.0,6.0,1
+Chattanooga,Eastern Kentucky,78.0,81.0,2018-11-10,5.0,-3.0,0
+Milwaukee,North Dakota,60.0,63.0,2018-11-10,5.5,-3.0,0
+Boise St.,Idaho St.,70.0,72.0,2018-11-10,14.0,-2.0,0
+Villanova,Quinnipiac,86.0,53.0,2018-11-10,24.0,33.0,1
+Belmont,Illinois St.,100.0,89.0,2018-11-10,3.0,11.0,1
+Murray St.,Wright St.,73.0,54.0,2018-11-10,3.0,19.0,1
+San Jose St.,Southern Utah,59.0,66.0,2018-11-10,-1.0,-7.0,0
+Portland St.,UC Riverside,71.0,64.0,2018-11-10,8.0,7.0,0
+Marquette,Bethune Cookman,92.0,59.0,2018-11-10,26.0,33.0,1
+Georgetown,Central Connecticut,85.0,78.0,2018-11-10,18.0,7.0,0
+Alabama,Appalachian St.,81.0,73.0,2018-11-11,14.0,8.0,0
+Marshall,Hofstra,76.0,72.0,2018-11-11,7.5,4.0,0
+Virginia,George Washington,76.0,57.0,2018-11-11,25.5,19.0,0
+UCF,Florida Atlantic,79.0,80.0,2018-11-11,19.5,-1.0,0
+Iowa,Green Bay,93.0,82.0,2018-11-11,19.5,11.0,0
+Rutgers,Drexel,95.0,66.0,2018-11-11,13.0,29.0,1
+SMU,Southern Miss,64.0,74.0,2018-11-11,11.0,-10.0,0
+North Dakota St.,UC Santa Barbara,82.0,63.0,2018-11-11,1.0,19.0,1
+South Florida,Austin Peay,74.0,70.0,2018-11-12,1.0,4.0,1
+Charleston,Rhode Island,66.0,55.0,2018-11-13,2.0,11.0,1
+Georgia Southern,George Mason,98.0,89.0,2018-11-13,3.5,9.0,1
+LSU,Memphis,85.0,76.0,2018-11-13,11.0,9.0,0
+Massachusetts,Harvard,71.0,74.0,2018-11-13,3.5,-3.0,0
+Oakland,Western Michigan,77.0,85.0,2018-11-13,4.0,-8.0,0
+Temple,Georgia,81.0,77.0,2018-11-13,3.5,4.0,1
+FIU,Milwaukee,86.0,83.0,2018-11-13,5.0,3.0,0
+Colorado,Drake,100.0,71.0,2018-11-13,13.5,29.0,1
+Tulane,Coastal Carolina,81.0,76.0,2018-11-13,4.5,5.0,1
+Illinois,Georgetown,80.0,88.0,2018-11-13,6.0,-8.0,0
+Loyola Marymount,Cal St. Northridge,79.0,64.0,2018-11-13,14.0,15.0,1
+Tennessee,Georgia Tech,66.0,53.0,2018-11-13,15.5,13.0,0
+UNLV,UC Riverside,72.0,51.0,2018-11-13,11.5,21.0,1
+UNC Wilmington,UNC Greensboro,61.0,82.0,2018-11-13,-6.0,-21.0,0
+Georgia St.,Mercer,62.0,60.0,2018-11-13,11.0,2.0,0
+Tennessee St.,Little Rock,67.0,83.0,2018-11-13,6.0,-16.0,0
+New Mexico,Iona,90.0,83.0,2018-11-13,7.0,7.0,2
+Northern Colorado,Pepperdine,88.0,80.0,2018-11-13,9.5,8.0,0
+Miami FL,Stephen F. Austin,96.0,58.0,2018-11-13,-21.5,38.0,1
+Providence,Holy Cross,70.0,61.0,2018-11-13,-9.5,9.0,1
+Central Connecticut,UMass Lowell,86.0,74.0,2018-11-13,14.5,12.0,0
+Louisville,Southern,104.0,54.0,2018-11-13,19.5,50.0,1
+California,Hampton,80.0,66.0,2018-11-13,7.0,14.0,1
+Villanova,Michigan,46.0,73.0,2018-11-14,7.0,-27.0,0
+Wright St.,Toledo,84.0,74.0,2018-11-14,3.0,10.0,1
+Duke,Eastern Michigan,84.0,46.0,2018-11-14,22.5,38.0,1
+Boston College,IUPUI,69.0,76.0,2018-11-14,16.5,-7.0,0
+Michigan St.,Louisiana Monroe,80.0,59.0,2018-11-14,25.0,21.0,0
+Colorado St.,Montana St.,81.0,77.0,2018-11-14,11.0,4.0,0
+Creighton,Ohio St.,60.0,69.0,2018-11-15,-2.5,-9.0,0
+BYU,Oral Roberts,85.0,65.0,2018-11-15,17.5,20.0,1
+Idaho St.,Pacific,76.0,83.0,2018-11-15,-1.5,-7.0,0
+Bowling Green,North Carolina Central,75.0,60.0,2018-11-15,8.5,15.0,1
+Pittsburgh,Central Arkansas,97.0,71.0,2018-11-15,12.0,26.0,1
+Quinnipiac,Hartford,54.0,68.0,2018-11-15,3.0,-14.0,0
+Lipscomb,Belmont,83.0,87.0,2018-11-15,-2.0,-4.0,0
+Kansas,Lafayette,89.0,76.0,2018-11-16,21.5,13.0,0
+LSU,Louisiana Tech,74.0,67.0,2018-11-16,11.0,7.0,0
+Nevada,Little Rock,87.0,59.0,2018-11-16,26.5,28.0,1
+Eastern Washington,Green Bay,78.0,82.0,2018-11-16,6.0,-4.0,0
+South Alabama,Chattanooga,73.0,54.0,2018-11-16,10.0,19.0,1
+Dayton,Purdue Fort Wayne,91.0,80.0,2018-11-16,10.5,11.0,1
+North Carolina,Tennessee Tech,108.0,58.0,2018-11-16,35.5,50.0,1
+Mercer,Tennessee Martin,77.0,60.0,2018-11-16,7.5,17.0,1
+Texas,The Citadel,97.0,69.0,2018-11-16,22.0,28.0,1
+Colorado,Nebraska Omaha,79.0,75.0,2018-11-16,16.5,4.0,0
+Wyoming,Niagara,67.0,72.0,2018-11-16,6.5,-5.0,0
+Baylor,Nicholls St.,81.0,54.0,2018-11-16,19.0,27.0,1
+Tulsa,Cal Baptist,82.0,79.0,2018-11-16,14.0,3.0,0
+Northwestern,Binghamton,82.0,54.0,2018-11-16,20.0,28.0,1
+Georgia,Sam Houston St.,75.0,64.0,2018-11-16,15.0,11.0,0
+Vanderbilt,Alcorn St.,79.0,54.0,2018-11-16,26.0,25.0,0
+La Salle,Drexel,84.0,89.0,2018-11-17,10.0,-5.0,0
+Notre Dame,William & Mary,73.0,64.0,2018-11-17,11.5,9.0,0
+Memphis,Yale,109.0,102.0,2018-11-17,4.5,7.0,1
+Cal St. Northridge,Portland,77.0,80.0,2018-11-17,-3.0,-3.0,2
+Villanova,Furman,68.0,76.0,2018-11-17,16.0,-8.0,0
+Eastern Illinois,Western Illinois,68.0,66.0,2018-11-17,1.5,2.0,1
+Duquesne,Radford,69.0,64.0,2018-11-17,-1.0,5.0,1
+Pittsburgh,North Alabama,71.0,66.0,2018-11-17,19.0,5.0,0
+Fairfield,Wagner,73.0,79.0,2018-11-17,4.0,-6.0,0
+Marquette,Presbyterian,74.0,55.0,2018-11-17,23.0,19.0,0
+Miami FL,Bethune Cookman,78.0,70.0,2018-11-17,26.5,8.0,0
+N.C. State,Maine,82.0,63.0,2018-11-17,33.5,19.0,0
+Winthrop,East Tennessee St.,74.0,76.0,2018-11-17,1.0,-2.0,0
+Eastern Michigan,Boston University,80.0,62.0,2018-11-17,7.0,18.0,1
+Rice,Northwestern St.,102.0,74.0,2018-11-17,8.5,28.0,1
+Lamar,Prairie View A&M,74.0,67.0,2018-11-17,4.0,7.0,1
+Wright St.,North Florida,89.0,72.0,2018-11-17,10.0,17.0,1
+Texas A&M Corpus Chris,UC Davis,54.0,57.0,2018-11-17,-6.0,-3.0,1
+Army,UMass Lowell,85.0,92.0,2018-11-17,6.5,-7.0,0
+Canisius,Albany,66.0,75.0,2018-11-17,9.5,-9.0,0
+Northern Kentucky,Coastal Carolina,89.0,83.0,2018-11-18,9.5,6.0,0
+Oklahoma,Wofford,75.0,64.0,2018-11-18,10.0,11.0,1
+Cleveland St.,Samford,60.0,73.0,2018-11-18,2.0,-13.0,0
+Kentucky,VMI,92.0,82.0,2018-11-18,33.0,10.0,0
+Michigan St.,Tennessee Tech,101.0,33.0,2018-11-18,33.0,68.0,1
+Hawaii,Northern Arizona,85.0,68.0,2018-11-18,9.5,17.0,1
+Evansville,Texas Southern,85.0,63.0,2018-11-18,4.0,22.0,1
+UMass Lowell,Sacred Heart,94.0,90.0,2018-11-18,2.0,4.0,1
+Ohio St.,South Carolina St.,89.0,61.0,2018-11-18,32.0,28.0,0
+Navy,Bryant,83.0,79.0,2018-11-18,8.0,4.0,0
+Lafayette,St. Francis NY,72.0,84.0,2018-11-18,5.5,-12.0,0
+Chattanooga,Jacksonville,66.0,74.0,2018-11-18,1.0,-8.0,0
+Troy,Central Arkansas,82.0,77.0,2018-11-18,9.5,5.0,0
+Seattle,Southern Utah,70.0,73.0,2018-11-18,4.5,-3.0,0
+Brown,Army,86.0,66.0,2018-11-18,4.0,20.0,1
+Maryland,Mount St. Mary's,92.0,77.0,2018-11-18,26.0,15.0,0
+Kent St.,Alcorn St.,79.0,48.0,2018-11-18,16.0,31.0,1
+San Francisco,LIU,84.0,52.0,2018-11-18,16.5,32.0,1
+Cincinnati,Western Michigan,78.0,52.0,2018-11-19,17.5,26.0,1
+Rutgers,Eastern Michigan,63.0,36.0,2018-11-19,4.5,27.0,1
+Tulsa,Little Rock,88.0,78.0,2018-11-19,12.0,10.0,0
+Washington St.,Cal Poly,84.0,70.0,2018-11-19,11.5,14.0,1
+Florida Gulf Coast,Toledo,62.0,90.0,2018-11-19,-2.0,-28.0,0
+Detroit,Loyola MD,91.0,63.0,2018-11-19,2.0,28.0,1
+Florida St.,Canisius,93.0,61.0,2018-11-19,17.0,32.0,1
+South Alabama,Southeast Missouri St.,79.0,58.0,2018-11-19,6.5,21.0,1
+Sam Houston St.,Jackson St.,75.0,60.0,2018-11-19,11.5,15.0,1
+Rider,Coppin St.,87.0,67.0,2018-11-19,23.5,20.0,0
+Marshall,North Carolina A&T,95.0,71.0,2018-11-19,23.0,24.0,1
+North Carolina,St. Francis PA,101.0,76.0,2018-11-19,26.0,25.0,0
+Notre Dame,Duquesne,67.0,56.0,2018-11-20,9.0,11.0,1
+San Diego,Colorado,70.0,64.0,2018-11-20,4.0,6.0,1
+Detroit,Bowling Green,82.0,67.0,2018-11-20,-3.0,15.0,1
+SMU,Bradley,62.0,75.0,2018-11-20,2.0,-13.0,0
+Penn St.,Wright St.,77.0,59.0,2018-11-20,7.0,18.0,1
+N.C. State,Saint Peter's,85.0,57.0,2018-11-20,21.5,28.0,1
+James Madison,The Citadel,82.0,91.0,2018-11-20,7.5,-9.0,0
+Ohio St.,Samford,68.0,50.0,2018-11-20,23.5,18.0,0
+Cal St. Northridge,Tennessee St.,80.0,77.0,2018-11-20,0.0,3.0,1
+UC Davis,Sacramento St.,55.0,58.0,2018-11-20,2.0,-3.0,0
+Kent St.,None,104.0,84.0,2018-11-20,19.0,20.0,1
+Mississippi,Nicholls St.,75.0,55.0,2018-11-20,18.5,20.0,1
+Albany,Holy Cross,65.0,69.0,2018-11-20,-1.0,-4.0,0
+George Mason,North Carolina Central,78.0,63.0,2018-11-20,10.5,15.0,1
+Wagner,NJIT,60.0,71.0,2018-11-20,3.5,-11.0,0
+William & Mary,Radford,72.0,81.0,2018-11-20,2.5,-9.0,0
+New Hampshire,Quinnipiac,63.0,69.0,2018-11-20,-2.0,-6.0,0
+Mississippi Valley St.,Southeastern Louisiana,69.0,59.0,2018-11-20,-6.5,10.0,1
+Mercer,Maryland Eastern Shore,80.0,42.0,2018-11-20,15.0,38.0,1
+Morgan St.,Navy,75.0,51.0,2018-11-20,-3.0,24.0,1
+Bethune Cookman,Nebraska Omaha,56.0,76.0,2018-11-20,0.0,-20.0,0
+Purdue Fort Wayne,South Carolina St.,72.0,68.0,2018-11-20,16.5,4.0,0
+Milwaukee,LIU,92.0,87.0,2018-11-20,3.0,5.0,1
+TCU,Lipscomb,64.0,73.0,2018-11-20,12.5,-9.0,0
+North Texas,Maine,74.0,63.0,2018-11-20,19.5,11.0,0
+Stephen F. Austin,Marist,64.0,60.0,2018-11-20,8.5,4.0,0
+Pittsburgh,Saint Louis,75.0,73.0,2018-11-21,-4.0,2.0,1
+Buffalo,Dartmouth,110.0,71.0,2018-11-21,18.5,39.0,1
+Hofstra,Cal St. Fullerton,80.0,71.0,2018-11-21,4.5,9.0,1
+Washington,Minnesota,66.0,68.0,2018-11-21,1.0,-2.0,0
+BYU,Rice,105.0,78.0,2018-11-21,17.5,27.0,1
+San Francisco,Harvard,61.0,57.0,2018-11-21,6.0,4.0,0
+Florida Gulf Coast,UTSA,65.0,76.0,2018-11-21,2.5,-11.0,0
+Portland,USC Upstate,73.0,56.0,2018-11-21,9.5,17.0,1
+Tennessee Martin,Western Illinois,92.0,90.0,2018-11-21,2.5,2.0,0
+Valparaiso,SIU Edwardsville,75.0,70.0,2018-11-21,15.0,5.0,0
+Arkansas,Montana St.,90.0,68.0,2018-11-21,21.0,22.0,1
+Kentucky,Winthrop,87.0,74.0,2018-11-21,21.0,13.0,0
+Drexel,Boston University,86.0,67.0,2018-11-21,0.0,19.0,1
+Mount St. Mary's,North Carolina A&T,60.0,74.0,2018-11-21,5.5,-14.0,0
+Siena,Lehigh,69.0,80.0,2018-11-21,-1.5,-11.0,0
+Wofford,Coppin St.,98.0,65.0,2018-11-21,-23.5,33.0,1
+Princeton,Fairleigh Dickinson,66.0,77.0,2018-11-21,9.5,-11.0,0
+East Carolina,Prairie View A&M,76.0,64.0,2018-11-21,3.0,12.0,1
+Vermont,Yale,79.0,70.0,2018-11-21,3.5,9.0,1
+UMKC,Drake,63.0,66.0,2018-11-21,-1.0,-3.0,0
+Syracuse,Colgate,77.0,56.0,2018-11-21,17.5,21.0,1
+South Florida,Florida A&M,69.0,59.0,2018-11-21,14.5,10.0,0
+Georgia Tech,UT Rio Grande Valley,72.0,44.0,2018-11-21,17.5,28.0,1
+Incarnate Word,Northern Colorado,64.0,90.0,2018-11-21,-9.5,-26.0,0
+Iowa,Alabama St.,105.0,78.0,2018-11-21,26.5,27.0,1
+Loyola Marymount,Central Connecticut,76.0,74.0,2018-11-21,12.0,2.0,0
+Wisconsin,Oklahoma,78.0,58.0,2018-11-22,4.5,20.0,1
+Virginia,Dayton,66.0,59.0,2018-11-22,13.0,7.0,0
+Stanford,Florida,49.0,72.0,2018-11-22,-6.5,-23.0,0
+Middle Tennessee,Butler,53.0,84.0,2018-11-22,-11.5,-31.0,0
+Pacific,UC Riverside,74.0,54.0,2018-11-22,13.0,20.0,1
+Maryland,Marshall,104.0,67.0,2018-11-23,7.5,37.0,1
+Indiana,UC Davis,76.0,62.0,2018-11-23,22.0,14.0,0
+Old Dominion,Northern Iowa,72.0,65.0,2018-11-23,7.0,7.0,2
+Texas A&M,South Alabama,74.0,62.0,2018-11-23,12.5,12.0,0
+Arkansas,UT Arlington,78.0,60.0,2018-11-23,15.5,18.0,1
+Ohio St.,Cleveland St.,89.0,62.0,2018-11-23,26.0,27.0,1
+Vanderbilt,Kent St.,75.0,77.0,2018-11-23,12.5,-2.0,0
+St. Francis NY,IUPUI,48.0,68.0,2018-11-23,-5.5,-20.0,0
+Portland,Cal Poly,72.0,67.0,2018-11-23,9.0,5.0,0
+Seattle,Denver,82.0,63.0,2018-11-23,2.0,19.0,1
+Pacific,Abilene Christian,71.0,73.0,2018-11-23,5.5,-2.0,0
+Michigan,Chattanooga,83.0,55.0,2018-11-23,32.0,28.0,0
+Portland St.,UC Santa Barbara,69.0,76.0,2018-11-23,-2.0,-7.0,0
+Kentucky,Tennessee St.,77.0,62.0,2018-11-23,28.0,15.0,0
+Purdue Fort Wayne,Samford,66.0,74.0,2018-11-23,5.0,-8.0,0
+Delaware,UNC Greensboro,65.0,84.0,2018-11-23,-5.0,-19.0,0
+Tennessee Tech,Louisiana Monroe,79.0,73.0,2018-11-23,-4.5,6.0,1
+UNLV,Southern Utah,76.0,71.0,2018-11-23,10.5,5.0,0
+Stetson,VMI,79.0,87.0,2018-11-23,-1.5,-8.0,0
+Arkansas Pine Bluff,Cal Baptist,115.0,107.0,2018-11-23,-9.0,8.0,1
+Purdue,Robert Morris,84.0,46.0,2018-11-23,25.0,38.0,1
+Rutgers,Boston University,54.0,44.0,2018-11-23,12.0,10.0,0
+Liberty,Alcorn St.,76.0,54.0,2018-11-23,19.0,22.0,1
+Wake Forest,Houston Baptist,91.0,93.0,2018-11-23,16.0,-2.0,0
+Charleston Southern,Coppin St.,93.0,67.0,2018-11-23,13.0,26.0,1
+Georgia Tech,Prairie View A&M,65.0,54.0,2018-11-23,16.5,11.0,0
+Little Rock,Howard,97.0,76.0,2018-11-23,7.0,21.0,1
+Northwestern St.,Alabama A&M,70.0,66.0,2018-11-23,7.0,4.0,0
+Milwaukee,Albany,79.0,70.0,2018-11-23,2.0,9.0,1
+UT Rio Grande Valley,Lamar,77.0,75.0,2018-11-23,1.0,2.0,1
+Notre Dame,DePaul,95.0,70.0,2018-11-25,4.5,25.0,1
+Davidson,Northeastern,78.0,69.0,2018-11-24,6.0,9.0,1
+Ball St.,Evansville,82.0,72.0,2018-11-24,10.5,10.0,0
+Eastern Michigan,Detroit,74.0,78.0,2018-11-24,10.0,-4.0,0
+Indiana St.,Western Kentucky,63.0,54.0,2018-11-24,-3.5,9.0,1
+VCU,Hofstra,69.0,67.0,2018-11-24,4.5,2.0,0
+William & Mary,Saint Joseph's,87.0,85.0,2018-11-24,-4.0,2.0,1
+Air Force,Colorado,56.0,93.0,2018-11-24,-5.5,-37.0,0
+UCF,Northern Kentucky,66.0,53.0,2018-11-24,11.5,13.0,1
+San Jose St.,Santa Clara,63.0,71.0,2018-11-24,1.5,-8.0,0
+West Virginia,Valparaiso,88.0,76.0,2018-11-24,16.0,12.0,0
+New Mexico,UTEP,84.0,78.0,2018-11-24,14.5,6.0,0
+BYU,Houston,62.0,76.0,2018-11-24,1.0,-14.0,0
+Saint Mary's,Harvard,68.0,74.0,2018-11-24,8.5,-6.0,0
+San Francisco,Dartmouth,84.0,65.0,2018-11-24,17.0,19.0,1
+St. Francis NY,Niagara,75.0,63.0,2018-11-24,-7.5,12.0,1
+Portland,Texas St.,68.0,91.0,2018-11-24,-0.0,-23.0,0
+Seattle,Fairfield,83.0,80.0,2018-11-24,7.0,3.0,0
+Pacific,Elon,65.0,57.0,2018-11-24,9.5,8.0,0
+N.C. State,Mercer,78.0,74.0,2018-11-24,17.5,4.0,0
+Buffalo,Marist,76.0,49.0,2018-11-24,16.5,27.0,1
+Nebraska,Western Illinois,73.0,49.0,2018-11-24,22.5,24.0,1
+Ohio,Austin Peay,85.0,82.0,2018-11-24,4.5,3.0,0
+Monmouth,Princeton,57.0,60.0,2018-11-24,-2.0,-3.0,0
+George Washington,Manhattan,70.0,43.0,2018-11-24,6.0,27.0,1
+Providence,Iona,91.0,79.0,2018-11-24,11.0,12.0,1
+East Tennessee St.,North Dakota St.,79.0,61.0,2018-11-24,8.0,18.0,1
+North Texas,Saint Peter's,75.0,66.0,2018-11-24,12.0,9.0,0
+Texas Tech,Northern Colorado,93.0,62.0,2018-11-24,16.5,31.0,1
+UNC Greensboro,Louisiana Tech,80.0,73.0,2018-11-24,3.5,7.0,1
+Murray St.,Missouri St.,77.0,66.0,2018-11-24,8.5,11.0,1
+Idaho,UC Santa Barbara,55.0,66.0,2018-11-24,-6.5,-11.0,0
+Sacramento St.,Cal St. Fullerton,87.0,82.0,2018-11-24,-4.0,5.0,1
+Troy,North Alabama,77.0,58.0,2018-11-24,13.0,19.0,1
+Virginia Tech,St. Francis PA,75.0,37.0,2018-11-24,20.0,38.0,1
+UMBC,American,69.0,73.0,2018-11-24,3.0,-4.0,0
+Western Carolina,Jacksonville,77.0,65.0,2018-11-24,1.0,12.0,1
+Alcorn St.,None,75.0,80.0,2018-11-24,1.5,-5.0,0
+Miami OH,Army,85.0,55.0,2018-11-24,8.0,30.0,1
+Rhode Island,Stony Brook,58.0,68.0,2018-11-24,9.0,-10.0,0
+Siena,Colgate,79.0,84.0,2018-11-24,0.0,-5.0,0
+Bradley,Chicago St.,86.0,70.0,2018-11-24,25.5,16.0,0
+LIU,NJIT,70.0,77.0,2018-11-24,1.0,-7.0,0
+Kennesaw St.,Belmont,53.0,91.0,2018-11-24,-13.0,-38.0,0
+Saint Louis,Central Arkansas,73.0,61.0,2018-11-24,16.5,12.0,0
+Wagner,Rider,65.0,89.0,2018-11-24,-4.5,-24.0,0
+Binghamton,Sacred Heart,78.0,73.0,2018-11-24,4.0,5.0,1
+Kansas St.,Lehigh,77.0,58.0,2018-11-24,16.0,19.0,1
+Little Rock,Arkansas Pine Bluff,66.0,75.0,2018-11-24,3.0,-9.0,0
+Utah Valley,North Dakota,74.0,68.0,2018-11-24,8.0,6.0,0
+San Diego,Jackson St.,76.0,58.0,2018-11-24,24.5,18.0,0
+Loyola Marymount,Florida A&M,71.0,63.0,2018-11-24,20.5,8.0,0
+Washington St.,Delaware St.,80.0,52.0,2018-11-24,22.5,28.0,1
+Bowling Green,Drexel,81.0,71.0,2018-11-25,6.5,10.0,1
+Wichita St.,Rice,90.0,61.0,2018-11-25,15.0,29.0,1
+Long Beach St.,Oregon St.,72.0,75.0,2018-11-25,-7.5,-3.0,1
+Seattle,Longwood,70.0,50.0,2018-11-25,10.5,20.0,1
+Cleveland St.,Purdue Fort Wayne,79.0,82.0,2018-11-25,-2.5,-3.0,0
+Duquesne,UMass Lowell,83.0,71.0,2018-11-25,13.0,12.0,0
+Morgan St.,Mount St. Mary's,78.0,68.0,2018-11-25,3.0,10.0,1
+Illinois,Mississippi Valley St.,86.0,67.0,2018-11-25,25.0,19.0,0
+Liberty,None,82.0,56.0,2018-11-25,21.0,26.0,1
+Vermont,Bucknell,61.0,69.0,2018-11-25,11.0,-8.0,0
+Quinnipiac,Maine,58.0,50.0,2018-11-25,8.5,8.0,0
+Fordham,Alabama A&M,77.0,46.0,2018-11-25,14.5,31.0,1
+Morehead St.,Lipscomb,55.0,87.0,2018-11-25,-3.5,-32.0,0
+Fairleigh Dickinson,Lafayette,76.0,80.0,2018-11-25,7.0,-4.0,0
+SIU Edwardsville,Incarnate Word,80.0,68.0,2018-11-25,7.0,12.0,1
+Florida Atlantic,Florida Gulf Coast,85.0,68.0,2018-11-25,2.5,17.0,1
+UNC Asheville,Furman,51.0,65.0,2018-11-25,-14.0,-14.0,2
+Towson,Loyola MD,85.0,69.0,2018-11-25,4.0,16.0,1
+Brown,Bryant,84.0,60.0,2018-11-25,11.5,24.0,1
+Richmond,Hampton,66.0,86.0,2018-11-25,10.0,-20.0,0
+USC,Cal St. Bakersfield,90.0,75.0,2018-11-25,14.0,15.0,1
+Samford,South Carolina St.,77.0,60.0,2018-11-25,14.0,17.0,1
+Clemson,Nebraska,66.0,68.0,2018-11-26,3.5,-2.0,0
+Delaware,Louisiana Tech,75.0,71.0,2018-11-26,-3.0,4.0,1
+TCU,Eastern Michigan,87.0,69.0,2018-11-26,13.5,18.0,1
+Boston College,Minnesota,68.0,56.0,2018-11-26,1.0,12.0,1
+California,Santa Clara,78.0,66.0,2018-11-26,7.0,12.0,1
+South Carolina,Wofford,61.0,81.0,2018-11-26,8.0,-20.0,0
+Iowa St.,Nebraska Omaha,82.0,55.0,2018-11-26,19.0,27.0,1
+Alabama,Murray St.,78.0,72.0,2018-11-26,8.5,6.0,0
+Gonzaga,North Dakota St.,102.0,60.0,2018-11-26,26.5,42.0,1
+Pepperdine,Idaho St.,97.0,82.0,2018-11-26,6.5,15.0,1
+Bethune Cookman,Stetson,84.0,74.0,2018-11-26,8.0,10.0,1
+Mississippi St.,Alcorn St.,88.0,65.0,2018-11-26,32.0,23.0,0
+Houston Baptist,UTSA,82.0,86.0,2018-11-26,-4.0,-4.0,2
+UT Rio Grande Valley,Texas A&M Corpus Chris,68.0,59.0,2018-11-26,4.0,9.0,1
+Oregon,Texas Southern,84.0,89.0,2018-11-26,24.0,-5.0,0
+Davidson,Charlotte,76.0,56.0,2018-11-27,18.0,20.0,1
+UNC Wilmington,East Carolina,95.0,86.0,2018-11-27,7.0,9.0,1
+Notre Dame,Illinois,76.0,74.0,2018-11-27,5.5,2.0,0
+Penn St.,Virginia Tech,63.0,62.0,2018-11-27,-1.5,1.0,1
+Louisville,Michigan St.,82.0,78.0,2018-11-27,-5.0,4.0,1
+Drake,Boise St.,83.0,74.0,2018-11-27,-4.0,9.0,1
+Loyola Chicago,Nevada,65.0,79.0,2018-11-27,-5.5,-14.0,0
+Oklahoma,North Texas,73.0,57.0,2018-11-27,9.0,16.0,1
+Tulsa,UT Arlington,72.0,58.0,2018-11-27,8.0,14.0,1
+Colorado St.,Southern Illinois,67.0,82.0,2018-11-27,-1.5,-15.0,0
+Iowa,Pittsburgh,69.0,68.0,2018-11-27,12.5,1.0,0
+Missouri,Temple,77.0,79.0,2018-11-27,3.5,-2.0,0
+Wisconsin,N.C. State,79.0,75.0,2018-11-27,8.5,4.0,0
+Duke,Indiana,90.0,69.0,2018-11-27,14.5,21.0,1
+Washington St.,Cal St. Northridge,103.0,94.0,2018-11-27,12.5,9.0,0
+Georgia Southern,East Tennessee St.,64.0,69.0,2018-11-27,4.0,-5.0,0
+Ohio,Iona,89.0,65.0,2018-11-27,-1.0,24.0,1
+Wake Forest,Western Carolina,71.0,64.0,2018-11-27,15.5,7.0,0
+Morehead St.,Northern Kentucky,71.0,93.0,2018-11-27,-4.5,-22.0,0
+Baylor,South Dakota,63.0,57.0,2018-11-27,12.0,6.0,0
+Montana St.,North Dakota,81.0,76.0,2018-11-27,-1.0,5.0,1
+Washington,Eastern Washington,83.0,59.0,2018-11-27,16.5,24.0,1
+Sacred Heart,Hartford,98.0,89.0,2018-11-27,-3.5,9.0,1
+St. John's,Maryland Eastern Shore,85.0,64.0,2018-11-27,29.5,21.0,0
+Cincinnati,Arkansas Pine Bluff,105.0,49.0,2018-11-27,27.5,56.0,1
+Florida,North Florida,98.0,66.0,2018-11-27,18.5,32.0,1
+Norfolk St.,Stony Brook,73.0,79.0,2018-11-27,-3.5,-6.0,0
+Connecticut,UMass Lowell,97.0,75.0,2018-11-27,17.0,22.0,1
+The Citadel,High Point,112.0,87.0,2018-11-27,3.0,25.0,1
+VMI,American,64.0,74.0,2018-11-27,-2.5,-10.0,0
+Georgia,Kennesaw St.,84.0,51.0,2018-11-27,19.0,33.0,1
+Northwestern St.,Louisiana Monroe,52.0,80.0,2018-11-27,-7.5,-28.0,0
+Delaware St.,Penn,48.0,76.0,2018-11-27,-19.5,-28.0,0
+Marquette,Charleston Southern,76.0,55.0,2018-11-27,19.5,21.0,1
+SMU,Lamar,79.0,65.0,2018-11-27,13.5,14.0,1
+Liberty,North Florida,70.0,64.0,2018-11-09,10.5,6.0,0
+Lehigh,Bucknell,83.0,85.0,2018-11-09,3.0,-2.0,0
+Gardner Webb,Hampton,87.0,74.0,2018-11-09,6.5,13.0,1
+Houston Baptist,Sam Houston St.,65.0,71.0,2018-11-09,1.0,-6.0,0
+Texas Southern,Grambling St.,87.0,88.0,2018-11-09,9.5,-1.0,0
+Utah Valley,New Mexico St.,78.0,83.0,2018-11-09,-1.0,-5.0,0
+Grand Canyon,UMKC,78.0,50.0,2018-11-09,11.5,28.0,1
+Seattle,UT Rio Grande Valley,62.0,67.0,2018-11-09,7.0,-5.0,0
+Cal St. Bakersfield,Chicago St.,86.0,73.0,2018-11-09,20.5,13.0,0
+Boston College,Florida St.,87.0,82.0,2018-12-00,-6.0,5.0,1
+Marquette,Providence,79.0,68.0,2018-12-00,5.5,11.0,1
+Iowa,Illinois,95.0,71.0,2018-12-00,9.0,24.0,1
+George Washington,Duquesne,85.0,91.0,2018-12-00,-3.0,-6.0,0
+Drake,Missouri St.,74.0,63.0,2018-12-00,6.5,11.0,1
+Southern Illinois,Bradley,54.0,57.0,2018-12-00,8.0,-3.0,0
+Utah,Colorado,78.0,69.0,2018-12-00,2.0,9.0,1
+Monmouth,Iona,83.0,81.0,2018-12-00,1.0,2.0,1
+Denver,Oral Roberts,74.0,58.0,2018-12-00,3.0,16.0,1
+Nebraska Omaha,South Dakota,75.0,68.0,2018-12-00,5.5,7.0,1
+Charlotte,Old Dominion,70.0,76.0,2018-12-01,-7.0,-6.0,1
+Michigan St.,Maryland,69.0,55.0,2018-12-01,9.5,14.0,1
+North Carolina,Virginia Tech,103.0,82.0,2018-12-01,4.0,21.0,1
+Rutgers,Nebraska,76.0,69.0,2018-12-01,-10.5,7.0,1
+Georgetown,Creighton,87.0,91.0,2018-12-01,1.0,-4.0,0
+Western Kentucky,Marshall,68.0,59.0,2018-12-01,5.0,9.0,1
+West Virginia,Baylor,73.0,85.0,2018-12-01,2.0,-12.0,0
+Kansas,Iowa St.,80.0,76.0,2018-12-01,4.5,4.0,0
+Manhattan,Marist,46.0,62.0,2018-12-01,-1.0,-16.0,0
+Idaho St.,Northern Colorado,53.0,77.0,2018-12-01,-1.5,-24.0,0
+Fairleigh Dickinson,Mount St. Mary's,87.0,69.0,2018-12-01,8.0,18.0,1
+Winthrop,UNC Asheville,66.0,45.0,2018-12-01,22.0,21.0,0
+LIU,St. Francis NY,70.0,79.0,2018-12-01,4.0,-9.0,0
+Sacred Heart,Wagner,62.0,38.0,2018-12-01,3.5,24.0,1
+Central Connecticut,Robert Morris,59.0,70.0,2018-12-01,3.0,-11.0,0
+Bethune Cookman,Maryland Eastern Shore,89.0,68.0,2018-12-01,12.5,21.0,1
+USC Upstate,Presbyterian,59.0,68.0,2018-12-01,-3.0,-9.0,0
+North Carolina Central,Morgan St.,92.0,64.0,2018-12-01,3.5,28.0,1
+Bryant,St. Francis PA,76.0,67.0,2018-12-01,-3.5,9.0,1
+Prairie View A&M,Grambling St.,83.0,66.0,2018-12-01,4.0,17.0,1
+Longwood,Radford,61.0,72.0,2018-12-01,-4.5,-11.0,0
+Texas Southern,Jackson St.,75.0,65.0,2018-12-01,12.0,10.0,0
+North Florida,NJIT,72.0,76.0,2018-12-01,5.0,-4.0,0
+Florida Gulf Coast,Stetson,87.0,65.0,2018-12-01,10.5,22.0,1
+South Carolina St.,Norfolk St.,69.0,74.0,2018-12-01,0.0,-5.0,0
+North Carolina A&T,Coppin St.,80.0,71.0,2018-12-01,11.5,9.0,0
+Lipscomb,Kennesaw St.,86.0,57.0,2018-12-01,29.0,29.0,2
+Florida A&M,Delaware St.,60.0,47.0,2018-12-01,11.5,13.0,1
+Southern,Mississippi Valley St.,80.0,56.0,2018-12-01,7.5,24.0,1
+Alcorn St.,Arkansas Pine Bluff,74.0,69.0,2018-12-01,-3.5,5.0,1
+South Carolina,Auburn,80.0,77.0,2018-12-02,-7.0,3.0,1
+Kentucky,Mississippi St.,76.0,55.0,2018-12-02,6.5,21.0,1
+Ball St.,Miami OH,65.0,71.0,2018-12-02,9.0,-6.0,0
+Butler,Villanova,72.0,80.0,2018-12-02,1.5,-8.0,0
+Ohio,Western Michigan,81.0,76.0,2018-12-02,6.0,5.0,0
+Eastern Michigan,Bowling Green,67.0,80.0,2018-12-02,1.5,-13.0,0
+Akron,Central Michigan,70.0,67.0,2018-12-02,6.0,3.0,0
+Kent St.,Toledo,87.0,85.0,2018-12-02,-2.5,2.0,1
+Florida St.,Clemson,77.0,68.0,2018-12-02,5.5,9.0,1
+Kansas St.,Texas Tech,58.0,45.0,2018-12-02,0.0,13.0,1
+Georgia Tech,Notre Dame,63.0,61.0,2018-12-02,1.5,2.0,1
+Michigan,Minnesota,59.0,57.0,2018-12-02,13.0,2.0,0
+Northern Illinois,Buffalo,77.0,75.0,2018-12-02,-8.5,2.0,1
+South Florida,Wichita St.,54.0,41.0,2018-12-02,3.5,13.0,1
+Florida,Texas A&M,81.0,72.0,2018-12-02,11.0,9.0,0
+Virginia,Wake Forest,68.0,45.0,2018-12-02,24.0,23.0,0
+Pittsburgh,Duke,64.0,79.0,2018-12-02,-12.0,-15.0,0
+Northwestern,Indiana,73.0,66.0,2018-12-02,0.0,7.0,1
+Alabama,Mississippi,74.0,53.0,2018-12-02,1.0,21.0,1
+Air Force,Boise St.,74.0,60.0,2018-12-02,-3.5,14.0,1
+UNLV,New Mexico,74.0,58.0,2018-12-02,4.5,16.0,1
+Fresno St.,San Diego St.,66.0,62.0,2018-12-02,9.0,4.0,0
+Niagara,Saint Peter's,72.0,74.0,2018-12-02,3.5,-2.0,0
+Xavier,Providence,62.0,64.0,2018-12-03,3.5,-2.0,0
+Ohio St.,Purdue,67.0,79.0,2018-12-03,-1.5,-12.0,0
+Massachusetts,St. Bonaventure,51.0,65.0,2018-12-03,3.0,-14.0,0
+Fordham,La Salle,71.0,73.0,2018-12-03,4.0,-2.0,0
+Davidson,George Washington,73.0,62.0,2018-12-03,15.5,11.0,0
+Saint Joseph's,Richmond,74.0,70.0,2018-12-03,3.5,4.0,1
+TCU,Texas,65.0,61.0,2018-12-03,5.0,4.0,0
+Indiana St.,Valparaiso,70.0,53.0,2018-12-03,3.0,17.0,1
+Dayton,George Mason,63.0,67.0,2018-12-03,6.5,-4.0,0
+Rhode Island,VCU,71.0,65.0,2018-12-03,-1.0,6.0,1
+Bradley,Illinois St.,85.0,68.0,2018-12-03,0.0,17.0,1
+Vanderbilt,Tennessee,83.0,88.0,2018-12-03,-11.5,-5.0,1
+LSU,Georgia,92.0,82.0,2018-12-03,12.0,10.0,0
+Florida Atlantic,FIU,74.0,78.0,2018-12-03,1.0,-4.0,0
+Duquesne,Saint Louis,77.0,73.0,2018-12-03,-2.0,4.0,1
+Southern Illinois,Northern Iowa,70.0,62.0,2018-12-03,6.5,8.0,1
+Drake,Evansville,78.0,66.0,2018-12-03,7.0,12.0,1
+Houston,East Carolina,94.0,50.0,2018-12-03,19.0,44.0,1
+Tulane,UCF,50.0,75.0,2018-12-03,-13.0,-25.0,0
+Marquette,DePaul,79.0,69.0,2018-12-03,10.5,10.0,0
+Arkansas,Missouri,72.0,60.0,2018-12-03,4.5,12.0,1
+Missouri St.,Loyola Chicago,70.0,35.0,2018-12-03,-5.5,35.0,1
+Oklahoma St.,Oklahoma,61.0,70.0,2018-12-03,-3.0,-9.0,0
+Illinois,Wisconsin,60.0,72.0,2018-12-03,-6.0,-12.0,0
+Wyoming,San Jose St.,59.0,46.0,2018-12-03,7.0,13.0,1
+Cal Poly,UC Riverside,51.0,74.0,2018-12-03,1.5,-23.0,0
+Cal St. Northridge,Long Beach St.,86.0,71.0,2018-12-03,-1.0,15.0,1
+Nevada,Colorado St.,100.0,60.0,2018-12-03,19.5,40.0,1
+Hawaii,UC Irvine,74.0,75.0,2018-12-03,-2.0,-1.0,1
+North Dakota,South Dakota,56.0,70.0,2018-12-03,2.0,-14.0,0
+Colgate,Lafayette,57.0,47.0,2018-12-03,12.5,10.0,0
+Army,Holy Cross,76.0,57.0,2018-12-03,-1.0,19.0,1
+Hartford,New Hampshire,74.0,39.0,2018-12-03,14.0,35.0,1
+Navy,Lehigh,74.0,85.0,2018-12-03,-6.0,-11.0,0
+Vermont,UMBC,61.0,74.0,2018-12-03,14.5,-13.0,0
+Binghamton,UMass Lowell,79.0,85.0,2018-12-03,-3.5,-6.0,0
+Bucknell,Loyola MD,71.0,68.0,2018-12-03,13.0,3.0,0
+Albany,Stony Brook,66.0,67.0,2018-12-03,-4.5,-1.0,1
+Northwestern St.,Sam Houston St.,64.0,78.0,2018-12-03,-7.0,-14.0,0
+Stephen F. Austin,Abilene Christian,61.0,60.0,2018-12-03,-1.0,1.0,1
+Houston Baptist,Southeastern Louisiana,67.0,70.0,2018-12-03,5.0,-3.0,0
+Central Arkansas,New Orleans,76.0,71.0,2018-12-03,4.5,5.0,1
+Texas A&M Corpus Chris,Nicholls St.,75.0,73.0,2018-12-03,5.0,2.0,0
+Lamar,Incarnate Word,87.0,81.0,2018-12-03,10.5,6.0,0
+Boston University,American,66.0,70.0,2018-12-03,1.5,-4.0,0
+IUPUI,Oakland,73.0,71.0,2018-12-04,4.0,2.0,0
+Northern Kentucky,Green Bay,87.0,65.0,2018-12-04,11.5,22.0,1
+UNC Wilmington,William & Mary,93.0,88.0,2018-12-04,0.0,5.0,1
+James Madison,Hofstra,68.0,85.0,2018-12-04,-8.0,-17.0,0
+Temple,Memphis,85.0,76.0,2018-12-04,3.5,9.0,1
+Wright St.,Milwaukee,56.0,54.0,2018-12-04,12.0,2.0,0
+Georgia St.,Texas St.,68.0,81.0,2018-12-04,3.0,-13.0,0
+Georgia Southern,UT Arlington,67.0,72.0,2018-12-04,9.5,-5.0,0
+Iowa,Michigan St.,67.0,82.0,2018-12-04,-5.5,-15.0,0
+Charleston,Elon,72.0,53.0,2018-12-04,15.0,19.0,1
+Towson,Northeastern,75.0,72.0,2018-12-04,-8.5,3.0,1
+Cincinnati,Tulsa,88.0,64.0,2018-12-04,13.0,24.0,1
+Little Rock,Coastal Carolina,71.0,72.0,2018-12-04,1.0,-1.0,0
+Syracuse,Miami FL,73.0,53.0,2018-12-04,9.0,20.0,1
+Louisville,N.C. State,84.0,77.0,2018-12-04,5.5,7.0,1
+Louisiana Monroe,Troy,75.0,69.0,2018-12-04,6.0,6.0,2
+Lafayette,South Alabama,88.0,84.0,2018-12-04,9.5,4.0,0
+Southern Miss,Western Kentucky,63.0,66.0,2018-12-04,-1.0,-3.0,0
+Rice,Middle Tennessee,79.0,68.0,2018-12-04,5.0,11.0,1
+Arkansas St.,Appalachian St.,82.0,81.0,2018-12-04,3.0,1.0,0
+North Texas,UAB,49.0,52.0,2018-12-04,6.5,-3.0,0
+UTSA,Charlotte,88.0,43.0,2018-12-04,8.0,45.0,1
+Illinois Chicago,Detroit,79.0,67.0,2018-12-04,4.5,12.0,1
+Louisiana Tech,Marshall,89.0,80.0,2018-12-04,3.5,9.0,1
+UTEP,Old Dominion,48.0,50.0,2018-12-04,-7.0,-2.0,1
+Stanford,Utah,66.0,70.0,2018-12-04,2.5,-4.0,0
+Oregon,Washington,56.0,61.0,2018-12-04,2.5,-5.0,0
+USC,Arizona,80.0,57.0,2018-12-04,0.0,23.0,1
+San Diego,Loyola Marymount,71.0,58.0,2018-12-04,5.5,13.0,1
+Cal St. Fullerton,UC Santa Barbara,81.0,60.0,2018-12-04,-1.0,21.0,1
+San Francisco,Portland,83.0,61.0,2018-12-04,21.5,22.0,1
+BYU,Saint Mary's,71.0,66.0,2018-12-04,-3.0,5.0,1
+UCLA,Arizona St.,73.0,84.0,2018-12-04,1.0,-11.0,0
+Santa Clara,Gonzaga,39.0,98.0,2018-12-04,-20.0,-59.0,0
+Oregon St.,Washington St.,90.0,77.0,2018-12-04,13.0,13.0,2
+California,Colorado,59.0,68.0,2018-12-04,-7.0,-9.0,0
+Wofford,Samford,107.0,106.0,2018-12-04,13.5,1.0,0
+Eastern Kentucky,Jacksonville St.,88.0,70.0,2018-12-04,-5.0,18.0,1
+Canisius,Monmouth,80.0,66.0,2018-12-04,4.5,14.0,1
+UNC Greensboro,The Citadel,83.0,60.0,2018-12-04,13.0,23.0,1
+Furman,Chattanooga,73.0,58.0,2018-12-04,13.5,15.0,1
+Fairfield,Siena,48.0,57.0,2018-12-04,3.0,-9.0,0
+Purdue Fort Wayne,Nebraska Omaha,79.0,85.0,2018-12-04,3.5,-6.0,0
+Mercer,VMI,88.0,68.0,2018-12-04,13.0,20.0,1
+Morehead St.,Tennessee Tech,67.0,61.0,2018-12-04,9.5,6.0,0
+South Dakota St.,North Dakota St.,87.0,69.0,2018-12-04,12.5,18.0,1
+Southeast Missouri St.,SIU Edwardsville,86.0,87.0,2018-12-04,4.5,-1.0,0
+Tennessee Martin,Eastern Illinois,64.0,66.0,2018-12-04,1.5,-2.0,0
+Austin Peay,Tennessee St.,89.0,74.0,2018-12-04,14.0,15.0,1
+Northern Colorado,Southern Utah,79.0,68.0,2018-12-04,9.5,11.0,1
+Murray St.,Belmont,66.0,79.0,2018-12-04,6.0,-13.0,0
+Montana St.,Weber St.,84.0,93.0,2018-12-04,-2.5,-9.0,0
+Montana,Idaho St.,80.0,69.0,2018-12-04,15.0,11.0,0
+Portland St.,Eastern Washington,78.0,65.0,2018-12-04,2.5,13.0,1
+Sacramento St.,Idaho,69.0,48.0,2018-12-04,7.5,21.0,1
+Lipscomb,Florida Gulf Coast,89.0,81.0,2018-12-04,18.0,8.0,0
+North Alabama,Kennesaw St.,76.0,71.0,2018-12-04,9.0,5.0,0
+Radford,Charleston Southern,86.0,78.0,2018-12-04,11.0,8.0,0
+Winthrop,Gardner Webb,97.0,88.0,2018-12-04,5.5,9.0,1
+Longwood,High Point,55.0,51.0,2018-12-04,1.5,4.0,1
+Mount St. Mary's,LIU,74.0,72.0,2018-12-04,-1.5,2.0,1
+North Florida,Jacksonville,81.0,86.0,2018-12-04,9.0,-5.0,0
+Robert Morris,Sacred Heart,72.0,64.0,2018-12-04,1.5,8.0,1
+Campbell,Presbyterian,77.0,73.0,2018-12-04,2.5,4.0,1
+St. Francis PA,Wagner,79.0,83.0,2018-12-04,4.0,-4.0,0
+UMKC,Utah Valley,67.0,75.0,2018-12-04,-5.0,-8.0,0
+Bryant,Central Connecticut,63.0,60.0,2018-12-04,-1.0,3.0,1
+Chicago St.,Seattle,47.0,75.0,2018-12-04,-13.0,-28.0,0
+Cal Baptist,Cal St. Bakersfield,84.0,88.0,2018-12-04,1.0,-4.0,0
+Indiana,Michigan,46.0,69.0,2018-12-05,-3.5,-23.0,0
+Kent St.,Buffalo,79.0,88.0,2018-12-05,-9.0,-9.0,2
+Yale,Brown,79.0,71.0,2018-12-05,6.5,8.0,1
+Creighton,Butler,75.0,61.0,2018-12-05,2.5,14.0,1
+Iona,Rider,77.0,71.0,2018-12-05,-1.0,6.0,1
+Marist,Quinnipiac,78.0,92.0,2018-12-05,3.5,-14.0,0
+Nebraska,Ohio St.,60.0,70.0,2018-12-06,7.0,-10.0,0
+Maryland,Illinois,67.0,78.0,2018-12-06,11.0,-11.0,0
+Mississippi,Iowa St.,73.0,87.0,2018-12-06,0.0,-14.0,0
+Duke,Georgia Tech,66.0,53.0,2018-12-06,22.0,13.0,0
+TCU,Florida,55.0,50.0,2018-12-06,4.0,5.0,1
+Baylor,Alabama,73.0,68.0,2018-12-06,3.0,5.0,1
+Georgia St.,UT Arlington,77.0,71.0,2018-12-06,7.5,6.0,0
+IUPUI,Detroit,80.0,65.0,2018-12-06,5.5,15.0,1
+Notre Dame,Virginia,55.0,82.0,2018-12-06,-12.0,-27.0,0
+Georgia,Texas,98.0,88.0,2018-12-06,-4.5,10.0,1
+N.C. State,Clemson,69.0,67.0,2018-12-06,6.0,2.0,0
+Fordham,Dayton,52.0,75.0,2018-12-06,-6.5,-23.0,0
+Louisville,Pittsburgh,66.0,51.0,2018-12-06,10.5,15.0,1
+Texas A&M,Kansas St.,65.0,53.0,2018-12-06,-5.5,12.0,1
+Towson,Hofstra,61.0,84.0,2018-12-06,-9.5,-23.0,0
+Xavier,Marquette,82.0,87.0,2018-12-06,-2.5,-5.0,0
+Delaware,Drexel,76.0,75.0,2018-12-06,4.0,1.0,0
+Duquesne,VCU,74.0,80.0,2018-12-06,-4.5,-6.0,0
+Harvard,Dartmouth,64.0,59.0,2018-12-06,9.5,5.0,0
+Oklahoma St.,South Carolina,74.0,70.0,2018-12-06,3.5,4.0,1
+Wisconsin,Northwestern,62.0,46.0,2018-12-06,10.0,16.0,1
+Louisiana Monroe,South Alabama,72.0,78.0,2018-12-06,9.5,-6.0,0
+Miami OH,Bowling Green,67.0,53.0,2018-12-06,0.0,14.0,1
+Missouri St.,Bradley,55.0,37.0,2018-12-06,6.0,18.0,1
+UTSA,Old Dominion,74.0,73.0,2018-12-06,0.0,1.0,1
+Charleston,William & Mary,74.0,59.0,2018-12-06,9.5,15.0,1
+New Mexico,Utah St.,66.0,68.0,2018-12-06,-7.0,-2.0,1
+East Carolina,South Florida,57.0,77.0,2018-12-06,-3.5,-20.0,0
+Little Rock,Appalachian St.,73.0,77.0,2018-12-06,5.0,-4.0,0
+Oklahoma,Vanderbilt,86.0,55.0,2018-12-06,10.0,31.0,1
+Boise St.,Wyoming,77.0,52.0,2018-12-06,15.0,25.0,1
+Oregon St.,Washington,69.0,79.0,2018-12-06,1.5,-10.0,0
+UNC Wilmington,Elon,82.0,89.0,2018-12-06,7.5,-7.0,0
+Wake Forest,Boston College,61.0,65.0,2018-12-06,1.0,-4.0,0
+Tennessee,West Virginia,83.0,66.0,2018-12-06,15.5,17.0,1
+James Madison,Northeastern,68.0,78.0,2018-12-06,-6.5,-10.0,0
+Pacific,Portland,74.0,70.0,2018-12-06,11.0,4.0,0
+Colorado St.,Fresno St.,74.0,65.0,2018-12-06,-7.0,9.0,1
+Illinois Chicago,Oakland,67.0,80.0,2018-12-06,4.5,-13.0,0
+Penn St.,Rutgers,60.0,64.0,2018-12-06,6.0,-4.0,0
+Southern Miss,Marshall,101.0,51.0,2018-12-06,2.0,50.0,1
+Akron,Northern Illinois,67.0,65.0,2018-12-06,3.0,2.0,0
+Louisiana Tech,Western Kentucky,62.0,50.0,2018-12-06,2.0,12.0,1
+Georgia Southern,Texas St.,74.0,58.0,2018-12-06,1.5,16.0,1
+North Texas,Middle Tennessee,70.0,53.0,2018-12-06,13.5,17.0,1
+Missouri,LSU,80.0,86.0,2018-12-06,-3.0,-6.0,0
+Texas Tech,Arkansas,67.0,64.0,2018-12-06,10.0,3.0,0
+Connecticut,Wichita St.,80.0,60.0,2018-12-06,6.5,20.0,1
+Kentucky,Kansas,71.0,63.0,2018-12-06,5.0,8.0,1
+Richmond,St. Bonaventure,57.0,66.0,2018-12-06,2.0,-9.0,0
+Penn,Saint Joseph's,78.0,70.0,2018-12-06,5.5,8.0,1
+Cleveland St.,Youngstown St.,72.0,62.0,2018-12-06,1.0,10.0,1
+George Mason,George Washington,62.0,55.0,2018-12-06,12.5,7.0,0
+FIU,Florida Atlantic,72.0,89.0,2018-12-06,4.0,-17.0,0
+Northern Kentucky,Milwaukee,73.0,60.0,2018-12-06,14.0,13.0,0
+Toledo,Central Michigan,76.0,72.0,2018-12-06,10.0,4.0,0
+Columbia,Cornell,73.0,70.0,2018-12-06,3.0,3.0,2
+Wright St.,Green Bay,87.0,75.0,2018-12-06,9.0,12.0,1
+Rice,UAB,86.0,89.0,2018-12-06,-3.0,-3.0,2
+Northern Iowa,Evansville,81.0,74.0,2018-12-06,2.0,7.0,1
+Valparaiso,Drake,59.0,70.0,2018-12-06,-1.5,-11.0,0
+Lafayette,Troy,86.0,81.0,2018-12-06,5.5,5.0,0
+Stanford,Colorado,75.0,62.0,2018-12-06,2.0,13.0,1
+Virginia Tech,Syracuse,78.0,56.0,2018-12-06,5.5,22.0,1
+Arkansas St.,Coastal Carolina,64.0,77.0,2018-12-06,-2.0,-13.0,0
+Pepperdine,Saint Mary's,84.0,77.0,2018-12-06,-8.5,7.0,1
+USC,Arizona St.,69.0,67.0,2018-12-06,2.0,2.0,2
+Mississippi St.,Auburn,92.0,84.0,2018-12-06,1.5,8.0,1
+Santa Clara,Loyola Marymount,61.0,69.0,2018-12-06,0.0,-8.0,0
+San Jose St.,Air Force,71.0,73.0,2018-12-06,-6.0,-2.0,1
+UTEP,Charlotte,57.0,53.0,2018-12-06,5.0,4.0,0
+Long Beach St.,UC Santa Barbara,71.0,82.0,2018-12-06,0.0,-11.0,0
+Cal Poly,Cal St. Fullerton,63.0,80.0,2018-12-06,-8.0,-17.0,0
+UC Irvine,UC Riverside,82.0,64.0,2018-12-06,13.0,18.0,1
+California,Utah,64.0,82.0,2018-12-06,-5.5,-18.0,0
+UCLA,Arizona,90.0,69.0,2018-12-06,1.0,21.0,1
+San Diego,San Francisco,67.0,63.0,2018-12-06,-2.0,4.0,1
+Hawaii,UC Davis,80.0,60.0,2018-12-06,6.5,20.0,1
+The Citadel,VMI,84.0,82.0,2018-12-06,8.5,2.0,0
+Niagara,Monmouth,75.0,48.0,2018-12-06,2.5,27.0,1
+Morehead St.,Jacksonville St.,71.0,77.0,2018-12-06,-5.0,-6.0,0
+Montana St.,Idaho St.,104.0,84.0,2018-12-06,5.0,20.0,1
+Furman,Samford,73.0,75.0,2018-12-06,9.0,-2.0,0
+Tennessee Martin,SIU Edwardsville,85.0,69.0,2018-12-06,2.5,16.0,1
+South Dakota,Western Illinois,59.0,65.0,2018-12-06,7.5,-6.0,0
+UNC Greensboro,Mercer,88.0,81.0,2018-12-06,9.0,7.0,0
+Austin Peay,Belmont,92.0,96.0,2018-12-06,-2.0,-4.0,0
+South Dakota St.,Nebraska Omaha,83.0,73.0,2018-12-06,11.0,10.0,0
+Southeast Missouri St.,Eastern Illinois,64.0,59.0,2018-12-06,2.0,5.0,1
+Eastern Kentucky,Tennessee Tech,85.0,91.0,2018-12-06,11.0,-6.0,0
+Western Carolina,East Tennessee St.,69.0,91.0,2018-12-06,-10.5,-22.0,0
+Wofford,Chattanooga,80.0,69.0,2018-12-06,17.5,11.0,0
+Purdue Fort Wayne,Denver,91.0,81.0,2018-12-06,8.0,10.0,1
+Siena,Manhattan,53.0,40.0,2018-12-06,9.0,13.0,1
+Northern Arizona,Northern Colorado,48.0,63.0,2018-12-06,-4.0,-15.0,0
+Murray St.,Tennessee St.,100.0,62.0,2018-12-06,19.0,38.0,1
+Oral Roberts,North Dakota St.,57.0,67.0,2018-12-06,-2.0,-10.0,0
+Montana,Weber St.,75.0,68.0,2018-12-06,8.0,7.0,0
+Sacramento St.,Eastern Washington,92.0,94.0,2018-12-06,5.0,-2.0,0
+Portland St.,Idaho,69.0,53.0,2018-12-06,8.0,16.0,1
+Loyola MD,Colgate,79.0,72.0,2018-12-06,-4.5,7.0,1
+Binghamton,Maine,78.0,66.0,2018-12-06,3.0,12.0,1
+New Hampshire,UMBC,51.0,59.0,2018-12-06,-8.0,-8.0,2
+Central Connecticut,LIU,71.0,84.0,2018-12-06,2.5,-13.0,0
+Lafayette,Army,63.0,69.0,2018-12-06,-1.0,-6.0,0
+Lehigh,Boston University,94.0,78.0,2018-12-06,9.0,16.0,1
+Albany,Hartford,84.0,77.0,2018-12-06,-2.0,7.0,1
+Holy Cross,Navy,69.0,64.0,2018-12-06,9.0,5.0,0
+Chicago St.,Utah Valley,60.0,74.0,2018-12-06,-19.5,-14.0,1
+Incarnate Word,New Orleans,52.0,61.0,2018-12-06,-3.0,-9.0,0
+McNeese St.,Houston Baptist,79.0,73.0,2018-12-06,1.5,6.0,1
+Bryant,Fairleigh Dickinson,63.0,78.0,2018-12-06,-3.5,-15.0,0
+Presbyterian,Winthrop,99.0,91.0,2018-12-06,0.0,8.0,1
+Morgan St.,Bethune Cookman,77.0,71.0,2018-12-06,2.0,6.0,1
+Northwestern St.,Southeastern Louisiana,53.0,69.0,2018-12-06,-2.5,-16.0,0
+North Carolina Central,North Carolina A&T,48.0,51.0,2018-12-06,3.0,-3.0,0
+American,Bucknell,76.0,68.0,2018-12-06,1.0,8.0,1
+Coppin St.,Florida A&M,70.0,72.0,2018-12-06,-1.0,-2.0,0
+Howard,Delaware St.,80.0,74.0,2018-12-06,14.5,6.0,0
+Abilene Christian,Central Arkansas,79.0,56.0,2018-12-06,7.5,23.0,1
+USC Upstate,Longwood,80.0,63.0,2018-12-06,-2.5,17.0,1
+Mount St. Mary's,St. Francis NY,67.0,74.0,2018-12-06,-1.5,-7.0,0
+Robert Morris,Wagner,57.0,51.0,2018-12-06,5.0,6.0,1
+Mississippi Valley St.,Prairie View A&M,78.0,89.0,2018-12-06,-9.0,-11.0,0
+Charleston Southern,Gardner Webb,74.0,60.0,2018-12-06,1.0,14.0,1
+Hampton,Campbell,64.0,58.0,2018-12-06,2.5,6.0,1
+Grambling St.,Jackson St.,63.0,65.0,2018-12-06,6.0,-2.0,0
+Alabama St.,Alcorn St.,74.0,59.0,2018-12-06,11.0,15.0,1
+None,South Carolina St.,92.0,88.0,2018-12-06,0.0,4.0,1
+Norfolk St.,Maryland Eastern Shore,88.0,60.0,2018-12-06,16.0,28.0,1
+Sam Houston St.,Lamar,69.0,59.0,2018-12-06,8.0,10.0,1
+Alabama A&M,Southern,68.0,62.0,2018-12-06,-1.0,6.0,1
+High Point,UNC Asheville,65.0,61.0,2018-12-06,17.0,4.0,0
+St. Francis PA,Sacred Heart,79.0,78.0,2018-12-06,1.0,1.0,2
+Stony Brook,Vermont,52.0,73.0,2018-12-06,-1.0,-21.0,0
+UMKC,Seattle,63.0,54.0,2018-12-06,-2.0,9.0,1
+UT Rio Grande Valley,New Mexico St.,61.0,63.0,2018-12-06,-7.5,-2.0,1
+Arkansas Pine Bluff,Texas Southern,90.0,86.0,2018-12-06,-5.0,4.0,1
+Cal Baptist,Grand Canyon,73.0,90.0,2018-12-06,-7.5,-17.0,0
+St. John's,Georgetown,78.0,89.0,2018-12-07,7.5,-11.0,0
+Temple,Cincinnati,68.0,72.0,2018-12-07,-2.0,-4.0,0
+Providence,DePaul,70.0,67.0,2018-12-07,6.0,3.0,0
+Loyola Chicago,Southern Illinois,75.0,50.0,2018-12-07,5.5,25.0,1
+Purdue,Michigan St.,73.0,63.0,2018-12-07,-2.5,10.0,1
+Illinois St.,Indiana St.,76.0,62.0,2018-12-07,3.5,14.0,1
+Massachusetts,Rhode Island,77.0,70.0,2018-12-07,-3.0,7.0,1
+Tulsa,Houston,65.0,77.0,2018-12-07,-6.5,-12.0,0
+Villanova,Seton Hall,80.0,52.0,2018-12-07,8.5,28.0,1
+Memphis,UCF,77.0,57.0,2018-12-07,1.0,20.0,1
+Minnesota,Iowa,92.0,87.0,2018-12-07,1.0,5.0,1
+Miami FL,Florida St.,66.0,78.0,2018-12-07,-3.0,-12.0,0
+Oregon,Washington St.,78.0,58.0,2018-12-07,14.0,20.0,1
+Fairfield,Iona,80.0,68.0,2018-12-07,-1.5,12.0,1
+Rider,Marist,86.0,85.0,2018-12-07,10.5,1.0,0
+Quinnipiac,Saint Peter's,77.0,58.0,2018-12-07,6.0,19.0,1
+Jacksonville,Liberty,59.0,69.0,2018-12-07,-9.0,-10.0,0
+Stetson,Lipscomb,65.0,88.0,2018-12-07,-19.5,-23.0,0
+NJIT,North Alabama,76.0,70.0,2018-12-07,12.5,6.0,0
+Florida Gulf Coast,North Florida,88.0,80.0,2018-12-07,0.0,8.0,1
+Notre Dame,Duke,61.0,83.0,2018-12-08,-14.0,-22.0,0
+Oklahoma,Baylor,47.0,77.0,2018-12-08,6.5,-30.0,0
+Texas Tech,TCU,84.0,65.0,2018-12-08,4.5,19.0,1
+Northern Arizona,Southern Utah,80.0,77.0,2018-12-08,2.0,3.0,1
+Morgan St.,Florida A&M,66.0,72.0,2018-12-08,4.0,-6.0,0
+Howard,Maryland Eastern Shore,72.0,57.0,2018-12-08,13.0,15.0,1
+Coppin St.,Bethune Cookman,95.0,91.0,2018-12-08,-3.0,4.0,1
+None,North Carolina Central,78.0,82.0,2018-12-08,-3.0,-4.0,0
+Arkansas Pine Bluff,Prairie View A&M,63.0,79.0,2018-12-08,-1.5,-16.0,0
+Alabama A&M,Alcorn St.,71.0,62.0,2018-12-08,4.5,9.0,1
+Alabama St.,Southern,69.0,65.0,2018-12-08,6.5,4.0,0
+Mississippi Valley St.,Texas Southern,62.0,65.0,2018-12-08,-12.5,-3.0,1
+South Carolina,Tennessee,70.0,92.0,2018-12-09,-9.0,-22.0,0
+Arkansas,Georgia,70.0,60.0,2018-12-09,7.0,10.0,1
+Miami OH,Toledo,63.0,66.0,2018-12-09,-2.0,-3.0,0
+Central Michigan,Eastern Michigan,86.0,82.0,2018-12-09,3.0,4.0,1
+Buffalo,Ball St.,83.0,59.0,2018-12-09,12.0,24.0,1
+Georgia Tech,North Carolina,54.0,77.0,2018-12-09,-8.5,-23.0,0
+N.C. State,Virginia,65.0,66.0,2018-12-09,-9.0,-1.0,1
+Maryland,Northwestern,70.0,52.0,2018-12-09,8.5,18.0,1
+Texas,Kansas,73.0,63.0,2018-12-09,-1.0,10.0,1
+Dayton,Saint Joseph's,75.0,64.0,2018-12-09,11.5,11.0,0
+Northern Illinois,Ohio,71.0,60.0,2018-12-09,7.0,11.0,1
+Valparaiso,Missouri St.,54.0,55.0,2018-12-09,0.0,-1.0,0
+Nebraska,Wisconsin,51.0,62.0,2018-12-09,0.0,-11.0,0
+Alabama,Mississippi St.,83.0,79.0,2018-12-09,2.0,4.0,1
+Clemson,Pittsburgh,82.0,69.0,2018-12-09,7.5,13.0,1
+Michigan,Ohio St.,65.0,49.0,2018-12-09,10.0,16.0,1
+Vanderbilt,Kentucky,52.0,87.0,2018-12-09,-9.5,-35.0,0
+Colorado St.,Boise St.,68.0,70.0,2018-12-09,-1.0,-2.0,0
+UNLV,Nevada,70.0,87.0,2018-12-09,-10.0,-17.0,0
+Liberty,Lipscomb,59.0,79.0,2018-12-09,2.0,-20.0,0
+Florida,Mississippi,90.0,86.0,2019-01-30,5.5,4.0,0
+Butler,Marquette,58.0,76.0,2019-01-30,2.5,-18.0,0
+Duquesne,Rhode Island,75.0,72.0,2019-01-30,-2.0,3.0,1
+La Salle,Massachusetts,60.0,51.0,2019-01-30,0.0,9.0,1
+Saint Louis,Richmond,81.0,84.0,2019-01-30,10.0,-3.0,0
+Rutgers,Indiana,66.0,58.0,2019-01-30,-1.5,8.0,1
+Miami FL,Virginia Tech,70.0,82.0,2019-01-30,-7.0,-12.0,0
+Iowa St.,West Virginia,93.0,68.0,2019-01-30,13.0,25.0,1
+Seton Hall,Providence,65.0,63.0,2019-01-30,3.0,2.0,0
+Middle Tennessee,UAB,71.0,65.0,2019-01-30,-5.5,6.0,1
+Wake Forest,Louisville,54.0,82.0,2019-01-30,-10.0,-28.0,0
+Tulsa,Memphis,95.0,79.0,2019-01-30,-1.5,16.0,1
+Drake,Illinois St.,55.0,69.0,2019-01-30,7.5,-14.0,0
+Boston College,Syracuse,71.0,77.0,2019-01-30,-3.0,-6.0,0
+DePaul,Villanova,74.0,86.0,2019-01-30,-7.0,-12.0,0
+Creighton,St. John's,67.0,83.0,2019-01-30,4.5,-16.0,0
+Auburn,Missouri,92.0,58.0,2019-01-30,14.0,34.0,1
+Minnesota,Illinois,86.0,75.0,2019-01-30,6.0,11.0,1
+Southern Illinois,Indiana St.,88.0,73.0,2019-01-30,5.0,15.0,1
+Texas A&M,LSU,57.0,72.0,2019-01-30,-5.5,-15.0,0
+Wichita St.,SMU,85.0,83.0,2019-01-30,2.0,2.0,2
+Utah St.,San Jose St.,103.0,73.0,2019-01-30,25.5,30.0,1
+Wyoming,Fresno St.,62.0,75.0,2019-01-30,-13.0,-13.0,2
+San Diego St.,Air Force,66.0,51.0,2019-01-30,10.0,15.0,1
+Washington St.,UCLA,67.0,87.0,2019-01-30,-5.5,-20.0,0
+Cal St. Fullerton,Cal St. Northridge,78.0,71.0,2019-01-30,6.5,7.0,1
+Washington,USC,75.0,62.0,2019-01-30,7.5,13.0,1
+Niagara,Canisius,78.0,70.0,2019-01-30,0.0,8.0,1
+Purdue Fort Wayne,South Dakota,102.0,71.0,2019-01-30,4.0,31.0,1
+Longwood,Hampton,83.0,96.0,2019-01-30,2.0,-13.0,0
+Radford,Campbell,67.0,68.0,2019-01-30,9.5,-1.0,0
+Gardner Webb,High Point,69.0,67.0,2019-01-30,5.0,2.0,0
+Colgate,Army,76.0,56.0,2019-01-30,7.5,20.0,1
+Hartford,Binghamton,86.0,60.0,2019-01-30,12.0,26.0,1
+Loyola MD,American,68.0,74.0,2019-01-30,-1.5,-6.0,0
+New Hampshire,Albany,42.0,62.0,2019-01-30,-4.5,-20.0,0
+Jacksonville,Stetson,72.0,57.0,2019-01-30,12.5,15.0,1
+UMass Lowell,Maine,59.0,78.0,2019-01-30,11.0,-19.0,0
+UMBC,Stony Brook,57.0,49.0,2019-01-30,0.0,8.0,1
+Boston University,Holy Cross,68.0,54.0,2019-01-30,1.0,14.0,1
+Bucknell,Navy,69.0,57.0,2019-01-30,12.0,12.0,2
+UNC Asheville,USC Upstate,71.0,62.0,2019-01-30,-4.0,9.0,1
+Kennesaw St.,North Florida,81.0,64.0,2019-01-30,-10.5,17.0,1
+NJIT,Florida Gulf Coast,66.0,54.0,2019-01-30,7.0,12.0,1
+Charleston Southern,Presbyterian,85.0,84.0,2019-01-30,2.0,1.0,0
+Stephen F. Austin,Central Arkansas,105.0,99.0,2019-01-30,4.0,6.0,1
+Nicholls St.,Lamar,69.0,90.0,2019-01-30,2.5,-21.0,0
+Southeastern Louisiana,Sam Houston St.,52.0,62.0,2019-01-30,-1.5,-10.0,0
+Abilene Christian,Texas A&M Corpus Chris,78.0,71.0,2019-01-30,8.5,7.0,0
+New Orleans,Northwestern St.,72.0,64.0,2019-01-30,12.5,8.0,0
+Incarnate Word,Houston Baptist,92.0,96.0,2019-01-30,-4.0,-4.0,2
+Lafayette,Lehigh,86.0,93.0,2019-01-30,-5.5,-7.0,0
+Utah Valley,Cal Baptist,79.0,62.0,2019-01-30,13.0,17.0,1
+Penn St.,Purdue,90.0,99.0,2019-01-31,-7.0,-9.0,0
+Houston,Temple,73.0,66.0,2019-01-31,10.0,7.0,0
+Detroit,Cleveland St.,78.0,64.0,2019-01-31,5.0,14.0,1
+William & Mary,Drexel,75.0,69.0,2019-01-31,5.0,6.0,1
+UNC Wilmington,Towson,76.0,77.0,2019-01-31,5.0,-1.0,0
+Elon,Delaware,57.0,56.0,2019-01-31,0.0,1.0,1
+Charleston,James Madison,70.0,53.0,2019-01-31,12.5,17.0,1
+FIU,Southern Miss,73.0,89.0,2019-01-31,-2.0,-16.0,0
+East Carolina,Tulane,66.0,65.0,2019-01-31,6.0,1.0,0
+Oakland,Youngstown St.,74.0,75.0,2019-01-31,8.0,-1.0,0
+Appalachian St.,Lafayette,104.0,77.0,2019-01-31,-1.0,27.0,1
+Old Dominion,North Texas,72.0,61.0,2019-01-31,4.5,11.0,1
+Coastal Carolina,Louisiana Monroe,92.0,81.0,2019-01-31,3.5,11.0,1
+Florida Atlantic,Louisiana Tech,69.0,61.0,2019-01-31,-2.0,8.0,1
+Charlotte,Rice,61.0,65.0,2019-01-31,2.0,-4.0,0
+Marshall,UTEP,91.0,86.0,2019-01-31,10.0,5.0,0
+Western Kentucky,UTSA,96.0,88.0,2019-01-31,6.5,8.0,1
+Georgetown,Xavier,80.0,73.0,2019-01-31,3.0,7.0,1
+UCF,Connecticut,73.0,67.0,2019-01-31,6.0,6.0,2
+Arizona St.,Arizona,95.0,88.0,2019-01-31,5.5,7.0,1
+Colorado,Oregon St.,74.0,76.0,2019-01-31,1.5,-2.0,0
+Utah,Oregon,72.0,78.0,2019-01-31,0.0,-6.0,0
+Portland,Pepperdine,58.0,83.0,2019-01-31,-5.5,-25.0,0
+UC Santa Barbara,UC Irvine,62.0,66.0,2019-01-31,1.0,-4.0,0
+UC Riverside,Cal Poly,45.0,71.0,2019-01-31,8.0,-26.0,0
+Loyola Marymount,Pacific,60.0,42.0,2019-01-31,6.5,18.0,1
+BYU,Gonzaga,63.0,93.0,2019-01-31,-14.0,-30.0,0
+Hawaii,Long Beach St.,74.0,57.0,2019-01-31,7.0,17.0,1
+Marist,Iona,78.0,74.0,2019-01-31,1.0,4.0,1
+Monmouth,Siena,66.0,55.0,2019-01-31,1.0,11.0,1
+Manhattan,Fairfield,62.0,49.0,2019-01-31,-3.0,13.0,1
+Rider,Saint Peter's,59.0,51.0,2019-01-31,11.5,8.0,0
+The Citadel,Furman,61.0,71.0,2019-01-31,-7.0,-10.0,0
+Mercer,Wofford,67.0,76.0,2019-01-31,-6.0,-9.0,0
+UNC Greensboro,VMI,93.0,66.0,2019-01-31,18.0,27.0,1
+Tennessee Tech,Austin Peay,66.0,77.0,2019-01-31,-9.0,-11.0,0
+Samford,East Tennessee St.,66.0,74.0,2019-01-31,-2.0,-8.0,0
+Chattanooga,Western Carolina,96.0,105.0,2019-01-31,6.5,-9.0,0
+Belmont,Southeast Missouri St.,97.0,71.0,2019-01-31,18.5,26.0,1
+SIU Edwardsville,Morehead St.,83.0,76.0,2019-01-31,-1.5,7.0,1
+Oral Roberts,South Dakota St.,80.0,86.0,2019-01-31,-11.0,-6.0,1
+Jacksonville St.,Murray St.,88.0,68.0,2019-01-31,-2.0,20.0,1
+Eastern Illinois,Eastern Kentucky,67.0,66.0,2019-01-31,-1.0,1.0,1
+Tennessee St.,Tennessee Martin,68.0,67.0,2019-01-31,4.0,1.0,0
+Weber St.,Portland St.,75.0,76.0,2019-01-31,10.0,-1.0,0
+Idaho St.,Sacramento St.,58.0,74.0,2019-01-31,2.5,-16.0,0
+Fairleigh Dickinson,LIU,80.0,77.0,2019-01-31,4.5,3.0,0
+Mount St. Mary's,Sacred Heart,79.0,87.0,2019-01-31,-4.0,-8.0,0
+Wagner,Bryant,64.0,71.0,2019-01-31,9.0,-7.0,0
+Central Connecticut,St. Francis NY,78.0,72.0,2019-01-31,0.0,6.0,1
+Robert Morris,St. Francis PA,73.0,76.0,2019-01-31,5.5,-3.0,0
+UT Rio Grande Valley,Chicago St.,77.0,46.0,2019-01-31,19.0,31.0,1
+New Mexico St.,UMKC,70.0,54.0,2019-01-31,15.5,16.0,1
+Cornell,Penn,80.0,71.0,2019-02-01,-5.5,9.0,1
+Columbia,Princeton,43.0,55.0,2019-02-01,0.0,-12.0,0
+Dartmouth,Brown,58.0,60.0,2019-02-01,-1.0,-2.0,0
+Harvard,Yale,65.0,49.0,2019-02-01,1.5,16.0,1
+St. Bonaventure,Davidson,66.0,75.0,2019-02-01,-1.0,-9.0,0
+Iowa,Michigan,74.0,59.0,2019-02-01,-3.5,15.0,1
+IUPUI,Northern Kentucky,83.0,77.0,2019-02-01,-3.5,6.0,1
+Green Bay,Milwaukee,90.0,74.0,2019-02-01,5.5,16.0,1
+Illinois Chicago,Wright St.,67.0,53.0,2019-02-01,-2.0,14.0,1
+Wisconsin,Maryland,69.0,61.0,2019-02-01,5.0,8.0,1
+Canisius,Quinnipiac,75.0,70.0,2019-02-01,3.0,5.0,1
+Bowling Green,Buffalo,92.0,88.0,2019-02-01,-7.5,4.0,1
+Western Illinois,North Dakota,73.0,74.0,2019-02-01,3.5,-1.0,0
+Louisville,North Carolina,69.0,79.0,2019-02-02,1.0,-10.0,0
+Florida St.,Georgia Tech,59.0,49.0,2019-02-02,11.5,10.0,0
+West Virginia,Oklahoma,79.0,71.0,2019-02-02,-3.0,8.0,1
+Michigan St.,Indiana,75.0,79.0,2019-02-02,16.0,-4.0,0
+Butler,Seton Hall,70.0,68.0,2019-02-02,6.0,2.0,0
+Duke,St. John's,91.0,61.0,2019-02-02,17.5,30.0,1
+N.C. State,Virginia Tech,24.0,47.0,2019-02-02,2.0,-23.0,0
+Ohio St.,Rutgers,76.0,62.0,2019-02-02,9.0,14.0,1
+South Florida,Memphis,84.0,78.0,2019-02-02,1.5,6.0,1
+Ball St.,Kent St.,80.0,83.0,2019-02-02,5.0,-3.0,0
+Eastern Michigan,Miami OH,48.0,59.0,2019-02-02,4.0,-11.0,0
+Detroit,Youngstown St.,70.0,72.0,2019-02-02,5.5,-2.0,0
+Georgia,South Carolina,80.0,86.0,2019-02-02,4.0,-6.0,0
+Georgia St.,Georgia Southern,81.0,72.0,2019-02-02,2.5,9.0,1
+Appalachian St.,Louisiana Monroe,85.0,84.0,2019-02-02,2.0,1.0,0
+Coastal Carolina,Lafayette,96.0,79.0,2019-02-02,6.0,17.0,1
+Bradley,Southern Illinois,68.0,72.0,2019-02-02,1.0,-4.0,0
+Indiana St.,Drake,62.0,68.0,2019-02-02,1.0,-6.0,0
+Evansville,Valparaiso,64.0,53.0,2019-02-02,3.5,11.0,1
+Boston College,Notre Dame,73.0,79.0,2019-02-02,2.5,-6.0,0
+Virginia,Miami FL,56.0,46.0,2019-02-02,21.0,10.0,0
+Iowa St.,Texas,65.0,60.0,2019-02-02,7.0,5.0,0
+Dayton,Duquesne,68.0,64.0,2019-02-02,10.0,4.0,0
+Wichita St.,Tulsa,79.0,68.0,2019-02-02,3.0,11.0,1
+Illinois,Nebraska,71.0,64.0,2019-02-02,-2.5,7.0,1
+DePaul,Providence,67.0,55.0,2019-02-02,1.0,12.0,1
+Northern Illinois,Toledo,55.0,69.0,2019-02-02,-1.0,-14.0,0
+Oakland,Cleveland St.,83.0,68.0,2019-02-02,9.5,15.0,1
+Ohio,Akron,53.0,65.0,2019-02-02,0.0,-12.0,0
+Mississippi,Mississippi St.,75.0,81.0,2019-02-02,1.5,-6.0,0
+Charlotte,North Texas,66.0,73.0,2019-02-02,-6.0,-7.0,0
+Florida,Kentucky,54.0,65.0,2019-02-02,-2.0,-11.0,0
+Air Force,Colorado St.,53.0,85.0,2019-02-02,2.5,-32.0,0
+Washington,UCLA,69.0,55.0,2019-02-02,7.5,14.0,1
+Florida Atlantic,Southern Miss,72.0,74.0,2019-02-02,0.0,-2.0,0
+Rhode Island,Saint Louis,65.0,54.0,2019-02-02,3.5,11.0,1
+William & Mary,Delaware,84.0,63.0,2019-02-02,5.0,21.0,1
+Charleston,Towson,54.0,53.0,2019-02-02,13.0,1.0,0
+Kansas,Texas Tech,79.0,63.0,2019-02-02,3.5,16.0,1
+Saint Mary's,San Francisco,86.0,80.0,2019-02-02,4.0,6.0,1
+Saint Joseph's,Massachusetts,64.0,62.0,2019-02-02,3.5,2.0,0
+Northeastern,Hofstra,75.0,61.0,2019-02-02,1.5,14.0,1
+Central Michigan,Western Michigan,85.0,64.0,2019-02-02,9.0,21.0,1
+Utah St.,UNLV,82.0,65.0,2019-02-02,11.5,17.0,1
+Utah,Oregon St.,72.0,81.0,2019-02-02,1.5,-9.0,0
+Texas St.,UT Arlington,77.0,84.0,2019-02-02,8.0,-7.0,0
+LSU,Arkansas,89.0,90.0,2019-02-02,9.0,-1.0,0
+Tulane,Temple,67.0,75.0,2019-02-02,-11.0,-8.0,1
+Richmond,La Salle,58.0,66.0,2019-02-02,6.0,-8.0,0
+Oklahoma St.,Kansas St.,57.0,75.0,2019-02-02,-3.0,-18.0,0
+Pittsburgh,Syracuse,56.0,65.0,2019-02-02,-2.5,-9.0,0
+Nevada,Boise St.,93.0,73.0,2019-02-02,14.5,20.0,1
+South Alabama,Troy,81.0,75.0,2019-02-02,1.5,6.0,1
+VCU,George Mason,79.0,63.0,2019-02-02,7.5,16.0,1
+Little Rock,Arkansas St.,83.0,84.0,2019-02-02,5.5,-1.0,0
+Marshall,UTSA,106.0,116.0,2019-02-02,3.5,-10.0,0
+Washington St.,USC,84.0,93.0,2019-02-02,-6.5,-9.0,0
+Elon,Drexel,63.0,67.0,2019-02-02,-1.0,-4.0,0
+UNC Wilmington,James Madison,95.0,104.0,2019-02-02,4.0,-9.0,0
+Dartmouth,Yale,68.0,89.0,2019-02-02,-4.5,-21.0,0
+Harvard,Brown,68.0,47.0,2019-02-02,6.0,21.0,1
+Columbia,Penn,70.0,72.0,2019-02-02,-6.0,-2.0,1
+Old Dominion,Rice,80.0,76.0,2019-02-02,12.5,4.0,0
+FIU,Louisiana Tech,75.0,69.0,2019-02-02,-3.5,6.0,1
+Western Kentucky,UTEP,76.0,59.0,2019-02-02,11.5,17.0,1
+Cornell,Princeton,61.0,70.0,2019-02-02,-1.5,-9.0,0
+Baylor,TCU,90.0,64.0,2019-02-02,4.0,26.0,1
+Texas A&M,Tennessee,76.0,93.0,2019-02-02,-11.5,-17.0,0
+Northern Iowa,Missouri St.,64.0,59.0,2019-02-02,1.0,5.0,1
+UAB,Middle Tennessee,78.0,79.0,2019-02-02,11.5,-1.0,0
+Gonzaga,San Diego,85.0,69.0,2019-02-02,22.0,16.0,0
+Auburn,Alabama,84.0,63.0,2019-02-02,8.5,21.0,1
+Cincinnati,SMU,73.0,68.0,2019-02-02,12.0,5.0,0
+Missouri,Vanderbilt,77.0,67.0,2019-02-02,4.0,10.0,1
+BYU,Loyola Marymount,67.0,49.0,2019-02-02,6.0,18.0,1
+San Jose St.,San Diego St.,56.0,67.0,2019-02-02,-13.0,-11.0,1
+UC Riverside,UC Davis,71.0,84.0,2019-02-02,0.0,-13.0,0
+Santa Clara,Portland,69.0,63.0,2019-02-02,9.0,6.0,0
+Colorado,Oregon,73.0,51.0,2019-02-02,-1.0,22.0,1
+Fresno St.,New Mexico,82.0,70.0,2019-02-02,11.5,12.0,1
+Pacific,Pepperdine,66.0,59.0,2019-02-02,1.0,7.0,1
+Cal St. Northridge,Cal Poly,83.0,65.0,2019-02-02,8.0,18.0,1
+Long Beach St.,UC Irvine,80.0,82.0,2019-02-02,-5.5,-2.0,1
+Illinois St.,Loyola Chicago,65.0,57.0,2019-02-02,1.0,8.0,1
+Hawaii,UC Santa Barbara,54.0,75.0,2019-02-02,3.5,-21.0,0
+Iona,Siena,54.0,56.0,2019-02-02,5.5,-2.0,0
+The Citadel,Wofford,61.0,99.0,2019-02-02,-13.0,-38.0,0
+Monmouth,Rider,75.0,71.0,2019-02-02,-4.0,4.0,1
+Samford,Western Carolina,92.0,81.0,2019-02-02,12.0,11.0,0
+Mercer,Furman,63.0,74.0,2019-02-02,-2.0,-11.0,0
+Eastern Illinois,Morehead St.,78.0,84.0,2019-02-02,1.5,-6.0,0
+Chattanooga,East Tennessee St.,64.0,77.0,2019-02-02,-10.0,-13.0,0
+Jacksonville St.,Austin Peay,71.0,74.0,2019-02-02,5.0,-3.0,0
+Eastern Washington,Southern Utah,82.0,79.0,2019-02-02,5.0,3.0,0
+Belmont,Tennessee Martin,82.0,67.0,2019-02-02,20.0,15.0,0
+Manhattan,Saint Peter's,64.0,50.0,2019-02-02,1.0,14.0,1
+Marist,Fairfield,52.0,57.0,2019-02-02,4.5,-5.0,0
+Oral Roberts,Purdue Fort Wayne,81.0,82.0,2019-02-02,-3.5,-1.0,1
+SIU Edwardsville,Eastern Kentucky,88.0,82.0,2019-02-02,-2.0,6.0,1
+Western Illinois,North Dakota St.,76.0,78.0,2019-02-02,1.0,-2.0,0
+Tennessee Tech,Murray St.,63.0,67.0,2019-02-02,-14.5,-4.0,1
+Tennessee St.,Southeast Missouri St.,79.0,50.0,2019-02-02,3.0,29.0,1
+Weber St.,Sacramento St.,75.0,65.0,2019-02-02,8.0,10.0,1
+Montana St.,Montana,78.0,83.0,2019-02-02,-6.0,-5.0,1
+Idaho St.,Portland St.,69.0,67.0,2019-02-02,0.0,2.0,1
+Idaho,Northern Arizona,73.0,86.0,2019-02-02,-1.0,-13.0,0
+Colgate,Boston University,68.0,76.0,2019-02-02,8.5,-8.0,0
+Army,Lehigh,70.0,75.0,2019-02-02,-2.5,-5.0,0
+Winthrop,Radford,61.0,80.0,2019-02-02,1.5,-19.0,0
+Campbell,Longwood,83.0,62.0,2019-02-02,7.5,21.0,1
+American,Holy Cross,66.0,49.0,2019-02-02,5.0,17.0,1
+Lafayette,Bucknell,66.0,94.0,2019-02-02,-5.5,-28.0,0
+Navy,Loyola MD,71.0,68.0,2019-02-02,2.0,3.0,1
+Gardner Webb,UNC Asheville,82.0,81.0,2019-02-02,17.0,1.0,0
+Central Connecticut,Bryant,64.0,59.0,2019-02-02,6.5,5.0,0
+Sacred Heart,St. Francis NY,71.0,62.0,2019-02-02,5.0,9.0,1
+McNeese St.,Lamar,75.0,84.0,2019-02-02,1.0,-9.0,0
+Mount St. Mary's,St. Francis PA,63.0,72.0,2019-02-02,-1.5,-9.0,0
+Delaware St.,None,73.0,76.0,2019-02-02,-2.0,-3.0,0
+Maryland Eastern Shore,South Carolina St.,63.0,61.0,2019-02-02,-6.0,2.0,1
+Stetson,Kennesaw St.,92.0,75.0,2019-02-02,2.5,17.0,1
+Wagner,LIU,71.0,59.0,2019-02-02,2.0,12.0,1
+Coppin St.,Morgan St.,73.0,71.0,2019-02-02,-1.0,2.0,1
+Howard,Norfolk St.,78.0,80.0,2019-02-02,-1.0,-2.0,0
+Bethune Cookman,North Carolina Central,74.0,64.0,2019-02-02,2.0,10.0,1
+Fairleigh Dickinson,Robert Morris,97.0,94.0,2019-02-02,4.0,3.0,0
+USC Upstate,Charleston Southern,71.0,90.0,2019-02-02,-3.5,-19.0,0
+Central Arkansas,Northwestern St.,75.0,80.0,2019-02-02,12.0,-5.0,0
+Lipscomb,North Alabama,102.0,80.0,2019-02-02,24.5,22.0,0
+Texas Southern,Alabama St.,83.0,59.0,2019-02-02,9.5,24.0,1
+Southeastern Louisiana,Nicholls St.,91.0,70.0,2019-02-02,5.0,21.0,1
+New Orleans,Incarnate Word,89.0,72.0,2019-02-02,11.0,17.0,1
+UMass Lowell,Vermont,65.0,74.0,2019-02-02,-8.5,-9.0,0
+Jackson St.,Mississippi Valley St.,61.0,57.0,2019-02-02,11.5,4.0,0
+Florida A&M,North Carolina A&T,63.0,39.0,2019-02-02,-1.0,24.0,1
+Grambling St.,Arkansas Pine Bluff,79.0,55.0,2019-02-02,6.0,24.0,1
+Prairie View A&M,Alabama A&M,81.0,65.0,2019-02-02,14.0,16.0,1
+New Mexico St.,Chicago St.,83.0,39.0,2019-02-02,28.0,44.0,1
+Alcorn St.,Southern,76.0,64.0,2019-02-02,-3.0,12.0,1
+High Point,Hampton,85.0,69.0,2019-02-02,2.0,16.0,1
+Liberty,NJIT,77.0,57.0,2019-02-02,10.0,20.0,1
+Stony Brook,Hartford,86.0,77.0,2019-02-02,5.5,9.0,1
+Albany,Binghamton,64.0,50.0,2019-02-02,9.0,14.0,1
+Florida Gulf Coast,Jacksonville,73.0,60.0,2019-02-02,4.0,13.0,1
+Sam Houston St.,Stephen F. Austin,94.0,72.0,2019-02-02,7.5,22.0,1
+Houston Baptist,Texas A&M Corpus Chris,73.0,72.0,2019-02-02,2.5,1.0,0
+UT Rio Grande Valley,UMKC,75.0,63.0,2019-02-02,7.0,12.0,1
+Cal St. Bakersfield,Grand Canyon,59.0,72.0,2019-02-02,-4.0,-13.0,0
+Seattle,Cal Baptist,64.0,75.0,2019-02-02,9.5,-11.0,0
+Clemson,Wake Forest,64.0,37.0,2019-02-03,13.5,27.0,1
+Purdue,Minnesota,73.0,63.0,2019-02-03,11.5,10.0,0
+Villanova,Georgetown,77.0,65.0,2019-02-03,10.5,12.0,1
+Creighton,Xavier,76.0,54.0,2019-02-03,6.5,22.0,1
+IUPUI,Wright St.,74.0,79.0,2019-02-03,1.0,-5.0,0
+Connecticut,East Carolina,76.0,52.0,2019-02-03,14.5,24.0,1
+California,Stanford,81.0,84.0,2019-02-03,-5.5,-3.0,1
+Illinois Chicago,Northern Kentucky,69.0,67.0,2019-02-03,-4.5,2.0,1
+Nebraska Omaha,North Dakota,90.0,72.0,2019-02-03,9.0,18.0,1
+Niagara,Quinnipiac,73.0,84.0,2019-02-03,1.0,-11.0,0
+Denver,South Dakota St.,82.0,92.0,2019-02-03,-9.0,-10.0,0
+Maine,New Hampshire,62.0,53.0,2019-02-03,9.0,9.0,2
+Virginia Tech,Louisville,64.0,72.0,2019-02-04,4.0,-8.0,0
+Northwestern,Penn St.,52.0,59.0,2019-02-04,4.0,-7.0,0
+Oklahoma,Iowa St.,74.0,75.0,2019-02-04,-2.0,-1.0,1
+Texas Tech,West Virginia,81.0,50.0,2019-02-04,13.0,31.0,1
+Siena,Fairfield,61.0,50.0,2019-02-04,5.0,11.0,1
+Canisius,Marist,71.0,78.0,2019-02-04,5.0,-7.0,0
+Northern Colorado,Montana St.,66.0,69.0,2019-02-04,8.5,-3.0,0
+Eastern Washington,Northern Arizona,82.0,64.0,2019-02-04,5.0,18.0,1
+Idaho,Southern Utah,64.0,75.0,2019-02-04,-4.0,-11.0,0
+Lehigh,Colgate,62.0,84.0,2019-02-04,5.5,-22.0,0
+Bethune Cookman,North Carolina A&T,69.0,53.0,2019-02-04,2.0,16.0,1
+Delaware St.,South Carolina St.,70.0,68.0,2019-02-04,-4.0,2.0,1
+Maryland Eastern Shore,None,63.0,68.0,2019-02-04,-2.5,-5.0,0
+Florida A&M,North Carolina Central,73.0,57.0,2019-02-04,3.0,16.0,1
+Texas Southern,Alabama A&M,84.0,74.0,2019-02-04,17.5,10.0,0
+Prairie View A&M,Alabama St.,69.0,67.0,2019-02-04,8.0,2.0,0
+Grambling St.,Mississippi Valley St.,79.0,57.0,2019-02-04,12.5,22.0,1
+Jackson St.,Arkansas Pine Bluff,65.0,52.0,2019-02-04,4.5,13.0,1
+La Salle,Saint Joseph's,83.0,69.0,2019-02-05,2.0,14.0,1
+Illinois,Michigan St.,79.0,74.0,2019-02-05,-10.0,5.0,1
+Wake Forest,Pittsburgh,78.0,76.0,2019-02-05,-2.5,2.0,1
+Duke,Boston College,80.0,55.0,2019-02-05,23.5,25.0,1
+Toledo,Akron,63.0,52.0,2019-02-05,7.5,11.0,1
+Kent St.,Miami OH,70.0,67.0,2019-02-05,3.5,3.0,0
+Western Michigan,Bowling Green,72.0,85.0,2019-02-05,-5.5,-13.0,0
+Loyola Chicago,Drake,86.0,64.0,2019-02-05,5.5,22.0,1
+Kentucky,South Carolina,76.0,48.0,2019-02-05,16.0,28.0,1
+Northern Illinois,Ball St.,71.0,72.0,2019-02-05,2.0,-1.0,0
+Illinois St.,Valparaiso,53.0,69.0,2019-02-05,7.0,-16.0,0
+Marquette,St. John's,69.0,70.0,2019-02-05,6.5,-1.0,0
+Rutgers,Michigan,65.0,77.0,2019-02-05,-10.0,-12.0,0
+Syracuse,Florida St.,62.0,80.0,2019-02-05,3.0,-18.0,0
+North Carolina,N.C. State,113.0,96.0,2019-02-05,11.5,17.0,1
+Saint Louis,Dayton,73.0,60.0,2019-02-05,1.0,13.0,1
+Tennessee,Missouri,72.0,60.0,2019-02-05,17.0,12.0,0
+Kansas St.,Kansas,74.0,67.0,2019-02-05,-1.0,7.0,1
+Arkansas,Vanderbilt,69.0,66.0,2019-02-05,8.5,3.0,0
+Auburn,Florida,76.0,62.0,2019-02-05,7.0,14.0,1
+Fresno St.,Utah St.,81.0,82.0,2019-02-05,0.0,-1.0,0
+New Mexico,San Diego St.,83.0,70.0,2019-02-05,0.0,13.0,1
+Manhattan,Rider,73.0,66.0,2019-02-05,-5.5,7.0,1
+Liberty,Stetson,57.0,54.0,2019-02-05,23.0,3.0,0
+Temple,Connecticut,81.0,63.0,2019-02-06,3.5,18.0,1
+Miami FL,Notre Dame,62.0,47.0,2019-02-06,3.5,15.0,1
+Mississippi,Texas A&M,75.0,71.0,2019-02-06,9.5,4.0,0
+Nebraska,Maryland,45.0,60.0,2019-02-06,1.5,-15.0,0
+Georgia Tech,Clemson,42.0,65.0,2019-02-06,-3.5,-23.0,0
+Davidson,Rhode Island,68.0,53.0,2019-02-06,5.5,15.0,1
+Massachusetts,Fordham,67.0,85.0,2019-02-06,7.0,-18.0,0
+George Washington,VCU,50.0,60.0,2019-02-06,-9.0,-10.0,0
+Richmond,George Mason,81.0,67.0,2019-02-06,-1.5,14.0,1
+Indiana St.,Evansville,85.0,62.0,2019-02-06,3.5,23.0,1
+East Carolina,Wichita St.,49.0,65.0,2019-02-06,-6.0,-16.0,0
+Duquesne,St. Bonaventure,49.0,51.0,2019-02-06,2.0,-2.0,0
+Providence,Georgetown,67.0,76.0,2019-02-06,3.0,-9.0,0
+Texas,Baylor,84.0,72.0,2019-02-06,3.0,12.0,1
+Missouri St.,Southern Illinois,65.0,59.0,2019-02-06,3.5,6.0,1
+Lafayette,Georgia Southern,86.0,103.0,2019-02-06,-1.0,-17.0,0
+Louisiana Monroe,Georgia St.,82.0,76.0,2019-02-06,0.0,6.0,1
+Northern Iowa,Bradley,71.0,79.0,2019-02-06,4.0,-8.0,0
+Villanova,Creighton,66.0,59.0,2019-02-06,9.0,7.0,0
+Air Force,Wyoming,81.0,76.0,2019-02-06,8.0,5.0,0
+Alabama,Georgia,89.0,74.0,2019-02-06,8.5,15.0,1
+Mississippi St.,LSU,88.0,92.0,2019-02-06,3.0,-4.0,0
+TCU,Oklahoma St.,70.0,68.0,2019-02-06,9.0,2.0,0
+UCLA,Colorado,73.0,84.0,2019-02-06,5.5,-11.0,0
+Minnesota,Wisconsin,51.0,56.0,2019-02-06,-3.0,-5.0,0
+Oregon,California,73.0,62.0,2019-02-06,15.5,11.0,0
+UC Santa Barbara,Cal St. Northridge,70.0,64.0,2019-02-06,9.0,6.0,0
+UC Irvine,Cal St. Fullerton,60.0,53.0,2019-02-06,6.5,7.0,1
+Colorado St.,Nevada,82.0,98.0,2019-02-06,-13.5,-16.0,0
+USC,Utah,70.0,77.0,2019-02-06,6.0,-7.0,0
+Boise St.,UNLV,72.0,83.0,2019-02-06,6.0,-11.0,0
+North Dakota,North Dakota St.,70.0,74.0,2019-02-06,-1.0,-4.0,0
+Jacksonville,Kennesaw St.,82.0,73.0,2019-02-06,12.5,9.0,0
+UMBC,Hartford,61.0,70.0,2019-02-06,3.0,-9.0,0
+Binghamton,Stony Brook,59.0,85.0,2019-02-06,-8.0,-26.0,0
+Navy,American,77.0,67.0,2019-02-06,-3.5,10.0,1
+Boston University,Lafayette,72.0,79.0,2019-02-06,8.5,-7.0,0
+Florida Gulf Coast,North Alabama,71.0,64.0,2019-02-06,8.0,7.0,0
+UMass Lowell,New Hampshire,72.0,62.0,2019-02-06,14.5,10.0,0
+Loyola MD,Bucknell,72.0,84.0,2019-02-06,-5.0,-12.0,0
+Vermont,Maine,86.0,63.0,2019-02-06,19.5,23.0,1
+North Florida,Lipscomb,55.0,92.0,2019-02-06,-11.5,-37.0,0
+Holy Cross,Army,56.0,42.0,2019-02-06,4.0,14.0,1
+Northwestern St.,New Orleans,73.0,81.0,2019-02-06,-3.0,-8.0,0
+Sam Houston St.,McNeese St.,77.0,62.0,2019-02-06,11.5,15.0,1
+Lamar,Abilene Christian,64.0,75.0,2019-02-06,-1.0,-11.0,0
+Houston Baptist,Stephen F. Austin,77.0,79.0,2019-02-06,1.5,-2.0,0
+Texas A&M Corpus Chris,Southeastern Louisiana,58.0,64.0,2019-02-06,4.0,-6.0,0
+Hofstra,Elon,102.0,61.0,2019-02-07,17.5,41.0,1
+Delaware,Charleston,75.0,83.0,2019-02-07,-4.5,-8.0,0
+Troy,Little Rock,70.0,84.0,2019-02-07,5.0,-14.0,0
+Ohio St.,Penn St.,74.0,70.0,2019-02-07,7.0,4.0,0
+Drexel,UNC Wilmington,69.0,57.0,2019-02-07,5.5,12.0,1
+Northeastern,William & Mary,72.0,60.0,2019-02-07,10.5,12.0,1
+Memphis,Cincinnati,64.0,69.0,2019-02-07,-3.0,-5.0,0
+Youngstown St.,Milwaukee,72.0,71.0,2019-02-07,4.0,1.0,0
+UCF,Houston,68.0,77.0,2019-02-07,-1.5,-9.0,0
+Wright St.,Oakland,76.0,62.0,2019-02-07,7.5,14.0,1
+Northern Kentucky,Detroit,97.0,65.0,2019-02-07,12.5,32.0,1
+Cleveland St.,Green Bay,65.0,82.0,2019-02-07,-3.0,-17.0,0
+Middle Tennessee,Charlotte,71.0,53.0,2019-02-07,4.0,18.0,1
+UAB,Old Dominion,59.0,70.0,2019-02-07,0.0,-11.0,0
+North Texas,Marshall,78.0,51.0,2019-02-07,5.5,27.0,1
+UTSA,FIU,100.0,67.0,2019-02-07,8.0,33.0,1
+Texas St.,Appalachian St.,74.0,71.0,2019-02-07,8.0,3.0,0
+Arizona St.,Washington St.,70.0,91.0,2019-02-07,16.0,-21.0,0
+UT Arlington,Coastal Carolina,74.0,54.0,2019-02-07,1.5,20.0,1
+South Alabama,Arkansas St.,70.0,62.0,2019-02-07,5.5,8.0,1
+Rice,Western Kentucky,85.0,92.0,2019-02-07,-4.0,-7.0,0
+Arizona,Washington,60.0,67.0,2019-02-07,-1.5,-7.0,0
+SMU,South Florida,66.0,67.0,2019-02-07,4.0,-1.0,0
+UTEP,Florida Atlantic,48.0,61.0,2019-02-07,1.5,-13.0,0
+Indiana,Iowa,72.0,77.0,2019-02-07,0.0,-5.0,0
+Gonzaga,San Francisco,92.0,62.0,2019-02-07,17.0,30.0,1
+Long Beach St.,Hawaii,70.0,77.0,2019-02-07,1.0,-7.0,0
+Cal Poly,UC Davis,53.0,63.0,2019-02-07,-2.5,-10.0,0
+Oregon St.,Stanford,60.0,83.0,2019-02-07,7.0,-23.0,0
+Loyola Marymount,San Diego,63.0,65.0,2019-02-07,0.0,-2.0,0
+Pepperdine,Santa Clara,71.0,79.0,2019-02-07,6.5,-8.0,0
+Portland,BYU,48.0,83.0,2019-02-07,-12.0,-35.0,0
+Saint Mary's,Pacific,78.0,66.0,2019-02-07,15.0,12.0,0
+Purdue Fort Wayne,Western Illinois,79.0,64.0,2019-02-07,9.0,15.0,1
+Saint Peter's,Monmouth,51.0,53.0,2019-02-07,2.0,-2.0,0
+East Tennessee St.,Wofford,76.0,78.0,2019-02-07,0.0,-2.0,0
+VMI,Chattanooga,70.0,71.0,2019-02-07,-1.0,-1.0,2
+UNC Greensboro,Samford,75.0,67.0,2019-02-07,7.5,8.0,1
+Eastern Kentucky,Belmont,65.0,83.0,2019-02-07,-9.5,-18.0,0
+Western Carolina,Furman,45.0,64.0,2019-02-07,-9.5,-19.0,0
+Morehead St.,Tennessee St.,80.0,81.0,2019-02-07,5.0,-1.0,0
+Murray St.,Eastern Illinois,86.0,75.0,2019-02-07,16.0,11.0,0
+Oral Roberts,Denver,78.0,65.0,2019-02-07,2.5,13.0,1
+South Dakota,Nebraska Omaha,102.0,107.0,2019-02-07,0.0,-5.0,0
+Southeast Missouri St.,Tennessee Tech,71.0,66.0,2019-02-07,3.5,5.0,1
+Tennessee Martin,Jacksonville St.,66.0,64.0,2019-02-07,-9.0,2.0,1
+Northern Arizona,Idaho St.,79.0,81.0,2019-02-07,3.0,-2.0,0
+Southern Utah,Weber St.,65.0,53.0,2019-02-07,-3.5,12.0,1
+Montana St.,Eastern Washington,74.0,66.0,2019-02-07,5.0,8.0,1
+Northern Colorado,Portland St.,80.0,62.0,2019-02-07,8.5,18.0,1
+Montana,Idaho,100.0,59.0,2019-02-07,21.5,41.0,1
+Austin Peay,SIU Edwardsville,80.0,45.0,2019-02-07,16.0,35.0,1
+St. Francis PA,Central Connecticut,90.0,85.0,2019-02-07,5.0,5.0,2
+Sacred Heart,Fairleigh Dickinson,69.0,63.0,2019-02-07,4.0,6.0,1
+High Point,Campbell,57.0,56.0,2019-02-07,1.5,1.0,0
+Hampton,Radford,98.0,101.0,2019-02-07,-3.5,-3.0,1
+Longwood,Gardner Webb,88.0,89.0,2019-02-07,-1.0,-1.0,2
+Robert Morris,Bryant,72.0,59.0,2019-02-07,9.0,13.0,1
+LIU,Mount St. Mary's,77.0,62.0,2019-02-07,8.5,15.0,1
+Presbyterian,UNC Asheville,67.0,44.0,2019-02-07,16.0,23.0,1
+St. Francis NY,Wagner,51.0,44.0,2019-02-07,4.5,7.0,1
+Charleston Southern,Winthrop,72.0,76.0,2019-02-07,0.0,-4.0,0
+Grand Canyon,UT Rio Grande Valley,69.0,72.0,2019-02-07,11.5,-3.0,0
+Cal Baptist,Chicago St.,94.0,44.0,2019-02-07,17.5,50.0,1
+Cal St. Bakersfield,New Mexico St.,70.0,71.0,2019-02-07,-6.0,-1.0,1
+Saint Joseph's,Saint Louis,91.0,61.0,2019-02-08,-3.0,30.0,1
+Yale,Princeton,74.0,60.0,2019-02-08,6.5,14.0,1
+Brown,Penn,82.0,92.0,2019-02-08,-1.0,-10.0,0
+Harvard,Columbia,98.0,96.0,2019-02-08,12.0,2.0,0
+Dartmouth,Cornell,80.0,83.0,2019-02-08,3.0,-3.0,0
+Louisiana Monroe,Georgia Southern,88.0,79.0,2019-02-08,0.0,9.0,1
+Lafayette,Georgia St.,76.0,72.0,2019-02-08,-2.0,4.0,1
+Marist,Niagara,79.0,58.0,2019-02-08,4.0,21.0,1
+Manhattan,Siena,49.0,51.0,2019-02-08,-2.0,-2.0,2
+Rider,Canisius,80.0,81.0,2019-02-08,8.0,-1.0,0
+Iona,Quinnipiac,65.0,66.0,2019-02-08,3.0,-1.0,0
+Akron,Kent St.,72.0,53.0,2019-02-08,4.0,19.0,1
+Tulsa,Temple,76.0,58.0,2019-02-09,-2.0,18.0,1
+Kansas,Oklahoma St.,84.0,72.0,2019-02-09,12.0,12.0,2
+Michigan,Wisconsin,61.0,52.0,2019-02-09,5.5,9.0,1
+Clemson,Virginia Tech,59.0,51.0,2019-02-09,1.0,8.0,1
+North Carolina,Miami FL,88.0,85.0,2019-02-09,18.0,3.0,0
+St. John's,Providence,56.0,70.0,2019-02-09,7.5,-14.0,0
+Ball St.,Western Michigan,79.0,59.0,2019-02-09,13.5,20.0,1
+Georgetown,Butler,69.0,73.0,2019-02-09,2.0,-4.0,0
+IUPUI,Illinois Chicago,75.0,76.0,2019-02-09,4.0,-1.0,0
+Georgia,Mississippi,64.0,80.0,2019-02-09,-3.0,-16.0,0
+Massachusetts,Davidson,54.0,51.0,2019-02-09,-7.0,3.0,1
+Mississippi St.,Kentucky,67.0,71.0,2019-02-09,-3.5,-4.0,0
+LSU,Auburn,83.0,78.0,2019-02-09,2.0,5.0,1
+Wyoming,Colorado St.,74.0,66.0,2019-02-09,-5.5,8.0,1
+Eastern Michigan,Northern Illinois,57.0,49.0,2019-02-09,2.5,8.0,1
+Miami OH,Ohio,79.0,59.0,2019-02-09,6.5,20.0,1
+Iowa St.,TCU,83.0,92.0,2019-02-09,10.5,-9.0,0
+Towson,James Madison,66.0,59.0,2019-02-09,3.0,7.0,1
+St. Bonaventure,VCU,55.0,85.0,2019-02-09,-2.5,-30.0,0
+Syracuse,Boston College,67.0,56.0,2019-02-09,11.5,11.0,0
+Michigan St.,Minnesota,79.0,55.0,2019-02-09,13.0,24.0,1
+Pittsburgh,N.C. State,76.0,79.0,2019-02-09,-2.0,-3.0,0
+Fordham,Duquesne,66.0,74.0,2019-02-09,-2.0,-8.0,0
+Boise St.,San Jose St.,105.0,57.0,2019-02-09,18.5,48.0,1
+Marquette,Villanova,66.0,65.0,2019-02-09,1.0,1.0,2
+UT Arlington,Appalachian St.,78.0,68.0,2019-02-09,6.0,10.0,1
+Troy,Arkansas St.,84.0,79.0,2019-02-09,3.5,5.0,1
+Cleveland St.,Milwaukee,78.0,68.0,2019-02-09,-1.0,10.0,1
+South Carolina,Arkansas,77.0,65.0,2019-02-09,1.0,12.0,1
+Buffalo,Central Michigan,90.0,76.0,2019-02-09,15.5,14.0,0
+Hofstra,William & Mary,93.0,87.0,2019-02-09,13.0,6.0,0
+Florida St.,Louisville,80.0,75.0,2019-02-09,2.0,5.0,1
+UTSA,Florida Atlantic,86.0,74.0,2019-02-09,7.5,12.0,1
+Drexel,Charleston,84.0,86.0,2019-02-09,-4.0,-2.0,1
+Pepperdine,San Diego,70.0,67.0,2019-02-09,-2.0,3.0,1
+Tennessee,Florida,73.0,61.0,2019-02-09,11.5,12.0,1
+Illinois,Rutgers,99.0,94.0,2019-02-09,6.0,5.0,0
+Northeastern,Elon,72.0,60.0,2019-02-09,18.0,12.0,0
+Rhode Island,Dayton,48.0,77.0,2019-02-09,1.0,-29.0,0
+Oklahoma,Texas Tech,54.0,66.0,2019-02-09,-1.0,-12.0,0
+South Alabama,Little Rock,68.0,73.0,2019-02-09,3.5,-5.0,0
+UCLA,Utah,92.0,93.0,2019-02-09,4.0,-1.0,0
+Texas St.,Coastal Carolina,65.0,57.0,2019-02-09,5.5,8.0,1
+Southern Miss,Louisiana Tech,73.0,71.0,2019-02-09,4.0,2.0,0
+UNLV,Fresno St.,65.0,83.0,2019-02-09,-2.0,-18.0,0
+Oregon St.,California,79.0,71.0,2019-02-09,15.0,8.0,0
+Nevada,New Mexico,91.0,62.0,2019-02-09,20.5,29.0,1
+Drake,Northern Iowa,83.0,77.0,2019-02-09,6.0,6.0,2
+North Texas,Western Kentucky,59.0,62.0,2019-02-09,3.5,-3.0,0
+Bowling Green,Toledo,71.0,78.0,2019-02-09,1.0,-7.0,0
+Youngstown St.,Green Bay,96.0,77.0,2019-02-09,0.0,19.0,1
+Brown,Princeton,78.0,70.0,2019-02-09,0.0,8.0,1
+Baylor,Kansas St.,63.0,70.0,2019-02-09,2.5,-7.0,0
+Missouri,Texas A&M,59.0,68.0,2019-02-09,5.0,-9.0,0
+Richmond,George Washington,89.0,63.0,2019-02-09,5.5,26.0,1
+Virginia,Duke,71.0,81.0,2019-02-09,2.0,-10.0,0
+Yale,Penn,78.0,65.0,2019-02-09,6.5,13.0,1
+Harvard,Cornell,61.0,67.0,2019-02-09,10.5,-6.0,0
+Dartmouth,Columbia,82.0,66.0,2019-02-09,3.5,16.0,1
+Wright St.,Detroit,83.0,60.0,2019-02-09,10.0,23.0,1
+Northern Kentucky,Oakland,79.0,64.0,2019-02-09,11.5,15.0,1
+Middle Tennessee,Old Dominion,50.0,55.0,2019-02-09,-6.0,-5.0,1
+Delaware,UNC Wilmington,70.0,66.0,2019-02-09,4.5,4.0,0
+Arizona,Washington St.,55.0,69.0,2019-02-09,11.5,-14.0,0
+Bradley,Indiana St.,96.0,67.0,2019-02-09,3.0,29.0,1
+Southern Illinois,Evansville,78.0,73.0,2019-02-09,7.0,5.0,0
+UC Riverside,Cal St. Fullerton,54.0,77.0,2019-02-09,-5.5,-23.0,0
+Xavier,DePaul,62.0,74.0,2019-02-09,3.5,-12.0,0
+UAB,Charlotte,62.0,69.0,2019-02-09,10.0,-7.0,0
+Wichita St.,Tulane,77.0,62.0,2019-02-09,13.0,15.0,1
+Rice,Marshall,74.0,69.0,2019-02-09,1.0,5.0,1
+Seton Hall,Creighton,63.0,58.0,2019-02-09,3.0,5.0,1
+West Virginia,Texas,53.0,75.0,2019-02-09,-5.0,-22.0,0
+Purdue,Nebraska,81.0,62.0,2019-02-09,10.0,19.0,1
+Vanderbilt,Alabama,67.0,77.0,2019-02-09,-3.5,-10.0,0
+UTEP,FIU,85.0,75.0,2019-02-09,1.5,10.0,1
+BYU,Pacific,69.0,59.0,2019-02-09,11.5,10.0,0
+Cal Poly,Long Beach St.,68.0,76.0,2019-02-09,-3.5,-8.0,0
+San Diego St.,Utah St.,68.0,63.0,2019-02-09,-3.5,5.0,1
+Portland,Loyola Marymount,55.0,72.0,2019-02-09,-8.5,-17.0,0
+UC Irvine,Hawaii,67.0,56.0,2019-02-09,7.5,11.0,1
+Arizona St.,Washington,75.0,63.0,2019-02-09,-1.5,12.0,1
+USC,Colorado,65.0,69.0,2019-02-09,4.5,-4.0,0
+Gonzaga,Saint Mary's,94.0,46.0,2019-02-09,17.0,48.0,1
+UC Santa Barbara,UC Davis,57.0,61.0,2019-02-09,8.5,-4.0,0
+San Francisco,Santa Clara,78.0,72.0,2019-02-09,13.5,6.0,0
+Fairfield,Monmouth,49.0,61.0,2019-02-09,2.5,-12.0,0
+VMI,Samford,77.0,84.0,2019-02-09,-8.0,-7.0,1
+Northern Arizona,Weber St.,71.0,86.0,2019-02-09,-4.5,-15.0,0
+Southern Utah,Idaho St.,78.0,72.0,2019-02-09,5.5,6.0,1
+Mercer,The Citadel,61.0,67.0,2019-02-09,8.0,-6.0,0
+Furman,East Tennessee St.,91.0,61.0,2019-02-09,2.0,30.0,1
+Montana St.,Idaho,86.0,72.0,2019-02-09,14.0,14.0,2
+Tennessee Martin,Tennessee Tech,77.0,58.0,2019-02-09,4.5,19.0,1
+Northern Colorado,Sacramento St.,65.0,59.0,2019-02-09,9.0,6.0,0
+Morehead St.,Belmont,86.0,96.0,2019-02-09,-10.5,-10.0,1
+Austin Peay,Eastern Illinois,94.0,86.0,2019-02-09,14.0,8.0,0
+North Dakota St.,Denver,81.0,71.0,2019-02-09,8.0,10.0,1
+Southeast Missouri St.,Jacksonville St.,64.0,81.0,2019-02-09,-10.0,-17.0,0
+South Dakota St.,North Dakota,80.0,55.0,2019-02-09,17.0,25.0,1
+Chattanooga,UNC Greensboro,63.0,78.0,2019-02-09,-7.0,-15.0,0
+Wofford,Western Carolina,83.0,56.0,2019-02-09,22.5,27.0,1
+Eastern Kentucky,Tennessee St.,75.0,65.0,2019-02-09,6.0,10.0,1
+Murray St.,SIU Edwardsville,86.0,55.0,2019-02-09,19.0,31.0,1
+Montana,Eastern Washington,75.0,74.0,2019-02-09,14.0,1.0,0
+Bucknell,Boston University,82.0,76.0,2019-02-09,10.5,6.0,0
+New Hampshire,Binghamton,61.0,68.0,2019-02-09,0.0,-7.0,0
+Winthrop,Hampton,101.0,91.0,2019-02-09,7.0,10.0,1
+Colgate,Loyola MD,75.0,72.0,2019-02-09,12.0,3.0,0
+Vermont,Albany,67.0,49.0,2019-02-09,16.0,18.0,1
+American,Army,71.0,68.0,2019-02-09,7.0,3.0,0
+UNC Asheville,Charleston Southern,75.0,85.0,2019-02-09,-9.0,-10.0,0
+Sacred Heart,Mount St. Mary's,73.0,76.0,2019-02-09,11.0,-3.0,0
+South Carolina St.,Morgan St.,85.0,81.0,2019-02-09,1.5,4.0,1
+Bethune Cookman,Norfolk St.,84.0,76.0,2019-02-09,1.0,8.0,1
+McNeese St.,Northwestern St.,72.0,74.0,2019-02-09,7.0,-2.0,0
+Florida A&M,Howard,66.0,70.0,2019-02-09,5.5,-4.0,0
+Radford,High Point,69.0,66.0,2019-02-09,9.5,3.0,0
+North Alabama,North Florida,73.0,82.0,2019-02-09,-1.0,-9.0,0
+North Carolina Central,Maryland Eastern Shore,78.0,53.0,2019-02-09,14.0,25.0,1
+North Carolina A&T,Delaware St.,82.0,52.0,2019-02-09,14.0,30.0,1
+St. Francis NY,Fairleigh Dickinson,73.0,84.0,2019-02-09,2.5,-11.0,0
+Robert Morris,Central Connecticut,68.0,77.0,2019-02-09,6.5,-9.0,0
+Presbyterian,Gardner Webb,103.0,101.0,2019-02-09,5.0,2.0,0
+Campbell,USC Upstate,82.0,66.0,2019-02-09,13.0,16.0,1
+Kennesaw St.,NJIT,63.0,62.0,2019-02-09,-10.0,1.0,1
+Lehigh,Navy,83.0,57.0,2019-02-09,11.0,26.0,1
+LIU,Wagner,65.0,68.0,2019-02-09,4.5,-3.0,0
+Central Arkansas,Southeastern Louisiana,67.0,75.0,2019-02-09,3.0,-8.0,0
+Lipscomb,Jacksonville,86.0,77.0,2019-02-09,22.5,9.0,0
+New Orleans,Nicholls St.,63.0,64.0,2019-02-09,8.0,-1.0,0
+Stephen F. Austin,Lamar,67.0,82.0,2019-02-09,3.0,-15.0,0
+Alabama St.,Arkansas Pine Bluff,69.0,75.0,2019-02-09,6.5,-6.0,0
+None,Coppin St.,71.0,62.0,2019-02-09,3.5,9.0,1
+Southern,Grambling St.,40.0,59.0,2019-02-09,-2.5,-19.0,0
+Alcorn St.,Jackson St.,66.0,52.0,2019-02-09,-3.0,14.0,1
+Abilene Christian,Sam Houston St.,85.0,90.0,2019-02-09,4.0,-5.0,0
+Liberty,Florida Gulf Coast,74.0,67.0,2019-02-09,13.5,7.0,0
+Alabama A&M,Mississippi Valley St.,78.0,63.0,2019-02-09,5.5,15.0,1
+St. Francis PA,Bryant,84.0,75.0,2019-02-09,8.5,9.0,1
+Stony Brook,UMass Lowell,76.0,65.0,2019-02-09,10.0,11.0,1
+Texas A&M Corpus Chris,Incarnate Word,70.0,61.0,2019-02-09,11.0,9.0,0
+Texas Southern,Prairie View A&M,95.0,90.0,2019-02-09,6.0,5.0,0
+Grand Canyon,New Mexico St.,64.0,67.0,2019-02-09,1.0,-3.0,0
+Cal Baptist,UMKC,70.0,60.0,2019-02-09,6.0,10.0,1
+Cal St. Bakersfield,UT Rio Grande Valley,74.0,79.0,2019-02-09,3.0,-5.0,0
+Indiana,Ohio St.,52.0,55.0,2019-02-10,2.0,-3.0,0
+George Mason,La Salle,84.0,76.0,2019-02-10,6.0,8.0,1
+SMU,UCF,65.0,71.0,2019-02-10,1.0,-6.0,0
+Memphis,Connecticut,78.0,71.0,2019-02-10,5.5,7.0,1
+Houston,Cincinnati,65.0,58.0,2019-02-10,5.0,7.0,1
+Valparaiso,Loyola Chicago,51.0,56.0,2019-02-10,-3.0,-5.0,0
+Missouri St.,Illinois St.,66.0,65.0,2019-02-10,5.0,1.0,0
+South Florida,East Carolina,72.0,68.0,2019-02-10,14.0,4.0,0
+Notre Dame,Georgia Tech,69.0,59.0,2019-02-10,4.0,10.0,1
+Iowa,Northwestern,80.0,79.0,2019-02-10,10.0,1.0,0
+Oregon,Stanford,69.0,46.0,2019-02-10,6.0,23.0,1
+Iona,Niagara,79.0,76.0,2019-02-10,8.0,3.0,0
+Saint Peter's,Canisius,60.0,64.0,2019-02-10,-1.0,-4.0,0
+South Dakota,Oral Roberts,72.0,86.0,2019-02-10,6.0,-14.0,0
+Rider,Siena,57.0,59.0,2019-02-10,5.0,-2.0,0
+Lafayette,Holy Cross,69.0,67.0,2019-02-10,0.0,2.0,1
+Maine,UMBC,66.0,67.0,2019-02-10,-4.0,-1.0,1
+North Carolina,Virginia,61.0,69.0,2019-02-11,0.0,-8.0,0
+Baylor,Oklahoma,59.0,53.0,2019-02-11,4.0,6.0,1
+TCU,Kansas,77.0,82.0,2019-02-11,2.0,-5.0,0
+Sacramento St.,Portland St.,78.0,67.0,2019-02-11,4.5,11.0,1
+Bucknell,Lehigh,87.0,75.0,2019-02-11,4.5,12.0,1
+Florida A&M,Norfolk St.,54.0,66.0,2019-02-11,1.0,-12.0,0
+South Carolina St.,Coppin St.,85.0,84.0,2019-02-11,6.0,1.0,0
+Bethune Cookman,Howard,73.0,79.0,2019-02-11,4.0,-6.0,0
+North Carolina A&T,Maryland Eastern Shore,68.0,61.0,2019-02-11,15.5,7.0,0
+North Carolina Central,Delaware St.,87.0,52.0,2019-02-11,11.5,35.0,1
+None,Morgan St.,88.0,85.0,2019-02-11,0.0,3.0,1
+Alabama A&M,Arkansas Pine Bluff,60.0,69.0,2019-02-11,1.0,-9.0,0
+Southern,Jackson St.,76.0,67.0,2019-02-11,1.0,9.0,1
+Alabama St.,Mississippi Valley St.,82.0,59.0,2019-02-11,11.0,23.0,1
+Alcorn St.,Grambling St.,53.0,65.0,2019-02-11,-6.5,-12.0,0
+Saint Joseph's,St. Bonaventure,51.0,76.0,2019-02-12,2.0,-25.0,0
+Maryland,Purdue,70.0,56.0,2019-02-12,0.0,14.0,1
+Boston College,Pittsburgh,66.0,57.0,2019-02-12,2.5,9.0,1
+Fordham,Davidson,69.0,79.0,2019-02-12,-7.0,-10.0,0
+Texas A&M,Georgia,73.0,56.0,2019-02-12,5.0,17.0,1
+Kentucky,LSU,71.0,73.0,2019-02-12,9.5,-2.0,0
+Akron,Buffalo,70.0,76.0,2019-02-12,-6.5,-6.0,1
+Bowling Green,Central Michigan,79.0,72.0,2019-02-12,7.0,7.0,2
+Ohio,Eastern Michigan,57.0,66.0,2019-02-12,0.0,-9.0,0
+Western Michigan,Northern Illinois,76.0,74.0,2019-02-12,-2.5,2.0,1
+Wisconsin,Michigan St.,59.0,67.0,2019-02-12,0.0,-8.0,0
+DePaul,Marquette,73.0,92.0,2019-02-12,-4.5,-19.0,0
+Southern Illinois,Drake,69.0,72.0,2019-02-12,3.0,-3.0,0
+St. John's,Butler,77.0,73.0,2019-02-12,3.5,4.0,1
+Penn St.,Michigan,75.0,69.0,2019-02-12,-7.0,6.0,1
+Mississippi St.,Alabama,81.0,62.0,2019-02-12,5.0,19.0,1
+Missouri,Arkansas,79.0,78.0,2019-02-12,-1.0,1.0,1
+Texas,Kansas St.,64.0,71.0,2019-02-12,3.0,-7.0,0
+Louisville,Duke,69.0,71.0,2019-02-12,-6.0,-2.0,1
+UNLV,Air Force,77.0,72.0,2019-02-12,8.5,5.0,0
+Colorado St.,San Diego St.,60.0,71.0,2019-02-12,-2.0,-11.0,0
+Quinnipiac,Rider,98.0,88.0,2019-02-12,1.5,10.0,1
+Villanova,Providence,85.0,67.0,2019-02-13,11.0,18.0,1
+George Washington,Saint Louis,58.0,73.0,2019-02-13,-4.0,-15.0,0
+Tennessee,South Carolina,85.0,73.0,2019-02-13,17.0,12.0,0
+Evansville,Missouri St.,56.0,68.0,2019-02-13,-2.0,-12.0,0
+Temple,SMU,82.0,74.0,2019-02-13,5.0,8.0,1
+Georgia Southern,South Alabama,75.0,65.0,2019-02-13,9.0,10.0,1
+UCF,South Florida,78.0,65.0,2019-02-13,6.5,13.0,1
+East Carolina,Memphis,69.0,79.0,2019-02-13,-9.0,-10.0,0
+Northwestern,Rutgers,56.0,59.0,2019-02-13,5.5,-3.0,0
+George Mason,Massachusetts,80.0,75.0,2019-02-13,8.5,5.0,0
+VCU,Richmond,81.0,60.0,2019-02-13,12.0,21.0,1
+Miami FL,Clemson,65.0,64.0,2019-02-13,-1.5,1.0,1
+La Salle,Duquesne,73.0,72.0,2019-02-13,1.5,1.0,0
+Florida St.,Wake Forest,88.0,66.0,2019-02-13,18.0,22.0,1
+Georgia St.,Troy,77.0,63.0,2019-02-13,9.5,14.0,1
+Virginia Tech,Georgia Tech,76.0,68.0,2019-02-13,13.0,8.0,0
+N.C. State,Syracuse,73.0,58.0,2019-02-13,3.0,15.0,1
+Bradley,Loyola Chicago,61.0,54.0,2019-02-13,-2.5,7.0,1
+Northern Iowa,Illinois St.,77.0,64.0,2019-02-13,1.5,13.0,1
+Valparaiso,Indiana St.,82.0,87.0,2019-02-13,4.5,-5.0,0
+Auburn,Mississippi,55.0,60.0,2019-02-13,9.0,-5.0,0
+Xavier,Creighton,64.0,61.0,2019-02-13,0.0,3.0,1
+Seton Hall,Georgetown,90.0,75.0,2019-02-13,3.5,15.0,1
+Oklahoma St.,Texas Tech,50.0,78.0,2019-02-13,-7.0,-28.0,0
+Nebraska,Minnesota,62.0,61.0,2019-02-13,4.5,1.0,0
+New Mexico,San Jose St.,92.0,60.0,2019-02-13,16.5,32.0,1
+Utah St.,Wyoming,76.0,59.0,2019-02-13,22.0,17.0,0
+Florida,Vanderbilt,66.0,57.0,2019-02-13,11.0,9.0,0
+California,UCLA,67.0,75.0,2019-02-13,-8.0,-8.0,2
+UC Davis,Cal St. Northridge,76.0,59.0,2019-02-13,4.0,17.0,1
+Cal St. Fullerton,Long Beach St.,85.0,82.0,2019-02-13,7.5,3.0,0
+Colorado,Arizona St.,77.0,73.0,2019-02-13,2.5,4.0,1
+Fresno St.,Boise St.,65.0,63.0,2019-02-13,6.5,2.0,0
+Stanford,USC,79.0,76.0,2019-02-13,1.5,3.0,1
+Siena,Iona,52.0,57.0,2019-02-13,2.5,-5.0,0
+Army,Boston University,71.0,61.0,2019-02-13,4.0,10.0,1
+Winthrop,Presbyterian,93.0,85.0,2019-02-13,4.5,8.0,1
+High Point,Longwood,59.0,62.0,2019-02-13,8.5,-3.0,0
+USC Upstate,UNC Asheville,53.0,57.0,2019-02-13,6.5,-4.0,0
+Florida Gulf Coast,NJIT,57.0,55.0,2019-02-13,1.0,2.0,1
+Gardner Webb,Charleston Southern,77.0,74.0,2019-02-13,3.0,3.0,2
+Campbell,Hampton,87.0,84.0,2019-02-13,6.5,3.0,0
+Hartford,Maine,81.0,73.0,2019-02-13,10.5,8.0,0
+American,Loyola MD,84.0,86.0,2019-02-13,8.5,-2.0,0
+Binghamton,UMBC,50.0,64.0,2019-02-13,-6.5,-14.0,0
+Stetson,Jacksonville,70.0,93.0,2019-02-13,-4.5,-23.0,0
+Albany,UMass Lowell,54.0,86.0,2019-02-13,2.5,-32.0,0
+Vermont,New Hampshire,73.0,44.0,2019-02-13,26.5,29.0,1
+Navy,Lafayette,74.0,80.0,2019-02-13,2.0,-6.0,0
+North Florida,Kennesaw St.,80.0,57.0,2019-02-13,13.0,23.0,1
+Stephen F. Austin,McNeese St.,67.0,57.0,2019-02-13,5.0,10.0,1
+Lipscomb,Liberty,66.0,74.0,2019-02-13,8.0,-8.0,0
+Holy Cross,Colgate,70.0,74.0,2019-02-13,-2.0,-4.0,0
+Nicholls St.,Abilene Christian,48.0,64.0,2019-02-13,-6.5,-16.0,0
+Lamar,Northwestern St.,75.0,70.0,2019-02-13,10.0,5.0,0
+Central Arkansas,Houston Baptist,71.0,75.0,2019-02-13,3.5,-4.0,0
+Texas A&M Corpus Chris,Sam Houston St.,69.0,70.0,2019-02-13,-3.5,-1.0,1
+Southeastern Louisiana,Incarnate Word,70.0,64.0,2019-02-13,12.5,6.0,0
+Ohio St.,Illinois,56.0,63.0,2019-02-14,8.0,-7.0,0
+UNC Wilmington,Northeastern,77.0,81.0,2019-02-14,-7.5,-4.0,1
+FIU,Rice,86.0,65.0,2019-02-14,2.5,21.0,1
+Florida Atlantic,North Texas,57.0,47.0,2019-02-14,-3.0,10.0,1
+Youngstown St.,IUPUI,75.0,73.0,2019-02-14,-1.0,2.0,1
+James Madison,Drexel,71.0,69.0,2019-02-14,1.5,2.0,1
+Towson,Delaware,71.0,78.0,2019-02-14,2.5,-7.0,0
+Connecticut,Houston,63.0,71.0,2019-02-14,-8.0,-8.0,2
+Cleveland St.,Illinois Chicago,77.0,81.0,2019-02-14,-4.0,-4.0,2
+Charleston,Hofstra,95.0,99.0,2019-02-14,-1.0,-4.0,0
+Little Rock,UT Arlington,56.0,52.0,2019-02-14,1.0,4.0,1
+Louisiana Tech,UTEP,71.0,57.0,2019-02-14,10.5,14.0,1
+Arkansas St.,Texas St.,74.0,84.0,2019-02-14,-5.5,-10.0,0
+Western Kentucky,Middle Tennessee,71.0,63.0,2019-02-14,12.0,8.0,0
+Southern Miss,UTSA,78.0,71.0,2019-02-14,3.0,7.0,1
+Milwaukee,Detroit,84.0,90.0,2019-02-14,2.0,-6.0,0
+Marshall,UAB,68.0,77.0,2019-02-14,3.5,-9.0,0
+Green Bay,Oakland,66.0,54.0,2019-02-14,2.0,12.0,1
+Tulane,Tulsa,57.0,80.0,2019-02-14,-7.0,-23.0,0
+Utah,Arizona,83.0,76.0,2019-02-14,4.5,7.0,1
+San Diego,BYU,82.0,88.0,2019-02-14,3.0,-6.0,0
+San Francisco,Pepperdine,89.0,77.0,2019-02-14,9.5,12.0,1
+UC Riverside,UC Santa Barbara,71.0,57.0,2019-02-14,-8.5,14.0,1
+Santa Clara,Saint Mary's,55.0,66.0,2019-02-14,-8.0,-11.0,0
+Loyola Marymount,Gonzaga,60.0,73.0,2019-02-14,-20.5,-13.0,1
+Hawaii,Cal Poly,75.0,54.0,2019-02-14,14.5,21.0,1
+SIU Edwardsville,Eastern Illinois,65.0,79.0,2019-02-14,-0.0,-14.0,0
+Austin Peay,Murray St.,71.0,73.0,2019-02-14,-0.0,-2.0,0
+East Tennessee St.,The Citadel,91.0,83.0,2019-02-14,15.5,8.0,0
+Wofford,VMI,95.0,84.0,2019-02-14,24.0,11.0,0
+Western Carolina,Mercer,65.0,74.0,2019-02-14,-3.0,-9.0,0
+Furman,UNC Greensboro,67.0,57.0,2019-02-14,5.0,10.0,1
+Morehead St.,Eastern Kentucky,78.0,72.0,2019-02-14,2.0,6.0,1
+North Dakota St.,Oral Roberts,85.0,73.0,2019-02-14,7.5,12.0,1
+Tennessee St.,Belmont,66.0,77.0,2019-02-14,-12.5,-11.0,1
+Nebraska Omaha,South Dakota St.,85.0,84.0,2019-02-14,-4.0,1.0,1
+Tennessee Tech,Jacksonville St.,57.0,67.0,2019-02-14,-10.0,-10.0,2
+Tennessee Martin,Southeast Missouri St.,81.0,72.0,2019-02-14,6.0,9.0,1
+Denver,Purdue Fort Wayne,81.0,94.0,2019-02-14,-3.0,-13.0,0
+Weber St.,Montana,80.0,83.0,2019-02-14,-1.0,-3.0,0
+Idaho St.,Montana St.,76.0,84.0,2019-02-14,-1.0,-8.0,0
+Idaho,Northern Colorado,47.0,75.0,2019-02-14,-12.5,-28.0,0
+Portland St.,Northern Arizona,103.0,94.0,2019-02-14,5.0,9.0,1
+Sacramento St.,Southern Utah,84.0,73.0,2019-02-14,3.5,11.0,1
+Western Michigan,Kent St.,63.0,82.0,2019-02-14,-4.0,-19.0,0
+Fairleigh Dickinson,St. Francis PA,62.0,87.0,2019-02-14,4.5,-25.0,0
+Mount St. Mary's,Robert Morris,76.0,62.0,2019-02-14,-3.0,14.0,1
+Wagner,Central Connecticut,63.0,57.0,2019-02-14,4.5,6.0,1
+UMKC,Grand Canyon,87.0,75.0,2019-02-14,-9.0,12.0,1
+St. Francis NY,LIU,83.0,76.0,2019-02-14,3.5,7.0,1
+Bryant,Sacred Heart,104.0,105.0,2019-02-14,-4.0,-1.0,1
+UT Rio Grande Valley,Seattle,59.0,44.0,2019-02-14,5.0,15.0,1
+Chicago St.,Cal St. Bakersfield,62.0,75.0,2019-02-14,-15.0,-13.0,1
+New Mexico St.,Utah Valley,84.0,77.0,2019-02-14,8.0,7.0,0
+Penn,Dartmouth,82.0,79.0,2019-02-15,9.0,3.0,0
+Davidson,Saint Joseph's,80.0,72.0,2019-02-15,11.5,8.0,0
+Columbia,Yale,64.0,70.0,2019-02-15,-9.0,-6.0,1
+Princeton,Harvard,69.0,78.0,2019-02-15,1.0,-9.0,0
+Georgia St.,South Alabama,90.0,81.0,2019-02-15,8.5,9.0,1
+Cornell,Brown,70.0,66.0,2019-02-15,0.0,4.0,1
+Georgia Southern,Troy,76.0,51.0,2019-02-15,11.0,25.0,1
+Wright St.,Northern Kentucky,81.0,77.0,2019-02-15,0.0,4.0,1
+Rider,Monmouth,81.0,72.0,2019-02-15,5.5,9.0,1
+Iona,Saint Peter's,62.0,46.0,2019-02-15,8.5,16.0,1
+Niagara,Manhattan,60.0,64.0,2019-02-15,5.5,-4.0,0
+Canisius,Fairfield,72.0,68.0,2019-02-15,5.0,4.0,0
+Quinnipiac,Marist,61.0,63.0,2019-02-15,5.0,-2.0,0
+Toledo,Buffalo,82.0,88.0,2019-02-15,-2.5,-6.0,0
+TCU,Oklahoma,62.0,71.0,2019-02-16,5.5,-9.0,0
+Michigan,Maryland,65.0,52.0,2019-02-16,6.0,13.0,1
+Wake Forest,North Carolina,57.0,95.0,2019-02-16,-17.0,-38.0,0
+Duquesne,George Washington,85.0,69.0,2019-02-16,8.5,16.0,1
+Louisville,Clemson,56.0,55.0,2019-02-16,6.5,1.0,0
+Duke,N.C. State,94.0,78.0,2019-02-16,17.0,16.0,0
+Indiana St.,Southern Illinois,57.0,79.0,2019-02-16,1.0,-22.0,0
+Vanderbilt,Auburn,53.0,64.0,2019-02-16,-9.5,-11.0,0
+Green Bay,Detroit,82.0,73.0,2019-02-16,4.5,9.0,1
+Texas,Oklahoma St.,69.0,57.0,2019-02-16,12.0,12.0,2
+South Carolina,Texas A&M,84.0,77.0,2019-02-16,4.0,7.0,1
+Ball St.,Akron,57.0,56.0,2019-02-16,3.5,1.0,0
+Towson,Drexel,92.0,77.0,2019-02-16,1.0,15.0,1
+Texas Tech,Baylor,86.0,61.0,2019-02-16,6.5,25.0,1
+Virginia,Notre Dame,60.0,54.0,2019-02-16,19.5,6.0,0
+Appalachian St.,Coastal Carolina,88.0,79.0,2019-02-16,-1.0,9.0,1
+Minnesota,Indiana,84.0,63.0,2019-02-16,3.0,21.0,1
+Georgia Tech,Florida St.,47.0,69.0,2019-02-16,-6.0,-22.0,0
+Providence,Xavier,61.0,75.0,2019-02-16,5.5,-14.0,0
+Rhode Island,Fordham,63.0,66.0,2019-02-16,10.0,-3.0,0
+FIU,North Texas,69.0,59.0,2019-02-16,-2.5,10.0,1
+Western Michigan,Miami OH,84.0,79.0,2019-02-16,-5.5,5.0,1
+Marshall,Middle Tennessee,98.0,93.0,2019-02-16,7.5,5.0,0
+Florida Atlantic,Rice,60.0,41.0,2019-02-16,7.0,19.0,1
+Alabama,Florida,53.0,71.0,2019-02-16,3.0,-18.0,0
+Old Dominion,Charlotte,73.0,60.0,2019-02-16,14.5,13.0,0
+Western Kentucky,UAB,60.0,68.0,2019-02-16,7.5,-8.0,0
+Louisiana Tech,UTSA,72.0,67.0,2019-02-16,4.0,5.0,1
+Drake,Valparaiso,84.0,79.0,2019-02-16,5.0,5.0,2
+Southern Miss,UTEP,77.0,47.0,2019-02-16,10.5,30.0,1
+Mississippi,Missouri,75.0,65.0,2019-02-16,8.5,10.0,1
+Charleston,Northeastern,88.0,79.0,2019-02-16,2.5,9.0,1
+Kansas St.,Iowa St.,64.0,78.0,2019-02-16,2.5,-14.0,0
+Dayton,VCU,68.0,69.0,2019-02-16,1.5,-1.0,0
+Air Force,Utah St.,62.0,76.0,2019-02-16,-9.5,-14.0,0
+Purdue,Penn St.,76.0,64.0,2019-02-16,13.0,12.0,0
+Little Rock,Texas St.,60.0,67.0,2019-02-16,-1.5,-7.0,0
+Loyola Marymount,BYU,62.0,70.0,2019-02-16,-1.0,-8.0,0
+Kansas,West Virginia,78.0,53.0,2019-02-16,14.5,25.0,1
+Central Michigan,Ohio,87.0,80.0,2019-02-16,8.5,7.0,0
+Northern Illinois,Bowling Green,67.0,87.0,2019-02-16,-1.0,-20.0,0
+Pittsburgh,Virginia Tech,64.0,70.0,2019-02-16,-6.0,-6.0,2
+Saint Louis,La Salle,62.0,49.0,2019-02-16,8.0,13.0,1
+Arkansas St.,UT Arlington,83.0,79.0,2019-02-16,-2.5,4.0,1
+San Jose St.,UNLV,64.0,71.0,2019-02-16,-12.0,-7.0,1
+Georgia,LSU,79.0,83.0,2019-02-16,-8.5,-4.0,1
+UCF,Memphis,79.0,72.0,2019-02-16,5.5,7.0,1
+South Florida,Temple,69.0,70.0,2019-02-16,0.0,-1.0,0
+Youngstown St.,Illinois Chicago,81.0,73.0,2019-02-16,-1.0,8.0,1
+Rutgers,Iowa,69.0,71.0,2019-02-16,-4.0,-2.0,1
+Kent St.,Eastern Michigan,71.0,58.0,2019-02-16,3.5,13.0,1
+UNC Wilmington,Hofstra,87.0,79.0,2019-02-16,-10.0,8.0,1
+Elon,William & Mary,74.0,84.0,2019-02-16,-4.0,-10.0,0
+Columbia,Brown,63.0,65.0,2019-02-16,0.0,-2.0,0
+Princeton,Dartmouth,69.0,68.0,2019-02-16,5.5,1.0,0
+Penn,Harvard,68.0,75.0,2019-02-16,2.5,-7.0,0
+Cornell,Yale,92.0,98.0,2019-02-16,-6.0,-6.0,2
+Cleveland St.,IUPUI,89.0,86.0,2019-02-16,-4.0,3.0,1
+New Mexico,Fresno St.,73.0,81.0,2019-02-16,-3.5,-8.0,0
+San Diego St.,Boise St.,71.0,65.0,2019-02-16,4.0,6.0,1
+Milwaukee,Oakland,73.0,89.0,2019-02-16,-1.0,-16.0,0
+Lafayette,Louisiana Monroe,83.0,76.0,2019-02-16,1.0,7.0,1
+Washington St.,Washington,70.0,72.0,2019-02-16,-8.5,-2.0,1
+California,USC,66.0,89.0,2019-02-16,-7.0,-23.0,0
+Kentucky,Tennessee,86.0,69.0,2019-02-16,2.0,17.0,1
+Illinois St.,Bradley,59.0,65.0,2019-02-16,4.0,-6.0,0
+Butler,DePaul,91.0,78.0,2019-02-16,6.5,13.0,1
+James Madison,Delaware,68.0,61.0,2019-02-16,3.0,7.0,1
+Nebraska,Northwestern,59.0,50.0,2019-02-16,5.5,9.0,1
+Arkansas,Mississippi St.,67.0,77.0,2019-02-16,-1.5,-10.0,0
+Santa Clara,Pacific,64.0,59.0,2019-02-16,1.5,5.0,1
+Cal St. Northridge,Cal St. Fullerton,71.0,78.0,2019-02-16,-2.5,-7.0,0
+UC Davis,Long Beach St.,77.0,73.0,2019-02-16,6.0,4.0,0
+UC Irvine,UC Santa Barbara,83.0,70.0,2019-02-16,6.5,13.0,1
+Stanford,UCLA,104.0,80.0,2019-02-16,2.0,24.0,1
+Portland,San Francisco,63.0,68.0,2019-02-16,-16.0,-5.0,1
+San Diego,Gonzaga,67.0,79.0,2019-02-16,-16.0,-12.0,1
+Utah,Arizona St.,87.0,98.0,2019-02-16,1.0,-11.0,0
+Wyoming,Nevada,49.0,82.0,2019-02-16,-21.0,-33.0,0
+Oregon St.,Oregon,72.0,57.0,2019-02-16,1.0,15.0,1
+Saint Mary's,Pepperdine,72.0,65.0,2019-02-16,13.0,7.0,0
+Hawaii,UC Riverside,87.0,64.0,2019-02-16,12.0,23.0,1
+Western Carolina,The Citadel,103.0,82.0,2019-02-16,1.0,21.0,1
+SIU Edwardsville,Tennessee Martin,69.0,73.0,2019-02-16,-1.0,-4.0,0
+Western Illinois,South Dakota,67.0,80.0,2019-02-16,1.5,-13.0,0
+East Tennessee St.,Mercer,88.0,69.0,2019-02-16,10.5,19.0,1
+Eastern Illinois,Southeast Missouri St.,79.0,88.0,2019-02-16,7.0,-9.0,0
+Furman,VMI,96.0,62.0,2019-02-16,20.5,34.0,1
+Morehead St.,Austin Peay,70.0,73.0,2019-02-16,-5.5,-3.0,1
+Samford,Chattanooga,80.0,76.0,2019-02-16,8.5,4.0,0
+North Dakota St.,South Dakota St.,77.0,78.0,2019-02-16,-5.5,-1.0,1
+Eastern Washington,Northern Colorado,88.0,78.0,2019-02-16,-2.0,10.0,1
+Nebraska Omaha,Purdue Fort Wayne,74.0,71.0,2019-02-16,2.5,3.0,1
+Wofford,UNC Greensboro,80.0,50.0,2019-02-16,8.5,30.0,1
+Eastern Kentucky,Murray St.,70.0,102.0,2019-02-16,-8.5,-32.0,0
+Jacksonville St.,Tennessee St.,84.0,65.0,2019-02-16,14.0,19.0,1
+North Dakota,Oral Roberts,85.0,73.0,2019-02-16,4.0,12.0,1
+Tennessee Tech,Belmont,65.0,93.0,2019-02-16,-15.0,-28.0,0
+Weber St.,Montana St.,94.0,82.0,2019-02-16,6.5,12.0,1
+Idaho St.,Montana,68.0,80.0,2019-02-16,-9.5,-12.0,0
+Sacramento St.,Northern Arizona,66.0,78.0,2019-02-16,7.0,-12.0,0
+Portland St.,Southern Utah,78.0,69.0,2019-02-16,2.5,9.0,1
+Holy Cross,Bucknell,72.0,71.0,2019-02-16,-3.0,1.0,1
+UMBC,UMass Lowell,70.0,66.0,2019-02-16,5.5,4.0,0
+New Hampshire,Stony Brook,64.0,66.0,2019-02-16,-14.0,-2.0,1
+LIU,Sacred Heart,92.0,84.0,2019-02-16,1.0,8.0,1
+Navy,Army,79.0,68.0,2019-02-16,-1.0,11.0,1
+Longwood,USC Upstate,83.0,79.0,2019-02-16,9.0,4.0,0
+Chicago St.,Grand Canyon,59.0,90.0,2019-02-16,-20.0,-31.0,0
+Incarnate Word,Abilene Christian,48.0,68.0,2019-02-16,-10.0,-20.0,0
+South Carolina St.,Bethune Cookman,73.0,98.0,2019-02-16,-1.5,-25.0,0
+NJIT,North Florida,63.0,64.0,2019-02-16,5.0,-1.0,0
+Mount St. Mary's,Wagner,56.0,58.0,2019-02-16,0.0,-2.0,0
+Maryland Eastern Shore,Coppin St.,55.0,58.0,2019-02-16,-3.0,-3.0,2
+Stetson,Florida Gulf Coast,67.0,55.0,2019-02-16,-7.0,12.0,1
+American,Colgate,81.0,83.0,2019-02-16,-1.0,-2.0,0
+St. Francis NY,Central Connecticut,90.0,79.0,2019-02-16,6.0,11.0,1
+Howard,North Carolina A&T,81.0,85.0,2019-02-16,3.5,-4.0,0
+North Alabama,Liberty,70.0,80.0,2019-02-16,-12.0,-10.0,1
+Northwestern St.,Stephen F. Austin,87.0,72.0,2019-02-16,-2.5,15.0,1
+Presbyterian,Campbell,76.0,71.0,2019-02-16,3.0,5.0,1
+Fairleigh Dickinson,Bryant,97.0,84.0,2019-02-16,8.5,13.0,1
+Kennesaw St.,Lipscomb,67.0,83.0,2019-02-16,-22.0,-16.0,1
+Boston University,Lehigh,79.0,84.0,2019-02-16,-2.5,-5.0,0
+Gardner Webb,Winthrop,64.0,60.0,2019-02-16,-1.0,4.0,1
+Hartford,Vermont,75.0,77.0,2019-02-16,-6.5,-2.0,1
+Southeastern Louisiana,McNeese St.,88.0,52.0,2019-02-16,7.5,36.0,1
+New Orleans,Texas A&M Corpus Chris,68.0,58.0,2019-02-16,3.0,10.0,1
+Charleston Southern,Radford,53.0,52.0,2019-02-16,-3.0,1.0,1
+Mississippi Valley St.,Alcorn St.,76.0,68.0,2019-02-16,0.0,8.0,1
+Lamar,Sam Houston St.,75.0,72.0,2019-02-16,-2.0,3.0,1
+Hampton,High Point,81.0,86.0,2019-02-16,3.5,-5.0,0
+Grambling St.,Texas Southern,85.0,86.0,2019-02-16,1.0,-1.0,0
+Alabama St.,Alabama A&M,68.0,62.0,2019-02-16,9.0,6.0,0
+None,Florida A&M,74.0,78.0,2019-02-16,0.0,-4.0,0
+Jackson St.,Prairie View A&M,66.0,79.0,2019-02-16,-2.0,-13.0,0
+Norfolk St.,North Carolina Central,75.0,71.0,2019-02-16,5.5,4.0,0
+UMKC,Cal St. Bakersfield,75.0,67.0,2019-02-16,1.0,8.0,1
+St. Francis PA,Robert Morris,72.0,69.0,2019-02-16,5.0,3.0,0
+Houston Baptist,Nicholls St.,88.0,82.0,2019-02-16,8.0,6.0,0
+UT Rio Grande Valley,Utah Valley,64.0,76.0,2019-02-16,-1.0,-12.0,0
+Arkansas Pine Bluff,Southern,61.0,45.0,2019-02-16,5.0,16.0,1
+New Mexico St.,Seattle,59.0,53.0,2019-02-16,13.0,6.0,0
+Michigan St.,Ohio St.,62.0,44.0,2019-02-17,12.5,18.0,1
+Cincinnati,Wichita St.,72.0,62.0,2019-02-17,12.5,10.0,0
+East Carolina,Tulsa,73.0,77.0,2019-02-17,-7.0,-4.0,1
+St. Bonaventure,George Mason,79.0,56.0,2019-02-17,2.5,23.0,1
+Tulane,Houston,50.0,85.0,2019-02-17,-18.5,-35.0,0
+Creighton,Seton Hall,75.0,81.0,2019-02-17,4.5,-6.0,0
+Loyola Chicago,Missouri St.,61.0,65.0,2019-02-17,5.5,-4.0,0
+Evansville,Northern Iowa,58.0,73.0,2019-02-17,2.0,-15.0,0
+St. John's,Villanova,71.0,65.0,2019-02-17,-3.0,6.0,1
+Boston College,Miami FL,64.0,57.0,2019-02-17,0.0,7.0,1
+Colorado,Arizona,67.0,60.0,2019-02-17,4.5,7.0,1
+Siena,Quinnipiac,100.0,107.0,2019-02-17,2.5,-7.0,0
+Saint Peter's,Rider,65.0,71.0,2019-02-17,-5.0,-6.0,0
+Monmouth,Marist,67.0,75.0,2019-02-17,2.5,-8.0,0
+Niagara,Fairfield,78.0,73.0,2019-02-17,2.5,5.0,1
+Canisius,Manhattan,65.0,70.0,2019-02-17,7.5,-5.0,0
+Maine,Albany,54.0,63.0,2019-02-17,1.5,-9.0,0
+Loyola MD,Lafayette,64.0,69.0,2019-02-17,5.0,-5.0,0
+Virginia Tech,Virginia,58.0,64.0,2019-02-18,-3.5,-6.0,0
+Wisconsin,Illinois,64.0,58.0,2019-02-18,11.0,6.0,0
+West Virginia,Kansas St.,51.0,65.0,2019-02-18,-7.0,-14.0,0
+Oklahoma St.,TCU,68.0,61.0,2019-02-18,-3.0,7.0,1
+Eastern Washington,Idaho,82.0,57.0,2019-02-18,14.0,25.0,1
+Arkansas Pine Bluff,Alcorn St.,73.0,62.0,2019-02-18,8.5,11.0,1
+Holy Cross,Boston University,60.0,70.0,2019-02-18,5.0,-10.0,0
+Howard,North Carolina Central,90.0,98.0,2019-02-18,2.0,-8.0,0
+South Carolina St.,Florida A&M,57.0,54.0,2019-02-18,0.0,3.0,1
+None,Bethune Cookman,79.0,70.0,2019-02-18,-4.0,9.0,1
+Norfolk St.,North Carolina A&T,76.0,58.0,2019-02-18,5.5,18.0,1
+Grambling St.,Prairie View A&M,87.0,92.0,2019-02-18,2.0,-5.0,0
+Mississippi Valley St.,Southern,70.0,59.0,2019-02-18,-2.0,11.0,1
+Jackson St.,Texas Southern,65.0,77.0,2019-02-18,-6.0,-12.0,0
+Davidson,Dayton,73.0,74.0,2019-02-19,2.5,-1.0,0
+Notre Dame,Wake Forest,68.0,75.0,2019-02-19,10.5,-7.0,0
+Penn St.,Nebraska,95.0,71.0,2019-02-19,2.5,24.0,1
+Indiana,Purdue,46.0,48.0,2019-02-19,-4.0,-2.0,1
+Central Michigan,Kent St.,84.0,74.0,2019-02-19,3.0,10.0,1
+Bowling Green,Akron,73.0,69.0,2019-02-19,4.5,4.0,0
+Buffalo,Ohio,114.0,67.0,2019-02-19,20.5,47.0,1
+Eastern Michigan,Toledo,76.0,69.0,2019-02-19,-3.0,7.0,1
+Miami OH,Ball St.,69.0,66.0,2019-02-19,1.0,3.0,1
+Tennessee,Vanderbilt,58.0,46.0,2019-02-19,19.0,12.0,0
+South Carolina,Mississippi,79.0,64.0,2019-02-19,-1.5,15.0,1
+Drake,Bradley,77.0,68.0,2019-02-19,4.0,9.0,1
+Iowa,Maryland,65.0,66.0,2019-02-19,1.5,-1.0,0
+VCU,Rhode Island,76.0,42.0,2019-02-19,10.5,34.0,1
+Clemson,Florida St.,64.0,77.0,2019-02-19,2.0,-13.0,0
+Iowa St.,Baylor,69.0,73.0,2019-02-19,8.0,-4.0,0
+Missouri,Kentucky,58.0,66.0,2019-02-19,-11.5,-8.0,1
+Texas A&M,Alabama,65.0,56.0,2019-02-19,-1.0,9.0,1
+Wyoming,UNLV,56.0,66.0,2019-02-19,-5.0,-10.0,0
+Quinnipiac,Iona,77.0,81.0,2019-02-19,2.5,-4.0,0
+Siena,Saint Peter's,72.0,62.0,2019-02-19,7.5,10.0,1
+Colgate,Bucknell,75.0,64.0,2019-02-19,2.5,11.0,1
+Georgetown,Villanova,85.0,73.0,2019-02-20,-6.0,12.0,1
+Michigan St.,Rutgers,71.0,60.0,2019-02-20,17.0,11.0,0
+Georgia,Mississippi St.,67.0,68.0,2019-02-20,-6.5,-1.0,1
+LSU,Florida,77.0,82.0,2019-02-20,5.5,-5.0,0
+Indiana St.,Illinois St.,73.0,50.0,2019-02-20,1.5,23.0,1
+Loyola Chicago,Evansville,70.0,58.0,2019-02-20,11.0,12.0,1
+Memphis,Tulane,102.0,76.0,2019-02-20,18.5,26.0,1
+Syracuse,Louisville,69.0,49.0,2019-02-20,0.0,20.0,1
+N.C. State,Boston College,89.0,80.0,2019-02-20,10.5,9.0,0
+Richmond,Fordham,72.0,69.0,2019-02-20,7.0,3.0,0
+George Washington,Massachusetts,79.0,67.0,2019-02-20,-1.0,12.0,1
+Seton Hall,Xavier,69.0,70.0,2019-02-20,6.5,-1.0,0
+St. Bonaventure,La Salle,62.0,60.0,2019-02-20,8.5,2.0,0
+Valparaiso,Southern Illinois,55.0,52.0,2019-02-20,1.0,3.0,1
+Missouri St.,Northern Iowa,43.0,63.0,2019-02-20,5.5,-20.0,0
+Auburn,Arkansas,79.0,56.0,2019-02-20,12.5,23.0,1
+Ohio St.,Northwestern,63.0,49.0,2019-02-20,7.5,14.0,1
+Providence,St. John's,78.0,59.0,2019-02-20,-1.5,19.0,1
+Georgia Tech,Pittsburgh,73.0,65.0,2019-02-20,2.0,8.0,1
+Duke,North Carolina,72.0,88.0,2019-02-20,9.5,-16.0,0
+Marquette,Butler,79.0,69.0,2019-02-20,6.5,10.0,1
+DePaul,Creighton,67.0,79.0,2019-02-20,0.0,-12.0,0
+Tulsa,Wichita St.,60.0,81.0,2019-02-20,3.0,-21.0,0
+Arizona St.,Stanford,80.0,62.0,2019-02-20,7.5,18.0,1
+San Jose St.,Colorado St.,70.0,91.0,2019-02-20,-9.0,-21.0,0
+Fresno St.,Air Force,61.0,64.0,2019-02-20,15.0,-3.0,0
+Long Beach St.,Cal St. Northridge,80.0,78.0,2019-02-20,5.0,2.0,0
+Washington St.,Colorado,76.0,74.0,2019-02-20,-4.0,2.0,1
+Utah St.,New Mexico,71.0,55.0,2019-02-20,13.0,16.0,1
+Washington,Utah,62.0,45.0,2019-02-20,9.0,17.0,1
+San Diego St.,Nevada,65.0,57.0,2019-02-20,0.0,8.0,1
+South Dakota,Denver,72.0,45.0,2019-02-20,6.5,27.0,1
+Nebraska Omaha,Western Illinois,77.0,63.0,2019-02-20,10.0,14.0,1
+Lafayette,American,70.0,68.0,2019-02-20,-2.0,2.0,1
+Florida Gulf Coast,Lipscomb,67.0,61.0,2019-02-20,-11.5,6.0,1
+NJIT,Stetson,82.0,77.0,2019-02-20,14.0,5.0,0
+Kennesaw St.,North Alabama,61.0,76.0,2019-02-20,-1.5,-15.0,0
+Lehigh,Army,91.0,81.0,2019-02-20,7.5,10.0,1
+Jacksonville,North Florida,73.0,80.0,2019-02-20,0.0,-7.0,0
+McNeese St.,Central Arkansas,83.0,75.0,2019-02-20,1.0,8.0,1
+Stephen F. Austin,Texas A&M Corpus Chris,55.0,65.0,2019-02-20,2.5,-10.0,0
+Sam Houston St.,Nicholls St.,84.0,74.0,2019-02-20,13.5,10.0,0
+New Orleans,Southeastern Louisiana,89.0,68.0,2019-02-20,2.0,21.0,1
+Houston Baptist,Northwestern St.,92.0,54.0,2019-02-20,8.0,38.0,1
+Incarnate Word,Lamar,58.0,76.0,2019-02-20,-6.5,-18.0,0
+Cincinnati,UCF,60.0,55.0,2019-02-21,7.5,5.0,0
+Appalachian St.,Georgia St.,75.0,80.0,2019-02-21,-2.0,-5.0,0
+Wright St.,Cleveland St.,87.0,61.0,2019-02-21,14.0,26.0,1
+Minnesota,Michigan,60.0,69.0,2019-02-21,-4.0,-9.0,0
+Elon,UNC Wilmington,84.0,77.0,2019-02-21,-1.0,7.0,1
+Northeastern,James Madison,76.0,60.0,2019-02-21,13.5,16.0,1
+Northern Kentucky,Youngstown St.,76.0,69.0,2019-02-21,14.5,7.0,0
+Hofstra,Towson,91.0,82.0,2019-02-21,14.5,9.0,0
+William & Mary,Charleston,86.0,84.0,2019-02-21,-1.5,2.0,1
+Coastal Carolina,Georgia Southern,74.0,79.0,2019-02-21,0.0,-5.0,0
+Texas St.,Louisiana Monroe,60.0,63.0,2019-02-21,5.5,-3.0,0
+UT Arlington,Lafayette,64.0,76.0,2019-02-21,4.0,-12.0,0
+BYU,San Francisco,71.0,77.0,2019-02-21,3.5,-6.0,0
+Gonzaga,Pepperdine,92.0,64.0,2019-02-21,28.0,28.0,2
+USC,Oregon,66.0,49.0,2019-02-21,2.5,17.0,1
+Arizona,California,76.0,51.0,2019-02-21,13.5,25.0,1
+SMU,Connecticut,77.0,59.0,2019-02-21,6.5,18.0,1
+Pacific,Saint Mary's,32.0,58.0,2019-02-21,-7.5,-26.0,0
+San Diego,Portland,63.0,52.0,2019-02-21,17.5,11.0,0
+UC Santa Barbara,Hawaii,79.0,61.0,2019-02-21,4.0,18.0,1
+UC Irvine,Cal Poly,74.0,47.0,2019-02-21,17.5,27.0,1
+Cal St. Fullerton,UC Davis,62.0,58.0,2019-02-21,6.0,4.0,0
+UCLA,Oregon St.,68.0,67.0,2019-02-21,2.5,1.0,0
+VMI,East Tennessee St.,70.0,94.0,2019-02-21,-13.5,-24.0,0
+UNC Greensboro,Western Carolina,79.0,76.0,2019-02-21,15.5,3.0,0
+The Citadel,Chattanooga,65.0,68.0,2019-02-21,3.0,-3.0,0
+Mercer,Samford,65.0,62.0,2019-02-21,2.0,3.0,1
+Murray St.,Tennessee Martin,85.0,75.0,2019-02-21,16.5,10.0,0
+Belmont,Eastern Illinois,99.0,58.0,2019-02-21,17.5,41.0,1
+South Dakota St.,Purdue Fort Wayne,92.0,83.0,2019-02-21,10.0,9.0,0
+Jacksonville St.,Morehead St.,65.0,64.0,2019-02-21,12.0,1.0,0
+Tennessee Tech,Eastern Kentucky,66.0,67.0,2019-02-21,-2.5,-1.0,1
+Tennessee St.,SIU Edwardsville,84.0,85.0,2019-02-21,7.0,-1.0,0
+Northern Arizona,Idaho,75.0,54.0,2019-02-21,11.5,21.0,1
+Southern Utah,Eastern Washington,76.0,62.0,2019-02-21,2.0,14.0,1
+Austin Peay,Southeast Missouri St.,83.0,70.0,2019-02-21,14.5,13.0,0
+Sacramento St.,Weber St.,78.0,76.0,2019-02-21,-2.0,2.0,1
+Portland St.,Idaho St.,99.0,93.0,2019-02-21,6.0,6.0,2
+St. Francis PA,St. Francis NY,81.0,71.0,2019-02-21,4.0,10.0,1
+Fairleigh Dickinson,Sacred Heart,81.0,63.0,2019-02-21,3.0,18.0,1
+Radford,Winthrop,87.0,81.0,2019-02-21,6.0,6.0,2
+Hampton,Longwood,86.0,66.0,2019-02-21,6.5,20.0,1
+Stony Brook,Albany,70.0,74.0,2019-02-21,10.0,-4.0,0
+Central Connecticut,Mount St. Mary's,66.0,79.0,2019-02-21,6.0,-13.0,0
+UNC Asheville,Gardner Webb,55.0,65.0,2019-02-21,-8.5,-10.0,0
+UMass Lowell,Binghamton,66.0,81.0,2019-02-21,11.5,-15.0,0
+UMBC,Vermont,65.0,56.0,2019-02-21,-6.0,9.0,1
+Bryant,Wagner,67.0,65.0,2019-02-21,-1.5,2.0,1
+Robert Morris,LIU,62.0,49.0,2019-02-21,4.0,13.0,1
+New Hampshire,Hartford,50.0,70.0,2019-02-21,-9.5,-20.0,0
+Charleston Southern,USC Upstate,92.0,60.0,2019-02-21,12.5,32.0,1
+Utah Valley,Chicago St.,103.0,71.0,2019-02-21,27.0,32.0,1
+Campbell,High Point,61.0,48.0,2019-02-21,5.0,13.0,1
+Grand Canyon,Cal Baptist,91.0,58.0,2019-02-21,11.0,33.0,1
+Seattle,UMKC,69.0,64.0,2019-02-21,6.0,5.0,0
+IUPUI,Milwaukee,67.0,60.0,2019-02-22,9.0,7.0,0
+Brown,Harvard,88.0,79.0,2019-02-22,-1.0,9.0,1
+Yale,Dartmouth,77.0,59.0,2019-02-22,10.5,18.0,1
+Princeton,Cornell,68.0,59.0,2019-02-22,6.5,9.0,1
+Penn,Columbia,77.0,79.0,2019-02-22,9.5,-2.0,0
+Illinois Chicago,Green Bay,62.0,63.0,2019-02-22,4.5,-1.0,0
+Rhode Island,Davidson,66.0,75.0,2019-02-22,-2.0,-9.0,0
+Iowa,Indiana,76.0,70.0,2019-02-22,6.5,6.0,0
+Manhattan,Iona,52.0,66.0,2019-02-22,-3.0,-14.0,0
+Marist,Saint Peter's,59.0,65.0,2019-02-22,9.0,-6.0,0
+Monmouth,Canisius,59.0,60.0,2019-02-22,3.0,-1.0,0
+Rider,Niagara,97.0,81.0,2019-02-22,8.5,16.0,1
+Ohio,Bowling Green,92.0,87.0,2019-02-22,-5.0,5.0,1
+Buffalo,Kent St.,80.0,57.0,2019-02-22,15.5,23.0,1
+Toledo,Northern Illinois,57.0,54.0,2019-02-23,9.5,3.0,0
+Providence,Marquette,58.0,76.0,2019-02-23,-3.0,-18.0,0
+Clemson,Boston College,76.0,66.0,2019-02-23,10.5,10.0,0
+Louisville,Virginia,52.0,64.0,2019-02-23,-5.0,-12.0,0
+Oklahoma,Texas,69.0,67.0,2019-02-23,3.0,2.0,0
+Temple,Tulsa,84.0,73.0,2019-02-23,7.0,11.0,1
+LSU,Tennessee,82.0,80.0,2019-02-23,-1.0,2.0,1
+Illinois,Penn St.,76.0,83.0,2019-02-23,2.5,-7.0,0
+Northeastern,Towson,73.0,58.0,2019-02-23,12.5,15.0,1
+Kentucky,Auburn,80.0,53.0,2019-02-23,7.0,27.0,1
+Massachusetts,Saint Joseph's,80.0,79.0,2019-02-23,3.0,1.0,0
+Eastern Michigan,Western Michigan,77.0,76.0,2019-02-23,10.0,1.0,0
+Appalachian St.,Georgia Southern,69.0,92.0,2019-02-23,-3.0,-23.0,0
+Colorado St.,Wyoming,83.0,48.0,2019-02-23,10.0,35.0,1
+Bradley,Evansville,63.0,61.0,2019-02-23,7.0,2.0,0
+Missouri St.,Indiana St.,67.0,61.0,2019-02-23,5.5,6.0,1
+Maryland,Ohio St.,72.0,62.0,2019-02-23,6.5,10.0,1
+Miami FL,Georgia Tech,80.0,65.0,2019-02-23,7.5,15.0,1
+Ball St.,Central Michigan,57.0,64.0,2019-02-23,5.0,-7.0,0
+Akron,Miami OH,70.0,58.0,2019-02-23,5.0,12.0,1
+TCU,Iowa St.,75.0,72.0,2019-02-23,-1.0,3.0,1
+Baylor,West Virginia,82.0,75.0,2019-02-23,13.0,7.0,0
+VCU,George Washington,85.0,57.0,2019-02-23,19.5,28.0,1
+Coastal Carolina,Georgia St.,95.0,82.0,2019-02-23,1.0,13.0,1
+La Salle,Richmond,75.0,84.0,2019-02-23,2.5,-9.0,0
+Creighton,Georgetown,82.0,69.0,2019-02-23,5.5,13.0,1
+Wright St.,Youngstown St.,82.0,54.0,2019-02-23,11.5,28.0,1
+UT Arlington,Louisiana Monroe,91.0,86.0,2019-02-23,1.0,5.0,1
+Oakland,Detroit,95.0,75.0,2019-02-23,5.0,20.0,1
+Pacific,Loyola Marymount,56.0,63.0,2019-02-23,-1.0,-7.0,0
+Mississippi,Georgia,72.0,71.0,2019-02-23,10.0,1.0,0
+North Carolina,Florida St.,77.0,59.0,2019-02-23,7.5,18.0,1
+Air Force,San Jose St.,82.0,68.0,2019-02-23,13.0,14.0,1
+George Mason,Duquesne,78.0,79.0,2019-02-23,3.5,-1.0,0
+Florida,Missouri,64.0,60.0,2019-02-23,11.0,4.0,0
+Notre Dame,Virginia Tech,59.0,67.0,2019-02-23,-5.5,-8.0,0
+Kansas St.,Oklahoma St.,85.0,46.0,2019-02-23,10.5,39.0,1
+Nebraska,Purdue,72.0,75.0,2019-02-23,-5.0,-3.0,1
+Boise St.,Utah St.,71.0,78.0,2019-02-23,-3.0,-7.0,0
+Dayton,Saint Louis,70.0,62.0,2019-02-23,7.0,8.0,1
+Hofstra,James Madison,99.0,104.0,2019-02-23,15.0,-5.0,0
+William & Mary,UNC Wilmington,71.0,63.0,2019-02-23,6.5,8.0,1
+Fordham,St. Bonaventure,53.0,74.0,2019-02-23,-3.5,-21.0,0
+Arkansas St.,Little Rock,72.0,65.0,2019-02-23,0.0,7.0,1
+Drexel,Delaware,68.0,60.0,2019-02-23,4.0,8.0,1
+Texas St.,Lafayette,64.0,62.0,2019-02-23,6.5,2.0,0
+Troy,South Alabama,52.0,68.0,2019-02-23,1.5,-16.0,0
+Alabama,Vanderbilt,68.0,61.0,2019-02-23,8.5,7.0,0
+Mississippi St.,South Carolina,76.0,61.0,2019-02-23,9.5,15.0,1
+USC,Oregon St.,62.0,67.0,2019-02-23,4.0,-5.0,0
+Houston,South Florida,71.0,59.0,2019-02-23,13.5,12.0,0
+Texas Tech,Kansas,91.0,62.0,2019-02-23,5.5,29.0,1
+Brown,Dartmouth,68.0,65.0,2019-02-23,6.0,3.0,0
+Syracuse,Duke,65.0,75.0,2019-02-23,-5.0,-10.0,0
+Penn,Cornell,68.0,50.0,2019-02-23,8.0,18.0,1
+Northern Kentucky,Cleveland St.,77.0,83.0,2019-02-23,17.5,-6.0,0
+Elon,Charleston,74.0,84.0,2019-02-23,-8.5,-10.0,0
+Yale,Harvard,86.0,88.0,2019-02-23,0.0,-2.0,0
+Nevada,Fresno St.,74.0,68.0,2019-02-23,12.0,6.0,0
+Pepperdine,Portland,86.0,80.0,2019-02-23,11.5,6.0,0
+St. John's,Seton Hall,78.0,70.0,2019-02-23,4.5,8.0,1
+Washington St.,Utah,79.0,92.0,2019-02-23,0.0,-13.0,0
+Princeton,Columbia,79.0,61.0,2019-02-23,7.0,18.0,1
+Northern Iowa,Valparaiso,64.0,53.0,2019-02-23,5.5,11.0,1
+Tulane,East Carolina,81.0,85.0,2019-02-23,1.5,-4.0,0
+Wichita St.,Memphis,85.0,88.0,2019-02-23,2.5,-3.0,0
+UC Riverside,Long Beach St.,67.0,71.0,2019-02-23,-2.0,-4.0,0
+Northwestern,Wisconsin,64.0,69.0,2019-02-23,-6.0,-5.0,1
+Arkansas,Texas A&M,80.0,87.0,2019-02-23,5.0,-7.0,0
+San Diego,Saint Mary's,46.0,66.0,2019-02-23,-2.0,-20.0,0
+Cal Poly,Hawaii,88.0,80.0,2019-02-23,-7.0,8.0,1
+Gonzaga,BYU,102.0,68.0,2019-02-23,20.0,34.0,1
+UNLV,San Diego St.,59.0,60.0,2019-02-23,0.0,-1.0,0
+UCLA,Oregon,90.0,83.0,2019-02-23,1.5,7.0,1
+UC Santa Barbara,Cal St. Fullerton,82.0,67.0,2019-02-23,4.0,15.0,1
+Cal St. Northridge,UC Davis,81.0,76.0,2019-02-23,1.5,5.0,1
+Washington,Colorado,64.0,55.0,2019-02-23,8.0,9.0,1
+Santa Clara,San Francisco,68.0,65.0,2019-02-23,-7.5,3.0,1
+Old Dominion,Western Kentucky,67.0,63.0,2019-02-23,5.0,4.0,0
+Southern Miss,UAB,72.0,76.0,2019-02-23,6.5,-4.0,0
+Florida Atlantic,FIU,76.0,79.0,2019-02-23,5.5,-3.0,0
+Middle Tennessee,Charlotte,86.0,67.0,2019-02-23,5.5,19.0,1
+Louisiana Tech,North Texas,66.0,53.0,2019-02-23,4.5,13.0,1
+UTEP,Rice,81.0,85.0,2019-02-23,3.0,-4.0,0
+The Citadel,Samford,87.0,83.0,2019-02-23,-4.0,4.0,1
+Northern Arizona,Eastern Washington,73.0,86.0,2019-02-23,1.0,-13.0,0
+North Dakota,Denver,81.0,63.0,2019-02-23,4.5,18.0,1
+Furman,Wofford,64.0,72.0,2019-02-23,1.0,-8.0,0
+Mercer,Chattanooga,74.0,69.0,2019-02-23,8.0,5.0,0
+Southern Utah,Idaho,85.0,76.0,2019-02-23,14.0,9.0,0
+North Dakota St.,Nebraska Omaha,50.0,58.0,2019-02-23,1.5,-8.0,0
+Austin Peay,Tennessee Martin,92.0,78.0,2019-02-23,12.0,14.0,1
+Jacksonville St.,Eastern Kentucky,104.0,101.0,2019-02-23,12.0,3.0,0
+South Dakota St.,South Dakota,94.0,89.0,2019-02-23,11.5,5.0,0
+Belmont,SIU Edwardsville,97.0,75.0,2019-02-23,22.5,22.0,0
+Western Carolina,VMI,78.0,83.0,2019-02-23,6.5,-5.0,0
+Murray St.,Southeast Missouri St.,103.0,67.0,2019-02-23,19.0,36.0,1
+Western Illinois,Oral Roberts,75.0,66.0,2019-02-23,2.0,9.0,1
+Tennessee Tech,Morehead St.,63.0,66.0,2019-02-23,-3.0,-3.0,2
+Tennessee St.,Eastern Illinois,75.0,60.0,2019-02-23,3.0,15.0,1
+Montana,Montana St.,89.0,83.0,2019-02-23,11.0,6.0,0
+Portland St.,Sacramento St.,65.0,57.0,2019-02-23,2.0,8.0,1
+St. Francis PA,LIU,66.0,69.0,2019-02-23,5.5,-3.0,0
+Winthrop,Charleston Southern,80.0,78.0,2019-02-23,7.0,2.0,0
+Binghamton,Vermont,63.0,69.0,2019-02-23,-14.0,-6.0,1
+Colgate,Navy,93.0,71.0,2019-02-23,13.5,22.0,1
+Longwood,Campbell,72.0,74.0,2019-02-23,-3.0,-2.0,1
+Central Connecticut,Sacred Heart,66.0,80.0,2019-02-23,1.0,-14.0,0
+Bryant,Mount St. Mary's,81.0,58.0,2019-02-23,1.5,23.0,1
+Delaware St.,Maryland Eastern Shore,56.0,62.0,2019-02-23,3.5,-6.0,0
+McNeese St.,New Orleans,51.0,60.0,2019-02-23,-2.0,-9.0,0
+Stetson,North Alabama,63.0,60.0,2019-02-23,1.0,3.0,1
+Seattle,Chicago St.,77.0,57.0,2019-02-23,22.0,20.0,0
+Morgan St.,Norfolk St.,74.0,75.0,2019-02-23,-2.0,-1.0,1
+Coppin St.,Howard,73.0,74.0,2019-02-23,-1.0,-1.0,2
+North Carolina Central,None,78.0,69.0,2019-02-23,9.0,9.0,2
+North Carolina A&T,South Carolina St.,63.0,62.0,2019-02-23,7.0,1.0,0
+Florida A&M,Bethune Cookman,54.0,67.0,2019-02-23,2.0,-13.0,0
+Boston University,Loyola MD,72.0,65.0,2019-02-23,6.0,7.0,1
+Fairleigh Dickinson,Wagner,74.0,66.0,2019-02-23,5.0,8.0,1
+Abilene Christian,Southeastern Louisiana,66.0,75.0,2019-02-23,9.5,-9.0,0
+UNC Asheville,Presbyterian,55.0,71.0,2019-02-23,-9.0,-16.0,0
+Texas A&M Corpus Chris,Lamar,58.0,63.0,2019-02-23,2.0,-5.0,0
+Nicholls St.,Central Arkansas,100.0,57.0,2019-02-23,1.5,43.0,1
+Radford,Hampton,71.0,74.0,2019-02-23,10.0,-3.0,0
+North Florida,Liberty,75.0,70.0,2019-02-23,-5.0,5.0,1
+Robert Morris,St. Francis NY,67.0,62.0,2019-02-23,3.5,5.0,1
+UMass Lowell,Hartford,73.0,75.0,2019-02-23,-1.0,-2.0,0
+Stephen F. Austin,Incarnate Word,81.0,54.0,2019-02-23,10.0,27.0,1
+New Mexico St.,UT Rio Grande Valley,88.0,79.0,2019-02-23,11.0,9.0,0
+Prairie View A&M,Mississippi Valley St.,69.0,63.0,2019-02-23,16.5,6.0,0
+Jacksonville,NJIT,73.0,77.0,2019-02-23,1.0,-4.0,0
+Jackson St.,Grambling St.,71.0,60.0,2019-02-23,-2.0,11.0,1
+Alcorn St.,Alabama St.,74.0,69.0,2019-02-23,-3.5,5.0,1
+High Point,Gardner Webb,87.0,79.0,2019-02-23,2.0,8.0,1
+Albany,UMBC,84.0,75.0,2019-02-23,-1.0,9.0,1
+Florida Gulf Coast,Kennesaw St.,78.0,56.0,2019-02-23,14.0,22.0,1
+Stony Brook,Maine,81.0,53.0,2019-02-23,12.5,28.0,1
+Sam Houston St.,Houston Baptist,119.0,113.0,2019-02-23,9.0,6.0,0
+Texas Southern,Arkansas Pine Bluff,94.0,74.0,2019-02-23,11.5,20.0,1
+Southern,Alabama A&M,59.0,49.0,2019-02-23,4.0,10.0,1
+Utah Valley,UMKC,79.0,67.0,2019-02-23,11.5,12.0,1
+Cal St. Bakersfield,Cal Baptist,58.0,72.0,2019-02-23,5.0,-14.0,0
+UCF,SMU,95.0,48.0,2019-02-24,7.5,47.0,1
+Southern Illinois,Loyola Chicago,63.0,53.0,2019-02-24,1.0,10.0,1
+IUPUI,Green Bay,79.0,68.0,2019-02-24,5.0,11.0,1
+Xavier,Villanova,66.0,54.0,2019-02-24,-5.0,12.0,1
+Illinois St.,Drake,67.0,60.0,2019-02-24,1.5,7.0,1
+Connecticut,Cincinnati,60.0,64.0,2019-02-24,-5.0,-4.0,1
+Michigan,Michigan St.,70.0,77.0,2019-02-24,3.0,-7.0,0
+Illinois Chicago,Milwaukee,74.0,59.0,2019-02-24,8.5,15.0,1
+Arizona St.,California,69.0,59.0,2019-02-24,19.0,10.0,0
+N.C. State,Wake Forest,94.0,74.0,2019-02-24,15.0,20.0,1
+Rutgers,Minnesota,68.0,64.0,2019-02-24,0.0,4.0,1
+Arizona,Stanford,70.0,54.0,2019-02-24,4.5,16.0,1
+Iona,Canisius,87.0,80.0,2019-02-24,7.5,7.0,0
+Saint Peter's,Niagara,78.0,60.0,2019-02-24,2.0,18.0,1
+Siena,Marist,67.0,55.0,2019-02-24,3.5,12.0,1
+Monmouth,Quinnipiac,56.0,68.0,2019-02-24,1.0,-12.0,0
+UNC Greensboro,East Tennessee St.,60.0,59.0,2019-02-24,1.0,1.0,2
+Fairfield,Manhattan,72.0,59.0,2019-02-24,5.0,13.0,1
+Lehigh,Holy Cross,71.0,73.0,2019-02-24,8.0,-2.0,0
+Army,American,66.0,77.0,2019-02-24,1.5,-11.0,0
+Bucknell,Lafayette,118.0,76.0,2019-02-24,12.0,42.0,1
+Florida St.,Notre Dame,68.0,61.0,2019-02-25,13.0,7.0,0
+Iowa St.,Oklahoma,78.0,61.0,2019-02-25,8.0,17.0,1
+Kansas,Kansas St.,64.0,49.0,2019-02-25,3.5,15.0,1
+Montana,Northern Colorado,72.0,74.0,2019-02-25,7.0,-2.0,0
+North Carolina Central,South Carolina St.,72.0,62.0,2019-02-25,8.0,10.0,1
+Morgan St.,Howard,69.0,75.0,2019-02-25,1.0,-6.0,0
+Coppin St.,Delaware St.,60.0,70.0,2019-02-25,9.0,-10.0,0
+Lipscomb,NJIT,81.0,77.0,2019-02-25,15.0,4.0,0
+North Carolina A&T,None,63.0,58.0,2019-02-25,7.5,5.0,0
+Southern,Alabama St.,57.0,60.0,2019-02-25,-1.0,-3.0,0
+Texas Southern,Mississippi Valley St.,92.0,80.0,2019-02-25,19.0,12.0,0
+Alcorn St.,Alabama A&M,61.0,55.0,2019-02-25,3.0,6.0,1
+Prairie View A&M,Arkansas Pine Bluff,48.0,44.0,2019-02-25,9.0,4.0,0
+Bowling Green,Miami OH,69.0,82.0,2019-02-26,6.0,-13.0,0
+Buffalo,Akron,77.0,64.0,2019-02-26,13.0,13.0,2
+Rhode Island,George Washington,80.0,53.0,2019-02-26,10.0,27.0,1
+Mississippi St.,Missouri,68.0,49.0,2019-02-26,11.0,19.0,1
+Massachusetts,Dayton,48.0,72.0,2019-02-26,-6.0,-24.0,0
+Ohio St.,Iowa,90.0,70.0,2019-02-26,2.0,20.0,1
+Wake Forest,Miami FL,76.0,75.0,2019-02-26,-4.5,1.0,1
+Butler,Providence,67.0,73.0,2019-02-26,6.0,-6.0,0
+Ball St.,Toledo,72.0,80.0,2019-02-26,-1.0,-8.0,0
+Eastern Michigan,Central Michigan,66.0,77.0,2019-02-26,2.5,-11.0,0
+Kent St.,Ohio,78.0,73.0,2019-02-26,7.5,5.0,0
+North Carolina,Syracuse,93.0,85.0,2019-02-26,12.5,8.0,0
+South Carolina,Alabama,62.0,68.0,2019-02-26,2.0,-6.0,0
+West Virginia,TCU,104.0,96.0,2019-02-26,-4.5,8.0,1
+VCU,Saint Louis,71.0,65.0,2019-02-26,10.5,6.0,0
+Northern Illinois,Western Michigan,70.0,65.0,2019-02-26,9.0,5.0,0
+Indiana,Wisconsin,75.0,73.0,2019-02-26,-3.0,2.0,1
+Virginia Tech,Duke,77.0,72.0,2019-02-26,-3.5,5.0,1
+Kentucky,Arkansas,70.0,66.0,2019-02-26,17.0,4.0,0
+LSU,Texas A&M,66.0,55.0,2019-02-26,11.0,11.0,2
+Memphis,Temple,81.0,73.0,2019-02-26,4.0,8.0,1
+Utah St.,San Diego St.,70.0,54.0,2019-02-26,8.5,16.0,1
+San Jose St.,New Mexico,89.0,82.0,2019-02-26,-11.5,7.0,1
+North Florida,Stetson,77.0,67.0,2019-02-26,13.0,10.0,0
+North Alabama,Jacksonville,69.0,55.0,2019-02-26,0.0,14.0,1
+Liberty,Kennesaw St.,76.0,59.0,2019-02-26,23.0,17.0,0
+Seattle,Utah Valley,68.0,77.0,2019-02-26,-2.0,-9.0,0
+Penn St.,Maryland,78.0,61.0,2019-02-27,-1.5,17.0,1
+Pittsburgh,Clemson,48.0,62.0,2019-02-27,-4.5,-14.0,0
+Virginia,Georgia Tech,81.0,51.0,2019-02-27,21.0,30.0,1
+George Mason,Richmond,77.0,63.0,2019-02-27,5.5,14.0,1
+Texas Tech,Oklahoma St.,84.0,80.0,2019-02-27,17.0,4.0,0
+Illinois St.,Missouri St.,65.0,57.0,2019-02-27,1.5,8.0,1
+Mississippi,Tennessee,71.0,73.0,2019-02-27,-4.5,-2.0,1
+La Salle,Davidson,79.0,69.0,2019-02-27,-5.5,10.0,1
+Georgetown,DePaul,82.0,73.0,2019-02-27,5.0,9.0,1
+East Carolina,Houston,65.0,99.0,2019-02-27,-17.0,-34.0,0
+Evansville,Southern Illinois,91.0,98.0,2019-02-27,-2.5,-7.0,0
+St. Bonaventure,Duquesne,68.0,47.0,2019-02-27,6.0,21.0,1
+Bradley,Valparaiso,67.0,42.0,2019-02-27,4.5,25.0,1
+Northern Iowa,Loyola Chicago,55.0,56.0,2019-02-27,0.0,-1.0,0
+Drake,Indiana St.,80.0,68.0,2019-02-27,6.0,12.0,1
+Purdue,Illinois,73.0,56.0,2019-02-27,13.0,17.0,1
+Baylor,Texas,84.0,83.0,2019-02-27,3.0,1.0,0
+Fordham,Saint Joseph's,52.0,66.0,2019-02-27,-2.0,-14.0,0
+Boise St.,Colorado St.,62.0,76.0,2019-02-27,6.5,-14.0,0
+Vanderbilt,Florida,55.0,71.0,2019-02-27,-5.0,-16.0,0
+Georgia,Auburn,75.0,78.0,2019-02-27,-8.0,-3.0,1
+Boston College,Louisville,66.0,59.0,2019-02-27,-5.5,7.0,1
+SMU,Cincinnati,49.0,52.0,2019-02-27,-4.5,-3.0,1
+Villanova,Marquette,67.0,61.0,2019-02-27,3.5,6.0,1
+Cal St. Northridge,UC Riverside,70.0,68.0,2019-02-27,6.5,2.0,0
+Fresno St.,Wyoming,71.0,60.0,2019-02-27,18.5,11.0,0
+Nevada,UNLV,89.0,73.0,2019-02-27,17.5,16.0,0
+Canisius,Niagara,84.0,86.0,2019-02-27,6.0,-2.0,0
+Colgate,Holy Cross,79.0,59.0,2019-02-27,8.5,20.0,1
+USC Upstate,Campbell,73.0,85.0,2019-02-27,-7.5,-12.0,0
+High Point,Radford,54.0,72.0,2019-02-27,-2.0,-18.0,0
+Gardner Webb,Presbyterian,78.0,70.0,2019-02-27,2.0,8.0,1
+Maine,UMass Lowell,61.0,70.0,2019-02-27,-1.0,-9.0,0
+Army,Loyola MD,79.0,69.0,2019-02-27,4.5,10.0,1
+American,Lehigh,66.0,80.0,2019-02-27,1.0,-14.0,0
+Albany,New Hampshire,58.0,62.0,2019-02-27,13.5,-4.0,0
+Lafayette,Boston University,82.0,84.0,2019-02-27,-1.0,-2.0,0
+Binghamton,Hartford,76.0,96.0,2019-02-27,-6.5,-20.0,0
+Stony Brook,UMBC,78.0,63.0,2019-02-27,5.5,15.0,1
+Navy,Bucknell,64.0,53.0,2019-02-27,-7.5,11.0,1
+Charleston Southern,UNC Asheville,77.0,48.0,2019-02-27,16.0,29.0,1
+Northwestern St.,Incarnate Word,68.0,60.0,2019-02-27,6.0,8.0,1
+Nicholls St.,McNeese St.,75.0,84.0,2019-02-27,5.0,-9.0,0
+Lamar,Houston Baptist,110.0,75.0,2019-02-27,5.5,35.0,1
+Texas A&M Corpus Chris,Abilene Christian,64.0,73.0,2019-02-27,-1.5,-9.0,0
+New Orleans,Sam Houston St.,60.0,71.0,2019-02-27,-2.0,-11.0,0
+Central Arkansas,Stephen F. Austin,92.0,74.0,2019-02-27,2.0,18.0,1
+St. John's,Xavier,73.0,84.0,2019-02-28,6.0,-11.0,0
+Delaware,Northeastern,64.0,75.0,2019-02-28,-6.0,-11.0,0
+Michigan,Nebraska,82.0,53.0,2019-02-28,12.0,29.0,1
+Wichita St.,Connecticut,65.0,63.0,2019-02-28,4.5,2.0,0
+James Madison,Elon,58.0,73.0,2019-02-28,7.0,-15.0,0
+Towson,William & Mary,65.0,67.0,2019-02-28,0.0,-2.0,0
+Drexel,Hofstra,77.0,80.0,2019-02-28,-7.5,-3.0,1
+Oakland,Illinois Chicago,86.0,72.0,2019-02-28,3.5,14.0,1
+Troy,Texas St.,44.0,58.0,2019-02-28,-5.5,-14.0,0
+Georgia Southern,Little Rock,81.0,66.0,2019-02-28,11.0,15.0,1
+Georgia St.,Arkansas St.,76.0,60.0,2019-02-28,11.5,16.0,1
+South Alabama,UT Arlington,57.0,75.0,2019-02-28,2.0,-18.0,0
+Louisiana Monroe,Appalachian St.,81.0,75.0,2019-02-28,7.5,6.0,0
+Green Bay,Wright St.,70.0,67.0,2019-02-28,-4.5,3.0,1
+Detroit,IUPUI,87.0,85.0,2019-02-28,-1.0,2.0,1
+Lafayette,Coastal Carolina,83.0,70.0,2019-02-28,4.0,13.0,1
+Milwaukee,Northern Kentucky,55.0,65.0,2019-02-28,-7.5,-10.0,0
+Northwestern,Minnesota,50.0,62.0,2019-02-28,1.5,-12.0,0
+Tulsa,Tulane,72.0,64.0,2019-02-28,14.0,8.0,0
+Stanford,Washington St.,98.0,50.0,2019-02-28,8.5,48.0,1
+UCLA,USC,93.0,88.0,2019-02-28,3.0,5.0,1
+Oregon St.,Arizona,72.0,74.0,2019-02-28,4.0,-2.0,0
+San Francisco,San Diego,90.0,91.0,2019-02-28,6.5,-1.0,0
+UC Santa Barbara,Long Beach St.,64.0,69.0,2019-02-28,7.5,-5.0,0
+Cal St. Fullerton,Cal Poly,86.0,75.0,2019-02-28,14.0,11.0,0
+UC Davis,UC Irvine,48.0,64.0,2019-02-28,-3.5,-16.0,0
+Loyola Marymount,Santa Clara,72.0,70.0,2019-02-28,7.0,2.0,0
+Pacific,Gonzaga,66.0,86.0,2019-02-28,-24.0,-20.0,1
+Saint Mary's,Portland,65.0,48.0,2019-02-28,22.0,17.0,0
+Oregon,Arizona St.,79.0,51.0,2019-02-28,2.0,28.0,1
+California,Washington,76.0,73.0,2019-02-28,-13.0,3.0,1
+UAB,Western Kentucky,67.0,73.0,2019-02-28,1.0,-6.0,0
+Louisiana Tech,Marshall,79.0,90.0,2019-02-28,7.5,-11.0,0
+UTSA,Old Dominion,64.0,65.0,2019-02-28,2.0,-1.0,0
+North Texas,Florida Atlantic,54.0,60.0,2019-02-28,7.5,-6.0,0
+The Citadel,UNC Greensboro,96.0,100.0,2019-02-28,-6.5,-4.0,1
+Chattanooga,Wofford,54.0,80.0,2019-02-28,-13.0,-26.0,0
+VMI,Mercer,84.0,71.0,2019-02-28,-4.5,13.0,1
+Samford,Furman,81.0,90.0,2019-02-28,-5.0,-9.0,0
+Eastern Kentucky,Austin Peay,82.0,80.0,2019-02-28,-4.5,2.0,1
+Morehead St.,Murray St.,52.0,71.0,2019-02-28,-9.0,-19.0,0
+Purdue Fort Wayne,North Dakota,82.0,88.0,2019-02-28,9.5,-6.0,0
+Oral Roberts,Nebraska Omaha,84.0,80.0,2019-02-28,-3.5,4.0,1
+SIU Edwardsville,Tennessee Tech,76.0,68.0,2019-02-28,3.5,8.0,1
+Tennessee Martin,Belmont,67.0,112.0,2019-02-28,-12.0,-45.0,0
+Southeast Missouri St.,Tennessee St.,89.0,74.0,2019-02-28,1.0,15.0,1
+Eastern Illinois,Jacksonville St.,84.0,89.0,2019-02-28,-8.0,-5.0,1
+Northern Colorado,Weber St.,85.0,61.0,2019-02-28,4.5,24.0,1
+Denver,Western Illinois,74.0,46.0,2019-02-28,2.0,28.0,1
+Eastern Washington,Sacramento St.,56.0,59.0,2019-02-28,5.5,-3.0,0
+South Dakota,North Dakota St.,75.0,65.0,2019-02-28,3.5,10.0,1
+Idaho,Portland St.,65.0,67.0,2019-02-28,-7.5,-2.0,1
+Sacred Heart,Robert Morris,87.0,63.0,2019-02-28,4.0,24.0,1
+Mount St. Mary's,Fairleigh Dickinson,59.0,65.0,2019-02-28,-2.5,-6.0,0
+UMKC,New Mexico St.,55.0,75.0,2019-02-28,-7.5,-20.0,0
+Hampton,Winthrop,90.0,75.0,2019-02-28,0.0,15.0,1
+LIU,Central Connecticut,84.0,55.0,2019-02-28,5.5,29.0,1
+St. Francis NY,Bryant,74.0,66.0,2019-02-28,7.5,8.0,1
+Wagner,St. Francis PA,72.0,83.0,2019-02-28,2.0,-11.0,0
+Chicago St.,UT Rio Grande Valley,77.0,82.0,2019-02-28,-16.0,-5.0,1
+Cal Baptist,Seattle,65.0,67.0,2019-02-28,2.5,-2.0,0
+Brown,Columbia,77.0,80.0,2019-03-01,7.5,-3.0,0
+Yale,Cornell,88.0,65.0,2019-03-01,12.0,23.0,1
+Harvard,Penn,59.0,53.0,2019-03-01,4.5,6.0,1
+Dartmouth,Princeton,76.0,77.0,2019-03-01,-1.0,-1.0,2
+Dayton,Rhode Island,70.0,72.0,2019-03-01,8.5,-2.0,0
+Rider,Iona,79.0,86.0,2019-03-01,5.0,-7.0,0
+Canisius,Siena,68.0,62.0,2019-03-01,2.0,6.0,1
+Fairfield,Marist,59.0,44.0,2019-03-01,2.0,15.0,1
+Saint Peter's,Quinnipiac,60.0,77.0,2019-03-01,-2.0,-17.0,0
+Manhattan,Monmouth,54.0,62.0,2019-03-01,1.5,-8.0,0
+Bowling Green,Kent St.,77.0,72.0,2019-03-01,5.5,5.0,0
+Miami OH,Buffalo,69.0,77.0,2019-03-01,-8.5,-8.0,1
+Kennesaw St.,Stetson,83.0,82.0,2019-03-01,0.0,1.0,1
+Jacksonville,Florida Gulf Coast,74.0,77.0,2019-03-01,1.0,-3.0,0
+NJIT,Liberty,51.0,57.0,2019-03-01,-3.0,-6.0,0
+North Alabama,Lipscomb,75.0,87.0,2019-03-01,-13.5,-12.0,1
+Missouri St.,Drake,62.0,73.0,2019-03-02,2.5,-11.0,0
+Indiana,Michigan St.,63.0,62.0,2019-03-02,-6.0,1.0,1
+Wake Forest,Syracuse,54.0,79.0,2019-03-02,-7.5,-25.0,0
+Oklahoma St.,Kansas,67.0,72.0,2019-03-02,-7.0,-5.0,1
+Alabama,LSU,69.0,74.0,2019-03-02,-1.5,-5.0,0
+Indiana St.,Northern Iowa,71.0,54.0,2019-03-02,1.5,17.0,1
+Loyola Chicago,Bradley,81.0,68.0,2019-03-02,7.0,13.0,1
+Southern Illinois,Illinois St.,72.0,63.0,2019-03-02,6.0,9.0,1
+Florida St.,N.C. State,78.0,73.0,2019-03-02,7.0,5.0,0
+Davidson,Fordham,77.0,52.0,2019-03-02,13.5,25.0,1
+Georgia St.,Little Rock,83.0,70.0,2019-03-02,9.0,13.0,1
+Green Bay,Northern Kentucky,82.0,86.0,2019-03-02,-3.0,-4.0,0
+Arkansas,Mississippi,74.0,73.0,2019-03-02,1.0,1.0,2
+Wisconsin,Penn St.,61.0,57.0,2019-03-02,7.5,4.0,0
+Oklahoma,West Virginia,92.0,80.0,2019-03-02,11.0,12.0,1
+Valparaiso,Evansville,63.0,65.0,2019-03-02,4.5,-2.0,0
+Towson,Elon,66.0,86.0,2019-03-02,5.5,-20.0,0
+Tennessee,Kentucky,71.0,52.0,2019-03-02,2.5,19.0,1
+Duquesne,Massachusetts,80.0,73.0,2019-03-02,6.5,7.0,1
+Texas,Iowa St.,86.0,69.0,2019-03-02,0.0,17.0,1
+Virginia,Pittsburgh,73.0,49.0,2019-03-02,20.0,24.0,1
+Purdue,Ohio St.,86.0,51.0,2019-03-02,11.0,35.0,1
+Akron,Ohio,49.0,73.0,2019-03-02,10.0,-24.0,0
+Villanova,Butler,75.0,54.0,2019-03-02,7.5,21.0,1
+Troy,UT Arlington,66.0,79.0,2019-03-02,-3.5,-13.0,0
+Louisiana Monroe,Coastal Carolina,91.0,97.0,2019-03-02,5.0,-6.0,0
+Northern Illinois,Eastern Michigan,69.0,75.0,2019-03-02,3.0,-6.0,0
+Saint Louis,George Mason,81.0,71.0,2019-03-02,5.5,10.0,1
+Missouri,South Carolina,78.0,63.0,2019-03-02,3.0,15.0,1
+Oregon,Arizona,73.0,47.0,2019-03-02,5.0,26.0,1
+TCU,Texas Tech,66.0,81.0,2019-03-02,-3.0,-15.0,0
+Clemson,North Carolina,79.0,81.0,2019-03-02,-4.0,-2.0,1
+Delaware,Hofstra,70.0,92.0,2019-03-02,-7.0,-22.0,0
+Auburn,Mississippi St.,80.0,75.0,2019-03-02,5.0,5.0,2
+San Francisco,Loyola Marymount,69.0,74.0,2019-03-02,8.0,-5.0,0
+Charleston,UNC Wilmington,70.0,61.0,2019-03-02,11.5,9.0,0
+Richmond,VCU,66.0,69.0,2019-03-02,-7.5,-3.0,1
+Detroit,Illinois Chicago,71.0,80.0,2019-03-02,0.0,-9.0,0
+Oakland,IUPUI,74.0,63.0,2019-03-02,3.5,11.0,1
+James Madison,William & Mary,66.0,70.0,2019-03-02,-1.5,-4.0,0
+Western Michigan,Ball St.,58.0,60.0,2019-03-02,-5.0,-2.0,1
+Houston,UCF,64.0,69.0,2019-03-02,7.5,-5.0,0
+Duke,Miami FL,87.0,57.0,2019-03-02,16.0,30.0,1
+George Washington,St. Bonaventure,58.0,64.0,2019-03-02,-6.0,-6.0,2
+Drexel,Northeastern,66.0,90.0,2019-03-02,-6.0,-24.0,0
+Central Michigan,Toledo,68.0,80.0,2019-03-02,-1.0,-12.0,0
+Iowa,Rutgers,72.0,86.0,2019-03-02,8.5,-14.0,0
+Georgia Southern,Arkansas St.,81.0,70.0,2019-03-02,14.0,11.0,0
+Saint Joseph's,La Salle,72.0,62.0,2019-03-02,5.5,10.0,1
+Texas A&M,Vanderbilt,64.0,57.0,2019-03-02,7.0,7.0,2
+Wyoming,Air Force,72.0,80.0,2019-03-02,-1.5,-8.0,0
+Colorado,Utah,71.0,63.0,2019-03-02,6.0,8.0,1
+Brown,Cornell,75.0,51.0,2019-03-02,7.0,24.0,1
+Youngstown St.,Cleveland St.,80.0,89.0,2019-03-02,5.5,-9.0,0
+Georgetown,Seton Hall,77.0,71.0,2019-03-02,2.0,6.0,1
+Harvard,Princeton,66.0,58.0,2019-03-02,7.0,8.0,1
+California,Washington St.,76.0,69.0,2019-03-02,0.0,7.0,1
+Dartmouth,Penn,51.0,65.0,2019-03-02,-2.0,-14.0,0
+Yale,Columbia,75.0,83.0,2019-03-02,13.0,-8.0,0
+Milwaukee,Wright St.,62.0,65.0,2019-03-02,-8.5,-3.0,1
+Cincinnati,Memphis,71.0,69.0,2019-03-02,10.0,2.0,0
+South Alabama,Texas St.,77.0,63.0,2019-03-02,-3.0,14.0,1
+Kansas St.,Baylor,66.0,60.0,2019-03-02,5.5,6.0,1
+Pepperdine,Pacific,72.0,73.0,2019-03-02,5.5,-1.0,0
+UC Riverside,UC Irvine,47.0,68.0,2019-03-02,-10.0,-21.0,0
+Utah St.,Nevada,81.0,76.0,2019-03-02,-1.5,5.0,1
+Florida,Georgia,55.0,61.0,2019-03-02,11.5,-6.0,0
+BYU,San Diego,87.0,73.0,2019-03-02,5.0,14.0,1
+New Mexico,Colorado St.,77.0,65.0,2019-03-02,1.5,12.0,1
+Portland,Santa Clara,62.0,78.0,2019-03-02,-4.5,-16.0,0
+San Diego St.,San Jose St.,84.0,56.0,2019-03-02,20.5,28.0,1
+Saint Mary's,Gonzaga,55.0,69.0,2019-03-02,-8.5,-14.0,0
+UC Davis,Cal St. Fullerton,66.0,59.0,2019-03-02,1.0,7.0,1
+Long Beach St.,Cal Poly,94.0,85.0,2019-03-02,9.5,9.0,0
+UNLV,Boise St.,85.0,81.0,2019-03-02,2.0,4.0,1
+Hawaii,Cal St. Northridge,73.0,84.0,2019-03-02,7.0,-11.0,0
+VMI,The Citadel,81.0,78.0,2019-03-02,1.5,3.0,1
+Chattanooga,Furman,50.0,71.0,2019-03-02,-10.0,-21.0,0
+Samford,Wofford,64.0,85.0,2019-03-02,-9.0,-21.0,0
+Denver,Nebraska Omaha,76.0,86.0,2019-03-02,-5.0,-10.0,0
+East Tennessee St.,Western Carolina,81.0,74.0,2019-03-02,16.5,7.0,0
+Montana St.,Northern Arizona,84.0,73.0,2019-03-02,8.5,11.0,1
+Eastern Illinois,Tennessee Tech,57.0,63.0,2019-03-02,7.0,-6.0,0
+Mercer,UNC Greensboro,47.0,74.0,2019-03-02,-2.5,-27.0,0
+Tennessee Martin,Tennessee St.,91.0,86.0,2019-03-02,4.0,5.0,1
+South Dakota,North Dakota,78.0,63.0,2019-03-02,5.5,15.0,1
+Purdue Fort Wayne,North Dakota St.,66.0,69.0,2019-03-02,5.0,-3.0,0
+Eastern Washington,Portland St.,68.0,66.0,2019-03-02,5.0,2.0,0
+South Dakota St.,Western Illinois,86.0,66.0,2019-03-02,17.5,20.0,1
+SIU Edwardsville,Jacksonville St.,72.0,97.0,2019-03-02,-10.0,-25.0,0
+Eastern Kentucky,Morehead St.,77.0,78.0,2019-03-02,4.0,-1.0,0
+Murray St.,Austin Peay,94.0,83.0,2019-03-02,9.0,11.0,1
+Southeast Missouri St.,Belmont,66.0,84.0,2019-03-02,-14.5,-18.0,0
+Northern Colorado,Idaho St.,71.0,62.0,2019-03-02,13.0,9.0,0
+Montana,Southern Utah,70.0,54.0,2019-03-02,13.0,16.0,1
+Idaho,Sacramento St.,94.0,90.0,2019-03-02,-7.5,4.0,1
+Maine,Binghamton,60.0,83.0,2019-03-02,4.0,-23.0,0
+Boston University,Navy,74.0,79.0,2019-03-02,7.0,-5.0,0
+Bucknell,Army,62.0,61.0,2019-03-02,10.0,1.0,0
+Lafayette,Colgate,70.0,76.0,2019-03-02,-6.5,-6.0,1
+Holy Cross,American,66.0,86.0,2019-03-02,2.0,-20.0,0
+Central Connecticut,Fairleigh Dickinson,58.0,70.0,2019-03-02,-2.0,-12.0,0
+UMBC,New Hampshire,56.0,53.0,2019-03-02,15.0,3.0,0
+Campbell,Radford,64.0,62.0,2019-03-02,-1.0,2.0,1
+Gardner Webb,Longwood,66.0,47.0,2019-03-02,8.0,19.0,1
+Chicago St.,New Mexico St.,58.0,92.0,2019-03-02,-24.0,-34.0,0
+Sacred Heart,St. Francis PA,94.0,84.0,2019-03-02,3.5,10.0,1
+Bethune Cookman,South Carolina St.,98.0,95.0,2019-03-02,8.5,3.0,0
+USC Upstate,Hampton,71.0,92.0,2019-03-02,-7.5,-21.0,0
+Delaware St.,Morgan St.,58.0,76.0,2019-03-02,-5.0,-18.0,0
+St. Francis NY,Mount St. Mary's,71.0,73.0,2019-03-02,8.0,-2.0,0
+Wagner,Robert Morris,60.0,69.0,2019-03-02,2.0,-9.0,0
+Presbyterian,Charleston Southern,65.0,72.0,2019-03-02,3.0,-7.0,0
+North Carolina A&T,Florida A&M,63.0,42.0,2019-03-02,4.0,21.0,1
+UNC Asheville,High Point,74.0,79.0,2019-03-02,-8.0,-5.0,1
+LIU,Bryant,81.0,65.0,2019-03-02,8.0,16.0,1
+Nicholls St.,New Orleans,70.0,80.0,2019-03-02,-1.0,-10.0,0
+Central Arkansas,Abilene Christian,55.0,67.0,2019-03-02,-5.0,-12.0,0
+Southeastern Louisiana,Northwestern St.,69.0,55.0,2019-03-02,11.0,14.0,1
+Hartford,Albany,82.0,80.0,2019-03-02,9.5,2.0,0
+Lamar,Stephen F. Austin,81.0,79.0,2019-03-02,9.0,2.0,0
+Mississippi Valley St.,Jackson St.,60.0,57.0,2019-03-02,-2.5,3.0,1
+Alabama St.,Texas Southern,68.0,78.0,2019-03-02,-4.0,-10.0,0
+None,Howard,76.0,81.0,2019-03-02,-1.5,-5.0,0
+Norfolk St.,Coppin St.,72.0,38.0,2019-03-02,13.5,34.0,1
+Southern,Alcorn St.,61.0,46.0,2019-03-02,5.0,15.0,1
+Loyola MD,Lehigh,92.0,73.0,2019-03-02,-4.0,19.0,1
+Alabama A&M,Prairie View A&M,65.0,72.0,2019-03-02,-7.0,-7.0,2
+Vermont,Stony Brook,56.0,50.0,2019-03-02,9.0,6.0,0
+UMKC,UT Rio Grande Valley,70.0,75.0,2019-03-02,-1.0,-5.0,0
+Incarnate Word,Texas A&M Corpus Chris,72.0,74.0,2019-03-02,-5.0,-2.0,1
+Houston Baptist,McNeese St.,86.0,65.0,2019-03-02,6.5,21.0,1
+Arkansas Pine Bluff,Grambling St.,70.0,66.0,2019-03-02,0.0,4.0,1
+Grand Canyon,Cal St. Bakersfield,73.0,69.0,2019-03-02,12.0,4.0,0
+Cal Baptist,Utah Valley,63.0,64.0,2019-03-02,-4.0,-1.0,1
+DePaul,St. John's,92.0,83.0,2019-03-03,-1.0,9.0,1
+Connecticut,South Florida,60.0,58.0,2019-03-03,4.0,2.0,0
+Lafayette,Appalachian St.,80.0,90.0,2019-03-03,7.0,-10.0,0
+Louisville,Notre Dame,75.0,61.0,2019-03-03,9.0,14.0,1
+SMU,Wichita St.,55.0,67.0,2019-03-03,3.0,-12.0,0
+Temple,Tulane,80.0,69.0,2019-03-03,17.0,11.0,0
+Marquette,Creighton,60.0,66.0,2019-03-03,7.5,-6.0,0
+Maryland,Michigan,62.0,69.0,2019-03-03,-1.0,-7.0,0
+Tulsa,East Carolina,91.0,78.0,2019-03-03,11.5,13.0,1
+Stanford,Washington,61.0,62.0,2019-03-03,-1.5,-1.0,1
+Georgia Tech,Boston College,81.0,78.0,2019-03-03,0.0,3.0,1
+Illinois,Northwestern,81.0,76.0,2019-03-03,5.0,5.0,2
+Oregon St.,Arizona St.,71.0,74.0,2019-03-03,3.0,-3.0,0
+FIU,Louisiana Tech,83.0,76.0,2019-03-03,-1.0,7.0,1
+Charlotte,UTEP,68.0,58.0,2019-03-03,3.0,10.0,1
+Rice,Middle Tennessee,67.0,61.0,2019-03-03,1.5,6.0,1
+Western Kentucky,Southern Miss,76.0,71.0,2019-03-03,5.0,5.0,2
+North Texas,Marshall,82.0,85.0,2019-03-03,5.5,-3.0,0
+UTSA,UAB,76.0,70.0,2019-03-03,2.0,6.0,1
+Saint Peter's,Fairfield,62.0,52.0,2019-03-03,1.0,10.0,1
+Niagara,Siena,65.0,72.0,2019-03-03,0.0,-7.0,0
+Quinnipiac,Manhattan,58.0,62.0,2019-03-03,9.5,-4.0,0
+Marist,Rider,64.0,75.0,2019-03-03,-1.5,-11.0,0
+Syracuse,Virginia,53.0,79.0,2019-03-04,-7.0,-26.0,0
+TCU,Kansas St.,52.0,64.0,2019-03-04,-1.0,-12.0,0
+Texas Tech,Texas,70.0,51.0,2019-03-04,8.0,19.0,1
+Montana,Northern Arizona,66.0,64.0,2019-03-04,15.0,2.0,0
+Montana St.,Southern Utah,90.0,83.0,2019-03-04,6.0,7.0,1
+Idaho St.,Weber St.,78.0,74.0,2019-03-04,-4.0,4.0,1
+Maryland Eastern Shore,Morgan St.,78.0,73.0,2019-03-04,-6.0,5.0,1
+Delaware St.,Norfolk St.,66.0,74.0,2019-03-04,-12.0,-8.0,1
+Alabama A&M,Texas Southern,61.0,66.0,2019-03-04,-11.5,-5.0,1
+Mississippi Valley St.,Grambling St.,75.0,77.0,2019-03-04,-6.0,-2.0,1
+Arkansas Pine Bluff,Jackson St.,56.0,57.0,2019-03-04,4.5,-1.0,0
+Alabama St.,Prairie View A&M,69.0,96.0,2019-03-04,-1.5,-27.0,0
+Florida Gulf Coast,NJIT,78.0,83.0,2019-03-04,3.0,-5.0,0
+North Florida,North Alabama,76.0,66.0,2019-03-04,0.0,10.0,1
+Kennesaw St.,Jacksonville,71.0,58.0,2019-03-04,-1.0,13.0,1
+Butler,Xavier,71.0,66.0,2019-03-05,4.0,5.0,1
+Saint Joseph's,Rhode Island,85.0,86.0,2019-03-05,1.5,-1.0,0
+Duke,Wake Forest,71.0,70.0,2019-03-05,26.5,1.0,0
+Michigan St.,Nebraska,91.0,76.0,2019-03-05,14.0,15.0,1
+Florida St.,Virginia Tech,73.0,64.0,2019-03-05,3.0,9.0,1
+Miami OH,Kent St.,66.0,75.0,2019-03-05,4.0,-9.0,0
+Ohio,Buffalo,79.0,82.0,2019-03-05,-12.0,-3.0,1
+Toledo,Western Michigan,76.0,57.0,2019-03-05,15.5,19.0,1
+Eastern Michigan,Ball St.,68.0,61.0,2019-03-05,1.5,7.0,1
+Central Michigan,Northern Illinois,86.0,89.0,2019-03-05,4.5,-3.0,0
+Akron,Bowling Green,91.0,67.0,2019-03-05,3.0,24.0,1
+Texas A&M,South Carolina,54.0,71.0,2019-03-05,4.5,-17.0,0
+George Mason,VCU,36.0,71.0,2019-03-05,-5.0,-35.0,0
+Miami FL,Pittsburgh,76.0,63.0,2019-03-05,6.5,13.0,1
+Minnesota,Purdue,73.0,69.0,2019-03-05,-5.0,4.0,1
+Boston College,North Carolina,66.0,79.0,2019-03-05,-11.5,-13.0,0
+Oklahoma,Kansas,81.0,68.0,2019-03-05,-1.0,13.0,1
+Colorado St.,Utah St.,96.0,100.0,2019-03-05,-6.5,-4.0,1
+Wichita St.,East Carolina,72.0,55.0,2019-03-05,14.0,17.0,1
+Mississippi,Kentucky,76.0,80.0,2019-03-05,-5.0,-4.0,1
+Tennessee,Mississippi St.,71.0,54.0,2019-03-05,8.0,17.0,1
+Alabama,Auburn,60.0,66.0,2019-03-05,-2.5,-6.0,0
+Air Force,Nevada,79.0,90.0,2019-03-05,-14.0,-11.0,1
+Wright St.,IUPUI,71.0,56.0,2019-03-05,8.0,15.0,1
+Green Bay,Illinois Chicago,82.0,77.0,2019-03-05,2.5,5.0,1
+Binghamton,Albany,58.0,73.0,2019-03-05,-1.0,-15.0,0
+Vermont,UMass Lowell,74.0,57.0,2019-03-05,13.5,17.0,1
+Hartford,Stony Brook,63.0,68.0,2019-03-05,1.5,-5.0,0
+New Hampshire,Maine,60.0,53.0,2019-03-05,1.0,7.0,1
+Abilene Christian,Stephen F. Austin,72.0,58.0,2019-03-05,10.0,14.0,1
+Lafayette,Holy Cross,74.0,79.0,2019-03-05,1.0,-5.0,0
+Boston University,Loyola MD,71.0,63.0,2019-03-05,5.0,8.0,1
+Presbyterian,UNC Asheville,106.0,59.0,2019-03-05,16.0,47.0,1
+Charleston Southern,USC Upstate,71.0,52.0,2019-03-05,14.5,19.0,1
+Hampton,Longwood,77.0,71.0,2019-03-05,10.0,6.0,0
+Georgia,Missouri,39.0,64.0,2019-03-06,3.0,-25.0,0
+Seton Hall,Marquette,73.0,64.0,2019-03-06,-2.0,9.0,1
+Rutgers,Penn St.,65.0,66.0,2019-03-06,-1.5,-1.0,1
+Florida,LSU,78.0,79.0,2019-03-06,0.0,-1.0,0
+Fordham,George Washington,67.0,56.0,2019-03-06,4.0,11.0,1
+Davidson,St. Bonaventure,64.0,46.0,2019-03-06,6.0,18.0,1
+Dayton,La Salle,70.0,39.0,2019-03-06,12.0,31.0,1
+Massachusetts,Richmond,87.0,79.0,2019-03-06,1.0,8.0,1
+West Virginia,Iowa St.,90.0,75.0,2019-03-06,-8.0,15.0,1
+Creighton,Providence,76.0,70.0,2019-03-06,6.0,6.0,2
+Saint Louis,Duquesne,85.0,75.0,2019-03-06,7.5,10.0,1
+Tulane,South Florida,70.0,75.0,2019-03-06,-7.5,-5.0,1
+Vanderbilt,Arkansas,48.0,84.0,2019-03-06,-1.5,-36.0,0
+DePaul,Georgetown,101.0,69.0,2019-03-06,1.5,32.0,1
+Baylor,Oklahoma St.,64.0,67.0,2019-03-06,8.5,-3.0,0
+Notre Dame,Clemson,62.0,64.0,2019-03-06,-3.0,-2.0,1
+N.C. State,Georgia Tech,61.0,63.0,2019-03-06,10.5,-2.0,0
+Northwestern,Ohio St.,68.0,50.0,2019-03-06,-1.5,18.0,1
+Long Beach St.,UC Riverside,70.0,57.0,2019-03-06,8.5,13.0,1
+San Diego St.,Fresno St.,74.0,76.0,2019-03-06,2.5,-2.0,0
+Washington,Oregon St.,81.0,76.0,2019-03-06,6.0,5.0,0
+San Jose St.,Wyoming,71.0,81.0,2019-03-06,-1.0,-10.0,0
+Washington St.,Oregon,61.0,72.0,2019-03-06,-7.0,-11.0,0
+New Mexico,Boise St.,73.0,72.0,2019-03-06,2.0,1.0,0
+Charlotte,Rice,70.0,79.0,2019-03-06,2.0,-9.0,0
+Marshall,FIU,94.0,78.0,2019-03-06,6.0,16.0,1
+Florida Atlantic,Louisiana Tech,69.0,72.0,2019-03-06,1.5,-3.0,0
+Old Dominion,Southern Miss,52.0,59.0,2019-03-06,6.5,-7.0,0
+Western Kentucky,UTSA,76.0,81.0,2019-03-06,6.5,-5.0,0
+UTEP,Middle Tennessee,53.0,69.0,2019-03-06,1.0,-16.0,0
+Oakland,Youngstown St.,88.0,84.0,2019-03-06,8.0,4.0,0
+Northern Kentucky,Detroit,99.0,88.0,2019-03-06,13.5,11.0,0
+McNeese St.,Texas A&M Corpus Chris,50.0,59.0,2019-03-06,-1.0,-9.0,0
+Sam Houston St.,Central Arkansas,87.0,91.0,2019-03-06,12.5,-4.0,0
+Nicholls St.,Northwestern St.,83.0,60.0,2019-03-06,5.5,23.0,1
+Southeastern Louisiana,New Orleans,81.0,67.0,2019-03-06,4.0,14.0,1
+Houston Baptist,Incarnate Word,118.0,111.0,2019-03-06,12.5,7.0,0
+Sacred Heart,LIU,62.0,71.0,2019-03-06,5.0,-9.0,0
+Robert Morris,St. Francis NY,69.0,65.0,2019-03-06,4.0,4.0,2
+Fairleigh Dickinson,Wagner,84.0,46.0,2019-03-06,6.5,38.0,1
+St. Francis PA,Bryant,67.0,63.0,2019-03-06,9.5,4.0,0
+Appalachian St.,Troy,72.0,64.0,2019-03-07,8.0,8.0,2
+Connecticut,Temple,71.0,78.0,2019-03-07,1.5,-7.0,0
+Wisconsin,Iowa,65.0,45.0,2019-03-07,7.0,20.0,1
+Coastal Carolina,South Alabama,92.0,70.0,2019-03-07,7.0,22.0,1
+UCF,Cincinnati,58.0,55.0,2019-03-07,3.0,3.0,2
+Little Rock,Lafayette,72.0,77.0,2019-03-07,1.0,-5.0,0
+Arkansas St.,Louisiana Monroe,73.0,72.0,2019-03-07,-3.0,1.0,1
+Illinois,Indiana,74.0,92.0,2019-03-07,2.0,-18.0,0
+Houston,SMU,90.0,79.0,2019-03-07,14.0,11.0,0
+Colorado,UCLA,93.0,68.0,2019-03-07,6.0,25.0,1
+Utah,USC,83.0,74.0,2019-03-07,3.0,9.0,1
+UC Davis,Hawaii,69.0,76.0,2019-03-07,3.0,-7.0,0
+Cal St. Northridge,UC Santa Barbara,74.0,76.0,2019-03-07,-2.0,-2.0,2
+Cal Poly,UC Irvine,72.0,110.0,2019-03-07,-12.0,-38.0,0
+Stanford,California,59.0,64.0,2019-03-07,11.5,-5.0,0
+Southern Utah,Northern Colorado,53.0,70.0,2019-03-07,-4.5,-17.0,0
+Weber St.,Idaho,93.0,59.0,2019-03-07,17.5,34.0,1
+Idaho St.,Eastern Washington,62.0,91.0,2019-03-07,0.0,-29.0,0
+Sacramento St.,Montana St.,70.0,67.0,2019-03-07,1.5,3.0,1
+Portland St.,Montana,81.0,69.0,2019-03-07,-5.5,12.0,1
+South Carolina St.,None,87.0,90.0,2019-03-07,4.0,-3.0,0
+Morgan St.,Coppin St.,69.0,83.0,2019-03-07,7.5,-14.0,0
+Maryland Eastern Shore,Delaware St.,70.0,64.0,2019-03-07,3.5,6.0,1
+Bethune Cookman,Florida A&M,56.0,64.0,2019-03-07,6.5,-8.0,0
+North Carolina A&T,North Carolina Central,74.0,52.0,2019-03-07,2.0,22.0,1
+Norfolk St.,Howard,95.0,98.0,2019-03-07,7.0,-3.0,0
+UT Rio Grande Valley,Cal Baptist,79.0,82.0,2019-03-07,5.5,-3.0,0
+Texas Southern,Alcorn St.,99.0,72.0,2019-03-07,17.0,27.0,1
+Grambling St.,Alabama St.,93.0,66.0,2019-03-07,7.0,27.0,1
+Prairie View A&M,Southern,73.0,55.0,2019-03-07,12.5,18.0,1
+Jackson St.,Alabama A&M,66.0,47.0,2019-03-07,8.0,19.0,1
+Utah Valley,Grand Canyon,82.0,70.0,2019-03-07,2.0,12.0,1
+Seattle,Cal St. Bakersfield,63.0,57.0,2019-03-07,4.0,6.0,1
+Liberty,North Florida,71.0,63.0,2019-03-07,11.0,8.0,0
+Lipscomb,NJIT,78.0,55.0,2019-03-07,12.5,23.0,1
+Colgate,Boston University,81.0,69.0,2019-03-07,9.5,12.0,1
+Bucknell,Holy Cross,77.0,65.0,2019-03-07,8.5,12.0,1
+Lehigh,Army,75.0,70.0,2019-03-07,7.5,5.0,0
+American,Navy,56.0,60.0,2019-03-07,8.5,-4.0,0
+Campbell,Hampton,86.0,77.0,2019-03-07,3.5,9.0,1
+Princeton,Brown,63.0,67.0,2019-03-08,4.0,-4.0,0
+Maryland,Minnesota,69.0,60.0,2019-03-08,6.5,9.0,1
+Ball St.,Northern Illinois,57.0,64.0,2019-03-08,5.0,-7.0,0
+Kent St.,Akron,68.0,65.0,2019-03-08,2.5,3.0,1
+Virginia Tech,Miami FL,84.0,70.0,2019-03-08,10.0,14.0,1
+Buffalo,Bowling Green,84.0,73.0,2019-03-08,14.0,11.0,0
+Western Michigan,Central Michigan,75.0,82.0,2019-03-08,-3.5,-7.0,0
+Ohio,Miami OH,66.0,57.0,2019-03-08,1.5,9.0,1
+Columbia,Dartmouth,70.0,66.0,2019-03-08,4.0,4.0,2
+Toledo,Eastern Michigan,64.0,58.0,2019-03-08,9.0,6.0,0
+Cornell,Harvard,72.0,59.0,2019-03-08,-6.0,13.0,1
+Penn,Yale,77.0,66.0,2019-03-08,1.5,11.0,1
+VCU,Saint Joseph's,75.0,63.0,2019-03-08,13.0,12.0,0
+Campbell,Gardner Webb,74.0,79.0,2019-03-08,3.0,-5.0,0
+Providence,Butler,83.0,70.0,2019-03-09,2.5,13.0,1
+Wake Forest,Florida St.,57.0,65.0,2019-03-09,-11.0,-8.0,1
+Pittsburgh,Notre Dame,56.0,53.0,2019-03-09,1.5,3.0,1
+Xavier,St. John's,81.0,68.0,2019-03-09,3.0,13.0,1
+Marquette,Georgetown,84.0,86.0,2019-03-09,10.0,-2.0,0
+Seton Hall,Villanova,79.0,75.0,2019-03-09,-2.5,4.0,1
+Creighton,DePaul,91.0,78.0,2019-03-09,7.5,13.0,1
+Clemson,Syracuse,67.0,55.0,2019-03-09,5.0,12.0,1
+Auburn,Tennessee,84.0,80.0,2019-03-09,0.0,4.0,1
+Texas,TCU,56.0,69.0,2019-03-09,6.0,-13.0,0
+South Carolina,Georgia,66.0,46.0,2019-03-09,6.0,20.0,1
+St. Bonaventure,Saint Louis,66.0,57.0,2019-03-09,3.5,9.0,1
+George Washington,George Mason,65.0,81.0,2019-03-09,-3.0,-16.0,0
+Iowa St.,Texas Tech,73.0,80.0,2019-03-09,-1.0,-7.0,0
+Mississippi St.,Texas A&M,92.0,81.0,2019-03-09,12.0,11.0,0
+Kentucky,Florida,66.0,57.0,2019-03-09,9.5,9.0,0
+Appalachian St.,South Alabama,71.0,78.0,2019-03-09,4.5,-7.0,0
+Kansas,Baylor,78.0,70.0,2019-03-09,7.0,8.0,1
+Coastal Carolina,Troy,67.0,74.0,2019-03-09,11.5,-7.0,0
+Boston College,N.C. State,47.0,73.0,2019-03-09,-2.5,-26.0,0
+Northwestern,Purdue,57.0,70.0,2019-03-09,-6.5,-13.0,0
+Washington St.,Oregon St.,77.0,85.0,2019-03-09,-5.5,-8.0,0
+UT Arlington,Texas St.,81.0,73.0,2019-03-09,1.5,8.0,1
+Missouri,Mississippi,68.0,73.0,2019-03-09,0.0,-5.0,0
+Michigan St.,Michigan,75.0,63.0,2019-03-09,4.0,12.0,1
+Virginia,Louisville,73.0,68.0,2019-03-09,13.5,5.0,0
+Arizona,Arizona St.,64.0,72.0,2019-03-09,1.0,-8.0,0
+Colorado St.,UNLV,60.0,65.0,2019-03-09,3.0,-5.0,0
+Little Rock,Louisiana Monroe,62.0,79.0,2019-03-09,-1.5,-17.0,0
+Rhode Island,Massachusetts,94.0,75.0,2019-03-09,7.5,19.0,1
+La Salle,Fordham,72.0,57.0,2019-03-09,6.5,15.0,1
+Oklahoma St.,West Virginia,85.0,77.0,2019-03-09,4.5,8.0,1
+Temple,UCF,67.0,62.0,2019-03-09,0.0,5.0,1
+Georgia Southern,Georgia St.,85.0,90.0,2019-03-09,4.0,-5.0,0
+Arkansas St.,Lafayette,87.0,90.0,2019-03-09,-1.5,-3.0,0
+Colorado,USC,78.0,67.0,2019-03-09,6.0,11.0,1
+Princeton,Yale,59.0,81.0,2019-03-09,-1.0,-22.0,0
+Wyoming,New Mexico,88.0,81.0,2019-03-09,-5.0,7.0,1
+Richmond,Davidson,69.0,73.0,2019-03-09,-4.5,-4.0,1
+Arkansas,Alabama,82.0,70.0,2019-03-09,3.5,12.0,1
+Penn,Brown,58.0,51.0,2019-03-09,5.0,7.0,1
+Kansas St.,Oklahoma,68.0,53.0,2019-03-09,6.0,15.0,1
+Duquesne,Dayton,67.0,78.0,2019-03-09,-4.0,-11.0,0
+Cornell,Dartmouth,66.0,51.0,2019-03-09,3.0,15.0,1
+Columbia,Harvard,81.0,83.0,2019-03-09,-3.5,-2.0,1
+Fresno St.,San Jose St.,121.0,81.0,2019-03-09,23.0,40.0,1
+Boise St.,Air Force,80.0,52.0,2019-03-09,9.5,28.0,1
+Utah,UCLA,92.0,81.0,2019-03-09,4.5,11.0,1
+North Carolina,Duke,79.0,70.0,2019-03-09,2.5,9.0,1
+UC Davis,UC Riverside,70.0,71.0,2019-03-09,9.0,-1.0,0
+LSU,Vanderbilt,80.0,59.0,2019-03-09,14.0,21.0,1
+Tulane,Wichita St.,79.0,82.0,2019-03-09,-9.0,-3.0,1
+Cal St. Fullerton,Hawaii,59.0,71.0,2019-03-09,4.0,-12.0,0
+Memphis,Tulsa,66.0,63.0,2019-03-09,8.0,3.0,0
+UC Irvine,Cal St. Northridge,86.0,74.0,2019-03-09,13.5,12.0,0
+Cal Poly,UC Santa Barbara,82.0,92.0,2019-03-09,-8.0,-10.0,0
+Washington,Oregon,47.0,55.0,2019-03-09,4.5,-8.0,0
+Nevada,San Diego St.,81.0,53.0,2019-03-09,14.0,28.0,1
+Marshall,Florida Atlantic,76.0,61.0,2019-03-09,6.0,15.0,1
+UAB,Old Dominion,64.0,50.0,2019-03-09,-1.5,14.0,1
+Southern Miss,UTSA,81.0,48.0,2019-03-09,5.0,33.0,1
+FIU,North Texas,73.0,58.0,2019-03-09,1.0,15.0,1
+Rice,Charlotte,70.0,78.0,2019-03-09,6.5,-8.0,0
+Middle Tennessee,UTEP,48.0,47.0,2019-03-09,8.5,1.0,0
+Northern Colorado,Northern Arizona,78.0,89.0,2019-03-09,13.0,-11.0,0
+Weber St.,Eastern Washington,77.0,80.0,2019-03-09,6.5,-3.0,0
+Idaho St.,Idaho,70.0,68.0,2019-03-09,10.0,2.0,0
+Portland St.,Montana St.,84.0,80.0,2019-03-09,2.5,4.0,1
+Sacramento St.,Montana,68.0,86.0,2019-03-09,-4.5,-18.0,0
+Chicago St.,UMKC,61.0,76.0,2019-03-09,-12.0,-15.0,0
+Seattle,Grand Canyon,83.0,76.0,2019-03-09,-3.5,7.0,1
+Northwestern St.,Central Arkansas,63.0,70.0,2019-03-09,-2.0,-7.0,0
+Abilene Christian,Incarnate Word,81.0,51.0,2019-03-09,17.5,30.0,1
+Nicholls St.,Southeastern Louisiana,69.0,63.0,2019-03-09,-1.5,6.0,1
+Mississippi Valley St.,Arkansas Pine Bluff,57.0,91.0,2019-03-09,-2.0,-34.0,0
+Stephen F. Austin,Sam Houston St.,57.0,68.0,2019-03-09,-4.0,-11.0,0
+Lamar,McNeese St.,83.0,58.0,2019-03-09,12.0,25.0,1
+Prairie View A&M,Alcorn St.,98.0,64.0,2019-03-09,15.5,34.0,1
+Grambling St.,Alabama A&M,66.0,58.0,2019-03-09,13.0,8.0,0
+Texas A&M Corpus Chris,Houston Baptist,76.0,69.0,2019-03-09,4.0,7.0,1
+Jackson St.,Alabama St.,82.0,70.0,2019-03-09,5.0,12.0,1
+Texas Southern,Southern,77.0,87.0,2019-03-09,15.5,-10.0,0
+Utah Valley,Cal St. Bakersfield,76.0,61.0,2019-03-09,11.0,15.0,1
+New Mexico St.,Cal Baptist,75.0,63.0,2019-03-09,14.0,12.0,0
+Fairleigh Dickinson,Robert Morris,66.0,62.0,2019-03-09,6.0,4.0,0
+St. Francis PA,LIU,72.0,64.0,2019-03-09,4.0,8.0,1
+UMBC,Albany,62.0,54.0,2019-03-09,4.5,8.0,1
+Hartford,UMass Lowell,78.0,70.0,2019-03-09,8.5,8.0,0
+Vermont,Maine,73.0,57.0,2019-03-09,21.5,16.0,0
+Stony Brook,Binghamton,72.0,78.0,2019-03-09,14.0,-6.0,0
+Penn St.,Illinois,72.0,56.0,2019-03-10,7.5,16.0,1
+Indiana,Rutgers,89.0,73.0,2019-03-10,7.5,16.0,1
+Cincinnati,Houston,69.0,85.0,2019-03-10,2.0,-16.0,0
+Nebraska,Iowa,93.0,91.0,2019-03-10,1.5,2.0,1
+East Carolina,Connecticut,73.0,82.0,2019-03-10,-5.0,-9.0,0
+South Florida,SMU,71.0,77.0,2019-03-10,2.5,-6.0,0
+Ohio St.,Wisconsin,67.0,73.0,2019-03-10,-2.0,-6.0,0
+Colgate,Navy,80.0,70.0,2019-03-10,12.0,10.0,0
+Bucknell,Lehigh,97.0,75.0,2019-03-10,5.5,22.0,1
+Radford,Gardner Webb,65.0,76.0,2019-03-10,7.5,-11.0,0
+Lipscomb,Liberty,68.0,74.0,2019-03-10,6.5,-6.0,0
+Central Michigan,Western Michigan,81.0,67.0,2019-03-11,10.0,14.0,1
+Eastern Michigan,Ball St.,43.0,61.0,2019-03-11,2.0,-18.0,0
+Akron,Miami OH,80.0,51.0,2019-03-11,5.5,29.0,1
+Northern Illinois,Ohio,80.0,61.0,2019-03-11,4.5,19.0,1
+South Alabama,Arkansas St.,75.0,67.0,2019-03-12,5.0,8.0,1
+Louisiana Monroe,Appalachian St.,89.0,80.0,2019-03-12,8.0,9.0,1
+St. Francis PA,Fairleigh Dickinson,76.0,85.0,2019-03-12,2.5,-9.0,0
+Vermont,Binghamton,84.0,51.0,2019-03-12,17.0,33.0,1
+UMBC,Hartford,90.0,85.0,2019-03-12,1.5,5.0,1
+Prairie View A&M,Alcorn St.,86.0,66.0,2019-03-12,16.5,20.0,1
+Grambling St.,Arkansas Pine Bluff,59.0,52.0,2019-03-12,5.5,7.0,1
+Texas Southern,Southern,80.0,70.0,2019-03-12,13.5,10.0,0
+Jackson St.,Alabama St.,49.0,58.0,2019-03-12,5.5,-9.0,0
+Colgate,Bucknell,94.0,80.0,2019-03-13,4.0,14.0,1
+Norfolk St.,South Carolina St.,78.0,73.0,2019-03-13,8.0,5.0,0
+North Carolina A&T,Coppin St.,82.0,79.0,2019-03-13,5.0,3.0,0
+Memphis,Tulane,83.0,68.0,2019-03-14,16.5,15.0,0
+Norfolk St.,Howard,75.0,69.0,2019-03-15,5.0,6.0,1
+Yale,Princeton,83.0,77.0,2019-03-16,10.5,6.0,0
+Vermont,UMBC,66.0,49.0,2019-03-16,12.0,17.0,1
+Norfolk St.,North Carolina Central,47.0,50.0,2019-03-16,4.5,-3.0,0
+NJIT,Quinnipiac,92.0,81.0,2019-03-18,5.0,11.0,1
+N.C. State,Hofstra,84.0,78.0,2019-03-19,11.0,6.0,0
+Texas,South Dakota St.,79.0,73.0,2019-03-19,9.0,6.0,0
+Indiana,St. Francis PA,89.0,72.0,2019-03-19,18.5,17.0,0
+UNC Greensboro,Campbell,84.0,69.0,2019-03-19,11.0,15.0,1
+Davidson,Lipscomb,81.0,89.0,2019-03-19,2.0,-8.0,0
+Memphis,San Diego,74.0,60.0,2019-03-19,6.0,14.0,1
+Providence,Arkansas,72.0,84.0,2019-03-19,5.5,-12.0,0
+Creighton,Loyola Chicago,70.0,61.0,2019-03-19,9.0,9.0,2
+Colorado,Dayton,78.0,73.0,2019-03-19,5.0,5.0,2
+Utah Valley,Cal St. Northridge,92.0,84.0,2019-03-19,11.5,8.0,0
+Marshall,IUPUI,78.0,73.0,2019-03-19,9.0,5.0,0
+Robert Morris,Cornell,98.0,89.0,2019-03-19,-1.0,9.0,1
+Clemson,Wright St.,75.0,69.0,2019-03-19,13.5,6.0,0
+Xavier,Toledo,78.0,64.0,2019-03-20,5.5,14.0,1
+Alabama,Norfolk St.,79.0,80.0,2019-03-20,16.5,-1.0,0
+Georgetown,Harvard,68.0,71.0,2019-03-20,5.0,-3.0,0
+TCU,Sam Houston St.,82.0,69.0,2019-03-20,14.0,13.0,0
+Nebraska,Butler,80.0,76.0,2019-03-20,5.5,4.0,0
+West Virginia,Grand Canyon,77.0,63.0,2019-03-20,6.0,14.0,1
+DePaul,Central Michigan,100.0,86.0,2019-03-20,5.0,14.0,1
+Coastal Carolina,Howard,81.0,72.0,2019-03-20,11.5,9.0,0
+South Florida,Stony Brook,82.0,79.0,2019-03-20,6.5,3.0,0
+Cal Baptist,Loyola Marymount,55.0,56.0,2019-03-20,-1.5,-1.0,1
+Brown,UAB,83.0,78.0,2019-03-20,2.5,5.0,1
+New Orleans,Texas Southern,89.0,95.0,2019-03-20,1.5,-6.0,0
+UT Rio Grande Valley,Grambling St.,74.0,73.0,2019-03-20,10.5,1.0,0
+East Tennessee St.,Green Bay,94.0,102.0,2019-03-20,11.0,-8.0,0
+Seattle,Presbyterian,68.0,73.0,2019-03-20,5.0,-5.0,0
+Longwood,Southern Miss,90.0,68.0,2019-03-20,-10.5,22.0,1
+Furman,Wichita St.,70.0,76.0,2019-03-20,5.5,-6.0,0
+Charleston Southern,Florida Atlantic,68.0,66.0,2019-03-21,4.5,2.0,0
+Hampton,St. Francis NY,81.0,72.0,2019-03-21,9.0,9.0,2
+Cal St. Fullerton,Cal St. Bakersfield,58.0,66.0,2019-03-21,8.5,-8.0,0
+Louisiana Monroe,Kent St.,87.0,77.0,2019-03-21,3.5,10.0,1
+Creighton,Memphis,79.0,67.0,2019-03-22,4.5,12.0,1
+Southern Utah,Drake,80.0,73.0,2019-03-22,-4.5,7.0,1
+Indiana,Arkansas,63.0,60.0,2019-03-23,6.0,3.0,0
+UNC Greensboro,Lipscomb,69.0,86.0,2019-03-23,0.0,-17.0,0
+Texas St.,FIU,81.0,87.0,2019-03-23,8.0,-6.0,0
+Robert Morris,Presbyterian,70.0,77.0,2019-03-24,-1.5,-7.0,0
+Texas,Xavier,78.0,76.0,2019-03-24,6.0,2.0,0
+TCU,Nebraska,88.0,72.0,2019-03-24,3.5,16.0,1
+Colorado,Norfolk St.,76.0,60.0,2019-03-25,15.0,16.0,1
+West Virginia,Coastal Carolina,91.0,109.0,2019-03-25,9.0,-18.0,0
+South Florida,Utah Valley,66.0,57.0,2019-03-25,2.0,9.0,1
+DePaul,Longwood,97.0,89.0,2019-03-25,15.5,8.0,0
+Loyola Marymount,Brown,81.0,63.0,2019-03-25,4.0,18.0,1
+UT Rio Grande Valley,Texas Southern,85.0,94.0,2019-03-25,6.0,-9.0,0
+Southern Utah,Cal St. Bakersfield,67.0,70.0,2019-03-25,2.0,-3.0,0
+Indiana,Wichita St.,63.0,73.0,2019-03-26,5.5,-10.0,0
+TCU,Creighton,71.0,58.0,2019-03-26,3.0,13.0,1
+Marshall,Presbyterian,83.0,66.0,2019-03-26,5.0,17.0,1
+Hampton,Charleston Southern,73.0,67.0,2019-03-26,1.5,6.0,1
+Green Bay,FIU,98.0,68.0,2019-03-26,3.5,30.0,1
+N.C. State,Lipscomb,93.0,94.0,2019-03-27,3.5,-1.0,0
+Texas,Colorado,68.0,55.0,2019-03-27,6.5,13.0,1
+DePaul,Coastal Carolina,92.0,87.0,2019-03-27,7.0,5.0,0
+South Florida,Loyola Marymount,56.0,47.0,2019-03-28,4.5,9.0,1
+NJIT,Hampton,70.0,82.0,2019-03-28,3.0,-12.0,0
+Louisiana Monroe,Texas Southern,102.0,108.0,2019-03-28,8.5,-6.0,0
+Green Bay,Cal St. Bakersfield,80.0,65.0,2019-03-29,6.5,15.0,1
+South Florida,DePaul,63.0,61.0,2019-04-01,1.5,2.0,1
+Marshall,Hampton,80.0,78.0,2019-04-02,5.0,2.0,0
+Green Bay,Texas Southern,87.0,86.0,2019-04-02,5.0,1.0,0
+DePaul,South Florida,100.0,96.0,2019-04-03,4.5,4.0,0
+Marshall,Green Bay,90.0,70.0,2019-04-04,5.5,20.0,1
+DePaul,South Florida,65.0,77.0,2019-04-05,2.0,-12.0,0
+Michigan St.,Texas Tech,51.0,61.0,2019-04-06,2.5,-10.0,0
+Virginia,Auburn,63.0,62.0,2019-04-06,5.0,1.0,0
+Virginia,Texas Tech,85.0,77.0,2019-04-08,1.0,8.0,1

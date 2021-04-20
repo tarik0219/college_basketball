@@ -1,0 +1,31 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Minnesota,Purdue,1,2021-02-11,0.0,-1.0,7.0,3.0
+Stanford,Colorado,-2,2021-02-11,-2.0,-1.0,-4.0,-0.5
+Arizona St.,Oregon,-3,2021-02-11,-2.0,-3.0,-7.0,2.0
+Washington St.,UCLA,-5,2021-02-11,-6.0,-7.0,-1.0,-4.0
+California,Utah,-5,2021-02-11,-5.0,-6.0,-2.0,-4.0
+Radford,Winthrop,-2,2021-02-11,-1.0,-0.0,1.0,-3.5
+Montana St.,Eastern Washington,-3,2021-02-11,-3.0,-2.0,-6.0,-2.5
+Montana,Weber St.,1,2021-02-11,-0.0,0.0,1.0,-1.0
+Arizona,Oregon St.,10,2021-02-11,12.0,16.0,8.0,11.5
+UT Arlington,Texas St.,-2,2021-02-11,-2.0,-2.0,-3.0,-1.5
+Washington,USC,-13,2021-02-11,-14.0,-16.0,-3.0,-11.5
+Boise St.,UNLV,11,2021-02-11,12.0,13.0,9.0,10.0
+Kansas,Iowa St.,13,2021-02-11,14.0,15.0,12.0,15.5
+Mount St. Mary's,LIU,4,2021-02-11,4.0,5.0,15.0,4.0
+Belmont,Eastern Kentucky,11,2021-02-11,11.0,15.0,4.0,12.0
+St. Francis PA,St. Francis NY,3,2021-02-11,3.0,4.0,0.0,2.5
+Tennessee Tech,SIU Edwardsville,1,2021-02-11,0.0,-0.0,-2.0,2.5
+Central Connecticut,Merrimack,-1,2021-02-11,-1.0,-1.0,-6.0,-3.0
+Air Force,Fresno St.,-5,2021-02-11,-6.0,-8.0,-6.0,-4.5
+Campbell,USC Upstate,5,2021-02-11,4.0,5.0,4.0,4.5
+South Alabama,Troy,6,2021-02-11,7.0,9.0,10.0,6.5
+Hampton,Presbyterian,5,2021-02-11,4.0,3.0,8.0,4.0
+Tennessee St.,Morehead St.,-8,2021-02-11,-9.0,-9.0,-1.0,-7.0
+Georgia St.,Georgia Southern,10,2021-02-11,10.0,11.0,6.0,7.5
+Jacksonville St.,Eastern Illinois,9,2021-02-11,10.0,10.0,5.0,9.0
+Louisiana,Louisiana Monroe,10,2021-02-11,10.0,10.0,6.0,9.5
+Murray St.,Southeast Missouri St.,11,2021-02-11,12.0,13.0,9.0,12.0
+Idaho St.,Idaho,10,2021-02-11,11.0,11.0,7.0,9.0
+Austin Peay,Tennessee Martin,13,2021-02-11,15.0,19.0,6.0,16.0
+Pacific,Portland,15,2021-02-11,16.0,17.0,10.0,15.5

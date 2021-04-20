@@ -1,0 +1,23 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Oklahoma St.,Oklahoma,2,2021-03-01,2.0,1.0,4.0,-1.5
+Syracuse,North Carolina,-1,2021-03-01,0.0,-1.0,4.0,-1.5
+Oregon,Arizona,2,2021-03-01,3.0,2.0,7.0,5.0
+Arizona St.,Washington St.,2,2021-03-01,3.0,4.0,4.0,4.5
+St. Bonaventure,Dayton,8,2021-03-01,9.0,10.0,4.0,7.0
+Saint Louis,Massachusetts,9,2021-03-01,9.0,10.0,11.0,10.0
+UNC Asheville,Longwood,4,2021-03-01,4.0,2.0,0.0,3.5
+Marist,Quinnipiac,3,2021-03-01,2.0,3.0,5.0,3.5
+Incarnate Word,New Orleans,-2,2021-03-01,-1.0,-2.0,-2.0,-2.0
+Virginia,Miami FL,15,2021-03-01,16.0,16.0,12.0,14.5
+Lamar,Texas A&M Corpus Chris,6,2021-03-01,5.0,7.0,3.0,6.0
+Alabama A&M,Texas Southern,-7,2021-03-01,-7.0,-7.0,-2.0,-7.5
+Richmond,Saint Joseph's,15,2021-03-01,14.0,15.0,13.0,14.5
+Central Arkansas,Stephen F. Austin,-10,2021-03-01,-9.0,-9.0,-6.0,-11.5
+Radford,Hampton,8,2021-03-01,9.0,9.0,-2.0,8.0
+Nicholls St.,Northwestern St.,9,2021-03-01,9.0,12.0,9.0,9.0
+Houston Baptist,Sam Houston St.,-10,2021-03-01,-8.0,-8.0,-7.0,-10.0
+Alabama St.,Prairie View A&M,-11,2021-03-01,-10.0,-9.0,-2.0,-12.0
+Winthrop,High Point,15,2021-03-01,14.0,13.0,11.0,13.0
+Jackson St.,Arkansas Pine Bluff,11,2021-03-01,10.0,12.0,13.0,8.5
+Colorado St.,Air Force,21,2021-03-01,21.0,22.0,23.0,18.5
+Mississippi Valley St.,Grambling St.,-19,2021-03-01,-18.0,-20.0,-9.0,-18.5

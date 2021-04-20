@@ -1,0 +1,20 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Arkansas,Florida,3,2021-02-16,4.0,4.0,-1.0,4.5
+St. John's,Xavier,1,2021-02-16,1.0,0.0,3.0,1.0
+Georgia,Missouri,-3,2021-02-16,-3.0,-3.0,8.0,-3.5
+Connecticut,Providence,6,2021-02-16,7.0,9.0,3.0,5.5
+Purdue,Michigan St.,7,2021-02-16,9.0,9.0,8.0,6.0
+Rhode Island,Dayton,3,2021-02-16,3.0,3.0,2.0,3.0
+Santa Clara,Loyola Marymount,-1,2021-02-16,-1.0,-1.0,-2.0,-3.5
+Ball St.,Bowling Green,1,2021-02-16,-0.0,-2.0,1.0,-2.0
+Illinois,Northwestern,13,2021-02-16,14.0,12.0,10.0,12.5
+Tulsa,Temple,5,2021-02-16,5.0,5.0,3.0,4.0
+Maryland,Nebraska,10,2021-02-16,11.0,11.0,3.0,10.0
+Jackson St.,Texas Southern,-1,2021-02-16,-1.0,0.0,4.0,-1.0
+Southeast Missouri St.,Austin Peay,-4,2021-02-16,-4.0,-5.0,1.0,-6.5
+Toledo,Miami OH,11,2021-02-16,13.0,13.0,6.0,11.5
+Oklahoma St.,Iowa St.,13,2021-02-16,12.0,13.0,13.0,10.5
+Mount St. Mary's,Wagner,4,2021-02-16,5.0,7.0,-3.0,3.5
+Western Michigan,Kent St.,-9,2021-02-16,-10.0,-11.0,-10.0,-9.5
+Saint Louis,La Salle,15,2021-02-16,16.0,17.0,15.0,16.0
+Akron,Northern Illinois,17,2021-02-16,19.0,18.0,18.0,16.5

@@ -1,0 +1,29 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Maryland,Nebraska,10,2021-02-17,10.5,1.0,0.7963,Maryland
+Furman,Samford,15,2021-02-17,15.5,1.0,0.7345,Furman
+Boise St.,Utah St.,1,2021-02-17,1.5,1.0,0.7153,Boise St.
+Indiana,Minnesota,3,2021-02-17,6.5,1.0,0.7003,Indiana
+Vanderbilt,Kentucky,-3,2021-02-17,-3.5,1.0,0.6947,Vanderbilt
+Chattanooga,Western Carolina,8,2021-02-17,7.5,1.0,0.6654,Chattanooga
+Mount St. Mary's,Wagner,1,2021-02-17,3.0,0.0,0.6536,Wagner
+Butler,Marquette,1,2021-02-17,2.0,1.0,0.6521,Butler
+Tennessee,South Carolina,10,2021-02-17,12.0,0.0,0.6455,South Carolina
+Louisville,Syracuse,4,2021-02-17,4.5,1.0,0.6394,Louisville
+Wofford,The Citadel,9,2021-02-17,8.5,0.0,0.6166,The Citadel
+North Carolina,Northeastern,13,2021-02-17,16.5,0.0,0.6118,Northeastern
+UCF,South Florida,3,2021-02-17,3.5,1.0,0.5993,UCF
+USC,Arizona St.,12,2021-02-17,10.0,0.0,0.5915,Arizona St.
+Pittsburgh,N.C. State,3,2021-02-17,4.0,0.0,0.5855,N.C. State
+Kansas St.,Kansas,-13,2021-02-17,-13.0,1.0,0.5803,Kansas St.
+East Tennessee St.,Mercer,5,2021-02-17,4.5,1.0,0.5765,East Tennessee St.
+VMI,UNC Greensboro,-3,2021-02-17,-4.5,1.0,0.5611,VMI
+VCU,Richmond,3,2021-02-17,1.5,0.0,0.5589,Richmond
+Southern Illinois,Missouri St.,-7,2021-02-17,-5.5,0.0,0.5585,Missouri St.
+New Mexico,Wyoming,-4,2021-02-17,-6.0,1.0,0.5452,New Mexico
+Northern Iowa,Drake,-8,2021-02-17,-6.0,1.0,0.5435,Northern Iowa
+Holy Cross,Boston University,-2,2021-02-17,-3.5,1.0,0.5382,Holy Cross
+Loyola Chicago,Valparaiso,21,2021-02-17,20.0,0.0,0.5345,Valparaiso
+Quinnipiac,Iona,-1,2021-02-17,-6.5,1.0,0.5258,Quinnipiac
+Central Connecticut,Sacred Heart,-1,2021-02-17,-1.0,0.0,0.5166,Sacred Heart
+Indiana St.,Evansville,8,2021-02-17,6.5,1.0,0.5136,Indiana St.
+Wake Forest,Duke,-5,2021-02-17,-6.5,1.0,0.5063,Wake Forest

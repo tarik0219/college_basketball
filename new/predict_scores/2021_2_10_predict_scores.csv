@@ -1,0 +1,30 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Georgia Tech,Virginia,-4,2021-02-10,-4.0,-7.0,-1.0,-4.0
+Mississippi St.,LSU,1,2021-02-10,1.0,-0.0,6.0,1.5
+Mississippi,Missouri,-1,2021-02-10,1.0,2.0,-1.0,0.0
+Northwestern,Indiana,-2,2021-02-10,-3.0,-5.0,-2.0,-4.0
+Saint Louis,Rhode Island,5,2021-02-10,7.0,7.0,5.0,8.5
+UCF,Wichita St.,1,2021-02-10,0.0,2.0,7.0,-2.5
+UNC Greensboro,Furman,1,2021-02-10,1.0,-1.0,8.0,1.5
+South Florida,Houston,-10,2021-02-10,-10.0,-10.0,-8.0,-11.5
+Boston College,Wake Forest,3,2021-02-10,3.0,2.0,4.0,-1.0
+Villanova,Marquette,11,2021-02-10,13.0,13.0,5.0,10.5
+San Francisco,Pepperdine,6,2021-02-10,7.0,8.0,12.0,4.0
+Nebraska,Wisconsin,-11,2021-02-10,-11.0,-12.0,-12.0,-12.0
+Tennessee,Georgia,12,2021-02-10,14.0,16.0,8.0,12.5
+Valparaiso,Bradley,-3,2021-02-10,-3.0,-6.0,-2.0,-3.5
+Charlotte,Old Dominion,1,2021-02-10,1.0,3.0,8.0,1.0
+Wofford,Chattanooga,6,2021-02-10,6.0,7.0,7.0,4.5
+Western Carolina,VMI,-2,2021-02-10,-2.0,-4.0,-6.0,0.0
+Samford,Mercer,-4,2021-02-10,-3.0,-5.0,-7.0,-5.0
+Drake,Northern Iowa,11,2021-02-10,12.0,12.0,12.0,10.0
+Missouri St.,Southern Illinois,7,2021-02-10,7.0,7.0,8.0,6.5
+Tulsa,Tulane,8,2021-02-10,9.0,9.0,0.0,8.0
+The Citadel,East Tennessee St.,-7,2021-02-10,-8.0,-10.0,-4.0,-7.5
+Incarnate Word,Northwestern St.,1,2021-02-10,0.0,1.0,2.0,0.0
+Lamar,Nicholls St.,-7,2021-02-10,-7.0,-5.0,-9.0,-6.5
+George Mason,Fordham,8,2021-02-10,10.0,10.0,10.0,9.0
+Sam Houston St.,Southeastern Louisiana,11,2021-02-10,11.0,11.0,16.0,11.5
+Stephen F. Austin,Texas A&M Corpus Chris,15,2021-02-10,16.0,16.0,10.0,18.0
+Abilene Christian,Houston Baptist,19,2021-02-10,19.0,20.0,24.0,18.0
+San Diego St.,San Jose St.,26,2021-02-10,28.0,33.0,21.0,29.0

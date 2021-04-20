@@ -1,0 +1,19 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Texas Tech,West Virginia,4,2021-02-09,6.0,10.0,6.0,5.5
+Kentucky,Arkansas,-1,2021-02-09,-1.0,-0.0,-7.0,1.0
+Michigan St.,Penn St.,-1,2021-02-09,-0.0,-0.0,6.0,3.0
+N.C. State,Syracuse,1,2021-02-09,2.0,3.0,3.0,1.5
+Duke,Notre Dame,5,2021-02-09,6.0,8.0,-8.0,7.5
+Dayton,VCU,-1,2021-02-09,-0.0,0.0,0.0,-1.5
+Butler,St. John's,-2,2021-02-09,-1.0,1.0,2.0,1.0
+Georgetown,Creighton,-7,2021-02-09,-6.0,-8.0,0.0,-7.5
+South Carolina,Alabama,-10,2021-02-09,-7.0,-8.0,-2.0,-6.0
+Vanderbilt,Auburn,-5,2021-02-09,-4.0,-5.0,-6.0,-5.5
+Bowling Green,Kent St.,-1,2021-02-09,-1.0,-0.0,3.0,-1.0
+TCU,Iowa St.,5,2021-02-09,5.0,5.0,6.0,6.5
+Elon,James Madison,-3,2021-02-09,-3.0,-0.0,-5.0,-5.0
+Georgia St.,South Alabama,7,2021-02-09,7.0,9.0,5.0,5.5
+Florida A&M,North Carolina Central,3,2021-02-09,2.0,3.0,10.0,-2.0
+Kansas St.,Texas,-15,2021-02-09,-15.0,-17.0,-8.0,-14.0
+St. Bonaventure,La Salle,13,2021-02-09,15.0,16.0,16.0,13.0
+Colorado St.,New Mexico,17,2021-02-09,18.0,18.0,9.0,17.5

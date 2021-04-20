@@ -1,0 +1,92 @@
+home,away_x,predict_kp,date,draft_kings,home_cover,percent_chance,bet,away_y,score
+UMKC,Denver,11,2021-02-20,10.0,1.0,0.8377,UMKC,Denver,11.0
+UAB,Old Dominion,7,2021-02-20,7.0,1.0,0.8012,UAB,Old Dominion,-7.0
+Portland,Pacific,-11,2021-02-20,-12.5,0.0,0.7977,Pacific,Pacific,-22.0
+Cal St. Northridge,Hawaii,-4,2021-02-20,-4.0,1.0,0.7972,Cal St. Northridge,Hawaii,8.0
+North Carolina,Louisville,1,2021-02-20,5.0,1.0,0.7694,North Carolina,Louisville,45.0
+Detroit,Robert Morris,9,2021-02-20,9.5,1.0,0.7694,Detroit,Robert Morris,19.0
+Purdue Fort Wayne,Cleveland St.,-5,2021-02-20,-3.0,1.0,0.7458,Purdue Fort Wayne,Cleveland St.,-12.0
+Lipscomb,Kennesaw St.,12,2021-02-20,12.5,1.0,0.7413,Lipscomb,Kennesaw St.,14.0
+Cal St. Fullerton,UC Irvine,-9,2021-02-20,-9.0,0.0,0.7304,UC Irvine,UC Irvine,3.0
+Austin Peay,Eastern Illinois,9,2021-02-20,8.0,1.0,0.7243,Austin Peay,Eastern Illinois,-7.0
+Northern Kentucky,Wright St.,-8,2021-02-20,-9.0,1.0,0.7013,Northern Kentucky,Wright St.,-6.0
+Syracuse,Notre Dame,2,2021-02-20,3.0,0.0,0.6978,Notre Dame,Notre Dame,8.0
+UC Santa Barbara,Cal St. Bakersfield,7,2021-02-20,7.5,0.0,0.6885,Cal St. Bakersfield,Cal St. Bakersfield,19.0
+Weber St.,Northern Arizona,14,2021-02-20,14.5,1.0,0.6767,Weber St.,Northern Arizona,22.0
+South Carolina,Missouri,-2,2021-02-20,-3.0,1.0,0.6758,South Carolina,Missouri,-15.0
+Fairfield,Canisius,-6,2021-02-20,-5.5,0.0,0.6661,Canisius,Canisius,13.0
+Long Beach St.,Cal Poly,9,2021-02-20,7.5,0.0,0.6661,Cal Poly,Cal Poly,5.0
+Washington St.,Stanford,-2,2021-02-20,-5.5,1.0,0.6657,Washington St.,Stanford,9.0
+Florida,Georgia,9,2021-02-20,8.0,0.0,0.6642,Georgia,Georgia,7.0
+Dixie St.,Tarleton St.,-2,2021-02-20,-2.0,0.0,0.6621,Tarleton St.,Tarleton St.,16.0
+Tennessee Martin,Morehead St.,-13,2021-02-20,-13.0,0.0,0.6609,Morehead St.,Morehead St.,-10.0
+LSU,Auburn,5,2021-02-20,4.5,0.0,0.6527,Auburn,Auburn,24.0
+American,Navy,-3,2021-02-20,-3.0,0.0,0.6525,Navy,Navy,-12.0
+Miami FL,Georgia Tech,-5,2021-02-20,-3.5,1.0,0.6523,Miami FL,Georgia Tech,-27.0
+FIU,Southern Miss,-1,2021-02-20,3.0,0.0,0.6495,Southern Miss,,
+UC San Diego,UC Riverside,-6,2021-02-20,-7.5,1.0,0.6314,UC San Diego,UC Riverside,1.0
+Albany,Stony Brook,3,2021-02-20,3.0,0.0,0.627,Stony Brook,Stony Brook,-16.0
+Santa Clara,Pepperdine,-2,2021-02-20,-3.0,0.0,0.6228,Pepperdine,Pepperdine,4.0
+Youngstown St.,IUPUI,3,2021-02-20,6.5,1.0,0.6153,Youngstown St.,IUPUI,7.0
+Montana,Eastern Washington,-3,2021-02-20,-4.5,0.0,0.6146,Eastern Washington,Eastern Washington,-14.0
+Milwaukee,Oakland,1,2021-02-20,1.0,0.0,0.6117,Oakland,Oakland,2.0
+Mercer,Furman,-2,2021-02-20,-3.0,0.0,0.6114,Furman,Furman,-10.0
+Texas A&M Corpus Chris,Lamar,2,2021-02-20,2.0,1.0,0.5971,Texas A&M Corpus Chris,Lamar,9.0
+USC,Arizona,7,2021-02-20,6.0,0.0,0.5939,Arizona,Arizona,-9.0
+Grand Canyon,Cal Baptist,11,2021-02-20,10.0,1.0,0.5929,Grand Canyon,Cal Baptist,-3.0
+Oregon St.,Colorado,-7,2021-02-20,-6.5,1.0,0.5842,Oregon St.,Colorado,-4.0
+Colgate,Boston University,14,2021-02-20,12.0,1.0,0.5832,Colgate,Boston University,10.0
+North Dakota St.,South Dakota St.,-1,2021-02-20,-0.5,1.0,0.5829,North Dakota St.,South Dakota St.,2.0
+South Dakota,Oral Roberts,2,2021-02-20,3.5,0.0,0.5724,Oral Roberts,Oral Roberts,2.0
+VCU,George Mason,12,2021-02-20,10.5,0.0,0.5681,George Mason,George Mason,-3.0
+Northern Illinois,Miami OH,-6,2021-02-20,-5.0,0.0,0.5675,Miami OH,Miami OH,-5.0
+Tennessee,Kentucky,7,2021-02-20,7.5,0.0,0.5672,Kentucky,Kentucky,-15.0
+Florida A&M,North Carolina A&T,4,2021-02-20,3.5,1.0,0.5653,Florida A&M,North Carolina A&T,14.0
+UCLA,Arizona St.,8,2021-02-20,8.0,0.0,0.5653,Arizona St.,Arizona St.,1.0
+Loyola Marymount,BYU,-6,2021-02-20,-8.0,0.0,0.5621,BYU,BYU,-17.0
+UMass Lowell,New Hampshire,5,2021-02-20,2.5,0.0,0.5606,New Hampshire,New Hampshire,-2.0
+Appalachian St.,South Alabama,2,2021-02-20,2.0,1.0,0.5528,Appalachian St.,South Alabama,-2.0
+Wake Forest,N.C. State,-1,2021-02-20,-1.5,1.0,0.5517,Wake Forest,N.C. State,-18.0
+Nicholls St.,Central Arkansas,10,2021-02-20,11.5,1.0,0.5502,Nicholls St.,Central Arkansas,11.0
+Mississippi,Mississippi St.,5,2021-02-20,7.0,1.0,0.5502,Mississippi,Mississippi St.,-10.0
+Nebraska Omaha,North Dakota,3,2021-02-20,1.5,1.0,0.5498,Nebraska Omaha,North Dakota,-12.0
+Richmond,Duquesne,7,2021-02-20,9.0,1.0,0.5479,Richmond,Duquesne,7.0
+Washington,California,1,2021-02-20,1.0,1.0,0.5472,Washington,California,11.0
+Belmont,Tennessee Tech,20,2021-02-20,21.0,0.0,0.5462,Tennessee Tech,Tennessee Tech,24.0
+Wagner,St. Francis PA,6,2021-02-20,5.5,0.0,0.5445,St. Francis PA,St. Francis PA,15.0
+Nebraska,Purdue,-8,2021-02-20,-7.0,0.0,0.5445,Purdue,Purdue,-17.0
+Tulane,UCF,-2,2021-02-20,-1.0,0.0,0.5435,UCF,UCF,-3.0
+Army,Holy Cross,12,2021-02-20,11.0,1.0,0.5429,Army,Holy Cross,4.0
+Texas,West Virginia,2,2021-02-20,3.5,0.0,0.5422,West Virginia,West Virginia,-2.0
+Western Carolina,Wofford,-5,2021-02-20,-5.0,1.0,0.542,Western Carolina,Wofford,-24.0
+Tennessee St.,Jacksonville St.,-8,2021-02-20,-7.5,0.0,0.5399,Jacksonville St.,Jacksonville St.,-1.0
+Niagara,Siena,-4,2021-02-20,-4.0,1.0,0.5384,Niagara,Siena,2.0
+Georgia St.,Troy,11,2021-02-20,10.0,1.0,0.5372,Georgia St.,Troy,12.0
+Minnesota,Illinois,-5,2021-02-20,-4.0,0.0,0.5362,Illinois,Illinois,-31.0
+UNC Greensboro,Chattanooga,5,2021-02-20,6.5,1.0,0.5361,UNC Greensboro,Chattanooga,5.0
+Southern Utah,Sacramento St.,7,2021-02-20,7.5,1.0,0.5344,Southern Utah,Sacramento St.,20.0
+Saint Joseph's,La Salle,-1,2021-02-20,-3.0,1.0,0.5332,Saint Joseph's,La Salle,9.0
+TCU,Kansas St.,8,2021-02-20,6.5,1.0,0.5317,TCU,Kansas St.,-8.0
+Stetson,Jacksonville,6,2021-02-20,5.0,1.0,0.5306,Stetson,Jacksonville,-4.0
+Duke,Virginia,-1,2021-02-20,-2.0,0.0,0.5286,Virginia,Virginia,1.0
+Pittsburgh,Florida St.,-7,2021-02-20,-5.5,0.0,0.5281,Florida St.,Florida St.,-7.0
+Kent St.,Eastern Michigan,15,2021-02-20,14.5,1.0,0.5274,Kent St.,Eastern Michigan,13.0
+New Mexico St.,Utah Valley,5,2021-02-20,8.0,1.0,0.526,New Mexico St.,Utah Valley,7.0
+Kansas,Texas Tech,1,2021-02-20,1.5,0.0,0.5259,Texas Tech,Texas Tech,6.0
+Lehigh,Loyola MD,-4,2021-02-20,-5.5,1.0,0.5251,Lehigh,Loyola MD,-28.0
+Fresno St.,San Diego St.,-14,2021-02-20,-14.0,1.0,0.5247,Fresno St.,San Diego St.,-18.0
+Oregon,Utah,6,2021-02-20,9.5,1.0,0.5235,Oregon,Utah,3.0
+Idaho,Portland St.,-9,2021-02-20,-8.5,0.0,0.5229,Portland St.,Portland St.,-31.0
+Iowa St.,Oklahoma,-11,2021-02-20,-11.5,1.0,0.5227,Iowa St.,Oklahoma,-10.0
+LIU,Central Connecticut,9,2021-02-20,9.5,1.0,0.5222,LIU,Central Connecticut,13.0
+Illinois Chicago,Green Bay,2,2021-02-20,1.5,1.0,0.5181,Illinois Chicago,Green Bay,-10.0
+Bryant,Merrimack,7,2021-02-20,6.0,0.0,0.5147,Merrimack,Merrimack,2.0
+Southeast Missouri St.,Eastern Kentucky,-6,2021-02-20,-5.5,1.0,0.5113,Southeast Missouri St.,Eastern Kentucky,22.0
+Murray St.,SIU Edwardsville,13,2021-02-20,17.0,1.0,0.5089,Murray St.,SIU Edwardsville,27.0
+Gonzaga,San Diego,32,2021-02-20,32.0,1.0,0.507,Gonzaga,San Diego,37.0
+St. Francis NY,Sacred Heart,2,2021-02-20,3.5,0.0,0.5051,Sacred Heart,Sacred Heart,12.0
+The Citadel,VMI,-3,2021-02-20,-3.5,1.0,0.5045,The Citadel,VMI,1.0
+William & Mary,Elon,2,2021-02-20,2.5,1.0,0.5029,William & Mary,Elon,-21.0
+Villanova,Connecticut,6,2021-02-20,6.5,0.0,0.5024,Connecticut,Connecticut,8.0
+St. John's,DePaul,8,2021-02-20,11.0,1.0,0.5021,St. John's,DePaul,-5.0
+Alabama,Vanderbilt,17,2021-02-20,14.5,1.0,0.5017,Alabama,Vanderbilt,4.0

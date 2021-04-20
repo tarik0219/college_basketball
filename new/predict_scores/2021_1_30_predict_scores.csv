@@ -1,0 +1,110 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Oklahoma,Alabama,-1,2021-01-30,0.0,4.0,-3.0,-1.0
+LSU,Texas Tech,-1,2021-01-30,-1.0,1.0,-2.0,-3.5
+Tennessee,Kansas,2,2021-01-30,2.0,1.0,0.0,3.0
+Penn St.,Wisconsin,-2,2021-01-30,-3.0,-3.0,6.0,-4.5
+Virginia Tech,Virginia,-3,2021-01-30,-5.0,-6.0,-5.0,-4.5
+Oklahoma St.,Arkansas,2,2021-01-30,2.0,3.0,-1.0,2.0
+West Virginia,Florida,4,2021-01-30,6.0,6.0,6.0,4.5
+Georgia Tech,Florida St.,-3,2021-01-30,-3.0,-0.0,-2.0,-4.0
+Purdue,Minnesota,2,2021-01-30,3.0,2.0,13.0,2.5
+Duke,Clemson,4,2021-01-30,4.0,6.0,5.0,5.0
+Arizona St.,Stanford,-3,2021-01-30,-3.0,-1.0,6.0,2.0
+Dayton,Rhode Island,1,2021-01-30,-1.0,-3.0,-1.0,1.5
+Butler,Xavier,-2,2021-01-30,-3.0,-4.0,-0.0,0.5
+Georgia,Mississippi,-3,2021-01-30,-3.0,-4.0,-4.0,-3.5
+Pittsburgh,Notre Dame,4,2021-01-30,5.0,3.0,-4.0,4.0
+Georgetown,Providence,-3,2021-01-30,-4.0,-5.0,-4.0,-4.0
+Bowling Green,Toledo,-4,2021-01-30,-3.0,-2.0,0.0,-4.0
+DePaul,Creighton,-10,2021-01-30,-9.0,-11.0,-6.0,-9.5
+Wichita St.,UCF,5,2021-01-30,5.0,3.0,17.0,5.5
+Colorado,Utah,9,2021-01-30,12.0,12.0,14.0,8.5
+Vanderbilt,South Carolina,-5,2021-01-30,-5.0,-4.0,0.0,-4.0
+Wake Forest,Miami FL,2,2021-01-30,2.0,0.0,10.0,2.0
+Mississippi St.,Iowa St.,6,2021-01-30,7.0,5.0,8.0,9.5
+Murray St.,Belmont,-3,2021-01-30,-2.0,-1.0,-3.0,-2.5
+East Carolina,Tulsa,-2,2021-01-30,-2.0,-3.0,-3.0,-3.0
+Grand Canyon,New Mexico St.,2,2021-01-30,1.0,5.0,2.0,3.0
+Missouri,TCU,9,2021-01-30,9.0,6.0,10.0,10.0
+Baylor,Auburn,16,2021-01-30,20.0,22.0,11.0,14.5
+Akron,Ball St.,4,2021-01-30,5.0,5.0,1.0,5.0
+Kansas St.,Texas A&M,-2,2021-01-30,-3.0,-6.0,-6.0,-2.0
+Wofford,Mercer,4,2021-01-30,6.0,6.0,-1.0,4.0
+San Diego,Loyola Marymount,-3,2021-01-30,-6.0,-8.0,-20.0,-3.5
+Southern Illinois,Northern Iowa,-2,2021-01-30,-2.0,-2.0,-4.0,-1.5
+UNC Wilmington,Hofstra,1,2021-01-30,1.0,-0.0,7.0,-1.5
+Texas St.,Louisiana,3,2021-01-30,4.0,5.0,-1.0,3.5
+Hawaii,UC Irvine,-5,2021-01-30,-7.0,-6.0,-12.0,-2.5
+UCLA,Oregon St.,11,2021-01-30,15.0,17.0,8.0,11.5
+UTEP,UTSA,4,2021-01-30,5.0,7.0,10.0,4.0
+Youngstown St.,Detroit,-1,2021-01-30,1.0,4.0,-4.0,0.0
+Purdue Fort Wayne,Oakland,1,2021-01-30,2.0,4.0,1.0,-1.0
+UMKC,North Dakota St.,-2,2021-01-30,-4.0,-4.0,-9.0,-5.0
+Pepperdine,Gonzaga,-21,2021-01-30,-22.0,-24.0,-13.0,-21.0
+American,Lafayette,1,2021-01-30,1.0,-1.0,0.0,0.0
+UC Davis,UC Santa Barbara,-8,2021-01-30,-8.0,-7.0,-8.0,-9.0
+Arkansas St.,UT Arlington,-1,2021-01-30,-0.0,3.0,-5.0,-3.0
+St. Francis NY,LIU,1,2021-01-30,1.0,5.0,-4.0,-1.0
+Western Carolina,Furman,-8,2021-01-30,-8.0,-9.0,0.0,-9.0
+North Florida,North Alabama,-1,2021-01-30,-1.0,2.0,2.0,1.5
+IUPUI,Milwaukee,-1,2021-01-30,-2.0,-3.0,4.0,-3.0
+Delaware,Elon,2,2021-01-30,0.0,-2.0,1.0,6.0
+Northern Kentucky,Illinois Chicago,2,2021-01-30,3.0,4.0,-5.0,2.5
+St. Bonaventure,George Mason,11,2021-01-30,12.0,12.0,16.0,10.5
+Stony Brook,Hartford,1,2021-01-30,1.0,2.0,1.0,2.5
+Florida Gulf Coast,Stetson,1,2021-01-30,-0.0,-2.0,6.0,2.0
+Arizona,California,13,2021-01-30,14.0,14.0,9.0,10.0
+Troy,Appalachian St.,-3,2021-01-30,-3.0,-1.0,-1.0,-3.5
+Coppin St.,Morgan St.,-1,2021-01-30,-1.0,-1.0,4.0,-2.0
+Georgia Southern,Coastal Carolina,-5,2021-01-30,-5.0,-4.0,-8.0,-3.0
+Lehigh,Bucknell,-1,2021-01-30,-1.0,-1.0,-1.0,-1.0
+UNC Greensboro,VMI,8,2021-01-30,11.0,12.0,1.0,9.5
+North Carolina A&T,Florida A&M,1,2021-01-30,1.0,0.0,0.0,2.5
+Marist,Siena,-5,2021-01-30,-7.0,-4.0,-9.0,-6.0
+Southeast Missouri St.,Eastern Illinois,1,2021-01-30,1.0,0.0,6.0,2.5
+Charlotte,FIU,5,2021-01-30,6.0,3.0,13.0,6.0
+Southeastern Louisiana,New Orleans,1,2021-01-30,1.0,3.0,-1.0,1.0
+San Jose St.,Air Force,-1,2021-01-30,1.0,-3.0,7.0,-3.0
+Central Arkansas,Northwestern St.,3,2021-01-30,5.0,7.0,-2.0,3.5
+Cal Poly,Cal St. Northridge,-1,2021-01-30,-3.0,-3.0,1.0,-3.5
+Canisius,Quinnipiac,5,2021-01-30,4.0,3.0,-1.0,2.5
+Texas A&M Corpus Chris,Houston Baptist,2,2021-01-30,2.0,1.0,-3.0,2.5
+Towson,William & Mary,4,2021-01-30,5.0,6.0,4.0,4.5
+Alcorn St.,Southern,-3,2021-01-30,-4.0,-5.0,-4.0,-4.0
+Cleveland St.,Green Bay,7,2021-01-30,8.0,8.0,11.0,4.5
+Tennessee Martin,SIU Edwardsville,-3,2021-01-30,-3.0,-3.0,-5.0,-4.0
+Navy,Loyola MD,7,2021-01-30,7.0,5.0,14.0,3.5
+Wagner,Merrimack,4,2021-01-30,6.0,8.0,11.0,4.0
+Duquesne,Saint Joseph's,10,2021-01-30,11.0,10.0,15.0,9.5
+North Dakota,Western Illinois,4,2021-01-30,5.0,5.0,3.0,4.5
+Lamar,McNeese St.,4,2021-01-30,5.0,6.0,5.0,5.0
+Presbyterian,Longwood,-4,2021-01-30,-5.0,-7.0,4.0,-2.5
+Tennessee Tech,Morehead St.,-6,2021-01-30,-9.0,-10.0,-12.0,-6.5
+Fresno St.,New Mexico,7,2021-01-30,8.0,8.0,3.0,6.5
+VCU,La Salle,13,2021-01-30,15.0,15.0,11.0,13.5
+Gardner Webb,High Point,7,2021-01-30,8.0,9.0,0.0,6.0
+Binghamton,New Hampshire,-6,2021-01-30,-8.0,-6.0,-14.0,-6.5
+Mount St. Mary's,Sacred Heart,6,2021-01-30,8.0,8.0,7.0,5.0
+Austin Peay,Tennessee St.,8,2021-01-30,9.0,10.0,8.0,9.5
+Jacksonville,Liberty,-10,2021-01-30,-12.0,-12.0,-8.0,-9.5
+St. Francis PA,Central Connecticut,8,2021-01-30,9.0,8.0,8.0,8.5
+Miami OH,Western Michigan,9,2021-01-30,10.0,8.0,10.0,9.5
+Cal Baptist,Dixie St.,9,2021-01-30,9.0,8.0,19.0,10.0
+Prairie View A&M,Alabama A&M,7,2021-01-30,9.0,8.0,11.0,8.5
+Utah Valley,Tarleton St.,8,2021-01-30,10.0,11.0,18.0,7.5
+South Dakota,Nebraska Omaha,10,2021-01-30,10.0,10.0,21.0,10.0
+Cal St. Bakersfield,Cal St. Fullerton,10,2021-01-30,13.0,15.0,5.0,9.0
+East Tennessee St.,The Citadel,11,2021-01-30,13.0,12.0,7.0,10.5
+Kent St.,Central Michigan,13,2021-01-30,15.0,15.0,16.0,13.5
+Little Rock,Louisiana Monroe,10,2021-01-30,12.0,12.0,12.0,10.5
+San Diego St.,Wyoming,18,2021-01-30,22.0,24.0,20.0,17.5
+Kennesaw St.,Bellarmine,-9,2021-01-30,-11.0,-11.0,-13.0,-8.0
+Louisiana Tech,Southern Miss,12,2021-01-30,13.0,13.0,4.0,11.5
+Grambling St.,Arkansas Pine Bluff,11,2021-01-30,11.0,14.0,16.0,10.0
+Wright St.,Robert Morris,16,2021-01-30,18.0,17.0,11.0,14.5
+Idaho,Weber St.,-12,2021-01-30,-13.0,-12.0,-17.0,-13.0
+Holy Cross,Colgate,-15,2021-01-30,-15.0,-18.0,-11.0,-15.0
+Incarnate Word,Abilene Christian,-14,2021-01-30,-17.0,-17.0,-14.0,-15.0
+Norfolk St.,Delaware St.,13,2021-01-30,14.0,14.0,12.0,13.0
+Texas Southern,Alabama St.,14,2021-01-30,15.0,15.0,8.0,14.0
+Jackson St.,Mississippi Valley St.,23,2021-01-30,27.0,29.0,19.0,26.5

@@ -1,0 +1,25 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Wisconsin,Iowa,-1,2021-02-18,-3.0,-4.0,-4.0,1.5
+Penn St.,Ohio St.,-5,2021-02-18,-4.0,-3.0,1.0,-4.5
+Oregon,Colorado,-1,2021-02-18,-0.0,0.0,-4.0,3.0
+UCLA,Arizona,2,2021-02-18,3.0,2.0,7.0,2.0
+Wichita St.,Houston,-8,2021-02-18,-9.0,-8.0,6.0,-7.5
+Oregon St.,Utah,-3,2021-02-18,-3.0,-3.0,-7.0,-2.5
+Pacific,BYU,-6,2021-02-18,-6.0,-7.0,-11.0,-5.0
+San Francisco,Loyola Marymount,4,2021-02-18,5.0,4.0,-7.0,6.0
+Washington St.,California,4,2021-02-18,4.0,3.0,5.0,2.5
+Washington,Stanford,-8,2021-02-18,-8.0,-10.0,-3.0,-9.5
+Eastern Washington,Montana,7,2021-02-18,8.0,8.0,8.0,8.0
+Gonzaga,Saint Mary's,20,2021-02-18,22.0,23.0,32.0,20.0
+Santa Clara,San Diego,6,2021-02-18,5.0,6.0,7.0,6.5
+Southern Utah,Sacramento St.,5,2021-02-18,6.0,9.0,4.0,6.5
+Belmont,Jacksonville St.,11,2021-02-18,12.0,15.0,17.0,12.5
+Elon,William & Mary,2,2021-02-18,1.0,4.0,-2.0,2.0
+Bradley,Illinois St.,7,2021-02-18,8.0,8.0,12.0,1.5
+Fresno St.,San Diego St.,-13,2021-02-18,-13.0,-12.0,-6.0,-14.0
+Tennessee St.,Tennessee Tech,2,2021-02-18,1.0,-1.0,6.0,2.5
+Austin Peay,SIU Edwardsville,9,2021-02-18,10.0,12.0,11.0,12.5
+Weber St.,Northern Arizona,12,2021-02-18,12.0,13.0,13.0,13.5
+Tennessee Martin,Eastern Kentucky,-13,2021-02-18,-11.0,-11.0,-6.0,-11.5
+Murray St.,Eastern Illinois,14,2021-02-18,15.0,17.0,11.0,15.5
+Portland St.,Idaho,13,2021-02-18,13.0,15.0,12.0,12.0

@@ -1,0 +1,41 @@
+home,away_x,predict_kp,date,draft_kings,home_cover,percent_chance,bet,away_y,score
+Mount St. Mary's,LIU,4,2021-02-12,1.5,1.0,0.8087,Mount St. Mary's,LIU,18
+St. Francis PA,St. Francis NY,3,2021-02-12,1.5,0.0,0.7566,St. Francis NY,St. Francis NY,14
+Central Connecticut,Merrimack,-2,2021-02-12,-4.5,0.0,0.7348,Merrimack,Merrimack,-20
+Cincinnati,Temple,7,2021-02-12,6.0,1.0,0.6945,Cincinnati,Temple,2
+Clemson,Georgia Tech,3,2021-02-12,3.5,1.0,0.6925,Clemson,Georgia Tech,2
+Radford,Winthrop,-4,2021-02-12,-6.0,0.0,0.6923,Winthrop,Winthrop,-8
+IUPUI,Illinois Chicago,-1,2021-02-12,-3.0,0.0,0.6831,Illinois Chicago,Illinois Chicago,20
+Hampton,Presbyterian,3,2021-02-12,2.5,0.0,0.6673,Presbyterian,Presbyterian,5
+UTEP,FIU,8,2021-02-12,7.5,1.0,0.6611,UTEP,FIU,16
+Western Kentucky,Rice,10,2021-02-12,10.0,1.0,0.6431,Western Kentucky,Rice,6
+Cal St. Bakersfield,UC San Diego,7,2021-02-12,9.0,1.0,0.6406,Cal St. Bakersfield,UC San Diego,5
+Miami OH,Akron,-4,2021-02-12,-4.5,1.0,0.6237,Miami OH,Akron,-7
+Seattle,New Mexico St.,-6,2021-02-12,-8.0,0.0,0.6144,New Mexico St.,New Mexico St.,11
+Louisiana Tech,UAB,1,2021-02-12,1.0,1.0,0.614,Louisiana Tech,UAB,12
+Murray St.,Southeast Missouri St.,11,2021-02-12,13.0,1.0,0.6108,Murray St.,Southeast Missouri St.,20
+Jacksonville,Lipscomb,-4,2021-02-12,-5.5,1.0,0.6026,Jacksonville,Lipscomb,6
+Arkansas St.,Little Rock,-2,2021-02-12,-3.0,1.0,0.5971,Arkansas St.,Little Rock,11
+Western Illinois,Denver,7,2021-02-12,6.0,0.0,0.59,Denver,Denver,6
+Robert Morris,Oakland,-1,2021-02-12,1.5,0.0,0.5819,Oakland,Oakland,6
+Kennesaw St.,Stetson,-8,2021-02-12,-6.0,1.0,0.5776,Kennesaw St.,Stetson,-13
+VCU,St. Bonaventure,2,2021-02-12,3.0,1.0,0.5767,VCU,St. Bonaventure,3
+Marshall,Middle Tennessee,16,2021-02-12,17.5,0.0,0.5639,Middle Tennessee,Middle Tennessee,28
+North Alabama,Bellarmine,-4,2021-02-12,-5.5,0.0,0.5614,Bellarmine,Bellarmine,-2
+Liberty,North Florida,13,2021-02-12,12.0,1.0,0.5573,Liberty,North Florida,12
+UC Riverside,UC Irvine,1,2021-02-12,-2.0,1.0,0.5487,UC Riverside,UC Irvine,21
+UCF,Tulane,6,2021-02-12,5.0,0.0,0.5485,Tulane,Tulane,4
+Youngstown St.,Purdue Fort Wayne,5,2021-02-12,5.5,1.0,0.5474,Youngstown St.,Purdue Fort Wayne,14
+Wright St.,Milwaukee,19,2021-02-12,17.0,1.0,0.5432,Wright St.,Milwaukee,11
+UMKC,Nebraska Omaha,7,2021-02-12,6.5,0.0,0.5405,Nebraska Omaha,Nebraska Omaha,10
+Hawaii,UC Santa Barbara,-6,2021-02-12,-5.0,0.0,0.5404,UC Santa Barbara,UC Santa Barbara,-9
+Albany,UMass Lowell,3,2021-02-12,3.0,1.0,0.5402,Albany,UMass Lowell,-8
+Green Bay,Northern Kentucky,-1,2021-02-12,-1.5,0.0,0.5372,Northern Kentucky,Northern Kentucky,4
+UTSA,Florida Atlantic,3,2021-02-12,4.0,1.0,0.5358,UTSA,Florida Atlantic,4
+Nebraska,Illinois,-14,2021-02-12,-14.5,1.0,0.525,Nebraska,Illinois,-5
+Southern Miss,North Texas,-9,2021-02-12,-9.0,0.0,0.5216,North Texas,North Texas,-16
+Quinnipiac,Canisius,1,2021-02-12,4.5,1.0,0.5203,Quinnipiac,Canisius,-7
+Cleveland St.,Detroit,3,2021-02-12,2.5,0.0,0.5088,Detroit,Detroit,-6
+Iona,Manhattan,7,2021-02-12,5.0,1.0,0.5033,Iona,Manhattan,18
+UC Davis,Long Beach St.,7,2021-02-12,7.5,1.0,0.5022,UC Davis,Long Beach St.,2
+Utah Valley,Dixie St.,10,2021-02-12,9.5,0.0,0.5005,Dixie St.,Dixie St.,15

@@ -1,0 +1,25 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Missouri,Kentucky,4,2021-02-03,4.5,1.0,0.9028,Missouri
+East Carolina,Houston,-16,2021-02-03,-16.0,0.0,0.8327,Houston
+Rhode Island,VCU,1,2021-02-03,-1.5,1.0,0.7959,Rhode Island
+New Mexico,San Diego St.,-19,2021-02-03,-19.5,0.0,0.7742,San Diego St.
+Massachusetts,Fordham,12,2021-02-03,13.5,0.0,0.6644,Fordham
+Texas A&M Corpus Chris,Stephen F. Austin,-10,2021-02-03,-13.0,0.0,0.643,Stephen F. Austin
+Lamar,Incarnate Word,3,2021-02-03,5.5,0.0,0.6274,Incarnate Word
+Wichita St.,Tulane,11,2021-02-03,11.5,0.0,0.6129,Tulane
+La Salle,Saint Louis,-10,2021-02-03,-11.5,0.0,0.6111,Saint Louis
+Memphis,UCF,9,2021-02-03,11.0,1.0,0.6104,Memphis
+Alabama,LSU,7,2021-02-03,8.5,0.0,0.6103,LSU
+Wofford,VMI,7,2021-02-03,8.0,1.0,0.5988,Wofford
+Tulsa,SMU,-1,2021-02-03,-3.0,1.0,0.5943,Tulsa
+Creighton,Georgetown,14,2021-02-03,14.0,0.0,0.5931,Georgetown
+Bowling Green,Western Michigan,12,2021-02-03,12.5,0.0,0.5724,Western Michigan
+Pittsburgh,Virginia Tech,-5,2021-02-03,-3.5,1.0,0.5689,Pittsburgh
+Mercer,East Tennessee St.,1,2021-02-03,1.5,1.0,0.5423,Mercer
+Western Carolina,Chattanooga,-1,2021-02-03,1.5,0.0,0.5381,Chattanooga
+The Citadel,UNC Greensboro,-10,2021-02-03,-11.0,0.0,0.5374,UNC Greensboro
+James Madison,Elon,6,2021-02-03,8.0,0.0,0.5308,Elon
+Florida,South Carolina,9,2021-02-03,8.0,0.0,0.5181,South Carolina
+TCU,Oklahoma St.,-5,2021-02-03,-4.5,1.0,0.5159,TCU
+N.C. State,Virginia,-6,2021-02-03,-6.5,1.0,0.5019,N.C. State
+St. John's,Villanova,-8,2021-02-03,-9.5,1.0,0.5011,St. John's

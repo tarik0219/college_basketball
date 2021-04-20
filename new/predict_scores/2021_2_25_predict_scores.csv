@@ -1,0 +1,40 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Michigan,Iowa,3,2021-02-25,3.0,3.0,5.0,5.5
+Colorado,USC,1,2021-02-25,2.0,3.0,2.0,3.5
+Michigan St.,Ohio St.,-7,2021-02-25,-7.0,-8.0,-3.0,-4.0
+Stanford,Oregon,1,2021-02-25,0.0,2.0,-0.0,-0.5
+Utah,UCLA,-1,2021-02-25,-2.0,-1.0,1.0,-1.5
+San Diego St.,Boise St.,7,2021-02-25,7.0,7.0,8.0,6.0
+Minnesota,Northwestern,5,2021-02-25,6.0,5.0,7.0,4.5
+Pepperdine,Loyola Marymount,3,2021-02-25,2.0,2.0,0.0,4.5
+Arizona,Washington St.,8,2021-02-25,10.0,13.0,9.0,8.5
+California,Oregon St.,-2,2021-02-25,-1.0,-0.0,-0.0,-1.0
+Saint Mary's,Pacific,6,2021-02-25,5.0,7.0,6.0,6.5
+Eastern Kentucky,Belmont,-7,2021-02-25,-6.0,-7.0,-6.0,-7.5
+Jacksonville St.,Murray St.,1,2021-02-25,1.0,-1.0,3.0,-3.5
+Houston,Western Kentucky,14,2021-02-25,15.0,17.0,7.0,11.5
+BYU,San Francisco,11,2021-02-25,12.0,10.0,6.0,10.0
+Milwaukee,IUPUI,4,2021-02-25,4.0,5.0,2.0,4.5
+Northern Colorado,Portland St.,3,2021-02-25,2.0,2.0,-1.0,1.5
+Arizona St.,Washington,9,2021-02-25,10.0,13.0,17.0,9.5
+Sacramento St.,Weber St.,-6,2021-02-25,-7.0,-8.0,-6.0,-6.0
+Idaho St.,Montana,-3,2021-02-25,-3.0,-1.0,-1.0,-3.0
+Illinois,Nebraska,17,2021-02-25,18.0,19.0,14.0,15.0
+Eastern Illinois,Southeast Missouri St.,2,2021-02-25,1.0,-1.0,3.0,5.5
+St. Francis PA,Mount St. Mary's,-1,2021-02-25,-1.0,-2.0,-6.0,-0.5
+Youngstown St.,Illinois Chicago,4,2021-02-25,6.0,6.0,3.0,6.0
+Green Bay,Purdue Fort Wayne,5,2021-02-25,5.0,5.0,4.0,5.0
+Merrimack,St. Francis NY,4,2021-02-25,2.0,3.0,7.0,4.0
+Tennessee Tech,Austin Peay,-6,2021-02-25,-6.0,-7.0,-6.0,-8.5
+Bryant,LIU,9,2021-02-25,8.0,8.0,10.0,6.5
+Central Connecticut,Wagner,-7,2021-02-25,-8.0,-8.0,-2.0,-8.0
+SIU Edwardsville,Tennessee Martin,7,2021-02-25,6.0,6.0,4.0,5.5
+Detroit,Robert Morris,11,2021-02-25,12.0,11.0,13.0,10.5
+Gonzaga,Santa Clara,31,2021-02-25,30.0,31.0,25.0,30.0
+South Carolina St.,Florida A&M,-10,2021-02-25,-8.0,-7.0,-8.0,-10.0
+Ohio,Eastern Michigan,14,2021-02-25,15.0,17.0,12.0,12.0
+San Diego,Portland,12,2021-02-25,10.0,11.0,6.0,12.0
+Buffalo,Central Michigan,18,2021-02-25,17.0,16.0,13.0,19.5
+Morehead St.,Tennessee St.,14,2021-02-25,14.0,13.0,10.0,11.0
+Texas Southern,Arkansas Pine Bluff,14,2021-02-25,14.0,16.0,18.0,13.5
+Prairie View A&M,Mississippi Valley St.,28,2021-02-25,27.0,31.0,18.0,31.5

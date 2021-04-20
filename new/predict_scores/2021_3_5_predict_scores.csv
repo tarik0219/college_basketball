@@ -1,0 +1,46 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Nevada,Colorado St.,-2,2021-03-05,-1.0,1.0,-1.0,-1.0
+Buffalo,Kent St.,4,2021-03-05,5.0,5.0,0.0,5.5
+VCU,Dayton,6,2021-03-05,5.0,5.0,4.0,3.5
+Loyola Marymount,San Francisco,-1,2021-03-05,3.0,3.0,2.0,-1.0
+Saint Louis,Massachusetts,7,2021-03-05,10.0,9.0,10.0,7.5
+Davidson,George Mason,5,2021-03-05,8.0,6.0,10.0,5.5
+Miami FL,Boston College,1,2021-03-05,1.0,1.0,-0.0,3.5
+North Texas,UAB,7,2021-03-05,7.0,6.0,7.0,5.5
+Pacific,Santa Clara,3,2021-03-05,6.0,4.0,3.0,3.0
+Belmont,Jacksonville St.,5,2021-03-05,8.0,8.0,2.0,7.5
+Morehead St.,Eastern Kentucky,2,2021-03-05,5.0,3.0,1.0,1.0
+Wake Forest,Georgia Tech,-10,2021-03-05,-9.0,-8.0,-9.0,-8.0
+Drake,Northern Iowa,10,2021-03-05,12.0,11.0,10.0,6.5
+Toledo,Ball St.,11,2021-03-05,11.0,12.0,10.0,9.0
+Indiana St.,Evansville,6,2021-03-05,7.0,7.0,-2.0,5.5
+The Citadel,Western Carolina,-1,2021-03-05,2.0,-1.0,5.0,-3.0
+UC Davis,Hawaii,1,2021-03-05,1.0,2.0,-0.0,3.0
+Missouri St.,Valparaiso,8,2021-03-05,10.0,9.0,7.0,7.0
+Western Kentucky,Old Dominion,8,2021-03-05,9.0,10.0,8.0,7.5
+Appalachian St.,Little Rock,-1,2021-03-05,2.0,1.0,2.0,1.5
+Cal Baptist,Seattle,2,2021-03-05,4.0,4.0,3.0,3.5
+UC San Diego,Cal St. Fullerton,4,2021-03-05,3.0,2.0,2.0,3.0
+Arkansas St.,Georgia Southern,1,2021-03-05,5.0,4.0,4.0,1.5
+North Alabama,Florida Gulf Coast,-2,2021-03-05,2.0,1.0,1.0,-2.0
+Mercer,Samford,8,2021-03-05,9.0,7.0,14.0,7.5
+Western Michigan,Eastern Michigan,3,2021-03-05,2.0,2.0,5.0,2.0
+Montana St.,Sacramento St.,4,2021-03-05,4.0,6.0,1.0,4.5
+South Alabama,Louisiana Monroe,5,2021-03-05,7.0,7.0,5.0,5.0
+Siena,Canisius,6,2021-03-05,7.0,7.0,7.0,6.0
+UT Arlington,Troy,4,2021-03-05,6.0,5.0,4.0,7.0
+Grand Canyon,Utah Valley,9,2021-03-05,8.0,8.0,4.0,9.0
+Liberty,Stetson,11,2021-03-05,13.0,12.0,8.0,10.0
+Long Beach St.,UC Irvine,-10,2021-03-05,-9.0,-11.0,-6.0,-8.5
+Cal St. Northridge,UC Riverside,-10,2021-03-05,-9.0,-7.0,-0.0,-9.5
+UT Rio Grande Valley,Tarleton St.,5,2021-03-05,6.0,8.0,7.0,4.0
+Manhattan,Fairfield,5,2021-03-05,5.0,6.0,7.0,5.0
+Loyola Chicago,Southern Illinois,16,2021-03-05,19.0,18.0,7.0,15.5
+Central Michigan,Northern Illinois,8,2021-03-05,8.0,7.0,5.0,5.5
+Florida Atlantic,Middle Tennessee,10,2021-03-05,10.0,12.0,15.0,10.0
+Dixie St.,New Mexico St.,-10,2021-03-05,-10.0,-9.0,-5.0,-11.5
+Eastern Washington,Idaho St.,12,2021-03-05,12.0,12.0,2.0,12.0
+Marshall,Charlotte,14,2021-03-05,14.0,14.0,12.0,12.5
+Mississippi Valley St.,Arkansas Pine Bluff,-9,2021-03-05,-10.0,-11.0,-0.0,-10.0
+Delaware St.,Morgan St.,-11,2021-03-05,-9.0,-10.0,-5.0,-12.0
+UC Santa Barbara,Cal Poly,22,2021-03-05,23.0,23.0,16.0,19.0

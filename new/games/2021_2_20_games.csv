@@ -1,0 +1,99 @@
+home,away,predict_kp
+Texas,West Virginia,2
+Duke,Virginia,-1
+Kansas,Texas Tech,1
+Minnesota,Illinois,-5
+North Carolina,Louisville,1
+Syracuse,Notre Dame,2
+LSU,Auburn,5
+Villanova,Connecticut,6
+Pittsburgh,Florida St.,-7
+South Carolina,Missouri,-2
+USC,Arizona,7
+Georgetown,Seton Hall,-4
+Washington St.,Stanford,-2
+Tennessee,Kentucky,7
+Indiana,Michigan St.,7
+Oregon,Utah,6
+Oregon St.,Colorado,-7
+Loyola Marymount,BYU,-6
+Wake Forest,N.C. State,-1
+Mississippi,Mississippi St.,5
+Miami FL,Georgia Tech,-5
+Nebraska,Purdue,-8
+Florida,Georgia,9
+Mercer,Furman,-2
+UCLA,Arizona St.,8
+Tulane,UCF,-2
+Richmond,Duquesne,7
+Santa Clara,Pepperdine,-2
+North Dakota St.,South Dakota St.,-1
+Montana,Eastern Washington,-3
+St. John's,DePaul,8
+Washington,California,1
+UC Santa Barbara,Cal St. Bakersfield,7
+South Dakota,Oral Roberts,2
+UNC Greensboro,Chattanooga,5
+Iowa St.,Oklahoma,-11
+Iona,Monmouth,-1
+The Citadel,VMI,-3
+Saint Joseph's,La Salle,-1
+Northern Kentucky,Wright St.,-8
+UAB,Old Dominion,7
+Milwaukee,Oakland,1
+Appalachian St.,South Alabama,2
+Western Carolina,Wofford,-5
+American,Navy,-3
+Niagara,Siena,-4
+UC San Diego,UC Riverside,-6
+Youngstown St.,IUPUI,3
+Alabama,Vanderbilt,17
+VCU,George Mason,12
+FIU,Southern Miss,-1
+Illinois Chicago,Green Bay,2
+Cal St. Northridge,Hawaii,-4
+New Mexico St.,Utah Valley,5
+Albany,Stony Brook,3
+Fairleigh Dickinson,Mount St. Mary's,-1
+Purdue Fort Wayne,Cleveland St.,-5
+St. Francis NY,Sacred Heart,2
+William & Mary,Elon,2
+TCU,Kansas St.,8
+Nebraska Omaha,North Dakota,3
+Lehigh,Loyola MD,-4
+Dixie St.,Tarleton St.,-2
+Southeast Missouri St.,Eastern Kentucky,-6
+UMass Lowell,New Hampshire,5
+Quinnipiac,Rider,3
+Fresno St.,San Diego St.,-14
+Texas A&M Corpus Chris,Lamar,2
+Southern Utah,Sacramento St.,7
+Florida A&M,North Carolina A&T,4
+Northern Illinois,Miami OH,-6
+Cal St. Fullerton,UC Irvine,-9
+Bryant,Merrimack,7
+Fairfield,Canisius,-6
+Wagner,St. Francis PA,6
+Stetson,Jacksonville,6
+Tennessee St.,Jacksonville St.,-8
+Saint Peter's,Marist,8
+Detroit,Robert Morris,9
+Grand Canyon,Cal Baptist,11
+Austin Peay,Eastern Illinois,9
+Portland,Pacific,-11
+Georgia St.,Troy,11
+LIU,Central Connecticut,9
+Long Beach St.,Cal Poly,9
+Idaho,Portland St.,-9
+NJIT,Binghamton,10
+Nicholls St.,Central Arkansas,10
+Kent St.,Eastern Michigan,15
+Colgate,Boston University,14
+Gonzaga,San Diego,32
+Murray St.,SIU Edwardsville,13
+UMKC,Denver,11
+Army,Holy Cross,12
+Lipscomb,Kennesaw St.,12
+Tennessee Martin,Morehead St.,-13
+Weber St.,Northern Arizona,14
+Belmont,Tennessee Tech,20

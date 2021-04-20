@@ -1,0 +1,40 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Detroit,Robert Morris,11,2021-02-25,10.5,1.0,0.7717,Detroit
+Michigan St.,Ohio St.,-7,2021-02-25,-4.0,0.0,0.7376,Ohio St.
+St. Francis PA,Mount St. Mary's,-1,2021-02-25,-0.5,0.0,0.7309,Mount St. Mary's
+Pepperdine,Loyola Marymount,3,2021-02-25,4.5,0.0,0.7173,Loyola Marymount
+Stanford,Oregon,1,2021-02-25,-0.5,1.0,0.7126,Stanford
+Arizona St.,Washington,9,2021-02-25,9.5,1.0,0.6901,Arizona St.
+South Carolina St.,Florida A&M,-10,2021-02-25,-10.0,0.0,0.6829,Florida A&M
+Gonzaga,Santa Clara,31,2021-02-25,30.0,1.0,0.6771,Gonzaga
+Prairie View A&M,Mississippi Valley St.,28,2021-02-25,31.5,1.0,0.6559,Prairie View A&M
+San Diego St.,Boise St.,7,2021-02-25,6.0,1.0,0.6435,San Diego St.
+Michigan,Iowa,3,2021-02-25,5.5,0.0,0.6319,Iowa
+Saint Mary's,Pacific,6,2021-02-25,6.5,0.0,0.6305,Pacific
+Eastern Kentucky,Belmont,-7,2021-02-25,-7.5,0.0,0.6189,Belmont
+SIU Edwardsville,Tennessee Martin,7,2021-02-25,5.5,0.0,0.6168,Tennessee Martin
+Milwaukee,IUPUI,4,2021-02-25,4.5,0.0,0.6122,IUPUI
+Northern Colorado,Portland St.,3,2021-02-25,1.5,0.0,0.6115,Portland St.
+BYU,San Francisco,11,2021-02-25,10.0,0.0,0.6092,San Francisco
+Youngstown St.,Illinois Chicago,4,2021-02-25,6.0,1.0,0.5788,Youngstown St.
+Sacramento St.,Weber St.,-6,2021-02-25,-6.0,0.0,0.5721,Weber St.
+Colorado,USC,1,2021-02-25,3.5,1.0,0.5646,Colorado
+Central Connecticut,Wagner,-7,2021-02-25,-8.0,0.0,0.5572,Wagner
+California,Oregon St.,-2,2021-02-25,-1.0,0.0,0.5492,Oregon St.
+Merrimack,St. Francis NY,4,2021-02-25,4.0,0.0,0.5478,St. Francis NY
+Texas Southern,Arkansas Pine Bluff,14,2021-02-25,13.5,0.0,0.5473,Arkansas Pine Bluff
+Bryant,LIU,9,2021-02-25,6.5,0.0,0.5439,LIU
+Tennessee Tech,Austin Peay,-6,2021-02-25,-8.5,1.0,0.5408,Tennessee Tech
+Buffalo,Central Michigan,18,2021-02-25,19.5,1.0,0.5339,Buffalo
+Illinois,Nebraska,17,2021-02-25,15.0,0.0,0.5314,Nebraska
+Idaho St.,Montana,-3,2021-02-25,-3.0,0.0,0.5284,Montana
+Eastern Illinois,Southeast Missouri St.,2,2021-02-25,5.5,0.0,0.5267,Southeast Missouri St.
+Utah,UCLA,-1,2021-02-25,-1.5,1.0,0.5247,Utah
+Jacksonville St.,Murray St.,1,2021-02-25,-3.5,1.0,0.5231,Jacksonville St.
+Arizona,Washington St.,8,2021-02-25,8.5,1.0,0.5178,Arizona
+Minnesota,Northwestern,5,2021-02-25,4.5,1.0,0.5119,Minnesota
+Green Bay,Purdue Fort Wayne,5,2021-02-25,5.0,1.0,0.5103,Green Bay
+Morehead St.,Tennessee St.,14,2021-02-25,11.0,1.0,0.5094,Morehead St.
+Ohio,Eastern Michigan,14,2021-02-25,12.0,0.0,0.5059,Eastern Michigan
+San Diego,Portland,12,2021-02-25,12.0,1.0,0.5057,San Diego
+Houston,Western Kentucky,14,2021-02-25,11.5,0.0,0.5029,Western Kentucky

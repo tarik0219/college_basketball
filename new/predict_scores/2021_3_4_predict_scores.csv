@@ -1,0 +1,37 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Oklahoma,Texas,1,2021-03-04,1.0,1.0,4.0,2.0
+Dayton,Rhode Island,1,2021-03-04,3.0,1.0,3.0,4.0
+Baylor,Oklahoma St.,12,2021-03-04,13.0,15.0,6.0,11.5
+Cincinnati,Vanderbilt,2,2021-03-04,2.0,3.0,2.0,6.5
+East Carolina,UCF,-1,2021-03-04,-1.0,2.0,-2.0,-2.5
+Michigan,Michigan St.,15,2021-03-04,15.0,15.0,8.0,12.0
+Jacksonville St.,Murray St.,-1,2021-03-04,3.0,0.0,3.0,-2.5
+Colorado,Arizona St.,12,2021-03-04,12.0,14.0,9.0,10.0
+Massachusetts,Saint Joseph's,5,2021-03-04,7.0,8.0,6.0,4.0
+Northern Iowa,Illinois St.,3,2021-03-04,5.0,4.0,0.0,6.5
+Eastern Kentucky,Austin Peay,4,2021-03-04,5.0,3.0,2.0,2.0
+Portland St.,Southern Utah,-2,2021-03-04,-2.0,0.0,1.0,-2.5
+Bradley,Southern Illinois,5,2021-03-04,7.0,7.0,1.0,-2.0
+Iowa,Nebraska,17,2021-03-04,18.0,19.0,8.0,16.5
+San Francisco,San Diego,8,2021-03-04,9.0,10.0,7.0,8.0
+West Virginia,TCU,14,2021-03-04,15.0,15.0,12.0,13.0
+Bellarmine,Stetson,4,2021-03-04,7.0,8.0,6.0,5.5
+Radford,Campbell,2,2021-03-04,3.0,4.0,0.0,1.0
+Lipscomb,Florida Gulf Coast,3,2021-03-04,6.0,5.0,4.0,5.0
+North Florida,North Alabama,2,2021-03-04,3.0,1.0,4.0,3.0
+Siena,Canisius,6,2021-03-04,7.0,7.0,6.0,6.0
+Kansas,UTEP,15,2021-03-04,15.0,17.0,11.0,17.5
+Prairie View A&M,Southern,6,2021-03-04,5.0,6.0,4.0,6.5
+Florida Atlantic,Middle Tennessee,8,2021-03-04,8.0,10.0,7.0,8.5
+Manhattan,Fairfield,5,2021-03-04,4.0,6.0,4.0,4.5
+McNeese St.,Nicholls St.,-7,2021-03-04,-6.0,-6.0,-3.0,-5.0
+Utah St.,Wyoming,15,2021-03-04,15.0,17.0,14.0,16.0
+Texas Tech,Iowa St.,17,2021-03-04,18.0,21.0,16.0,17.0
+Weber St.,Northern Colorado,11,2021-03-04,11.0,12.0,10.0,9.5
+Winthrop,Longwood,12,2021-03-04,12.0,12.0,11.0,12.5
+Jackson St.,Alabama A&M,9,2021-03-04,8.0,7.0,9.0,8.0
+Grambling St.,Alabama St.,9,2021-03-04,8.0,7.0,7.0,8.0
+Texas Southern,Alcorn St.,10,2021-03-04,10.0,14.0,11.0,12.0
+Delaware St.,Morgan St.,-11,2021-03-04,-9.0,-10.0,-5.0,-11.0
+Santa Clara,Portland,13,2021-03-04,13.0,16.0,11.0,13.5
+Liberty,Kennesaw St.,18,2021-03-04,21.0,22.0,16.0,16.5

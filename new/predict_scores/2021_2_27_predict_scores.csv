@@ -1,0 +1,95 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Wisconsin,Illinois,-1,2021-02-27,-1.0,-1.0,-5.0,4.5
+North Carolina,Florida St.,-2,2021-02-27,-1.0,-0.0,0.0,-2.0
+Texas Tech,Texas,2,2021-02-27,3.0,4.0,4.0,3.5
+Kansas,Baylor,-6,2021-02-27,-5.0,-6.0,-6.0,-4.0
+Arkansas,LSU,4,2021-02-27,5.0,4.0,11.0,6.0
+Kentucky,Florida,-1,2021-02-27,0.0,-0.0,1.0,2.0
+Xavier,Creighton,-4,2021-02-27,-3.0,-4.0,-4.0,-5.0
+Auburn,Tennessee,-4,2021-02-27,-2.0,-2.0,-2.0,-7.5
+Oklahoma,Oklahoma St.,3,2021-02-27,4.0,5.0,5.0,5.0
+Duke,Louisville,4,2021-02-27,6.0,7.0,7.0,5.0
+Colorado,UCLA,5,2021-02-27,6.0,7.0,10.0,6.5
+Mississippi St.,Alabama,-6,2021-02-27,-4.0,-3.0,-2.0,-6.0
+Davidson,VCU,-1,2021-02-27,2.0,3.0,5.0,3.0
+Georgia Tech,Syracuse,5,2021-02-27,6.0,5.0,8.0,4.5
+Marshall,North Texas,1,2021-02-27,2.0,2.0,0.0,2.5
+Utah,USC,-7,2021-02-27,-6.0,-5.0,-1.0,-4.5
+San Diego St.,Boise St.,6,2021-02-27,7.0,8.0,8.0,6.0
+Ohio,Buffalo,1,2021-02-27,2.0,4.0,3.0,1.5
+Vanderbilt,Mississippi,-3,2021-02-27,-2.0,-2.0,-1.0,-8.0
+Nebraska,Minnesota,-4,2021-02-27,-4.0,-7.0,-0.0,-2.5
+Connecticut,Marquette,7,2021-02-27,7.0,8.0,4.0,6.5
+Boston College,Notre Dame,-4,2021-02-27,-5.0,-5.0,-7.0,-7.5
+Georgia,South Carolina,5,2021-02-27,6.0,5.0,5.0,5.5
+Arizona St.,Washington St.,3,2021-02-27,3.0,4.0,5.0,3.5
+Wofford,Furman,-1,2021-02-27,-1.0,-2.0,-3.0,-1.5
+Duquesne,Rhode Island,-1,2021-02-27,-1.0,-2.0,0.0,1.0
+BYU,Saint Mary's,8,2021-02-27,9.0,8.0,9.0,7.5
+DePaul,Georgetown,-1,2021-02-27,-0.0,-2.0,-3.0,-2.5
+Pacific,San Francisco,1,2021-02-27,-0.0,-2.0,-6.0,-1.5
+Morehead St.,Belmont,-3,2021-02-27,-3.0,-5.0,-2.0,-5.0
+Miami OH,Kent St.,-2,2021-02-27,-1.0,0.0,-3.0,-2.0
+East Tennessee St.,UNC Greensboro,1,2021-02-27,2.0,0.0,4.0,1.0
+Bradley,Drake,-7,2021-02-27,-7.0,-5.0,-6.0,-8.5
+Stanford,Oregon St.,7,2021-02-27,7.0,9.0,4.0,7.0
+Iowa St.,TCU,-1,2021-02-27,-1.0,-3.0,-6.0,1.0
+Bellarmine,Liberty,-3,2021-02-27,-3.0,-1.0,0.0,-3.5
+UCF,Temple,5,2021-02-27,5.0,5.0,4.0,5.5
+UTSA,UAB,-4,2021-02-27,-3.0,-3.0,-1.0,-3.5
+California,Oregon,-8,2021-02-27,-8.0,-8.0,-4.0,-9.0
+San Diego,Pepperdine,-4,2021-02-27,-4.0,-5.0,-9.0,-4.5
+South Dakota,North Dakota St.,2,2021-02-27,1.0,1.0,4.0,1.5
+Illinois St.,Northern Iowa,1,2021-02-27,-1.0,-3.0,-5.0,-4.5
+George Mason,La Salle,5,2021-02-27,5.0,5.0,4.0,7.0
+Loyola MD,Navy,-3,2021-02-27,-3.0,-2.0,-2.0,0.5
+Little Rock,Louisiana,-1,2021-02-27,-0.0,1.0,-1.0,1.0
+Virginia Tech,Wake Forest,10,2021-02-27,11.0,11.0,10.0,10.5
+Southern Miss,Florida Atlantic,-1,2021-02-27,-2.0,-5.0,-3.0,-1.5
+Jacksonville St.,Austin Peay,5,2021-02-27,6.0,5.0,8.0,3.5
+Western Carolina,Mercer,-7,2021-02-27,-6.0,-7.0,-10.0,-5.0
+UT Arlington,Arkansas St.,2,2021-02-27,1.0,2.0,2.0,4.0
+Georgia Southern,Appalachian St.,-1,2021-02-27,-1.0,-2.0,-1.0,2.5
+UNC Wilmington,Elon,4,2021-02-27,4.0,4.0,4.0,2.0
+Northern Colorado,Portland St.,2,2021-02-27,2.0,2.0,-0.0,1.5
+UTEP,Charlotte,6,2021-02-27,5.0,5.0,5.0,5.0
+New Orleans,Nicholls St.,-4,2021-02-27,-4.0,-4.0,-5.0,-4.0
+McNeese St.,Houston Baptist,1,2021-02-27,1.0,2.0,2.0,4.0
+Sacramento St.,Weber St.,-7,2021-02-27,-7.0,-9.0,-10.0,-6.5
+Bucknell,American,4,2021-02-27,3.0,6.0,5.0,3.5
+North Alabama,Lipscomb,-3,2021-02-27,-4.0,-2.0,0.0,-5.0
+SIU Edwardsville,Southeast Missouri St.,-1,2021-02-27,-1.0,-3.0,-1.0,-2.5
+Idaho St.,Montana,-3,2021-02-27,-3.0,-1.0,-3.0,-2.5
+Stetson,North Florida,4,2021-02-27,4.0,4.0,-1.0,5.5
+Clemson,Miami FL,13,2021-02-27,12.0,13.0,9.0,13.0
+Gonzaga,Loyola Marymount,24,2021-02-27,23.0,25.0,16.0,24.5
+Northwestern St.,Southeastern Louisiana,3,2021-02-27,2.0,0.0,4.0,3.5
+Hampton,Presbyterian,2,2021-02-27,2.0,1.0,0.0,2.5
+Louisiana Tech,Rice,12,2021-02-27,10.0,9.0,24.0,12.0
+North Carolina A&T,North Carolina Central,4,2021-02-27,5.0,6.0,7.0,3.5
+Troy,Coastal Carolina,-7,2021-02-27,-7.0,-7.0,-9.0,-6.0
+Hawaii,Long Beach St.,7,2021-02-27,7.0,7.0,5.0,6.5
+Eastern Michigan,Northern Illinois,4,2021-02-27,4.0,0.0,-4.0,3.5
+High Point,USC Upstate,5,2021-02-27,5.0,6.0,2.0,5.0
+Army,Boston University,7,2021-02-27,6.0,3.0,5.0,4.0
+Delaware St.,Coppin St.,-7,2021-02-27,-5.0,-5.0,-5.0,-7.0
+Arizona,Washington,15,2021-02-27,16.0,21.0,17.0,14.0
+Tennessee Tech,Murray St.,-8,2021-02-27,-9.0,-10.0,-10.0,-10.5
+Lafayette,Lehigh,8,2021-02-27,8.0,8.0,6.0,8.5
+Southern,Alcorn St.,7,2021-02-27,6.0,9.0,9.0,8.0
+Lamar,Stephen F. Austin,-10,2021-02-27,-10.0,-10.0,-12.0,-10.0
+West Virginia,Kansas St.,18,2021-02-27,19.0,19.0,13.0,15.0
+Hartford,Binghamton,8,2021-02-27,7.0,4.0,4.0,6.5
+Alabama A&M,Prairie View A&M,-7,2021-02-27,-7.0,-6.0,-3.0,-9.5
+Oral Roberts,Western Illinois,11,2021-02-27,9.0,12.0,12.0,9.5
+Ball St.,Central Michigan,11,2021-02-27,10.0,8.0,8.0,11.5
+Texas St.,Louisiana Monroe,9,2021-02-27,11.0,12.0,9.0,10.0
+Eastern Illinois,Tennessee Martin,9,2021-02-27,8.0,7.0,6.0,12.5
+South Carolina St.,Florida A&M,-10,2021-02-27,-8.0,-7.0,-9.0,-9.0
+Alabama St.,Texas Southern,-11,2021-02-27,-10.0,-9.0,1.0,-11.0
+Loyola Chicago,Southern Illinois,20,2021-02-27,21.0,22.0,13.0,19.0
+Eastern Kentucky,Tennessee St.,13,2021-02-27,13.0,13.0,8.0,13.5
+Toledo,Western Michigan,18,2021-02-27,19.0,20.0,14.0,16.0
+Central Arkansas,Abilene Christian,-17,2021-02-27,-15.0,-15.0,-8.0,-17.0
+Colorado St.,Air Force,20,2021-02-27,20.0,21.0,16.0,18.0
+Mississippi Valley St.,Jackson St.,-21,2021-02-27,-21.0,-21.0,-12.0,-22.0

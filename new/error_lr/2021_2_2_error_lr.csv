@@ -1,0 +1,26 @@
+home,away_x,predict_kp,date,draft_kings,home_cover,percent_chance,bet,away_y,score
+Kansas,Kansas St.,18,2021-02-02,18.0,1.0,0.7533,Kansas,Kansas St.,23.0
+San Diego,BYU,-10,2021-02-02,-11.0,0.0,0.7407,BYU,,
+Texas,Baylor,-5,2021-02-02,-5.5,0.0,0.7324,Baylor,Baylor,-14.0
+Indiana,Illinois,-2,2021-02-02,-2.5,1.0,0.7293,Indiana,Illinois,-4.0
+Stanford,USC,-1,2021-02-02,-2.0,1.0,0.7035,Stanford,USC,-6.0
+Iowa,Michigan St.,11,2021-02-02,9.5,0.0,0.6825,Michigan St.,Michigan St.,6.0
+North Carolina Central,South Carolina St.,15,2021-02-02,17.0,0.0,0.6659,South Carolina St.,South Carolina St.,1.0
+Coppin St.,Morgan St.,-2,2021-02-02,-2.0,0.0,0.6436,Morgan St.,Morgan St.,-13.0
+Clemson,North Carolina,-1,2021-02-02,-2.5,1.0,0.6315,Clemson,North Carolina,13.0
+Iowa St.,West Virginia,-10,2021-02-02,-11.5,1.0,0.6257,Iowa St.,West Virginia,-4.0
+Auburn,Georgia,8,2021-02-02,8.5,0.0,0.6151,Georgia,Georgia,-5.0
+Maryland,Purdue,-1,2021-02-02,2.5,1.0,0.6132,Maryland,Purdue,1.0
+Toledo,Akron,7,2021-02-02,5.5,0.0,0.609,Akron,Akron,15.0
+Kent St.,Miami OH,7,2021-02-02,8.5,0.0,0.5985,Miami OH,Miami OH,9.0
+Central Michigan,Ohio,-7,2021-02-02,-9.0,1.0,0.5737,Central Michigan,Ohio,-14.0
+Ball St.,Buffalo,-2,2021-02-02,-4.5,1.0,0.5706,Ball St.,Buffalo,-20.0
+Marquette,Butler,5,2021-02-02,3.5,1.0,0.5583,Marquette,Butler,3.0
+Arkansas,Mississippi St.,6,2021-02-02,7.5,0.0,0.5573,Mississippi St.,Mississippi St.,16.0
+Mississippi,Tennessee,-5,2021-02-02,-3.5,0.0,0.5536,Tennessee,Tennessee,2.0
+Duquesne,Dayton,-1,2021-02-02,-1.5,0.0,0.5496,Dayton,Dayton,5.0
+Wisconsin,Penn St.,6,2021-02-02,8.5,1.0,0.5422,Wisconsin,Penn St.,16.0
+Nevada,UNLV,5,2021-02-02,4.5,1.0,0.523,Nevada,UNLV,10.0
+Jacksonville St.,Eastern Kentucky,-1,2021-02-02,2.0,1.0,0.5167,Jacksonville St.,Eastern Kentucky,-4.0
+SIU Edwardsville,Eastern Illinois,3,2021-02-02,3.0,0.0,0.5097,Eastern Illinois,Eastern Illinois,-9.0
+Notre Dame,Wake Forest,7,2021-02-02,5.5,1.0,0.5064,Notre Dame,Wake Forest,21.0

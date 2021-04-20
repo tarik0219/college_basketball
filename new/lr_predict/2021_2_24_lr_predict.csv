@@ -1,0 +1,36 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Creighton,DePaul,14,2021-02-24,15.0,0.0,0.7164,DePaul
+Arkansas,Alabama,-1,2021-02-24,2.0,1.0,0.7115,Arkansas
+Furman,The Citadel,15,2021-02-24,17.0,1.0,0.6995,Furman
+Southern,Alabama A&M,7,2021-02-24,7.5,0.0,0.6804,Alabama A&M
+Incarnate Word,Lamar,4,2021-02-24,1.5,1.0,0.6637,Incarnate Word
+Mercer,Chattanooga,4,2021-02-24,3.5,0.0,0.6505,Chattanooga
+Miami FL,Florida St.,-12,2021-02-24,-11.5,1.0,0.6473,Miami FL
+Nicholls St.,Houston Baptist,11,2021-02-24,11.5,0.0,0.6444,Houston Baptist
+North Carolina,Marquette,8,2021-02-24,9.5,0.0,0.6436,Marquette
+UNC Greensboro,Western Carolina,13,2021-02-24,14.0,1.0,0.6352,UNC Greensboro
+Southeastern Louisiana,McNeese St.,5,2021-02-24,3.5,0.0,0.6298,McNeese St.
+Mississippi St.,South Carolina,5,2021-02-24,5.5,0.0,0.6219,South Carolina
+Saint Joseph's,Dayton,-9,2021-02-24,-8.0,0.0,0.6158,Dayton
+Southern Utah,Northern Arizona,12,2021-02-24,12.5,1.0,0.6123,Southern Utah
+Vanderbilt,Tennessee,-7,2021-02-24,-8.0,0.0,0.6067,Tennessee
+Providence,Xavier,-1,2021-02-24,-1.5,1.0,0.6046,Providence
+South Florida,Temple,4,2021-02-24,4.5,1.0,0.5966,South Florida
+Texas A&M Corpus Chris,New Orleans,-2,2021-02-24,-1.5,1.0,0.5844,Texas A&M Corpus Chris
+Air Force,New Mexico,-1,2021-02-24,-1.5,0.0,0.5782,New Mexico
+UNLV,Fresno St.,6,2021-02-24,7.0,0.0,0.5624,Fresno St.
+Virginia,N.C. State,11,2021-02-24,11.0,1.0,0.5601,Virginia
+La Salle,Duquesne,-4,2021-02-24,-4.0,1.0,0.5515,La Salle
+North Carolina Central,North Carolina A&T,2,2021-02-24,4.0,1.0,0.5496,North Carolina Central
+Davidson,St. Bonaventure,-1,2021-02-24,2.5,1.0,0.5493,Davidson
+Loyola MD,American,4,2021-02-24,9.5,0.0,0.5475,American
+Norfolk St.,Delaware St.,13,2021-02-24,14.0,1.0,0.5391,Norfolk St.
+Boston University,Holy Cross,6,2021-02-24,8.5,1.0,0.535,Boston University
+Alcorn St.,Alabama St.,7,2021-02-24,5.5,1.0,0.531,Alcorn St.
+Abilene Christian,Sam Houston St.,8,2021-02-24,8.5,1.0,0.5295,Abilene Christian
+Memphis,Tulane,12,2021-02-24,10.0,0.0,0.5249,Tulane
+Northwestern St.,Stephen F. Austin,-7,2021-02-24,-10.5,0.0,0.5225,Stephen F. Austin
+Longwood,Hampton,8,2021-02-24,7.0,1.0,0.5189,Longwood
+Wake Forest,Clemson,-6,2021-02-24,-2.5,1.0,0.5152,Wake Forest
+George Mason,George Washington,7,2021-02-24,7.5,1.0,0.5044,George Mason
+Tulsa,Cincinnati,2,2021-02-24,2.0,0.0,0.5036,Cincinnati

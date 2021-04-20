@@ -1,0 +1,19 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Texas Tech,Oklahoma,3,2021-02-01,6.0,13.0,7.0,6.5
+Louisville,Georgia Tech,3,2021-02-01,4.0,8.0,8.0,4.0
+Miami FL,Duke,-8,2021-02-01,-8.0,-12.0,-6.0,-11.0
+Memphis,UCF,7,2021-02-01,9.0,6.0,2.0,8.5
+Missouri St.,Loyola Chicago,-10,2021-02-01,-12.0,-12.0,-22.0,-7.5
+Indiana St.,Bradley,1,2021-02-01,1.0,-6.0,2.0,-1.0
+Wofford,East Tennessee St.,3,2021-02-01,3.0,4.0,-1.0,1.5
+SIU Edwardsville,Austin Peay,-2,2021-02-01,-2.0,-3.0,7.0,-6.0
+Evansville,Valparaiso,1,2021-02-01,1.0,2.0,10.0,2.5
+Southeast Missouri St.,Murray St.,-5,2021-02-01,-5.0,-8.0,-5.0,-8.0
+Western Carolina,The Citadel,5,2021-02-01,6.0,7.0,1.0,6.5
+Eastern Washington,Sacramento St.,8,2021-02-01,9.0,9.0,3.0,9.5
+Texas Southern,Alabama A&M,9,2021-02-01,9.0,11.0,6.0,7.5
+Drake,Illinois St.,16,2021-02-01,19.0,16.0,9.0,17.5
+Jackson St.,Arkansas Pine Bluff,12,2021-02-01,13.0,16.0,25.0,11.5
+Prairie View A&M,Alabama St.,13,2021-02-01,15.0,13.0,13.0,16.0
+North Carolina Central,South Carolina St.,15,2021-02-01,16.0,15.0,7.0,16.5
+Grambling St.,Mississippi Valley St.,21,2021-02-01,23.0,25.0,16.0,24.5

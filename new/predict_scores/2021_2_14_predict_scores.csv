@@ -1,0 +1,25 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Wisconsin,Michigan,-1,2021-02-14,-1.0,-2.0,2.0,1.0
+Maryland,Minnesota,1,2021-02-14,1.0,2.0,9.0,2.5
+Drake,Loyola Chicago,-6,2021-02-14,-4.0,-4.0,-12.0,-5.5
+Georgia Tech,Pittsburgh,5,2021-02-14,5.0,4.0,12.0,5.0
+Cincinnati,UCF,3,2021-02-14,4.0,5.0,7.0,5.5
+Arizona St.,Oregon St.,6,2021-02-14,5.0,7.0,4.0,5.0
+Oral Roberts,South Dakota St.,-1,2021-02-14,-1.0,-2.0,9.0,-3.0
+Missouri St.,Bradley,4,2021-02-14,4.0,3.0,6.0,10.0
+Army,Colgate,-4,2021-02-14,-4.0,-5.0,-5.0,-6.0
+Notre Dame,Miami FL,9,2021-02-14,9.0,8.0,14.0,7.0
+James Madison,Hofstra,1,2021-02-14,2.0,2.0,5.0,2.0
+South Florida,Tulane,5,2021-02-14,7.0,5.0,-0.0,4.5
+Evansville,Indiana St.,-4,2021-02-14,-3.0,-1.0,5.0,-3.5
+Penn St.,Nebraska,12,2021-02-14,13.0,12.0,10.0,11.5
+Southern Illinois,Illinois St.,1,2021-02-14,1.0,0.0,-9.0,4.0
+Northern Iowa,Valparaiso,4,2021-02-14,4.0,4.0,-3.0,5.5
+Loyola MD,Lafayette,2,2021-02-14,1.0,3.0,-2.0,2.5
+Cal Baptist,Sacramento St.,2,2021-02-14,2.0,3.0,5.0,3.5
+Morgan St.,Norfolk St.,2,2021-02-14,3.0,4.0,2.0,3.0
+Towson,Northeastern,-6,2021-02-14,-5.0,-5.0,-3.0,-3.0
+North Dakota,South Dakota,-6,2021-02-14,-7.0,-7.0,-0.0,-5.5
+Charleston,Elon,6,2021-02-14,7.0,6.0,17.0,7.5
+Boston University,Holy Cross,6,2021-02-14,7.0,6.0,4.0,7.5
+Vermont,Stony Brook,12,2021-02-14,14.0,14.0,14.0,11.5

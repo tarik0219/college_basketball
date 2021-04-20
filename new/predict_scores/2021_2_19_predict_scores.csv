@@ -1,0 +1,34 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Boise St.,Utah St.,2,2021-02-19,3.0,2.0,8.0,1.0
+Buffalo,Toledo,-1,2021-02-19,0.0,-1.0,2.0,2.0
+Dayton,Saint Louis,-3,2021-02-19,-3.0,-5.0,-2.0,-5.5
+Ball St.,Akron,-3,2021-02-19,-4.0,-5.0,-3.0,-4.0
+North Dakota St.,South Dakota St.,-1,2021-02-19,-1.0,-2.0,-4.0,-1.0
+UMBC,Vermont,-2,2021-02-19,-3.0,-2.0,-7.0,-3.5
+UC Santa Barbara,Cal St. Bakersfield,7,2021-02-19,8.0,12.0,6.0,7.0
+UAB,Old Dominion,7,2021-02-19,8.0,11.0,10.0,6.5
+Milwaukee,Oakland,2,2021-02-19,1.0,3.0,3.0,2.0
+Appalachian St.,South Alabama,3,2021-02-19,2.0,5.0,3.0,1.0
+UC San Diego,UC Riverside,-6,2021-02-19,-7.0,-7.0,-10.0,-9.0
+Northern Kentucky,Wright St.,-11,2021-02-19,-10.0,-9.0,-3.0,-9.5
+Illinois Chicago,Green Bay,2,2021-02-19,-0.0,-3.0,6.0,-0.5
+FIU,Southern Miss,1,2021-02-19,1.0,-1.0,-5.0,3.0
+Cal St. Northridge,Hawaii,-4,2021-02-19,-4.0,-2.0,-4.0,-3.5
+Nebraska Omaha,North Dakota,2,2021-02-19,0.0,-1.0,-1.0,2.0
+Dixie St.,Tarleton St.,1,2021-02-19,-1.0,1.0,0.0,0.0
+New Mexico,Wyoming,-5,2021-02-19,-4.0,-5.0,-6.0,-6.5
+Hampton,Campbell,-3,2021-02-19,-4.0,-3.0,-10.0,-3.5
+Purdue Fort Wayne,Cleveland St.,-6,2021-02-19,-5.0,-6.0,-6.0,-4.0
+New Mexico St.,Utah Valley,7,2021-02-19,9.0,5.0,6.0,9.0
+Cal St. Fullerton,UC Irvine,-9,2021-02-19,-9.0,-11.0,-6.0,-9.5
+High Point,Winthrop,-9,2021-02-19,-8.0,-8.0,-7.0,-9.0
+Fairfield,Canisius,-6,2021-02-19,-6.0,-5.0,1.0,-4.5
+Charleston Southern,Longwood,-5,2021-02-19,-6.0,-6.0,-5.0,-4.0
+Stetson,Jacksonville,6,2021-02-19,6.0,5.0,2.0,6.0
+San Jose St.,UNLV,-9,2021-02-19,-10.0,-13.0,-2.0,-14.5
+Detroit,Robert Morris,9,2021-02-19,10.0,10.0,15.0,9.5
+Grand Canyon,Cal Baptist,10,2021-02-19,11.0,12.0,12.0,10.0
+Georgia St.,Troy,11,2021-02-19,11.0,11.0,8.0,9.5
+Long Beach St.,Cal Poly,10,2021-02-19,9.0,7.0,3.0,7.5
+UMKC,Denver,11,2021-02-19,11.0,11.0,13.0,10.0
+Lipscomb,Kennesaw St.,13,2021-02-19,13.0,15.0,11.0,12.5

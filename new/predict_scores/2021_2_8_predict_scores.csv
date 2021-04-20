@@ -1,0 +1,26 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Maryland,Ohio St.,-3,2021-02-08,-4.0,-3.0,-5.0,-3.5
+Kansas,Oklahoma St.,4,2021-02-08,4.0,5.0,10.0,5.0
+BYU,Gonzaga,-10,2021-02-08,-9.0,-12.0,-8.0,-11.5
+East Carolina,SMU,-5,2021-02-08,-5.0,-5.0,-4.0,-6.0
+Furman,UNC Greensboro,3,2021-02-08,3.0,5.0,4.0,4.0
+Minnesota,Nebraska,11,2021-02-08,11.0,10.0,-0.0,11.0
+North Carolina,Miami FL,11,2021-02-08,12.0,12.0,8.0,10.0
+Colorado,Oregon St.,13,2021-02-08,14.0,18.0,8.0,12.5
+Stony Brook,UMBC,-2,2021-02-08,-1.0,-2.0,-3.0,-3.0
+Lafayette,Loyola MD,4,2021-02-08,3.0,1.0,4.0,2.5
+Hampton,High Point,-1,2021-02-08,-2.0,-3.0,5.0,-2.0
+Florida A&M,North Carolina Central,1,2021-02-08,2.0,3.0,7.0,1.5
+Southern,Jackson St.,3,2021-02-08,3.0,5.0,0.0,4.0
+LIU,St. Francis NY,5,2021-02-08,5.0,6.0,2.0,5.0
+Alcorn St.,Grambling St.,-1,2021-02-08,-1.0,-2.0,-3.0,-1.5
+SIU Edwardsville,Eastern Kentucky,-6,2021-02-08,-5.0,-5.0,-8.0,-9.5
+Fairfield,Quinnipiac,-3,2021-02-08,-4.0,-5.0,-9.0,-3.5
+Mercer,Samford,8,2021-02-08,8.0,6.0,-1.0,9.5
+Norfolk St.,Coppin St.,8,2021-02-08,8.0,10.0,5.0,7.5
+Tennessee Martin,Austin Peay,-10,2021-02-08,-10.0,-12.0,-6.0,-12.5
+Alabama A&M,Arkansas Pine Bluff,8,2021-02-08,8.0,10.0,13.0,10.0
+UNLV,Air Force,12,2021-02-08,14.0,16.0,11.0,14.0
+Texas A&M Corpus Chris,Abilene Christian,-15,2021-02-08,-15.0,-15.0,-4.0,-15.5
+Alabama St.,Mississippi Valley St.,15,2021-02-08,16.0,18.0,12.0,19.0
+San Diego St.,San Jose St.,25,2021-02-08,28.0,32.0,19.0,26.5

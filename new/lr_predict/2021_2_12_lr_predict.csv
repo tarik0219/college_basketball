@@ -1,0 +1,41 @@
+home,away,predict_kp,date,draft_kings,home_cover,percent_chance,bet
+Mount St. Mary's,LIU,4,2021-02-12,1.5,1.0,0.8087,Mount St. Mary's
+St. Francis PA,St. Francis NY,3,2021-02-12,1.5,0.0,0.7566,St. Francis NY
+Central Connecticut,Merrimack,-2,2021-02-12,-4.5,0.0,0.7348,Merrimack
+Cincinnati,Temple,7,2021-02-12,6.0,1.0,0.6945,Cincinnati
+Clemson,Georgia Tech,3,2021-02-12,3.5,1.0,0.6925,Clemson
+Radford,Winthrop,-4,2021-02-12,-6.0,0.0,0.6923,Winthrop
+IUPUI,Illinois Chicago,-1,2021-02-12,-3.0,0.0,0.6831,Illinois Chicago
+Hampton,Presbyterian,3,2021-02-12,2.5,0.0,0.6673,Presbyterian
+UTEP,FIU,8,2021-02-12,7.5,1.0,0.6611,UTEP
+Western Kentucky,Rice,10,2021-02-12,10.0,1.0,0.6431,Western Kentucky
+Cal St. Bakersfield,UC San Diego,7,2021-02-12,9.0,1.0,0.6406,Cal St. Bakersfield
+Miami OH,Akron,-4,2021-02-12,-4.5,1.0,0.6237,Miami OH
+Seattle,New Mexico St.,-6,2021-02-12,-8.0,0.0,0.6144,New Mexico St.
+Louisiana Tech,UAB,1,2021-02-12,1.0,1.0,0.614,Louisiana Tech
+Murray St.,Southeast Missouri St.,11,2021-02-12,13.0,1.0,0.6108,Murray St.
+Jacksonville,Lipscomb,-4,2021-02-12,-5.5,1.0,0.6026,Jacksonville
+Arkansas St.,Little Rock,-2,2021-02-12,-3.0,1.0,0.5971,Arkansas St.
+Western Illinois,Denver,7,2021-02-12,6.0,0.0,0.59,Denver
+Robert Morris,Oakland,-1,2021-02-12,1.5,0.0,0.5819,Oakland
+Kennesaw St.,Stetson,-8,2021-02-12,-6.0,1.0,0.5776,Kennesaw St.
+VCU,St. Bonaventure,2,2021-02-12,3.0,1.0,0.5767,VCU
+Marshall,Middle Tennessee,16,2021-02-12,17.5,0.0,0.5639,Middle Tennessee
+North Alabama,Bellarmine,-4,2021-02-12,-5.5,0.0,0.5614,Bellarmine
+Liberty,North Florida,13,2021-02-12,12.0,1.0,0.5573,Liberty
+UC Riverside,UC Irvine,1,2021-02-12,-2.0,1.0,0.5487,UC Riverside
+UCF,Tulane,6,2021-02-12,5.0,0.0,0.5485,Tulane
+Youngstown St.,Purdue Fort Wayne,5,2021-02-12,5.5,1.0,0.5474,Youngstown St.
+Wright St.,Milwaukee,19,2021-02-12,17.0,1.0,0.5432,Wright St.
+UMKC,Nebraska Omaha,7,2021-02-12,6.5,0.0,0.5405,Nebraska Omaha
+Hawaii,UC Santa Barbara,-6,2021-02-12,-5.0,0.0,0.5404,UC Santa Barbara
+Albany,UMass Lowell,3,2021-02-12,3.0,1.0,0.5402,Albany
+Green Bay,Northern Kentucky,-1,2021-02-12,-1.5,0.0,0.5372,Northern Kentucky
+UTSA,Florida Atlantic,3,2021-02-12,4.0,1.0,0.5358,UTSA
+Nebraska,Illinois,-14,2021-02-12,-14.5,1.0,0.525,Nebraska
+Southern Miss,North Texas,-9,2021-02-12,-9.0,0.0,0.5216,North Texas
+Quinnipiac,Canisius,1,2021-02-12,4.5,1.0,0.5203,Quinnipiac
+Cleveland St.,Detroit,3,2021-02-12,2.5,0.0,0.5088,Detroit
+Iona,Manhattan,7,2021-02-12,5.0,1.0,0.5033,Iona
+UC Davis,Long Beach St.,7,2021-02-12,7.5,1.0,0.5022,UC Davis
+Utah Valley,Dixie St.,10,2021-02-12,9.5,0.0,0.5005,Dixie St.

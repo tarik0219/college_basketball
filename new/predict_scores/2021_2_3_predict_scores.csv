@@ -1,0 +1,25 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Alabama,LSU,7,2021-02-03,9.0,7.0,13.0,8.5
+Missouri,Kentucky,4,2021-02-03,4.0,-0.0,11.0,4.5
+N.C. State,Virginia,-6,2021-02-03,-6.0,-7.0,3.0,-6.5
+Rhode Island,VCU,1,2021-02-03,1.0,1.0,10.0,-1.5
+Pittsburgh,Virginia Tech,-5,2021-02-03,-4.0,-6.0,0.0,-3.5
+Tulsa,SMU,-1,2021-02-03,-1.0,-1.0,-4.0,-3.0
+St. John's,Villanova,-8,2021-02-03,-7.0,-6.0,-8.0,-9.5
+TCU,Oklahoma St.,-5,2021-02-03,-5.0,-6.0,-6.0,-4.5
+Florida,South Carolina,9,2021-02-03,11.0,10.0,11.0,8.0
+Mercer,East Tennessee St.,1,2021-02-03,0.0,-1.0,2.0,1.5
+Memphis,UCF,9,2021-02-03,10.0,9.0,15.0,11.0
+La Salle,Saint Louis,-10,2021-02-03,-11.0,-15.0,-9.0,-11.5
+Creighton,Georgetown,14,2021-02-03,14.0,14.0,4.0,14.0
+Western Carolina,Chattanooga,-1,2021-02-03,-0.0,1.0,1.0,1.5
+East Carolina,Houston,-16,2021-02-03,-17.0,-16.0,-15.0,-16.0
+Wofford,VMI,7,2021-02-03,8.0,8.0,13.0,8.0
+James Madison,Elon,6,2021-02-03,6.0,3.0,5.0,8.0
+Wichita St.,Tulane,11,2021-02-03,12.0,13.0,10.0,11.5
+Lamar,Incarnate Word,3,2021-02-03,4.0,4.0,5.0,5.5
+The Citadel,UNC Greensboro,-10,2021-02-03,-10.0,-12.0,3.0,-11.0
+Texas A&M Corpus Chris,Stephen F. Austin,-10,2021-02-03,-11.0,-11.0,-5.0,-13.0
+Bowling Green,Western Michigan,12,2021-02-03,13.0,12.0,7.0,12.5
+Massachusetts,Fordham,12,2021-02-03,15.0,16.0,13.0,13.5
+New Mexico,San Diego St.,-19,2021-02-03,-19.0,-22.0,-9.0,-19.5

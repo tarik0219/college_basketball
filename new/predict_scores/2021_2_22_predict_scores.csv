@@ -1,0 +1,24 @@
+home,away,predict_kp,date,lasso,linear,rf,draft_kings
+Oklahoma St.,Texas Tech,-1,2021-02-22,-1.0,-2.0,3.0,-3.5
+Duke,Syracuse,4,2021-02-22,6.0,7.0,7.0,5.0
+USC,Oregon,6,2021-02-22,7.0,9.0,4.0,3.5
+Saint Mary's,Pepperdine,6,2021-02-22,5.0,7.0,1.0,5.5
+Furman,VMI,8,2021-02-22,8.0,8.0,3.0,10.0
+Arkansas St.,Texas St.,-3,2021-02-22,-2.0,1.0,-2.0,-3.5
+Southern Illinois,Valparaiso,1,2021-02-22,-0.0,-0.0,2.0,2.0
+Southeast Missouri St.,Eastern Kentucky,-3,2021-02-22,-3.0,-2.0,3.0,-4.0
+Louisiana,UT Arlington,5,2021-02-22,6.0,7.0,5.0,4.5
+Louisiana Monroe,Little Rock,-2,2021-02-22,-4.0,-6.0,5.0,-3.5
+Western Carolina,UNC Greensboro,-8,2021-02-22,-7.0,-10.0,-6.0,-8.5
+Mercer,The Citadel,8,2021-02-22,8.0,9.0,6.0,8.5
+Texas A&M Corpus Chris,Southeastern Louisiana,1,2021-02-22,0.0,-0.0,-1.0,2.5
+Air Force,New Mexico,-1,2021-02-22,-1.0,-2.0,-2.0,1.5
+Northwestern St.,Houston Baptist,4,2021-02-22,4.0,3.0,5.0,5.0
+New Orleans,Central Arkansas,4,2021-02-22,4.0,1.0,-4.0,3.5
+Alcorn St.,Alabama A&M,2,2021-02-22,2.0,-1.0,3.0,-2.0
+Elon,William & Mary,4,2021-02-22,4.0,6.0,0.0,4.0
+Jackson St.,Grambling St.,5,2021-02-22,4.0,7.0,7.0,7.0
+SIU Edwardsville,Morehead St.,-9,2021-02-22,-8.0,-9.0,-8.0,-11.0
+Drake,Evansville,15,2021-02-22,16.0,16.0,11.0,11.5
+Lamar,Sam Houston St.,-10,2021-02-22,-9.0,-7.0,-6.0,-10.5
+Southern,Alabama St.,11,2021-02-22,11.0,10.0,6.0,11.5
